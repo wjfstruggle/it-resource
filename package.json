@@ -1,0 +1,15 @@
+{
+  "name": "markpress",
+  "version": "1.0.0",
+  "description": "maike",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
