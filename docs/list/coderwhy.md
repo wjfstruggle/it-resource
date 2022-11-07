@@ -38,7 +38,7 @@
 
 19 完结[Flutter从入门到实战-大神精选](https://ke.qq.com/course/469774)
 
-20 更新 [【25K+薪资必备】TypeScript实战训练营-coderwhy出品](https://ke.qq.com/course/package/78117)
+20 完结 [【25K+薪资必备】TypeScript实战训练营-coderwhy出品](https://ke.qq.com/course/package/78117)
 
 21 完结 [【codewhy】【就业阶段】CSS3+Canvas+SVG+大屏适配-2022系统课](https://ke.qq.com/course/5066569)
 
