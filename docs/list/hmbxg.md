@@ -106,6 +106,12 @@
 
 53 完结 [博学谷【年度钻石会员】 智能机器人软件开发](https://www.boxuegu.com/class/detail-3742.html)
 
+完结 [博学谷人工智能极速就业班](https://m.boxuegu.com/campaign/python-05.html?utm_source=sydh)
+
+完结 [博学谷JavaEE精英进阶课](https://www.boxuegu.com/course/outline-3768.html)
+
+更新 [黑马博学谷狂野架构师2022第四期](https://www.boxuegu.com/subject/architect-01.html)会员非免费，买过2期可升级
+
 ## **联系方式**
 -  微信：IT_Promise
 -  全网课程都有，欢迎私聊。

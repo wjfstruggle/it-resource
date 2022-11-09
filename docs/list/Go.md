@@ -92,6 +92,8 @@
 
 完结 [慕课 深入Go底层原理，重写Redis中间件实战](https://coding.m.imooc.com/classindex.html?cid=576)
 
+完结 [海量数据高并发场景，构建Go+ES8企业级搜索微服务](https://coding.imooc.com/class/chapter/579.html#Anchor)
+
 ## **更多go开发运维**
 
 [**DockerK8s运维**](./DockerK8s.md) [**优点知识**](./youdian.md) [**马哥**](./mage.md) [**零声教育**](./lsjy.md) [**云原生**](./yunyuanssheng.md)

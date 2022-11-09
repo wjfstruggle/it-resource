@@ -82,6 +82,10 @@
 
 45 完结 [路飞学城Python数据分析师](https://www.luffycity.com/employment-course/23/detail)
 
+完结 [青灯Python爬虫开发从入门到实战](https://ke.qq.com/course/405353)	
+
+
+
 ## **联系方式**
 -  微信：IT_Promise
 -  全网课程都有，欢迎私聊。

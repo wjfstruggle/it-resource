@@ -34,6 +34,8 @@
 
 17 新课[博为峰超全栈-Java开发就业班2022](https://www.atstudy.com/course/1011004)
 
+完结 [博学谷JavaEE精英进阶课](https://www.boxuegu.com/course/outline-3768.html)
+
 ## **联系方式**
 -  微信：IT_Promise
 -  全网课程都有，欢迎私聊。

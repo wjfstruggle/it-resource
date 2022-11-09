@@ -2,21 +2,21 @@
 
 ## Web
 
-完结[拉勾大前端高薪训练（P7）营](https://kaiwu.lagou.com/fe_enhancement.html)
+完结 [拉勾大前端高薪训练（P7）营](https://kaiwu.lagou.com/fe_enhancement.html)
 
-完结[珠峰前端架构师培养计划14版](http://www.zhufengpeixun.cn/main/course/index.html)2022全新升级
+完结 [珠峰前端架构师培养计划14版](http://www.zhufengpeixun.cn/main/course/index.html)2022全新升级
 
-更新[宁皓 2022 独立开发者训练营（全栈）](https://mp.weixin.qq.com/s/ZobRzRrY-ITPqGiWDRNImQ)会员非免费
+更新 [宁皓 2022 独立开发者训练营（全栈）](https://mp.weixin.qq.com/s/ZobRzRrY-ITPqGiWDRNImQ)会员非免费
 
-完结[开课吧web3.0应用工程师培养计划](https://wx.kaikeba.com/vipcourse/tye3hvurya/6o38qeuxe9)
+完结 [开课吧web3.0应用工程师培养计划](https://wx.kaikeba.com/vipcourse/tye3hvurya/6o38qeuxe9)
 
-完结[开课吧web架构师实战特训远航班](https://www.kaikeba.com/course/vip/426)
+完结 [开课吧web架构师实战特训远航班](https://www.kaikeba.com/course/vip/426)
 
-完结[金渡Web前端高级进阶VIP班对标腾讯T6](https://ke.qq.com/course/461341)
+完结 [金渡Web前端高级进阶VIP班对标腾讯T6](https://ke.qq.com/course/461341)
 
-完结[WEB前端线上系统课（20k+标准）-大神coderwhy全程直播课](https://haohuo.jinritemai.com/views/product/detail?id=3538353127273142590)
+完结 [WEB前端线上系统课（20k+标准）-大神coderwhy全程直播课](https://haohuo.jinritemai.com/views/product/detail?id=3538353127273142590)
 
-完结[珠峰从零打造Web前端高级工程师 2022](https://ke.qq.com/course/package/23043)
+完结 [珠峰从零打造Web前端高级工程师 2022](https://ke.qq.com/course/package/23043)
 
 ## Java
 

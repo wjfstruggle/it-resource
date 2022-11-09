@@ -4,9 +4,25 @@
 
 ##### 客服微信：IT_Promise
 
-### [**更新记录**](./更新记录.md)  [**热门推荐**](./热门推荐.md)  [**会员中心**](./会员中心.md)
+### [**更新记录**](./gxjl.md)  [**热门推荐**](./rmtj.md)  [**会员中心**](./vip.md)
 
 ## 11月上新
+
+更新 [从0到1-CTFer成长之路](https://www.ichunqiu.com/train/course/53)
+
+更新 [【开课吧】机器学习如何在企业中落地](https://www.kaikeba.com/course/vip/913)
+
+完结无密 [海量数据高并发场景，构建Go+ES8企业级搜索微服务](https://coding.imooc.com/class/chapter/579.html#Anchor)
+
+更新 [金渡Web前端高级进阶VIP班对标腾讯T6第八期](https://www.kaikeba.com/course/vip/426) 
+
+更新 [黑马博学谷狂野架构师2022第四期](https://www.boxuegu.com/subject/architect-01.html)会员非免费，买过2期可升级
+
+完结 [青灯Python爬虫开发从入门到实战](https://ke.qq.com/course/405353)	
+
+完结 [博学谷JavaEE精英进阶课](https://www.boxuegu.com/course/outline-3768.html)
+
+完结 [博学谷人工智能极速就业班](https://m.boxuegu.com/campaign/python-05.html?utm_source=sydh)
 
 新课 [【慕课网】Vue3 + React18 + TS4入门到实战 系统学习3大热门技术](https://coding.m.imooc.com/classindex.html?cid=602)
 

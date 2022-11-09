@@ -60,9 +60,13 @@
 
 完结 [博学谷【年度钻石会员】 智能机器人软件开发](https://www.boxuegu.com/class/detail-3742.html)
 
+完结 [博学谷人工智能极速就业班](https://m.boxuegu.com/campaign/python-05.html?utm_source=sydh)
+
+更新 [深兰交大AI算法班第五期2022](http://ai.aijdjy.com/index.html)
+
 ## 更多推荐
 
-[**后厂理工**](./后厂理工.md) [**深度之眼**](./深度之眼.md) [**数据技术课堂**](./数据技术课堂.md)
+[**后厂理工**](./chlg.md) [**深度之眼**](./sdzy.md) [**数据技术课堂**](./sjjskt.md)
 
 ### 联系方式
 

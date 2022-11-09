@@ -1,6 +1,34 @@
 # 更新记录
 
-##### 客服微信：IT_Promise
+### 客服微信：IT_Promise
+
+### [**新上好课**](./xshk.md)  [**热门推荐**](./rmtj.md)  [**会员中心**](./vip.md)
+
+**2022/11/8**
+
+更新 [从0到1-CTFer成长之路](https://www.ichunqiu.com/train/course/53)
+
+更新 [【开课吧】机器学习如何在企业中落地](https://www.kaikeba.com/course/vip/913)
+
+完结无密 [海量数据高并发场景，构建Go+ES8企业级搜索微服务](https://coding.imooc.com/class/chapter/579.html#Anchor)
+
+**2022/11/7**
+
+更新 [金渡Web前端高级进阶VIP班对标腾讯T6第八期](https://www.kaikeba.com/course/vip/426) 
+
+完结无密 [【codewhy】【就业阶段】CSS3+Canvas+SVG+大屏适配-2022系统课](https://ke.qq.com/course/5066569)
+
+更新 [黑马博学谷狂野架构师2022第四期](https://www.boxuegu.com/subject/architect-01.html)会员非免费，买过2期可升级
+
+完结 [青灯Python爬虫开发从入门到实战](https://ke.qq.com/course/405353)	
+
+完结 [博学谷JavaEE精英进阶课](https://www.boxuegu.com/course/outline-3768.html)
+
+更新 [深兰交大AI算法班第五期2022](http://ai.aijdjy.com/index.html)
+
+完结 [百战程序员WEB大前端工程师](https://www.itbaizhan.com/course/web)
+
+完结 [博学谷人工智能极速就业班](https://m.boxuegu.com/campaign/python-05.html?utm_source=sydh)
 
 **2022/11/6**
 

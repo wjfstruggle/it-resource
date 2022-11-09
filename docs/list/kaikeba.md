@@ -366,43 +366,45 @@
 
 180 **完结** [**开课吧数据产品经理山顶冲刺精英班002期**](./开课吧.md)
 
-181 **完结** [**开课吧JAVA开发工程师强基计划**](./开课吧.md)
+181 **完结** [开课吧JAVA开发工程师强基计划](./开课吧.md)
 
-182 **完结** [**开课吧家庭健康宝典**](./开课吧.md)
+182 **完结** [开课吧家庭健康宝典](./开课吧.md)
 
-183 **完结** [**开课吧考研公共课[英语+政治\]门徒专享**](https://www.kaikeba.com/course/vip/231)
+183 **完结** [开课吧考研公共课英语+政治\]门徒专享](https://www.kaikeba.com/course/vip/231)
 
-184 **完结** [**开课吧管理类笔面能力学历双翼VIP班-项目管理方向**](https://www.kaikeba.com/course/vip/772)
+184 **完结** [开课吧管理类笔面能力学历双翼VIP班-项目管理方向](https://www.kaikeba.com/course/vip/772)
 
-185 **完结** [**开课吧数聚荟-精英班**](./开课吧.md)
+185 **完结** [开课吧数聚荟-精英班](./开课吧.md)
 
-186 **完结** [**开课吧门徒计划算法班-Web方向2.0**](https://www.kaikeba.com/course/vip/699)
+186 **完结** [开课吧门徒计划算法班-Web方向2.0](https://www.kaikeba.com/course/vip/699)
 
-187 **完结** [**开课吧门徒计划算法班-Java方向2.0**](https://www.kaikeba.com/course/vip/700)
+187 **完结** [开课吧门徒计划算法班-Java方向2.0](https://www.kaikeba.com/course/vip/700)
 
-188 **完结** [**开课吧门徒计划算法班-AI方向2.0**](https://www.kaikeba.com/course/vip/701)
+188 **完结** [开课吧门徒计划算法班-AI方向2.0](https://www.kaikeba.com/course/vip/701)
 
-189 **完结** [**开课吧影视剪辑特效变现班**](https://www.kaikeba.com/course/vip/833)
+189 **完结** [开课吧影视剪辑特效变现班](https://www.kaikeba.com/course/vip/833)
 
-190 **完结** [**开课吧三维广告包装班**](https://www.kaikeba.com/course/vip/834)
+190 **完结** [开课吧三维广告包装班](https://www.kaikeba.com/course/vip/834)
 
-191 **完结** [**开课吧教育硕士教师大满贯VIP班**](https://www.kaikeba.com/course/vip/785)
+191 **完结** [开课吧教育硕士教师大满贯VIP班](https://www.kaikeba.com/course/vip/785)
 
-192 **完结** [**全媒体运营实操班**](https://www.kaikeba.com/course/vip/893)
+192 **完结** [全媒体运营实操班](https://www.kaikeba.com/course/vip/893)
 
-193 **完结** [**全媒体运营师VIP班**](https://www.kaikeba.com/course/vip/877)
+193 **完结** [全媒体运营师VIP班](https://www.kaikeba.com/course/vip/877)
 
-194 **完结** [**全媒体运营师取证班**](https://www.kaikeba.com/course/vip/878)
+194 **完结** [全媒体运营师取证班](https://www.kaikeba.com/course/vip/878)
 
-195 **完结** [**云枫带你重做网易营销自动化平台**](https://www.kaikeba.com/course/vip/1018)
+195 **完结** [云枫带你重做网易营销自动化平台](https://www.kaikeba.com/course/vip/1018)
 
-196 **完结** [**数字化就业班- 《产品经理核心能力必修课》**](./开课吧.md)
+196 **完结** [数字化就业班- 《产品经理核心能力必修课》](./开课吧.md)
 
-197 **完结** [**考拉带你重做团购达人爆款活动**](https://www.kaikeba.com/course/vip/979)
+197 **完结** [考拉带你重做团购达人爆款活动](https://www.kaikeba.com/course/vip/979)
 
-198 **完结** [**ACP认证课**](./开课吧.md)
+198 **完结** [ACP认证课](./开课吧.md)
 
 199 更新[AI与量化投资与人才培养计划第四期](https://www.kaikeba.com/course/vip/917)
+
+更新 [【开课吧】机器学习如何在企业中落地](https://www.kaikeba.com/course/vip/913)
 
 ## 开课吧高端系列
 
@@ -412,4 +414,4 @@
 
 -  微信：IT_Promise
 -  全网课程都有，欢迎私聊。
-  推荐好友下单返利，买的越多，返利越多
+-  推荐好友下单返利，买的越多，返利越多

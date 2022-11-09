@@ -32,13 +32,13 @@
 
 15 完结 [【面向就业阶段】Vue3全家桶+Pinia+项目实战-coderwhy2022系统课](https://ke.qq.com/course/5348743)
 
-16 ****完结**** [基于vue3打造前台+中台](https://coding.m.imooc.com/classindex.html?cid=577)
+16 完结 [基于vue3打造前台+中台](https://coding.m.imooc.com/classindex.html?cid=577)
 
 17 完结 [【面向就业阶段】Vue3全家桶+Pinia+项目实战-coderwhy2022系统课](https://ke.qq.com/course/5348743)
 
 18 更新 [杨村长Vue3开源组件库实战（Vue3+Vite+VitePress+TSX+Tailwind）](https://appwhrkrsz84443.pc.xiaoe-tech.com/detail/p_62a44620e4b01c509abcbcda/6)
 
-19 ****更新**** [杨村长Vue源码全家桶剖析+手写（Vue2+Vue3+VueRouter+Vuex+Pinia)](https://appwhrkrsz84443.pc.xiaoe-tech.com/detail/p_62b4e11be4b0a51feef6bb4f/8)
+19 完 [杨村长Vue源码全家桶剖析+手写（Vue2+Vue3+VueRouter+Vuex+Pinia)](https://appwhrkrsz84443.pc.xiaoe-tech.com/detail/p_62b4e11be4b0a51feef6bb4f/8)
 
 ## 好评首推
 

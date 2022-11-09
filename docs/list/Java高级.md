@@ -132,6 +132,10 @@
 
 80 更新[黑马博学谷狂野架构师第三期](https://www.boxuegu.com/subject/architect-01.html)会员非免费
 
+完结 [博学谷JavaEE精英进阶课](https://www.boxuegu.com/course/outline-3768.html)
+
+更新 [黑马博学谷狂野架构师2022第四期](https://www.boxuegu.com/subject/architect-01.html)会员非免费，买过2期可升级
+
 **更多Java**
 
 [**Java就业**](./JavaJY.md) [**数据库**](./bigData.md) [**Java大实战**](./javaDSZ.md) [**大厂学院**](./dcxy.md) [**沈剑的架构**](./sjjgs.md)

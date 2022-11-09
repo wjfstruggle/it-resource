@@ -120,15 +120,13 @@
 
 60完结[金渡Web前端高级进阶VIP班对标腾讯T6](https://ke.qq.com/course/461341) 6 期
 
-61更新[金渡Web前端高级进阶VIP班对标腾讯T6](https://ke.qq.com/course/461341) 7 期
+61完结 [金渡Web前端高级进阶VIP班对标腾讯T6](https://ke.qq.com/course/461341) 7 期
 
 62完结[博学谷前端与移动开发2022](https://www.boxuegu.com/class/outline-1306.html)
 
 63 完结 [前端bubucuo《精通React》大专栏](https://appuwwsm6cl6690.pc.xiaoe-tech.com/detail/p_62b2ce2ee4b0ba331dcb87c1/8)
 
 64 更新 [文坚的前端实战训练营](https://u.geekbang.org/subject/fe3rd)
-
-65更新[宁皓2022 独立开发者全栈训练营](https://mp.weixin.qq.com/s/ZobRzRrY-ITPqGiWDRNImQ)
 
 66完结[【智能社】原生的力量——原生JavaScript开发高级课程](https://ke.qq.com/course/431292)
 
@@ -143,6 +141,10 @@
 更新 [【严选课程】web前端全栈高薪就业课-大神coderwhy出品](https://ke.qq.com/course/4903388#term_id=105074578)
 
 更新  [大圣前端源码漫游记|手写前端热门框架源码](https://appx496fyc38425.h5.xiaoeknow.com/v1/goods/goods_detail/p_629387e7e4b0cedf38b84f3)
+
+完结 [百战程序员WEB大前端工程师2022](https://www.itbaizhan.com/course/web)
+
+更新 [金渡Web前端高级进阶VIP班对标腾讯T6第八期](https://www.kaikeba.com/course/vip/426) 
 
 **更多Web**
 
