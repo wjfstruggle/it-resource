@@ -1,5 +1,7 @@
 # 高级Java
 
+#### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+
 01 完结[图灵二期-Java架构师VIP精品课程](https://ke.qq.com/course/231516)
 
 02 完结[咕泡Java架构师](https://ke.qq.com/course/188630)3期
@@ -134,6 +136,8 @@
 
 72 更新[黑马博学谷狂野架构师第四期](https://www.boxuegu.com/subject/architect-01.html)会员非免费
 
+73 预约优惠 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
+
 **更多Java**
 
 [**Java就业**](./JavaJY.md) [**数据库**](./bigData.md) [**Java大实战**](./javaDSZ.md) [**大厂学院**](./dcxy.md) [**沈剑的架构**](./sjjgs.md)
@@ -141,7 +145,6 @@
 [**儒猿技术窝**](./ryjsw.md) [**数据结构算法**](./sjjgsf.md) [**图灵**](./tuling.md) [**马士兵**](./mashibing.md) [**秒杀专题**](./mszt.md)
 
 ## **联系方式**
--  
 -  微信：IT_Promise
-- 全网课程都有，欢迎私聊。
-- 推荐好友下单返利，买的越多，返利越多
+-  全网课程都有，欢迎私聊。
+-  推荐好友下单返利，买的越多，返利越多

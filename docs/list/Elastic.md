@@ -1,4 +1,6 @@
-# Elastic
+# ElasticStack
+
+#### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 01 完结[咕泡ElasticStack高级开发与架构（实战班）（P6+）](https://ke.gupaoedu.cn/course/vip/1002)1 期
 
@@ -25,3 +27,11 @@
 12 完结[SpringBoot2.x整合ElasticSearch搜索框架 es](https://xdclass.net/#/coursedetail?video_id=8)
 
 完结 [【咕泡学院】ElasticStack高级开发于架构](https://ke.gupaoedu.cn/course/vip/1002?stack-key=f3618afa)
+
+::: tip
+**联系方式**
+- 微信：IT_Promise
+- 全网课程都有，欢迎私聊。
+- 推荐好友下单返利，买的越多，返利越多
+
+:::

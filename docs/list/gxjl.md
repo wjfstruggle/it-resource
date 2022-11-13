@@ -1,8 +1,38 @@
 # 更新记录
 
-### 客服微信：IT_Promise
+::: tip
+联系方式：微信：IT_Promise
+:::
 
-### [**新上好课**](./xshk.md)  [**热门推荐**](./rmtj.md)  [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+
+**2022/11/12**
+
+预约优惠 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
+
+更新 [慕课Go开发工程师全新版2022](https://class.imooc.com/sale/newgo)
+
+**2022/11/11**
+
+更新 [51CTO全栈网络安全进阶班](https://edu.51cto.com/mic-position/916.html)
+
+**2022/11/10**
+
+更新 [【码牛】安卓移动互联网高级开发](https://m.ke.qq.com/course/2024962)
+
+新课 [慕课网SpringBoot2.X+Vue+UniAPP，全栈开发医疗小程序](https://coding.imooc.com/class/610.html)
+
+完结 [九章算法面试高频题冲刺班2022](https://www.jiuzhang.com/course/80)
+
+系列课 [【百战程序员】](https://www.itpromise.cloud/list/baizhan.html)
+
+**2022/11/9**
+
+更新 [千锋Java架构进阶实战营](https://appd8lwrtt98427.pc.xiaoe-tech.com/detail/p_62945a1de4b09dda126efffb/8?product_id=p_62945a1de4b09dda126efffb)
+
+更新 [开课吧智能时代下大数据工程师培养计划](https://www.kaikeba.com/course/vip/139)
+
+更新 [拉勾高薪Offer特训营大前端P7班 2022](https://edu.lagou.com/growth/sem/fe_enhancement.html)
 
 **2022/11/8**
 

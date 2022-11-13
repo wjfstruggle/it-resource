@@ -1,5 +1,7 @@
 # Python
 
+#### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+
 1、[网易-微专业从零起步，用Python进阶数据分析](https://mooc.study.163.com/smartSpec/detail/1202821601.htm)
 
 2、[慕课网-Python攻城狮2019](https://class.imooc.com/sale/python)

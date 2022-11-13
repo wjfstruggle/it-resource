@@ -1,5 +1,7 @@
 # three.js
 
+#### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+
 更新 [开课吧高薪webGL工程师](https://www.kaikeba.com/course/vip/255)
 
 完结 [Three.js可视化企业实战WEBGL课](https://study.163.com/course/introduction.htm?courseId=1212491801#/courseDetail?tab=15)

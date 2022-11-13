@@ -1,5 +1,7 @@
 # 前端杨村长
 
+#### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+
 更新 [杨村长Vue3开源组件库实战（Vue3+Vite+VitePress+TSX+Tailwind）](https://appwhrkrsz84443.pc.xiaoe-tech.com/detail/p_62a44620e4b01c509abcbcda/6)
 
 更新 [杨村长前端工程化实践](https://appwhrkrsz84443.pc.xiaoe-tech.com/detail/p_62b17adae4b07bd2d7b0af40/8)

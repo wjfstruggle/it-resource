@@ -1,5 +1,7 @@
 # 万门好课
 
+#### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+
 ## [IT与互联网](https://www.wanmen.org/uni/catalog?firstId=607966e032f7a80001b7806b)
 
 ### [人工智能](https://www.wanmen.org/uni/catalog?firstId=607966e032f7a80001b7806b&secondId=607966ef1b262400012f870c)

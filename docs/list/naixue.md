@@ -1,5 +1,7 @@
 # 奈学
 
+#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+
 [**奈学课程中心**](https://www.naixuejiaoyu.com/course?type=101)（**陆续更新，全都会有**）
 
 ## Java架构

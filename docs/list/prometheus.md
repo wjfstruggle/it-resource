@@ -1,5 +1,7 @@
 # prometheus
 
+#### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+
 更新[云原生Prometheus二次开发专题课](https://appc3qeyofl7606.h5.xiaoeknow.com/v1/goods/goods_detail/p_61ee7d43e4b02b8258466a18)
 
 完结[优点知识Prometheus 入门到实战](https://youdianzhishi.com/web/course/1027)

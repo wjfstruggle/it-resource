@@ -1,5 +1,7 @@
 # Java大实战
 
+#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+
 01 完结[小滴课堂21年工业级PaaS容器云平台+SpringCloud+JDK11综合大项目实战](https://xdclass.net/#/coursedetail?video_id=62)大佬超推
 
 02 完结[咕泡SpringCloud Alibaba云商城项目实战](https://ke.gupaoedu.cn/course/detail/1015)推
