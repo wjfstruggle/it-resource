@@ -10,11 +10,7 @@
 
 04完结来offer算法旗舰班
 
-##### 九章算法-全部课程免费看，请勿传播
 
-链接：https://pan.baidu.com/s/1Ba7ZmVPUQWh3-ZkeVO_NGA?pwd=6688
-
-提取码：6688
 
 ## 九章算法
 

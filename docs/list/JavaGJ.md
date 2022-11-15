@@ -138,6 +138,8 @@
 
 73 预约优惠 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
 
+74 更新 [小马哥 Java 训练营 第一期 Java 分布式架构 - 服务治理](https://mztp.yuque.com/docs/share/3b9d972e-8620-4209-83d6-d9186123f4ee)
+
 **更多Java**
 
 [**Java就业**](./JavaJY.md) [**数据库**](./bigData.md) [**Java大实战**](./javaDSZ.md) [**大厂学院**](./dcxy.md) [**沈剑的架构**](./sjjgs.md)

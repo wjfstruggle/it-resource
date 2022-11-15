@@ -12,7 +12,7 @@
 
 预约中 [three.js智慧园区数字孪生(全能大师版)](https://www.cctalk.com/m/group/90382786)
 
-预约 [WebGL/Three.js前端高薪3D可视化](WebGL/Three.js前端高薪3D可视化)
+完结 [WebGL/Three.js前端高薪3D可视化](WebGL/Three.js前端高薪3D可视化)
 
 ## **联系方式**
 -  微信：IT_Promise

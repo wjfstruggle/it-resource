@@ -74,17 +74,17 @@
 
 36完结[【JS++】WEB前端高级工程师养成计划『全修精英特训』](https://ke.qq.com/course/334138)2022
 
-37完结32周[慕课网大前端2021版](https://class.imooc.com/sale/webfullstack2021)
+37完结 [慕课网大前端2022版](https://class.imooc.com/sale/webfullstack2021)
 
 38面试季[【首推】拉勾21天Offer冲刺-前端](https://edu.lagou.com/kw/mocha/view/KYTXM0OJ)
 
 39完结[百战程序员Web前端全栈工程师2022](https://www.itbaizhan.com/stages/id/16)
 
-40更新[大圣前端啃算法 | Javascript实现](https://appx496fyc38425.h5.xiaoeknow.com/v1/goods/goods_detail/p_6206077ee4b066e96084552a?type=3)
+40完结 [大圣前端啃算法 | Javascript实现](https://appx496fyc38425.h5.xiaoeknow.com/v1/goods/goods_detail/p_6206077ee4b066e96084552a?type=3)
 
-41新课[大圣Vue3 + Typescript企业级实战](https://appx496fyc38425.h5.xiaoeknow.com/v1/goods/goods_detail/p_620608bce4b054255d9d01fb?type=3)
+41完结 [大圣Vue3 + Typescript企业级实战](https://appx496fyc38425.h5.xiaoeknow.com/v1/goods/goods_detail/p_620608bce4b054255d9d01fb?type=3)
 
-42更新[大圣React +Typescript企业级项目实战](https://appx496fyc38425.h5.xiaoeknow.com/v1/goods/goods_detail/p_620608f0e4b066e9608455cf?type=3)
+42完结 [大圣React +Typescript企业级项目实战](https://appx496fyc38425.h5.xiaoeknow.com/v1/goods/goods_detail/p_620608f0e4b066e9608455cf?type=3)
 
 43新课[大圣大圣的前端私教课](https://appx496fyc38425.h5.xiaoeknow.com/v1/goods/goods_detail/p_62163938e4b066e960885cad?type=3&product_id=p_62163938e4b066e960885cad&channel_id=)
 
@@ -98,9 +98,9 @@
 
 48完结[宁皓 2022 独立开发者训练营（全栈）](https://mp.weixin.qq.com/s/ZobRzRrY-ITPqGiWDRNImQ)会员非免费
 
-49更新[开课吧web3.0应用工程师培养计划](https://wx.kaikeba.com/vipcourse/tye3hvurya/6o38qeuxe9)
+49完结[开课吧web3.0应用工程师培养计划](https://wx.kaikeba.com/vipcourse/tye3hvurya/6o38qeuxe9)
 
-50更新[奈学大前端架构师一期](https://e.naixuejiaoyu.com/detail/term_619bc9f2b8cb7_bq1Ajj/25)
+50更新 [奈学大前端架构师一期](https://e.naixuejiaoyu.com/detail/term_619bc9f2b8cb7_bq1Ajj/25)
 
 51完结[开课吧互联网全链路产品设计](https://www.kaikeba.com/course/vip/829)
 
@@ -110,11 +110,11 @@
 
 54完结[宁皓 2022 独立开发者训练营（全栈）](https://mp.weixin.qq.com/s/ZobRzRrY-ITPqGiWDRNImQ)会员非免费
 
-55完结[博学谷全链路UI设计就业班](https://www.boxuegu.com/class/outline-3352.html)
+55完结 [博学谷全链路UI设计就业班](https://www.boxuegu.com/class/outline-3352.html)
 
-56更新[前端早早聊2022](https://www.yuque.com/zaotalk/posts)
+56更新 [前端早早聊2022](https://www.yuque.com/zaotalk/posts)
 
-57新课[千锋html5大前端2022](http://www.mobiletrain.org/page/html5.html)
+57完结 [千锋html5大前端2022](http://www.mobiletrain.org/page/html5.html)
 
 58完结[博学谷全链路UI设计就业班](https://www.boxuegu.com/class/outline-3352.html)
 
@@ -128,9 +128,9 @@
 
 63 完结 [前端bubucuo《精通React》大专栏](https://appuwwsm6cl6690.pc.xiaoe-tech.com/detail/p_62b2ce2ee4b0ba331dcb87c1/8)
 
-64 更新 [文坚的前端实战训练营](https://u.geekbang.org/subject/fe3rd)
+64 更新 [杨文坚的前端实战训练营](https://u.geekbang.org/subject/fe3rd)
 
-66完结[【智能社】原生的力量——原生JavaScript开发高级课程](https://ke.qq.com/course/431292)
+66 完结[【智能社】原生的力量——原生JavaScript开发高级课程](https://ke.qq.com/course/431292)
 
 67 更新[2022前端高薪提升就业课](https://study.163.com/course/introduction/1212199806.htm)
 
@@ -140,19 +140,25 @@
 
 70 完结 [【25K+薪资必备】TypeScript实战训练营-coderwhy出品](https://ke.qq.com/course/package/78117)
 
-更新 [【严选课程】web前端全栈高薪就业课-大神coderwhy出品](https://ke.qq.com/course/4903388#term_id=105074578)
+71 更新 [【严选课程】web前端全栈高薪就业课-大神coderwhy出品](https://ke.qq.com/course/4903388#term_id=105074578)
 
-更新  [大圣前端源码漫游记|手写前端热门框架源码](https://appx496fyc38425.h5.xiaoeknow.com/v1/goods/goods_detail/p_629387e7e4b0cedf38b84f3)
+72 更新  [大圣前端源码漫游记|手写前端热门框架源码](https://appx496fyc38425.h5.xiaoeknow.com/v1/goods/goods_detail/p_629387e7e4b0cedf38b84f3)
 
-完结 [百战程序员WEB大前端工程师2022](https://www.itbaizhan.com/course/web)
+73 完结 [百战程序员WEB大前端工程师2022](https://www.itbaizhan.com/course/web)
 
-更新 [金渡Web前端高级进阶VIP班对标腾讯T6第八期](https://www.kaikeba.com/course/vip/426) 
+74更新 [金渡Web前端高级进阶VIP班对标腾讯T6第八期](https://www.kaikeba.com/course/vip/426) 
 
-**更多Web**
+
+
+### **更多Web**
 
 [**前端就业**](./qianduanGJ.md) [**React**](./React.md) [**Vue**](./Vue.md) [**Node**](./Node.md) [**可视化**](./ksh.md) [**coderwhy**](./coderwhy.md)
 
 [**珠峰**](./zhufeng.md) [**智能社**](./zns.md) [**flutter**](./flutter.md) [**小码哥**](./xiaomage.md) [**uni-app**](./uni-app.md) [**开课吧**](./kaikeba.md)
+
+
+
+### 联系方式
 
 -  微信：IT_Promise
 -  全网课程都有，欢迎私聊。

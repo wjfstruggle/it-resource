@@ -9,6 +9,8 @@
 
 ## 11月上新
 
+更新 [小马哥 Java 训练营 第一期 Java 分布式架构 - 服务治理](https://mztp.yuque.com/docs/share/3b9d972e-8620-4209-83d6-d9186123f4ee)
+
 更新 [慕课Go开发工程师全新版2022](https://class.imooc.com/sale/newgo)
 
 预约优惠 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)

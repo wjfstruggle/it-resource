@@ -6,6 +6,22 @@
 
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
+**2022/11/15**
+
+完结 [百战程序员C++特训班](https://www.itbaizhan.com/stages/id/39)
+
+完结 [黑马博学谷JavaEE在线就业班2.0(SVIP)](https://www.boxuegu.com/class/outline-3181.html)
+
+完结 [WebGL/Three.js前端高薪3D](WebGL/Three.js前端高薪3D)
+
+**2022/11/14**
+
+更新 [小马哥 Java 训练营 第一期 Java 分布式架构 - 服务治理](https://mztp.yuque.com/docs/share/3b9d972e-8620-4209-83d6-d9186123f4ee)
+
+更新 [马士兵Web前端架构师](https://www.mashibing.com/subject/22)
+
+更新 [50CTO陈杰鑫全栈网络安全进阶班](https://edu.51cto.com/px/train/1038.html)
+
 **2022/11/12**
 
 预约优惠 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)

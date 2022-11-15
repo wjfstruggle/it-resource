@@ -35,7 +35,7 @@
 
 完结 [【codewhy】【就业阶段】CSS3+Canvas+SVG+大屏适配-2022系统课](https://ke.qq.com/course/5066569)
 
-预约 [WebGL/Three.js前端高薪3D可视化](WebGL/Three.js前端高薪3D可视化)
+完结 [WebGL/Three.js前端高薪3D可视化](WebGL/Three.js前端高薪3D可视化)
 
 ### 联系方式
 
