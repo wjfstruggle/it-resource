@@ -136,7 +136,7 @@
 
 72 更新[黑马博学谷狂野架构师第四期](https://www.boxuegu.com/subject/architect-01.html)会员非免费
 
-73 预约优惠 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
+73 更新 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
 
 74 更新 [小马哥 Java 训练营 第一期 Java 分布式架构 - 服务治理](https://mztp.yuque.com/docs/share/3b9d972e-8620-4209-83d6-d9186123f4ee)
 

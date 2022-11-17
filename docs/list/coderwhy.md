@@ -44,7 +44,11 @@
 
 21 完结 [【codewhy】【就业阶段】CSS3+Canvas+SVG+大屏适配-2022系统课](https://ke.qq.com/course/5066569)
 
-更新 [【严选课程】web前端全栈高薪就业课-大神coderwhy出品](https://ke.qq.com/course/4903388#term_id=105074578)
+22 更新 [【严选课程】web前端全栈高薪就业课-大神coderwhy出品](https://ke.qq.com/course/4903388#term_id=105074578)
+
+23 完结 [coderwhy大神-跨平台uni-app和Taro实战](https://ke.qq.com/course/5597441)
+
+24 更新 [【高级进阶阶段】Node高级进阶+项目实战-coderwhy系统课](https://ke.qq.com/course/5597475#term_id=105792876)
 
 ## 联系方式
 

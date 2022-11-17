@@ -18,6 +18,8 @@
 
 08 完结[node工程师培养计划](https://coding.imooc.com/class/ds/584)
 
+09 更新 [【高级进阶阶段】Node高级进阶+项目实战-coderwhy系统课](https://ke.qq.com/course/5597475#term_id=105792876)
+
 # 珠峰
 
 [珠峰2020node-a阶段课程](http://www.javascriptpeixun.cn/course/2176)

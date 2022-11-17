@@ -40,8 +40,14 @@
 
 19 完结 珠峰[【专题课】uni-app从零到实战](http://www.javascriptpeixun.cn/goods/show/199)
 
-20 完结[从零玩转Uniapp + 项目实战](https://www.it666.com/my/course/206)
+20 完结 [从零玩转Uniapp + 项目实战](https://www.it666.com/my/course/206)
 
 21 完结[慕课uni-app 开发企业级小程序](https://coding.imooc.com/class/521.html)
 
-新课 [慕课网SpringBoot2.X+Vue+UniAPP，全栈开发医疗小程序](https://coding.imooc.com/class/610.html)
+22 更新 [慕课网SpringBoot2.X+Vue+UniAPP，全栈开发医疗小程序](https://coding.imooc.com/class/610.html)
+
+23 完结 [coderwhy大神-跨平台uni-app和Taro实战](https://ke.qq.com/course/5597441)
+
+::: tip
+联系方式：微信：IT_Promise
+:::

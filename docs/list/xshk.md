@@ -9,11 +9,13 @@
 
 ## 11月上新
 
+完结 [coderwhy大神-跨平台uni-app和Taro实战](https://ke.qq.com/course/5597441)
+
 更新 [小马哥 Java 训练营 第一期 Java 分布式架构 - 服务治理](https://mztp.yuque.com/docs/share/3b9d972e-8620-4209-83d6-d9186123f4ee)
 
 更新 [慕课Go开发工程师全新版2022](https://class.imooc.com/sale/newgo)
 
-预约优惠 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
+更新 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
 
 更新 [51CTO全栈网络安全进阶班](https://edu.51cto.com/mic-position/916.html)
 
@@ -50,6 +52,8 @@
 更新 [前端bubucuo前端算法实战](https://appuwwsm6cl6690.h5.xiaoeknow.com/v1/goods/goods_detail/p_63118a98e4b0c942648ff238?type=3)
 
 更新 [大圣前端源码漫游记|手写前端热门框架源码](https://appx496fyc38425.h5.xiaoeknow.com/v1/goods/goods_detail/p_629387e7e4b0cedf38b84f3)
+
+更新 [【高级进阶阶段】Node高级进阶+项目实战-coderwhy系统课](https://ke.qq.com/course/5597475#term_id=105792876)
 
 ## 10月上新
 
