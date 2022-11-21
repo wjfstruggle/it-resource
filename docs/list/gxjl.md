@@ -6,6 +6,30 @@
 
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
+**2022/11/20**
+
+完结 [马士兵AIot智能物联网](https://m.mashibing.com/subject/16)
+
+更新 [马士兵AI人工智能工程师2022](https://m.mashibing.com/subject/20)
+
+更新 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
+
+完结 [慕课网前端校招直通车，实现Offer零距离](https://coding.imooc.com/class/chapter/536.html)
+
+ 完结 [【路飞学城】Python全栈开发2022（中级）](https://www.luffycity.com/employment-course/1/detail)
+
+**2022/11/19**
+
+更新小滴会员 [小滴微课](./xdkt.md)
+
+**2022/11/17**
+
+更新 [知群·产品经理必修课（Top班）](https://izhiqun.com/web/bag/10)
+
+完结 [WebGL/Three.js前端高薪3D](https://study.163.com/course/introduction.htm?courseId=1212760820)
+
+预定最优惠 [极客时间前端进阶训练营【重磅讲师团：winter、杨村长、然叔、高少云】](https://u.geekbang.org/subject/fe4th)
+
 **2022/11/16**
 
 更新 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
@@ -24,7 +48,7 @@
 
 完结 [黑马博学谷JavaEE在线就业班2.0(SVIP)](https://www.boxuegu.com/class/outline-3181.html)
 
-完结 [WebGL/Three.js前端高薪3D](WebGL/Three.js前端高薪3D)
+完结 [WebGL/Three.js前端高薪3D](https://study.163.com/course/introduction.htm?courseId=1212760820)
 
 **2022/11/14**
 
@@ -72,7 +96,7 @@
 
 **2022/11/7**
 
-更新 [金渡Web前端高级进阶VIP班对标腾讯T6第八期](https://www.kaikeba.com/course/vip/426) 
+更新 [金渡Web前端高级进阶VIP班对标腾讯T6第八期](https://ke.qq.com/course/461341#term_id=106050440) 
 
 完结无密 [【codewhy】【就业阶段】CSS3+Canvas+SVG+大屏适配-2022系统课](https://ke.qq.com/course/5066569)
 

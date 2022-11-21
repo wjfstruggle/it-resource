@@ -14,9 +14,17 @@
 
 ## 小课
 
-详情目录（全部都有）：https://xdclass.net/#/courselist
+::: tip
+**小滴会员免费看，包更新**
 
-**同步更新到2022.10.31号**
+- 同步更新到2022.11.17号
+
+:::
+------
+
+详情目录（全部都有）：[小滴官方网址](https://xdclass.net/#/courselist)
+
+[86.零基础完整数据结构与算法-急速上手](https://xdclass.net/videoDetailsPage?id=86)
 
 [83.高并发项目和海量数据项目大课组合【SVIP会员价】](https://xdclass.net/#/coursedetail?video_id=83)
 

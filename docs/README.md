@@ -50,7 +50,7 @@
 
 [**求职面试**](./list/mianshi.md) [**人工智能**](./list/rgzn.md) [**圣思园**](./list/ssy.md) [**数据结构算法**](./list/sjjgsf.md) [**英语**](./list/english.md) 
 
-[**测试开发**](./list/ceshi.md) [**音视频开发**](./list/yinshipng.md) [**嵌入式**](./list/qianrushi.md) [**区块链**](./list/qukuailian.md)
+[**测试开发**](./list/ceshi.md) [**音视频开发**](./list/yinshipng.md) [**嵌入式**](./list/qianrushi.md) [**区块链**](./list/qukuailian.md) [**逆向课程**](./list/nixiang.md)
 
 ::: tip
 **联系方式**
@@ -60,5 +60,6 @@
 
 :::
 ------
-<a href="https://beian.miit.gov.cn/" target="_blank">备案号：</a>
-<a href="https://beian.miit.gov.cn/" target="_blank">粤B2-2022090061-1</a>
+
+
+<a href="https://beian.miit.gov.cn/" target="_blank">备案号：粤B2-2022090061-1</a>

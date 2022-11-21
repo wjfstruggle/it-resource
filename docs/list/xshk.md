@@ -9,6 +9,8 @@
 
 ## 11月上新
 
+更新 [知群·产品经理必修课（Top班）](https://izhiqun.com/web/bag/10)
+
 完结 [coderwhy大神-跨平台uni-app和Taro实战](https://ke.qq.com/course/5597441)
 
 更新 [小马哥 Java 训练营 第一期 Java 分布式架构 - 服务治理](https://mztp.yuque.com/docs/share/3b9d972e-8620-4209-83d6-d9186123f4ee)
