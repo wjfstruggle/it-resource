@@ -146,9 +146,9 @@
 
 73 完结 [百战程序员WEB大前端工程师2022](https://www.itbaizhan.com/course/web)
 
-74更新 [金渡Web前端高级进阶VIP班对标腾讯T6第八期](https://ke.qq.com/course/461341) 
+74 更新 [金渡Web前端高级进阶VIP班对标腾讯T6第八期](https://ke.qq.com/course/461341) 
 
-75 预定最优惠 [极客时间前端进阶训练营](https://u.geekbang.org/subject/fe4th)
+75 更新 [极客时间前端进阶训练营【重磅讲师团：winter、杨村长、然叔、高少云】](https://u.geekbang.org/subject/fe4th)
 
 
 

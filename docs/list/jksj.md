@@ -60,7 +60,7 @@
 
 31 预定最优惠 [极客时间马哥运维训进阶训练营](https://u.geekbang.org/subject/intro/1001198)
 
-32 预定最优惠 [极客时间前端进阶训练营【重磅讲师团：winter、杨村长、然叔、高少云】](https://u.geekbang.org/subject/fe4th)
+32 更新 [极客时间前端进阶训练营【重磅讲师团：winter、杨村长、然叔、高少云】](https://u.geekbang.org/subject/fe4th) 会员非免费
 
 ## 集训班（3 个）
 

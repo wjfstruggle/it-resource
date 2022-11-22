@@ -11,7 +11,7 @@
 
 完结 [珠峰前端架构师培养计划14版](http://www.zhufengpeixun.cn/main/course/index.html)2022全新升级
 
-更新 [宁皓 2022 独立开发者训练营（全栈）](https://mp.weixin.qq.com/s/ZobRzRrY-ITPqGiWDRNImQ)会员非免费
+完结 [宁皓 2022 独立开发者训练营（全栈）](https://mp.weixin.qq.com/s/ZobRzRrY-ITPqGiWDRNImQ)会员非免费
 
 完结 [开课吧web3.0应用工程师培养计划](https://wx.kaikeba.com/vipcourse/tye3hvurya/6o38qeuxe9)
 
@@ -21,7 +21,7 @@
 
 完结 [WEB前端线上系统课（20k+标准）-大神coderwhy全程直播课](https://haohuo.jinritemai.com/views/product/detail?id=3538353127273142590)
 
-完结 [珠峰从零打造Web前端高级工程师 2022](https://ke.qq.com/course/package/23043)
+更新 [极客时间前端进阶训练营【重磅讲师团：winter、杨村长、然叔、高少云】](https://u.geekbang.org/subject/fe4th)
 
 ## Java
 

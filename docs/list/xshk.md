@@ -9,6 +9,8 @@
 
 ## 11月上新
 
+更新 [极客时间前端进阶训练营【重磅讲师团：winter、杨村长、然叔、高少云】](https://u.geekbang.org/subject/fe4th)
+
 更新 [知群·产品经理必修课（Top班）](https://izhiqun.com/web/bag/10)
 
 完结 [coderwhy大神-跨平台uni-app和Taro实战](https://ke.qq.com/course/5597441)
