@@ -62,6 +62,8 @@
 
 32 更新 [极客时间前端进阶训练营【重磅讲师团：winter、杨村长、然叔、高少云】](https://u.geekbang.org/subject/fe4th) 会员非免费
 
+33 新课更新 [极客Go实战训练营0期](https://u.geekbang.org/subject/go2nd)
+
 ## 集训班（3 个）
 
 01 完结[陶辉的网络协议集训班](https://time.geekbang.org/course/intro/100070201)

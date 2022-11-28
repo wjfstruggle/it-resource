@@ -100,9 +100,9 @@
 
 52完结[网易云微专业大数据开发工程师](https://mooc.study.163.com/smartSpec/detail/1202857601.htm)
 
-53 **完结** [领新C++数据结构及进阶算法/CSPIP](https://study.163.com/course/introduction.htm?courseId=1211257801)
+53 完结 [领新C++数据结构及进阶算法/CSPIP](https://study.163.com/course/introduction.htm?courseId=1211257801)
 
-54 **完结** [唐宇迪人工智能经典项目实战(面试必备)](https://study.163.com/course/introduction.htm?courseId=1209598972)
+54 完结 [唐宇迪人工智能经典项目实战(面试必备)](https://study.163.com/course/introduction.htm?courseId=1209598972)
 
 55 更新[2022前端高薪提升就业课](https://study.163.com/course/introduction/1212199806.htm)
 

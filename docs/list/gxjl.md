@@ -6,9 +6,39 @@
 
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
+**2022/11/27**
+
+完结 [there js入门到精通](https://www.cctalk.com/m/group/90346945?xh_preshareid=b1830b4e-a793-4fcf-83f5-fb86feb7f9c3&xh_fshareuid=0)
+
+**2022/11/26**
+
+更新 [大神coderwhy-web前端全栈高薪就业课](https://ke.qq.com/course/4903388)
+
+新课更新 [极客Go实战训练营0期](https://u.geekbang.org/subject/go2nd)
+
+**2022/11/25**
+
+更新 [高途雅思6.5分领航班](https://www.gaotu.cn/learn/9800181381005888)
+
+完结 [慕课算法与数据结构高手养成-求职提升特训课](https://coding.imooc.com/class/ds/589)
+
+**2022/11/24**
+
+完结 [前端bubucuo《精通React》大专栏](https://appuwwsm6cl6690.h5.xiaoeknow.com/v1/goods/goods_detail/p_62b2ce2ee4b0ba331dcb87c1)
+
+更新 [深兰交大AI算法班第五期2022](http://ai.aijdjy.com/index.html)
+
+完结 [零基础入门Windows软件逆向](https://study.163.com/course/introduction/1212946831.htm)
+
+**2022/11/23**
+
+完结 [咕泡Java互联网高级架构师](https://ke.gupaoedu.cn/course/vip/1873)
+
+完结 [【大讲台】大数据实战精英+架构师班6期](http://www.dajiangtai.com/course/112.do)
+
 **2022/11/21**
 
-更新 [极客时间前端进阶训练营【重磅讲师团：winter、杨村长、然叔、高少云】](https://u.geekbang.org/subject/fe4th)
+更新 [极客时间前端进阶训练营【重磅讲师团：winter、杨村长、然叔、高少云】](https://u.geekbang.org/subject/fe4th) 会员非免费
 
 完结 [点乘教育 Android音视频图像处理ndk专家班](https://m.ke.qq.com/course/3855115?course_id=3855115)
 
@@ -34,7 +64,7 @@
 
 完结 [WebGL/Three.js前端高薪3D](https://study.163.com/course/introduction.htm?courseId=1212760820)
 
-预定最优惠 [极客时间前端进阶训练营【重磅讲师团：winter、杨村长、然叔、高少云】](https://u.geekbang.org/subject/fe4th)
+预定最优惠 [极客时间前端进阶训练营【重磅讲师团：winter、杨村长、然叔、高少云】](https://u.geekbang.org/subject/fe4th) 会员非免费
 
 **2022/11/16**
 

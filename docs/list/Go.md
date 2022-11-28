@@ -56,6 +56,8 @@
 
 更新 [慕课Go开发工程师全新版2022](https://class.imooc.com/sale/newgo)
 
+新课更新 [极客Go实战训练营0期](https://u.geekbang.org/subject/go2nd)
+
 ## **专题小实战**
 
 完结 [网易-Golang从入门到精通](https://study.163.com/course/introduction/1004720008.htm)
