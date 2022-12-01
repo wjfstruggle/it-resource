@@ -9,6 +9,12 @@
 
 ## 11月上新
 
+更新 [慕课网Vue3源码解析，打造自己的Vue3框架](https://coding.imooc.com/class/608.html)
+
+更新 [【小象学院】互联网大厂数据分析项目实战](https://vip.xxketang.com/detail/p_6306e9ade4b050af23adfdf8/6?product_id=p_6306e9ade4b050af23adfdf8)
+
+完结 [【小象学院】数据分析项目实战](https://www.chinahadoop.cn/course/2001/landing/page)
+
 更新 [高途雅思6.5分领航班](https://www.gaotu.cn/learn/9800181381005888)
 
 更新 [极客时间前端进阶训练营【重磅讲师团：winter、杨村长、然叔、高少云】](https://u.geekbang.org/subject/fe4th)

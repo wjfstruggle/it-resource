@@ -44,6 +44,12 @@
 
 21 完结[【路飞学城】Python数据分析师](https://www.luffycity.com/employment-course/23/detail)
 
+22 更新 [【小象学院】互联网大厂数据分析项目实战](https://vip.xxketang.com/detail/p_6306e9ade4b050af23adfdf8/6?product_id=p_6306e9ade4b050af23adfdf8)
+
+23 完结 [【小象学院】数据分析项目实战](https://www.chinahadoop.cn/course/2001/landing/page)
+
+
+
 ## **联系方式**
 
 -  微信：IT_Promise

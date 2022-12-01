@@ -27,7 +27,7 @@
 
 完结 [cctalk three.js智慧机场数字孪生(全能大师)](https://www.cctalk.com/m/group/90399402)
 
-预约中 [cctalk Three.js从入门到精通](https://www.cctalk.com/m/group/90399566)
+完结 [cctalk Three.js从入门到精通](https://www.cctalk.com/m/group/90399566)
 
 预约中 [three.js智慧园区数字孪生(全能大师版)](https://www.cctalk.com/m/group/90382786)
 
@@ -36,6 +36,8 @@
 完结 [【codewhy】【就业阶段】CSS3+Canvas+SVG+大屏适配-2022系统课](https://ke.qq.com/course/5066569)
 
 完结 [WebGL/Three.js前端高薪3D可视化](WebGL/Three.js前端高薪3D可视化)
+
+
 
 ### 联系方式
 

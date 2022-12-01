@@ -14,9 +14,13 @@
 
 完结 [WebGL/Three.js前端高薪3D可视化](https://study.163.com/course/introduction.htm?courseId=1212760820)
 
-完结 [there js入门到精通](https://www.cctalk.com/m/group/90346945?xh_preshareid=b1830b4e-a793-4fcf-83f5-fb86feb7f9c3&xh_fshareuid=0)
+完结 [cctalk Three.js从入门到精通](https://www.cctalk.com/m/group/90399566)
+
+
 
 ## **联系方式**
+
 -  微信：IT_Promise
 -  全网课程都有，欢迎私聊。
 -  推荐好友下单返利，买的越多，返利越多
+

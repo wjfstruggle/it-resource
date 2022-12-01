@@ -6,6 +6,26 @@
 
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
+**2022/11/30**
+
+完结[【零声学院】Linux内核源码/内存调优/文件系统/进程管理/设备驱动/网络协议栈](https://ke.qq.com/course/3294666)
+
+更新 [老男孩教育 微服务&云原生架构师2022](https://www.oldboyedu.com/blog/4249.html)
+
+完结 [数字图像处理OpenCV/C++项目实战](https://www.kaikeba.com/course/vip/788)
+
+**2022/11/29**
+
+更新 [慕课网Vue3源码解析，打造自己的Vue3框架](https://coding.imooc.com/class/608.html)
+
+更新 [WEB前端线上系统课（20k+标准）-大神coderwhy全程直播课](https://haohuo.jinritemai.com/views/product/detail?id=3538353127273142590)
+
+**2022/11/28**
+
+更新 [【小象学院】互联网大厂数据分析项目实战](https://vip.xxketang.com/detail/p_6306e9ade4b050af23adfdf8/6?product_id=p_6306e9ade4b050af23adfdf8)
+
+完结 [【小象学院】数据分析项目实战](https://www.chinahadoop.cn/course/2001/landing/page)
+
 **2022/11/27**
 
 完结 [there js入门到精通](https://www.cctalk.com/m/group/90346945?xh_preshareid=b1830b4e-a793-4fcf-83f5-fb86feb7f9c3&xh_fshareuid=0)

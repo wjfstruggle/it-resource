@@ -6,6 +6,8 @@
 
 完结[疯狂小课之基于社区电商场景的Redis缓存架构实战](https://apppukyptrl1086.pc.xiaoe-tech.com/detail/p_61e50e08e4b053091f901a54/6)
 
+
+
 **更多专栏**
 
 1、完结[互联网Java工程师面试突击（第一季）](https://apppukyptrl1086.pc.xiaoe-tech.com/detail/p_61e4ebb2e4b094754e9509cc/6)
@@ -26,7 +28,10 @@
 
 9、完结[基于Elasticsearch的企业级电商搜索引擎实战](https://apppukyptrl1086.pc.xiaoe-tech.com/detail/p_61e4ebb2e4b094754e9509cc/6)
 
+
+
 ## **联系方式**
+
 -  微信：IT_Promise
 -  全网课程都有，欢迎私聊。
 -  推荐好友下单返利，买的越多，返利越多

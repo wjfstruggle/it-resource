@@ -4,7 +4,7 @@
 
 01 完结 [C/C++Linux服务器开发/高级架构师【零声教育】系统学习2101班](https://ke.qq.com/course/420945#term_id=103261594)
 
-03 完结 [Linux内核源码/内存调优/文件系统/进程管理/设备驱动/网络协议栈【零声教育】](https://ke.qq.com/course/3294666)
+03 完结 [Linux内核源码/内存调优/文件系统/进程管理/设备驱动/网络协议栈2022](https://ke.qq.com/course/3294666)
 
 04 完结 [golang/云原生/Docker/DevOps/K8S/持续集成/分布式/etcd/ipfs【零声教育】](https://ke.qq.com/course/3384068)
 
@@ -33,6 +33,8 @@
 16 完结 [Qt开发必备技术栈（Qt5/C语言/c++/数据库/OpenCV/Quick/Qt实战）](https://ke.qq.com/course/5820590#term_id=106031247)
 
 17 更新 [【零声学院】C/C++Linux服务器开发/高级架构师2207期](https://ke.qq.com/course/420945)
+
+
 
 ## 联系方式
 
