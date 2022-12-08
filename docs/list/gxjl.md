@@ -2,9 +2,58 @@
 
 ::: tip
 联系方式：微信：IT_Promise
+
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
 :::
 
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+
+**2022/12/8**
+
+更新 [极客Go实战训练营-邓明主讲-全新升级](https://u.geekbang.org/subject/go2nd)
+
+**2022/12/7**
+
+完结 [百度地图应用开发](https://www.boxuegu.com/course/outline-4868.html)
+
+更新 [P2【商业级MMORPG大型网游】Unity全栈开发](https://ke.qq.com/course/329046/3437112003462486?course_id=329046#term_id=100390455)
+
+**2022/12/6**
+
+更新 [极客时间前端进阶训练营【重磅讲师团：winter、杨村长、然叔、高少云】](https://u.geekbang.org/subject/fe4th) 会员非免费
+
+更新 [【云原生CTO】 k8s二次开发专题课](https://appc3qeyofl7606.h5.xiaoeknow.com/v1/goods/goods_detail/p_61837e09e4b0d721e3af2f0d)
+
+完结 [咕泡Java程序员初入职场 特训营](https://ke.gupaoedu.cn/course/vip/1881)
+
+**2022/12/5**
+
+无密更新 [极客时间邓明Go实战训练营](https://u.geekbang.org/subject/go2nd)
+
+更新 [慕课网SpringBoot2.X+Vue+UniAPP，全栈开发医疗小程序](https://coding.imooc.com/class/610.html)
+
+完结 [黑马Java架构师实战训练营（升级版）【1-8期都有】](https://www.boxuegu.com/live/outline-3969.html)
+
+更新 [慕课java高级工程师](https://class.m.imooc.com/sale/javasenior)
+
+**2022/12/2**
+
+更新 [【高级进阶阶段】Webpack+Gulp+Vite+Rollup-coderwhy系统课](https://ke.qq.com/course/5597539)
+
+更新 [优点知识 阳明 Kubernetes 进阶训练营最新第4期  ](https://youdianzhishi.com/web/course/1030)
+
+完结 [【零声教育】FFmpeg/WebRTC/RTMP/RTSP/HLS/RTP播放器-音视频流媒体高级开发](https://ke.qq.com/course/468797?course_id=468797) 2022新内容
+
+**2022/12/1**
+
+完结 [博学谷产品经理精英进阶课2022](https://www.boxuegu.com/promote/outline-4762.html)
+
+更新 [极客Go实战训练营](https://u.geekbang.org/subject/go2nd)
+
+更新 [优点知识Go 运维开发训练营第一期](https://youdianzhishi.com/web/course/1035)
 
 **2022/11/30**
 

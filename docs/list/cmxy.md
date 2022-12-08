@@ -11,3 +11,12 @@
 04 完结[幂次学院数据结构与算法365天刷题特训营](https://mici.jiqishidai.com/site/course_pro?id=12)
 
 05 完结[幂次学院数据结构与算法365天特训营](https://mici.jiqishidai.com/site/course_introduction?id=11)
+
+::: tip
+联系方式：微信：IT_Promise
+
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
+:::

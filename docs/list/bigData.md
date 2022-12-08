@@ -46,26 +46,33 @@
 
 23 完结 [百战程序员大数据-零基础到项目实战2021](http://www.itbaizhan.cn/course/data)推荐
 
-24 完结[尚硅谷大数据大神班2021](http://www.atguigu.com/bigdata/)推荐
+24 完结 [尚硅谷大数据大神班2021](http://www.atguigu.com/bigdata/)推荐
 
-25 完结[极客时间大数据训练营](https://u.geekbang.org/subject/bigdata)推荐
+25 完结 [极客时间大数据训练营](https://u.geekbang.org/subject/bigdata)推荐
 
 26 完结[【大讲台】大数据实战精英+架构师班6期](http://www.dajiangtai.com/course/112.do)
 
-27 完结[小滴课堂海量数据处理-商用短链平台项目大课](https://xdclass.net/#/coursedetail?video_id=71)超推荐大佬首推
+27 完结 [小滴课堂海量数据处理-商用短链平台项目大课](https://xdclass.net/#/coursedetail?video_id=71)超推荐大佬首推
 
-28 完结[黑马博学谷狂野大数据四期](https://www.boxuegu.com/subject/data-03.html)会员非免费
+28 完结 [黑马博学谷狂野大数据四期](https://www.boxuegu.com/subject/data-03.html)会员非免费
 
-29 完结[黑马狂野大数据（前置）](https://www.boxuegu.com/course/detail-3269.html)
+29 完结 [黑马狂野大数据（前置）](https://www.boxuegu.com/course/detail-3269.html)
 
-30完结[黑马博学谷大数据中级进修课](https://www.boxuegu.com/promote/detail-1490.html)
+30 完结 [黑马博学谷大数据中级进修课](https://www.boxuegu.com/promote/detail-1490.html)
 
 31 完结 [【黑马博学谷】Python+大数据就业课（VIP）](https://www.boxuegu.com/class/detail-4300.html)
 
+32 完结 [咕泡大数据从高开到架构系统提升班 08 期](https://ke.gupaoedu.cn/course/vip/293)
 
+33 完结 [咕泡P4:大数据高薪项目实战（专项特训班）](https://ke.gupaoedu.cn/course/vip/1004)
 
-## 联系方式
+34 完结 [咕泡P5:Python大数据分析（高阶技术课）](https://ke.gupaoedu.cn/course/vip/1298)
 
--  微信：IT_Promise
--  全网课程都有，欢迎私聊。
--  推荐好友下单返利，买的越多，返利越多
+::: tip
+联系方式：微信：IT_Promise
+
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
+:::

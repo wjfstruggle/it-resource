@@ -42,6 +42,62 @@
 
 19 完结[知了传课Python测试与开发高薪特训班](https://study.163.com/course/introduction.htm?courseId=1209351817)
 
+20 完结 [黑马博学谷数据结构+单元测试+shell脚本](https://www.boxuegu.com/course/detail-4668.html)
+
+21 完结 [黑马博学谷软件测试高手课](https://www.boxuegu.com/course/detail-4521.html)
+
+22 完结 [黑马博学谷软件测试就业课（VIP）](https://www.boxuegu.com/class/outline-4503.html)
+
+23 完结 [黑马博学谷软件测试就业课（尊享无忧）](https://www.boxuegu.com/class/outline-4241.html)
+
+24 完结 [黑马博学谷软件测试中级进修课](https://www.boxuegu.com/course/detail-4061.html)
+
+25 完结 [黑马博学谷【月度黄金会员】软件测试V4.0](https://www.boxuegu.com/class/outline-3351.html)
+
+26 完结 [黑马博学谷【季度铂金会员】软件测试V4.0](https://www.boxuegu.com/class/outline-3350.html)
+
+27 完结 [黑马博学谷【年度钻石会员】软件测试V4.0](https://www.boxuegu.com/class/outline-3349.html)
+
+28 完结 [黑马博学谷Python3+Pytest 接口自动化测试全方案设计与开发](https://www.boxuegu.com/course/detail-3137.html)
+
+29 完结 [黑马博学谷360°职业规划-软件测试](https://www.boxuegu.com/class/outline-3043.html)
+
+30 完结 [黑马博学谷测试工具开发 共享汽车模拟器项目实战](https://www.boxuegu.com/course/detail-2627.html)
+
+31 完结 [黑马博学谷测试开发-共享汽车模拟器](https://www.boxuegu.com/course/detail-2530.html)
+
+32 完结 [黑马博学谷微信小程序测试实战](https://www.boxuegu.com/course/detail-2528.html)
+
+33 完结 [黑马博学谷白盒测试设计方法](https://www.boxuegu.com/course/detail-2513.html)
+
+34 完结 [黑马博学谷Python实现接口自动化测试](https://www.boxuegu.com/course/detail-2509.html)
+
+35 完结 [黑马博学谷iOS真机自动化测试](https://www.boxuegu.com/course/detail-2496.html)
+
+36 完结 [黑马博学谷AirTest自动化测试](https://www.boxuegu.com/course/detail-2494.html)
+
+37 完结 [黑马博学谷JMeter接口测试从入门到实战](https://www.boxuegu.com/course/detail-2316.html)
+
+38 完结 [黑马博学谷前端测试222](https://www.boxuegu.com/course/detail-2035.html)
+
+39 完结 [黑马博学谷基于Selenium实战Web UI自动化测试及框架开发](https://www.boxuegu.com/course/detail-1599.html)
+
+40 完结 [黑马博学谷crm测试就业课（勿用）](https://www.boxuegu.com/class/outline-1537.html)
+
+41 完结 [黑马博学谷接口测试从基础到进阶](https://www.boxuegu.com/course/detail-1527.html)
+
+42 完结 [黑马博学谷Python3 Appium 移动端自动化测试与框架开发](https://www.boxuegu.com/course/detail-1517.html)
+
+43 完结 [黑马博学谷LoadRunner
+
+44 完结 [黑马博学谷Python3+Pytest 接口自动化测试方案设计与开发](https://www.boxuegu.com/course/detail-1484.html)
+
+45 完结 [黑马博学谷软件测试入门-黑马头条项目实战](https://www.boxuegu.com/course/detail-1346.html)
+
+46 完结 [黑马博学谷【年度钻石会员】软件测试](https://www.boxuegu.com/class/outline-1261.html)
+
+47 完结 [黑马博学谷软件测试在线就业班](https://www.boxuegu.com/class/outline-1114.html)
+
 ## 实战课
 
 01 完结[从零开始学测试 一步迈进互联网](https://coding.imooc.com/class/411.html)
@@ -74,8 +130,11 @@
 
 
 
-## 联系方式
+::: tip
+联系方式：微信：IT_Promise
 
--  微信：IT_Promise
--  全网课程都有，欢迎私聊。
--  推荐好友下单返利，买的越多，返利越多
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
+:::

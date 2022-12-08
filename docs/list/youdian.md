@@ -28,7 +28,7 @@
 
 11 更新 [优点知识Go 运维开发训练营第一期](https://youdianzhishi.com/web/course/1035)
 
-12 预定最优惠 [优点知识Kubernetes 进阶训练营第4期](https://youdianzhishi.com/web/course/1036)
+12 更新 [优点知识Kubernetes 进阶训练营第4期](https://youdianzhishi.com/web/course/1036)
 
 
 
