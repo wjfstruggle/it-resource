@@ -7,6 +7,62 @@
 
 #### [**课程首页**](../../README.md) 💖[**更新记录**](./gxjl.md) 💖[**热门推荐**](./rmtj.md) 💖[**会员中心**](./vip.md)
 
+## 12月上新
+
+更新 [吴师兄学算法玩转 LeetCode 100 题](https://ke.algomooc.com/p/t_pc/goods_pc_detail/goods_detail/p_63719af4e4b01126eaa4f43a)
+
+更新 [黑马博学谷 - 狂野架构师3,4期(1,2期已完结)](https://www.boxuegu.com/subject/architect-01.html)
+
+更新 [黑马博学谷 - 狂野大数据4,5,6,7期(1,2,3,4期已完结)](https://www.boxuegu.com/subject/data-03.html)
+
+完结 [北京顺义黑马JavaEE就业180期（20220624面授）](https://leaaiv.cn/project-1/doc-73/)
+
+完结 [Node高级进阶+项目实战-coderwhy系统课](https://ke.qq.com/course/5597475)
+
+完结 [博学谷JavaEE进阶课](https://www.boxuegu.com/course/detail-3768.html)
+
+完结 [博学谷JavaEE就业课（VIP）](https://www.boxuegu.com/class/outline-4547.html)
+
+完结 [WebGL/Three.js前端高薪3D可视化](https://study.163.com/course/introduction.htm?courseId=1212760820)
+
+完结 [零声golang/云原生/Docker/DevOps/K8S/持续集成/分布式/etcd/ipfs](https://ke.qq.com/course/3384068)
+
+完结 [WebRTC音视频技术入门与提高](https://ke.qq.com/course/435382)
+
+完结 [极客时间杨文坚的前端实战训练营](https://u.geekbang.org/subject/fe3rd)
+
+更新 [极客Go实战训练营-邓明主讲-全新升级](https://u.geekbang.org/subject/go2nd)
+
+更新 [卡颂从0实现React18](https://appjiz2zqrn2142.h5.xiaoeknow.com/v1/goods/goods_detail/p_638035c1e4b07b05581d25db)
+
+更新 [小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
+
+完结 [百度地图应用开发](https://www.boxuegu.com/course/outline-4868.html)
+
+完结 [咕泡Java程序员初入职场 特训营](https://ke.gupaoedu.cn/course/vip/1881)
+
+更新 [极客时间前端进阶特训营winter、杨村长、然叔、高少云](https://u.geekbang.org/subject/fe4th)
+
+完结 [黑马Java架构师实战训练营（升级版）【2-8期都有】](https://www.boxuegu.com/live/outline-3969.html)
+
+更新 [咕泡人工智能CV+NLP实战课/深度学习/计算机视觉/自然语言处理/唐宇迪](https://ke.qq.com/course/1294265)
+
+更新 [coderwhy-Webpack+Gulp+Vite+Rollup](https://ke.qq.com/course/5597539#term_id=105792946)
+
+完结 [咕泡Java并发实战营](https://ke.gupaoedu.cn/course/vip/1848)
+
+推荐[就业班2022-大合集](https://www.boxuegu.com/class)
+
+更新 [优点知识Kubernetes 进阶训练营第4期](https://youdianzhishi.com/web/course/1036)
+
+完结 [咕泡P5:人工智能真实项目实战（涨薪班）](https://ke.gupaoedu.cn/course/vip/1013)
+
+更新 [优点知识Go 运维开发训练营第一期](https://youdianzhishi.com/web/course/1035)
+
+更新 [P2【商业级MMORPG大型网游】Unity全栈开发](https://ke.qq.com/course/329046/3437112003462486?course_id=329046#term_id=100390455)
+
+完结 [咕泡Java程序员初入职场 特训营](https://ke.gupaoedu.cn/course/vip/1881)
+
 ## 11月上新
 
 更新 [慕课网Vue3源码解析，打造自己的Vue3框架](https://coding.imooc.com/class/608.html)

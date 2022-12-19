@@ -54,7 +54,7 @@
 
 27 更新 [极客时间邓明Go实战训练营](https://u.geekbang.org/subject/go2nd)
 
-28 更新 [极客时间杨文坚的前端实战训练营](https://u.geekbang.org/subject/fe3rd)
+28 完结 [极客时间杨文坚的前端实战训练营](https://u.geekbang.org/subject/fe3rd)
 
 29 预定最优惠 [极客时间测试开发进阶训练营](https://u.geekbang.org/subject/test)
 

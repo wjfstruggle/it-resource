@@ -11,7 +11,21 @@
 
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
+**2022/12/11**
+
+完结 [博学谷JavaEE就业课（VIP）](https://www.boxuegu.com/class/outline-4547.html)
+
+完结 [WebRTC音视频技术入门与提高【零声教育】【零声教育】](https://ke.qq.com/course/435382)
+
+**2022/12/9**
+
+完结 [极客时间杨文坚的前端实战训练营](https://u.geekbang.org/subject/fe3rd)
+
+更新 [小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
+
 **2022/12/8**
+
+更新 [卡颂从0实现React18](https://appjiz2zqrn2142.h5.xiaoeknow.com/v1/goods/goods_detail/p_638035c1e4b07b05581d25db)
 
 更新 [极客Go实战训练营-邓明主讲-全新升级](https://u.geekbang.org/subject/go2nd)
 

@@ -140,6 +140,8 @@
 
 74 更新 [小马哥 Java 训练营 第一期 Java 分布式架构 - 服务治理](https://mztp.yuque.com/docs/share/3b9d972e-8620-4209-83d6-d9186123f4ee)
 
+75 完结 [黑马Java架构师实战训练营（升级版）【1-8期都有】](https://www.boxuegu.com/live/outline-3969.html)
+
 **更多Java**
 
 [**Java就业**](./JavaJY.md) [**数据库**](./bigData.md) [**Java大实战**](./javaDSZ.md) [**大厂学院**](./dcxy.md) [**沈剑的架构**](./sjjgs.md)

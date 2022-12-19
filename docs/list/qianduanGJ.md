@@ -128,7 +128,7 @@
 
 63 完结 [前端bubucuo《精通React》大专栏](https://appuwwsm6cl6690.pc.xiaoe-tech.com/detail/p_62b2ce2ee4b0ba331dcb87c1/8)
 
-64 更新 [杨文坚的前端实战训练营](https://u.geekbang.org/subject/fe3rd)
+64 完结 [极客时间杨文坚的前端实战训练营](https://u.geekbang.org/subject/fe3rd)
 
 66 完结[【智能社】原生的力量——原生JavaScript开发高级课程](https://ke.qq.com/course/431292)
 

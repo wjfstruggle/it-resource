@@ -42,7 +42,7 @@
 
 完结 [【bubucuo】React低代码项目](https://appuwwsm6cl6690.h5.xiaoeknow.com/v1/goods/goods_detail/p_62b2a825e4b06accb0709923?type=3)
 
-
+更新 [卡颂从0实现React18](https://appjiz2zqrn2142.h5.xiaoeknow.com/v1/goods/goods_detail/p_638035c1e4b07b05581d25db)
 
 ## **更多热门**
 
