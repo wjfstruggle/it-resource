@@ -12,7 +12,7 @@
 
 完结 [WebRTC音视频技术入门与提高【零声教育】](https://ke.qq.com/course/435382)
 
-
+完结 [FFmpeg/直播/WebRtc音视频会议/视频编辑/音视频【VIP课程】](FFmpeg/直播/WebRtc音视频会议/视频编辑/音视频【VIP课程】)
 
 **联系方式**
 

@@ -2,55 +2,51 @@
 
 ## **超推体系课**
 
-01完结[Go中文网官方出品 | 资深Go开发工程师培养课程](https://studygolang.com/articles/24793#reply9)
+01 完结 [Go中文网官方出品 | 资深Go开发工程师培养课程](https://studygolang.com/articles/24793#reply9)
 
-02完结[博学谷Go语言与区块链在线就业班](https://www.boxuegu.com/class/detail-1125.html)
+02 完结 [博学谷Go语言与区块链在线就业班](https://www.boxuegu.com/class/detail-1125.html)
 
-03完结[极客Go进阶训练营](https://u.geekbang.org/subject/go/1000607)
+03 完结 [极客Go进阶训练营](https://u.geekbang.org/subject/go/1000607)
 
-04完结[慕课Go开发工程师](https://class.imooc.com/sale/go)
+04 完结 [慕课Go开发工程师](https://class.imooc.com/sale/go)
 
-05完结[老男孩Go语言开发课程/Golong编程开发](https://ke.qq.com/course/3060393)
+05 完结 [老男孩Go语言开发课程/Golong编程开发](https://ke.qq.com/course/3060393)
 
-06完结[慕课Go+Python双语言混合开发 盯紧技术先机 抓紧高薪机遇](https://coding.imooc.com/class/469.html)
+06 完结 [慕课Go+Python双语言混合开发 盯紧技术先机 抓紧高薪机遇](https://coding.imooc.com/class/469.html)
 
-07完结[go语言世界五百强大厂之路](https://edu.51cto.com/topic/3994.html)
+07 完结 [go语言世界五百强大厂之路](https://edu.51cto.com/topic/3994.html)
 
-08完结[路飞学城golang编程工程师](https://www.luffycity.com/light-course/go)
+08 完结 [路飞学城golang编程工程师](https://www.luffycity.com/light-course/go)
 
-09完结[慕课Go高级工程师实战营](https://class.imooc.com/sale/golive)
+09 完结 [慕课Go高级工程师实战营](https://class.imooc.com/sale/golive)
 
-10完结[马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发1期](https://ke.qq.com/course/406096)
+10 完结 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发1期](https://ke.qq.com/course/406096)
 
-11完结[马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发2期](https://ke.qq.com/course/406096)
+11 完结 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发2期](https://ke.qq.com/course/406096)
 
-12完结[马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发3期](https://ke.qq.com/course/406096)
+12 完结 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发3期](https://ke.qq.com/course/406096)
 
-12完结[马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发4期](https://ke.qq.com/course/406096)
+12 完结 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发4期](https://ke.qq.com/course/406096)
 
-13完结[马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发5期](https://ke.qq.com/course/406096)
+13 完结 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发5期](https://ke.qq.com/course/406096)
 
-14完结[马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发6期](https://ke.qq.com/course/406096)
+14 完结 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发6期](https://ke.qq.com/course/406096)
 
-15完结[极客Go进阶训练营第3期](https://u.geekbang.org/subject/go)
+14 更新 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发8期](https://ke.qq.com/course/406096)
 
-16完结[极客时间Go工程师零基础就业班](https://u.geekbang.org/subject/basicgo)
+15 完结 [极客Go进阶训练营第3期](https://u.geekbang.org/subject/go)
 
-17完结[GOCN社区Go高级工程师实战营](https://learn.gocn.vip/course)
+16 完结 [极客时间Go工程师零基础就业班](https://u.geekbang.org/subject/basicgo)
 
-18完结[【路飞学城】Go DevOps大厂运维平台开发进阶实战营](https://www.luffycity.com/light-course)
+17 完结 [GOCN社区Go高级工程师实战营](https://learn.gocn.vip/course)
 
-19完结[【路飞学城】Go编程挺进⼤⼚实战营](https://www.luffycity.com/light-course)
+18 完结 [【路飞学城】Go DevOps大厂运维平台开发进阶实战营](https://www.luffycity.com/light-course)
 
-20完结[golang/云原生/Docker/DevOps/K8S/持续集成/分布式/etcd/ipfs【零声教育】](https://ke.qq.com/course/3384068)
+19 完结 [【路飞学城】Go编程挺进⼤⼚实战营](https://www.luffycity.com/light-course)
 
-21 更新 [极客时间邓明Go实战训练营](https://u.geekbang.org/subject/go2nd)
+20 完结 [golang/云原生/Docker/DevOps/K8S/持续集成/分布式/etcd/ipfs【零声教育】](https://ke.qq.com/course/3384068)
 
-22 预定 开课吧大厂面试GO数据结构算法课
-
-23 预定 开课吧GO语言从入门到企业项目实战
-
-24更新[马哥Go高薪班 8 期](https://ke.qq.com/course/406096#term_id=104500536)
+21 完结 [极客时间邓明Go实战训练营](https://u.geekbang.org/subject/go2nd)
 
 ## **专题小实战**
 

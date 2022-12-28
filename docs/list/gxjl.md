@@ -11,6 +11,42 @@
 
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
+**2022/12/27**
+
+完结 [【极客】go零基础就业2022](https://u.geekbang.org/subject/basicgo)
+
+完结 [FFmpeg/直播/WebRtc音视频会议/视频编辑/音视频【VIP课程】](FFmpeg/直播/WebRtc音视频会议/视频编辑/音视频【VIP课程】)
+
+**2022/12/26**
+
+更新 [慕课网NestJS 入门到实战 前端必学服务端新趋势](https://coding.imooc.com/class/chapter/617.html#Anchor)
+
+**2022/12/15~2022/12/25**
+
+羊了个羊
+
+**2022/12/15**
+
+35 完结 [【极客时间】go零基础就业2022](https://u.geekbang.org/subject/basicgo)
+
+更新 [吴师兄学算法玩转 LeetCode 100 题](https://ke.algomooc.com/p/t_pc/goods_pc_detail/goods_detail/p_63719af4e4b01126eaa4f43a)
+
+**2022/12/14**
+
+更新 [黑马博学谷 - 狂野架构师3,4期(1,2期已完结)](https://www.boxuegu.com/subject/architect-01.html)
+
+更新 [黑马博学谷 - 狂野大数据4,5,6,7期(1,2,3,4期已完结)](https://www.boxuegu.com/subject/data-03.html)
+
+**2022/12/13**
+
+完结 [北京顺义黑马JavaEE就业180期（20220624面授）](https://leaaiv.cn/project-1/doc-75/)
+
+完结 [Node高级进阶+项目实战-coderwhy系统课](https://ke.qq.com/course/5597475)
+
+**2022/12/12**
+
+完结 [博学谷JavaEE进阶课](https://www.boxuegu.com/course/detail-3768.html)
+
 **2022/12/11**
 
 完结 [博学谷JavaEE就业课（VIP）](https://www.boxuegu.com/class/outline-4547.html)

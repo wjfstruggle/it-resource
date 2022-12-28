@@ -122,37 +122,39 @@
 
 59 开课吧Java面试涨薪名企培养计划2021
 
-61 [咕泡BATJ必问面试题锦集](https://ke.gupaoedu.cn/course/detail/1026)
+61 完结 [咕泡BATJ必问面试题锦集](https://ke.gupaoedu.cn/course/detail/1026)
 
-62 [咕泡精选互联网大厂高频面试100题](https://ke.gupaoedu.cn/course/detail/1054)
+62 完结 [咕泡精选互联网大厂高频面试100题](https://ke.gupaoedu.cn/course/detail/1054)
 
-新课 [【咕泡】Java高薪offer冲刺班](https://ke.gupaoedu.cn/course/vip/1586)
+63 更新[【咕泡】Java高薪offer冲刺班](https://ke.gupaoedu.cn/course/vip/1586)
 
 ## 前端面试
 
-**首推**：[77.22年新版【前端高级工程师】面试专题第一季](https://xdclass.net/#/coursedetail?video_id=77)
+首推：[77.22年新版【前端高级工程师】面试专题第一季](https://xdclass.net/#/coursedetail?video_id=77)
 
-**首推**：[前端面试求职跳槽通关路线](https://coding.imooc.com/learningpath/route?pathId=27)NewHot
+首推：[前端面试求职跳槽通关路线](https://coding.imooc.com/learningpath/route?pathId=27)
 
-**首推**：[**开课吧Web前端面试涨薪名企培养计划**](https://wx.kaikeba.com/vipcourse/30a1geoc3o/uu0zwtbog7)
+首推：[开课吧Web前端面试涨薪名企培养计划](https://wx.kaikeba.com/vipcourse/30a1geoc3o/uu0zwtbog7)
 
-1 完结 [快速搞定前端初级JavaScript面试](https://coding.imooc.com/class/400.html)
+01 完结 [慕课网快速搞定前端初级JavaScript面试](https://coding.imooc.com/class/400.html)
 
-2 完结 [前端框架及项目面试 聚焦Vue/React/Webpack](https://coding.imooc.com/class/419.html)
+02 完结 [慕课网前端框架及项目面试 聚焦Vue/React/Webpack](https://coding.imooc.com/class/419.html)
 
-3 完结 [前端跳槽面试必备技巧 面试官全流程指导](https://coding.imooc.com/class/129.html)
+03 完结 [前端跳槽面试必备技巧 面试官全流程指导](https://coding.imooc.com/class/129.html)
 
-4 完结 [前端要学的测试课 从Jest入门到 TDD/BDD双实战](https://coding.imooc.com/class/372.html)
+04 完结 [前端要学的测试课 从Jest入门到 TDD/BDD双实战](https://coding.imooc.com/class/372.html)
 
-5 完结 [Web前端跳槽必备精品33讲【金渡教育】](https://ke.qq.com/course/408143)
+05 完结 [Web前端跳槽必备精品33讲【金渡教育】](https://ke.qq.com/course/408143)
 
-6 完结 [珠峰一线大厂前端面试题年末大汇总](http://www.javascriptpeixun.cn/course/1429)Hot
+06 完结 [珠峰一线大厂前端面试题年末大汇总](http://www.javascriptpeixun.cn/course/1429)
 
-7 完结 [前端面试宝典之 React 篇](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=566&sid=20-h5Url-0&buyFrom=2&pageId=1pz4#/sale)
+07 完结 [前端面试宝典之 React 篇](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=566&sid=20-h5Url-0&buyFrom=2&pageId=1pz4#/sale)
 
-8 完结 [2周刷完100道前端优质面试真题](https://coding.imooc.com/class/562.html)
+08 完结 [慕课网2周刷完100道前端优质面试真题](https://coding.imooc.com/class/562.html)
 
-9 更新 [慕课前端模拟面试：给你真实的求职体验和面试经验](https://coding.imooc.com/class/596.html)
+09 更新 [慕课前端模拟面试：给你真实的求职体验和面试经验](https://coding.imooc.com/class/596.html)
+
+10 更新 [慕课网前端面试全家桶：从求职准备到面试演练](https://coding.imooc.com/class/613.html)
 
 ## 其他
 
