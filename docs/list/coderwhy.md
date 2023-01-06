@@ -1,6 +1,6 @@
 # coderwhy
 
-#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 01 完结 [深入Vue3+TypeScript技术栈-coderwhy大神新课](https://ke.qq.com/course/3453141)
 
@@ -12,7 +12,7 @@
 
 05 完结 [小程序音乐项目开发实战-大神coderwhy新课](https://ke.qq.com/course/4162214)
 
-06 更新 [WEB前端线上系统课（20k+标准）-大神coderwhy全程直播课](https://haohuo.jinritemai.com/views/product/detail?id=3538353127273142590)
+06 完结 [WEB前端线上系统课（20k+标准）-大神coderwhy全程直播课](https://haohuo.jinritemai.com/views/product/detail?id=3538353127273142590)
 
 07 完结 [【打好基础阶段】JavaScript高级语法进阶-coderwhy2022系统课](https://ke.qq.com/course/5348790)
 
@@ -59,6 +59,8 @@
 29 完结 [【高级进阶阶段】Node高级进阶+项目实战-coderwhy系统课](https://ke.qq.com/course/5597475#term_id=105792876)
 
 30 完结 [【高级进阶阶段】Webpack+Gulp+Vite+Rollup-coderwhy系统课](https://ke.qq.com/course/5597539#term_id=105792946)
+
+31 完结 [【coderwhy】Vue/React后端渲染SSR(Nuxt3+Next.js)](https://ke.qq.com/course/5597540)
 
 
 

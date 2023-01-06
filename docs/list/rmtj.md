@@ -4,7 +4,7 @@
 联系方式：微信：IT_Promise
 :::
 
-#### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**更新记录**](./gxjl.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**会员中心**](./vip.md)
 ## Web
 
 完结 [拉勾大前端高薪训练（P7）营](https://kaiwu.lagou.com/fe_enhancement.html)

@@ -1,6 +1,6 @@
 # uni-app
 
-#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 01 完结[uni-app 快速入门 从零开始实现新闻资讯类跨端应用](https://coding.imooc.com/class/433.html)
 

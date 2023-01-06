@@ -1,6 +1,6 @@
 # 数据分析
 
-#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 01 完结 [拉勾数据分析实战训练营](https://edu.lagou.com/growth/sem/data_analysis.html)超推荐
 

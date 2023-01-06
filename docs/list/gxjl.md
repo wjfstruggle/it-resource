@@ -11,6 +11,68 @@
 
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
+### [2023年更新记录](./gxjl-2023.md)
+
+**2023/1/5**
+
+更新 [极客时间前端进阶特训营winter、杨村长、然叔、高少云](https://u.geekbang.org/subject/fe4th)
+
+**2023/1/4**
+
+更新 [卡颂从0实现React18](https://appjiz2zqrn2142.h5.xiaoeknow.com/v1/goods/goods_detail/p_638035c1e4b07b05581d25db)
+
+更新 [极客高级java工程师体系课2.0升级版](https://u.geekbang.org/subject/java4th)
+
+完结 [小马哥 Java 训练营 第一期 Java 分布式架构 - 服务治理](https://mztp.yuque.com/docs/share/3b9d972e-8620-4209-83d6-d9186123f4ee)
+
+更新 [【0期升级】极客Go实战训练营-邓明主讲-全新升级第一期](https://u.geekbang.org/subject/go2nd)
+
+**2023/1/3**
+
+更新 [大圣React +Typescript企业级项目实战](https://appx496fyc38425.h5.xiaoeknow.com/v1/course/column/p_620608f0e4b066e9608455cf)
+
+更新 [【无密】WEB前端线上系统课（20k+标准）-大神coderwhy全程直播课](https://haohuo.jinritemai.com/views/product/detail?id=3538353127273142590)
+
+**2023/1/2**
+
+更新 [零声Qt开发必备技术栈（Qt5/C语言/c++/数据库/OpenCV/Quick/Qt实战）](https://ke.qq.com/course/5820590)
+
+完结 [【coderwhy】Vue/React后端渲染SSR(Nuxt3+Next.js)](https://ke.qq.com/course/5597540)
+
+完结 [百战程序员系列课，大‮算厂‬法班2022
+AI算‮工法‬程师就业班2022
+Java互‮网联‬架构师2022
+Javaee高‮就薪‬业班2022
+Python全‮工栈‬程师2022
+Web前端‮栈全‬工程师2022
+大‮据数‬架构师‮阶进‬课程2022](http://m.itbaizhan.com/)
+
+**2023/1/1**
+
+更新 [珠峰架构师培养计划 16 期](https://www.javascriptpeixun.cn/goods/show/672)
+
+**2022/12/30**
+
+更新 [小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
+
+更新 [小滴课堂全栈-商业级大型前端项目大课-小滴云在线教育平台](https://xdclass.net/videoDetailsPage?id=84)
+
+**2022/12/29**
+
+完结 [杨村长Vue3开源组件库实战（Vue3+Vite+VitePress+TSX+Tailwind）](https://appwhrkrsz84443.pc.xiaoe-tech.com/detail/p_62a44620e4b01c509abcbcda/6)
+
+完结 [杨村长前端工程化实践](https://appwhrkrsz84443.pc.xiaoe-tech.com/detail/p_62b17adae4b07bd2d7b0af40/8)
+
+完结 [杨村长Vue源码全家桶剖析+手写（Vue2+Vue3+VueRouter+Vuex+Pinia)](https://appwhrkrsz84443.pc.xiaoe-tech.com/detail/p_62b4e11be4b0a51feef6bb4f/8)
+
+完结 [canvas从入门到放飞自我](https://appwhrkrsz84443.pc.xiaoe-tech.com/detail/p_62a6c23fe4b01c509abd5cb7/6)
+
+完结 [杨村长NodeJS与服务器端](https://appwhrkrsz84443.pc.xiaoe-tech.com/detail/p_62b177bae4b09baaaaef38b9/8)
+
+完结 [大圣编程课堂 React +Typescript企业级项目实战](https://appx496fyc38425.h5.xiaoeknow.com/v1/goods/goods_detail/p_620608f0e4b066e9608455cf?type=3)
+
+更新 [【32周】慕课Go开发工程师全新版](https://class.imooc.com/sale/newgo)
+
 **2022/12/27**
 
 完结 [【极客】go零基础就业2022](https://u.geekbang.org/subject/basicgo)
@@ -18,6 +80,8 @@
 完结 [FFmpeg/直播/WebRtc音视频会议/视频编辑/音视频【VIP课程】](FFmpeg/直播/WebRtc音视频会议/视频编辑/音视频【VIP课程】)
 
 **2022/12/26**
+
+完结 [小迪安全2022](https://mp.weixin.qq.com/s/6WHERij9e5AvVdngdvFuKg)
 
 更新 [慕课网NestJS 入门到实战 前端必学服务端新趋势](https://coding.imooc.com/class/chapter/617.html#Anchor)
 

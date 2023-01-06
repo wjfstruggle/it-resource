@@ -1,6 +1,6 @@
 # 数据技术课堂
 
-#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 01 完结[【数据技术课堂】2021数据分析实战](https://appze9inzwc2314.pc.xiaoe-tech.com/detail/p_5feeedc5e4b01efc09155c2f/6)
 

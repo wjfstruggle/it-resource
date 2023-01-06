@@ -1,6 +1,6 @@
 # Go开发
 
-#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 
 
@@ -53,6 +53,8 @@
 21 完结 [极客时间邓明Go实战训练营](https://u.geekbang.org/subject/go2nd)
 
 22 完结 [【极客】go零基础就业2022](https://u.geekbang.org/subject/basicgo)
+
+22 更新 [【0期升级】极客Go实战训练营-邓明主讲-全新升级第一期](https://u.geekbang.org/subject/go2nd)
 
 ## **专题小实战**
 

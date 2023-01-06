@@ -138,9 +138,25 @@
 
 73 更新 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
 
-74 更新 [小马哥 Java 训练营 第一期 Java 分布式架构 - 服务治理](https://mztp.yuque.com/docs/share/3b9d972e-8620-4209-83d6-d9186123f4ee)
+74 完结 [小马哥 Java 训练营 第一期 Java 分布式架构 - 服务治理](https://mztp.yuque.com/docs/share/3b9d972e-8620-4209-83d6-d9186123f4ee)
 
 75 完结 [黑马Java架构师实战训练营（升级版）【1-8期都有】](https://www.boxuegu.com/live/outline-3969.html)
+
+76 完结 [咕泡P6:Java互联网高级架构师（SSVIP协议班) 07 期](https://ke.gupaoedu.cn/course/vip/297)
+
+77 完结 [咕泡P7:Java互联网百万年薪课（技术专家班） 05 期](https://ke.gupaoedu.cn/course/vip/1000)
+
+78 完结 [咕泡P6:Java互联网高级架构师（VIP涨薪班） 04 期](https://ke.gupaoedu.cn/course/vip/1042)
+
+79 完结 [咕泡P6:Java互联网高级架构师（菁英班(第2期)）](https://ke.gupaoedu.cn/course/vip/1300)
+
+80 完结 [咕泡Java架构高薪Offer冲刺2班 02 期](https://ke.gupaoedu.cn/course/vip/1482)
+
+81 完结 [咕泡Java架构师互联网集训班8班](https://ke.gupaoedu.cn/course/vip/1868)
+
+82 更新 [千锋Java架构进阶实战营](https://appd8lwrtt98427.pc.xiaoe-tech.com/detail/p_62945a1de4b09dda126efffb/8?product_id=p_62945a1de4b09dda126efffb)
+
+83 更新 [极客高级java工程师体系课2.0升级版](https://u.geekbang.org/subject/java4th)
 
 **更多Java**
 

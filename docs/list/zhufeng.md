@@ -10,11 +10,13 @@
 
 学习平台：https://www.html5train.com/index
 
-**首推1**：[**珠峰前端架构师培养计划2022**](http://www.zhufengpeixun.cn/main/course/index.html)超推荐Hot棒
+**首推1**：[**珠峰前端架构师培养计划2022**](http://www.zhufengpeixun.cn/main/course/index.html) 超推荐Hot
 
-[**珠峰前端架构师培养计划14版**](http://www.zhufengpeixun.cn/main/course/index.html) 2022.2月份开课~2022.8月份结课
+[**珠峰前端架构师培养计划16版**](https://www.javascriptpeixun.cn/goods/show/672) 2022.11月份开课~2023.5月份结课
 
-[**珠峰前端架构师培养计划13版**](http://www.zhufengpeixun.cn/main/course/index.html) 2021.6月份开课~2022.1月份结课
+[**珠峰前端架构师培养计划14版**](http://www.zhufengpeixun.cn/main/course/index.html) 2022.3月份开课~2022.10月份结课
+
+[**珠峰前端架构师培养计划13版**](http://www.zhufengpeixun.cn/main/course/index.html) 2021.6月份开课~2022.2月份结课
 
 **珠峰前端架构师培养计划9版** 2021.1月份开课~2021.6月份结课
 
