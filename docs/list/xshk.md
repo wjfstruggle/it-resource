@@ -9,6 +9,52 @@
 
 ## 2023.1月上新
 
+完结 [慕课网WebRTC源码级深度解析，进阶大厂高级音视频开发者](https://coding.imooc.com/class/532.html)
+
+更新 [黑马博学谷 - 狂野架构师4期（2023.6月份完结）](https://www.boxuegu.com/subject/architect-01.html)
+
+更新 [黑马博学谷 - 狂野架构师5期（2023.10月份完结）](https://www.boxuegu.com/subject/architect-01.html)
+
+更新 [黑马博学谷 - 狂野大数据7期（2023.7月份完结）](https://www.boxuegu.com/subject/data-03.html)
+
+完结 [咕泡P6:Java互联网高级架构师（SVIP涨薪班） 06 期](https://ke.gupaoedu.cn/course/vip/288)
+
+更新 [咕泡P6:ElasticStack高级开发与架构（实战班） 04 期](https://ke.gupaoedu.cn/course/vip/1002)
+
+更新 [优点知识 DevOps 训练营第5期](https://youdianzhishi.com/web/course/1034)
+
+更新 [优点知识Go 运维开发训练营第一期](https://youdianzhishi.com/web/course/1035)
+
+更新 [优点知识 阳明 Kubernetes 进阶训练营第4期](https://youdianzhishi.com/web/course/1036)
+
+完结 [C#/.NET高级进阶VIP班【升职加薪,只争朝夕】16期](https://appuwwsm6cl6690.pc.xiaoe-tech.com/detail/p_62b2ce2ee4b0ba331dcb87c1/8)
+
+完结 [博学谷【年度钻石会员】Python+大数据](https://www.boxuegu.com/class/detail-4654.html)
+
+完结 [咕泡AIoT人工智能物联网精选课](https://ke.gupaoedu.cn/course/vip/1887)
+
+完结 [前端bubucuo精通react大专栏](https://appuwwsm6cl6690.pc.xiaoe-tech.com/detail/p_62b2ce2ee4b0ba331dcb87c1/8)
+
+完结 [【严选课程】web前端全栈高薪就业课-大神coderwhy出品](https://ke.qq.com/course/4903388#term_id=105074578)
+
+更新 [卡颂从0实现React18](https://appjiz2zqrn2142.h5.xiaoeknow.com/v1/goods/goods_detail/p_638035c1e4b07b05581d25db)
+
+完结 [卡颂自顶向下学 React 源码](https://ke.segmentfault.com/course/1650000023864436)
+
+预定最优惠 [极客时间高级java工程师体系课](https://u.geekbang.org/subject/java4th)
+
+完结 [小马哥 Java 训练营 第一期 Java 分布式架构 - 服务治理](https://mztp.yuque.com/docs/share/3b9d972e-8620-4209-83d6-d9186123f4ee)
+
+预定最优惠 [小马哥 Java 分布式架构训练营 第二期 Java 分布式架构 - 模式、设计与实现](https://apprnzlvz344455.h5.xiaoeknow.com/v1/goods/goods_detail/course_2JiKduWEsSYabs5nn21IcpIm2YQ)
+
+更新 [极客时间邓明Go实战训练营 1 期](https://u.geekbang.org/subject/go2nd) 全新升级
+
+完结 [【高级进阶阶段】Vue/React后端渲染SSR(Nuxt3+Next.js)](https://ke.qq.com/course/5597540#term_id=105792947)
+
+更新 [珠峰架构师培养计划 16 期](https://www.javascriptpeixun.cn/goods/show/672)
+
+
+
 ## 2022.12月上新
 
 更新 [吴师兄学算法玩转 LeetCode 100 题](https://ke.algomooc.com/p/t_pc/goods_pc_detail/goods_detail/p_63719af4e4b01126eaa4f43a)

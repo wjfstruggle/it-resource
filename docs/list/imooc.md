@@ -50,11 +50,11 @@
 
 19 完结 [慕课Web前端架构师2022](https://class.imooc.com/sale/fearchitect)
 
-20完结[慕课大数据2022版](https://class.imooc.com/sale/bigdata)
+20 完结 [慕课大数据2022版](https://class.imooc.com/sale/bigdata)
 
 21 更新 [【慕课网】java高级工程师](https://class.imooc.com/sale/javasenior)
 
-22 更新 [慕课Go开发工程师全新版2022](https://class.imooc.com/sale/newgo)
+22 更新 [【32周】慕课Go开发工程师全新版](https://class.imooc.com/sale/newgo)
 
 ## **大实战**
 

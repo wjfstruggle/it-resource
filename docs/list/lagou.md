@@ -38,9 +38,9 @@
 
 17 优惠预约 [拉勾AI人工智能高薪训练营](https://edu.lagou.com/growth/sem/AI.html)
 
-18 更新 [拉勾数据分析能力提升训练营](https://edu.lagou.com/growth/sem/analysis_promote.html)
+18 完结 [拉勾数据分析能力提升训练营](https://edu.lagou.com/growth/sem/analysis_promote.html)
 
-19 更新 [拉勾商业分析高薪实战营](https://www.yuque.com/office/yuque/0/2022/pdf/2675213/1645583479916-f56a7453-4537-4f3b-84db-332ab5275e35.pdf?from=https%3A%2F%2Fwww.yuque.com%2Fxiedaimala%2Ffile%2Fpic%2Fedit)
+19 完结 [拉勾商业分析高薪实战营](https://www.yuque.com/office/yuque/0/2022/pdf/2675213/1645583479916-f56a7453-4537-4f3b-84db-332ab5275e35.pdf?from=https%3A%2F%2Fwww.yuque.com%2Fxiedaimala%2Ffile%2Fpic%2Fedit)
 
 21 完结 [拉勾21天Offer冲刺-Java](https://edu.lagou.com/kw/mocha/view/KYTVTXNG)
 
@@ -48,7 +48,9 @@
 
 24 更新 [拉勾前端高薪NEXT计划 | 定制未来](https://edu.lagou.com/growth/sem/fe-next.html)
 
+25 更新 [拉勾大厂直通私教班](https://edu.lagou.com/growth/sem/offer.html)
 
+26 更新 [拉勾大厂直通私教班 - 前端班](https://www.yuque.com/docs/share/9141058f-f30f-4c10-8232-39c1d745a951?#)
 
 ## 专栏VIP
 

@@ -42,7 +42,9 @@
 
 完结 [杨村长Vue源码全家桶剖析+手写（Vue2+Vue3+VueRouter+Vuex+Pinia)](https://appwhrkrsz84443.pc.xiaoe-tech.com/detail/p_62b4e11be4b0a51feef6bb4f/8)
 
-更新 [慕课网Vue3源码解析，打造自己的Vue3框架](https://coding.imooc.com/class/608.html)
+完结 [慕课网Vue3源码解析，打造自己的Vue3框架](https://coding.imooc.com/class/608.html)
+
+更新 [【慕课网】Vue3 + React18 + TS4入门到实战 系统学习3大热门技术](https://coding.m.imooc.com/classindex.html?cid=602)
 
 ## 好评首推
 
@@ -100,10 +102,13 @@
 
 新课 [慕课网SpringBoot2.X+Vue+UniAPP，全栈开发医疗小程序](https://coding.imooc.com/class/610.html)
 
+完结 [慕课网Vue3源码解析，打造自己的Vue3框架](https://coding.imooc.com/class/608.html)
 
+::: tip
+联系方式：微信：IT_Promise
 
-## **联系方式**
+全网课程都有，欢迎私聊
 
--  微信：IT_Promise
--  全网课程都有，欢迎私聊。
--  推荐好友下单返利，买的越多，返利越多
+推荐好友下单返利，买的越多，返利越多
+
+:::

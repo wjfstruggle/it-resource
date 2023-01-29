@@ -16,7 +16,11 @@
 
 07 预约-最优惠 [优达区块链2022（英文上课）](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)
 
+08 完结 [黑马博学谷【年度钻石会员】Go语言与区块链](https://www.boxuegu.com/class/outline-1275.html)
 
+09 完结 [黑马博学谷【季度铂金会员】Go语言与区块链](https://www.boxuegu.com/class/outline-1274.html)
+
+10 完结 [黑马博学谷【月度黄金会员】Go语言与区块链](https://www.boxuegu.com/class/outline-1273.html)
 
 ## 小课
 

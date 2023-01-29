@@ -40,7 +40,7 @@
 
 [**知了传课**](./list/zhiliao.md) [**幂次学院**](./list/cmxy.md) [**深度之眼**](./list/sdzy.md) [**奈学教育**](./list/naixue.md) [**腾讯课堂**](./list/tengxun.md)
 
-[**万门好课**](./list/wanmen.md) [**顿开C/C++**](./list/DKCC++.md)  [**抖码课堂**](./list/douma.md) [**谷粒学院**](http://www.gulixueyuan.com/) 
+[**万门好课**](./list/wanmen.md) [**顿开C/C++**](./list/DKCC++.md)  [**抖码课堂**](./list/douma.md) [**谷粒学院**](http://www.gulixueyuan.com/) [**千锋教育**](./list/qfjy.md)
 
 ### **热门语言** <Badge type="warning" text="💯"/>
 
@@ -52,7 +52,7 @@
 
 [**测试开发**](./list/ceshi.md) [**音视频开发**](./list/yinshipng.md) [**嵌入式**](./list/qianrushi.md) [**区块链**](./list/qukuailian.md) [**逆向课程**](./list/nixiang.md)
 
-[**新媒体**](./list/newMedia.md) [**全链路**](./list/qll.md) [**玩转电商**](./list/wzds.md)
+[**新媒体**](./list/newMedia.md) [**全链路**](./list/qll.md)  [**玩转电商**](./list/wzds.md)  [**UI设计**](./list/UI.md)
 
 ::: tip
 **联系方式**

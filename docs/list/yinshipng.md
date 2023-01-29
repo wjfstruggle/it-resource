@@ -14,6 +14,8 @@
 
 完结 [FFmpeg/直播/WebRtc音视频会议/视频编辑/音视频【VIP课程】](FFmpeg/直播/WebRtc音视频会议/视频编辑/音视频【VIP课程】)
 
+完结 [慕课网WebRTC源码级深度解析，进阶大厂高级音视频开发者](https://coding.imooc.com/class/532.html)
+
 **联系方式**
 
 -  微信：IT_Promise

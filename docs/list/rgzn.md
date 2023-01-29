@@ -66,7 +66,7 @@
 
 更新 [深兰交大AI算法班第五期2022](http://ai.aijdjy.com/index.html)
 
-
+完结 [咕泡AIoT人工智能物联网精选课](https://ke.gupaoedu.cn/course/vip/1887)
 
 ## 更多推荐
 

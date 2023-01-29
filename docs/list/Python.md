@@ -70,11 +70,11 @@
 
 38完结【无涯】[Python接口自动化测试实战](https://study.163.com/course/introduction/1006358022.htm)
 
-39完结[知了传课Python全栈开发高薪特训班](https://study.163.com/course/introduction.htm?courseId=1004504016)
+39完结 [知了传课Python全栈开发高薪特训班](https://study.163.com/course/introduction.htm?courseId=1004504016)
 
-40完结36周[慕课Python全能工程师](https://class.imooc.com/sale/python2021)
+40 完结 [36周慕课Python全能工程师](https://class.imooc.com/sale/python2021)
 
-41完结[咕泡P4：Python基础入门实战班(Python基础+高级)](https://ke.gupaoedu.cn/course/vip/1337)
+41 完结[咕泡P4：Python基础入门实战班(Python基础+高级)](https://ke.gupaoedu.cn/course/vip/1337)
 
 42 更新[路飞Python开发+AI人工智能](https://www.luffycity.com/employment-course/4/chapter)
 

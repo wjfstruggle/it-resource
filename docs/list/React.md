@@ -44,6 +44,8 @@
 
 更新 [卡颂从0实现React18](https://appjiz2zqrn2142.h5.xiaoeknow.com/v1/goods/goods_detail/p_638035c1e4b07b05581d25db)
 
+更新 [【慕课网】Vue3 + React18 + TS4入门到实战 系统学习3大热门技术](https://coding.m.imooc.com/classindex.html?cid=602)
+
 ## **更多热门**
 
 完结 [ReactNative+TypeScript仿喜马拉雅开发App](https://coding.imooc.com/class/435.html)
