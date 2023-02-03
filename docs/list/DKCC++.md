@@ -20,6 +20,8 @@
 
 09 完结 [顿开MySQL数据库特训班](https://ke.qq.com/course/3456072)
 
+10 完结 [顿开C/C++高级工程师2022](https://ke.qq.com/course/package/47576)
+
 
 
 ::: tip

@@ -137,8 +137,7 @@
 133. 完结 [咕泡Java架构师互联网集训班8班](https://ke.gupaoedu.cn/course/vip/1868)
 134. 完结 [咕泡Java高薪Offer冲刺班（往期录播合集）](https://ke.gupaoedu.cn/course/vip/1873)
 135. 完结 [咕泡Java应届生面试突击](https://ke.gupaoedu.cn/course/vip/1877)
-
-
+135. 新课 [咕泡P6:ElasticStack高级开发与架构（实战班） 05 期](https://ke.gupaoedu.cn/course/vip/1002)
 
 ::: tip
 联系方式：微信：IT_Promise

@@ -138,7 +138,7 @@
 
 01 完结 [慕课网快速搞定前端初级JavaScript面试](https://coding.imooc.com/class/400.html)
 
-02 完结 [慕课网前端框架及项目面试 聚焦Vue/React/Webpack](https://coding.imooc.com/class/419.html)
+02 完结 [慕课网前端框架及项目面试 聚焦Vue3/React/Webpack](https://coding.imooc.com/class/419.html)
 
 03 完结 [前端跳槽面试必备技巧 面试官全流程指导](https://coding.imooc.com/class/129.html)
 
@@ -156,9 +156,15 @@
 
 10 更新 [慕课网前端面试全家桶：从求职准备到面试演练](https://coding.imooc.com/class/613.html)
 
+11 完结 [JavaScript版数据结构与算法 轻松解决前端算法面试](https://coding.imooc.com/class/446.html)
+
+12 完结 [前端校招直通车，实现Offer零距离](https://coding.imooc.com/class/536.html)
+
 ## 其他
 
 更新 [C/C++/MySQL/Redis/操作系统/八股文/Leetcode/剑指Offer面试攻略)](https://ke.qq.com/course/5478818)
+
+完结 533 [慕课网Android面试超级攻略，攻破技术疑难及面试痛点](https://coding.imooc.com/class/533.html)
 
 ::: tip
 联系方式：微信：IT_Promise

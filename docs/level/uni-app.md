@@ -49,5 +49,5 @@
 23 完结 [coderwhy大神-跨平台uni-app和Taro实战](https://ke.qq.com/course/5597441)
 
 ::: tip
-联系方式：微信：L20230109520
+联系方式：微信：IT_Promise
 :::

@@ -11,7 +11,7 @@
 04 预约[沈剑的业务架构速成课](https://www.jiagoushi.tech/detail/p_601264e5e4b0f176aecca396/8)
 
 ::: tip
-联系方式：微信：L20230109520
+联系方式：微信：IT_Promise
 
 全网课程都有，欢迎私聊
 

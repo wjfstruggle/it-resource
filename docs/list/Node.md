@@ -18,9 +18,9 @@
 
 08 完结[node工程师培养计划](https://coding.imooc.com/class/ds/584)
 
-09 更新 [【高级进阶阶段】Node高级进阶+项目实战-coderwhy系统课](https://ke.qq.com/course/5597475#term_id=105792876)
+09 完结 [【高级进阶阶段】Node高级进阶+项目实战-coderwhy系统课](https://ke.qq.com/course/5597475#term_id=105792876)
 
-
+10 完结  [构建千万级高可用企业级Node.js应用](https://coding.imooc.com/class/569.html)
 
 # 珠峰
 

@@ -24,7 +24,7 @@
 
 09 完结 [优点知识 DevOps 训练营第4期](https://youdianzhishi.com/web/course/1032)
 
-10 更新 [优点知识 DevOps 训练营第5期](https://youdianzhishi.com/web/course/1034)
+10 完结 [优点知识 DevOps 训练营第5期](https://youdianzhishi.com/web/course/1034)
 
 11 更新 [优点知识Go 运维开发训练营第一期](https://youdianzhishi.com/web/course/1035)
 

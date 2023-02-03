@@ -44,7 +44,7 @@
 
 26 更新 [小滴课堂全栈-商业级大型前端项目大课-小滴云在线教育平台](https://xdclass.net/videoDetailsPage?id=84)
 
-
+27 预约 [Java 亿级项目架构设计与落地应用](https://class.imooc.com/sale/project)
 
 ::: tip
 联系方式：微信：IT_Promise

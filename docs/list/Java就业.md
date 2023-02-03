@@ -38,7 +38,7 @@
 
 18 完结 [博学谷JavaEE精英进阶课](https://www.boxuegu.com/course/outline-3768.html)
 
-
+19 更新 [千峰-java就业班2023年|价值19800元|重磅首发|无秘更新中](http://www.qfedu.com/java/)
 
 ::: tip
 联系方式：微信：IT_Promise

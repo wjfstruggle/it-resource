@@ -93,7 +93,7 @@
 [**2023学习课程大纲**](https://www.processon.com/view/link/5eccea8fe0b34d5f263038f0)
 
 ::: tip
-联系方式：微信：L20230109520
+联系方式：微信：IT_Promise
 
 全网课程都有，欢迎私聊
 

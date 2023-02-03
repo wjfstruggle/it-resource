@@ -2,9 +2,7 @@
 
 
 
-[**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
-
-
+#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 完结 [《精通React》大专栏](https://appuwwsm6cl6690.pc.xiaoe-tech.com/detail/p_62b2ce2ee4b0ba331dcb87c1/8?product_id=p_62b2ce2ee4b0ba331dcb87c1)
 
@@ -12,7 +10,7 @@
 
 更新 [前端算法实战](https://appuwwsm6cl6690.pc.xiaoe-tech.com/detail/p_63118a98e4b0c942648ff238/8?product_id=p_63118a98e4b0c942648ff238)
 
-
+预约 [用js实现个操作系统](https://appuwwsm6cl6690.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/p_634bf074e4b0c94264a3af6a?product_id=p_634bf074e4b0c94264a3af6a)
 
 ::: tip
 **联系方式**

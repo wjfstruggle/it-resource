@@ -7,7 +7,134 @@
 
 #### [**课程首页**](../../README.md) 💖[**更新记录**](./gxjl-2023.md) 💖[**热门推荐**](./rmtj.md) 💖[**会员中心**](./vip.md)
 
+## 2023.2月上新
+
+完结 [博学谷新媒体+短视频直播运营在线就业班](https://www.boxuegu.com/class/detail-3210.html)
+
+完结无密 [百战-Java互联网架构师](https://www.itbaizhan.com/user/javajiagou)
+
+完结无密 [百战-AI算法工程师就业班2022年](https://www.itbaizhan.com/stages/id/31)
+
+完结 [Vue3.0小兔鲜儿企业级电商项目开发实战](https://www.boxuegu.com/course/detail-4014.html)
+
+完结 [图灵云原生与大厂项目架构课](https://ke.qq.com/course/3855334)
+
+完结 [图灵云原生与大厂项目架构课](https://ke.qq.com/course/3855334)
+
+完结 [FFmpeg/WebRTC/RTMP/RTSP/HLS/播放器-音视频流媒体高级开发)](https://ke.qq.com/course/468797)
+
+更新 [C/C++/MySQL/Redis/操作系统/八股文/Leetcode/剑指Offer面试攻略)](https://ke.qq.com/course/5478818)
+
+更新 [【零声学院】C/C++Linux服务器开发/高级架构师2207期](https://ke.qq.com/course/420945)
+
+完结 [优点知识DevOps 训练营第5期](https://youdianzhishi.com/web/course/1034)
+
+新课 [咕泡P6:ElasticStack高级开发与架构（实战班） 05 期](https://ke.gupaoedu.cn/course/vip/1002)
+
+完结无密 [逻辑教育Logic-iOS高级强化班](https://ke.qq.com/course/2586288#term_id=103690851)
+
+完结无密 [扔物线 HenCoder Plus-Android高级开发瓶颈突破系列课【第五期+第二期】](https://ke.qq.com/course/381952#term_id=100497309)
+
+完结无密 [[码尚教育]Python全栈自动化VIP课程对标大厂标准挑战年薪40万](https://ke.qq.com/course/3062701#term_id=103973015)
+
 ## 2023.1月上新
+
+完结无密 [咕泡-P5:全栈测试Python自动化（进阶班）](https://ke.gupaoedu.cn/course/vip/1010)
+
+完结无密 [咕泡P4:软件测试零基础入门（就业班） ](https://ke.gupaoedu.cn/course/vip/1008)
+
+完结无密 [网易云微专业-大数据开发工程师](https://mooc.study.163.com/smartSpec/detail/1001420002.htm)
+
+更新 [千峰-java就业班2023年|价值19800元|重磅首发|无秘更新中](http://www.qfedu.com/java/)
+
+预约 [Java 亿级项目架构设计与落地应用](https://class.imooc.com/sale/project)
+
+预约 [手写操作系统 小班教学招生](https://class.imooc.com/sale/os)
+
+完结无密 [极客-测试开发进阶训练营](https://u.geekbang.org/subject/go2nd)
+
+完结无密  [【路飞学城】爬虫开发+APP逆向超级大神班](https://www.luffycity.com/light-course)
+
+更新 [极客视频课+专栏课SVIP](./jksj.md)
+
+完结 [51cto软考高级：系统架构设计师精品班5期](https://e.51cto.com/training_1108.html?utm_platform%3Dpc%26utm_medium%3D51cto%26utm_source%3De%26utm_content%3Dlist_kc%26rtm_frd%3D)
+
+完结 [【华测教育】高级测试全栈系列课](https://ke.qq.com/course/package/32782)
+
+完结 [霍格沃兹-软件测试之JMeter高级性能测试](https://ke.qq.com/course/446413#term_id=105678883)
+
+完结 [网易微专业-UI设计师全链路培养计划11期](https://study.163.com/course/introduction/1209537824.htm)
+
+完结 596 [构建千万级高可用企业级Node.js应用](https://coding.imooc.com/class/569.html)
+
+完结 593 [人人都该懂密码学，通用密码学原理与应用实战](https://coding.imooc.com/class/593.html)
+
+完结 592 [Selenium3+Pytest+Allure全流程实战自动化测试](https://coding.imooc.com/class/592.html)
+
+完结 575 [快速掌握前端必会的 7 种设计模式](https://coding.imooc.com/class/575.html)
+
+完结 574 [构建数据工程师能力模型，实战八大企业级项目](https://coding.imooc.com/class/574.html)
+
+完结 [慕课网轻松入门大数据：玩转Flink，打造湖仓一体架构](https://coding.imooc.com/class/597.html)
+
+完结 [慕课网全能软件测试工程师](https://class.imooc.com/sale/test2022)
+
+更新 [慕课网WebGL+Three.js 入门与实战，系统学习 Web3D 技术](https://coding.imooc.com/class/622.html?mc_marking=bb86c9071ed9b7cf12612a2a85203372&mc_channel=hk)
+
+更新 [慕课网Netty+SpringBoot 开发即时通讯系统](https://coding.imooc.com/class/626.html?mc_marking=bb86c9071ed9b7cf12612a2a85203372&mc_channel=hk)
+
+完结 [慕课网9大业务场景实战Hadoop+Flink，完成大数据能力进修](https://coding.imooc.com/class/601.html)
+
+完结 [高级前端进阶必修：自主打造高扩展的业务组件库](https://coding.imooc.com/class/600.html)
+
+完结 [慕课网Vue3源码解析，打造自己的Vue3框架](https://coding.imooc.com/class/608.html)
+
+更新 [【慕课网】Vue3 + React18 + TS4入门到实战 系统学习3大热门技术](https://coding.m.imooc.com/classindex.html?cid=602)
+
+更新 [慕课网SpringCloud整合Dubbo3实战高并发微服务架构设计](https://coding.imooc.com/class/chapter/604.html#Anchor)
+
+更新 [慕课网自主搭建5个精品脚手架，玩转前端提效](https://coding.imooc.com/class/607.html)
+
+更新 [慕课网Webpack5 入门与实战，前端开发必备技能](https://coding.imooc.com/class/614.html)
+
+更新 [慕课网Vue3+Pinia+Vite+TS 还原高性能外卖APP项目](https://coding.imooc.com/class/625.html)
+
+::: tip
+
+[囧途终身VIP](./cxyzjt.md)
+
+囧途所有课程，终身免费学习
+包更新，更新频率 1 月/次
+
+1月21号更新：184个课
+
+:::
+
+完结 [知了传课零基础吃透微信小程序](https://study.163.com/course/introduction.htm?courseId=1006226013)
+
+完结 [博学谷新媒体+短视频直播运营在线就业班](https://www.boxuegu.com/class/detail-3210.html)
+
+完结 [博学谷百度地图应用开发](https://www.boxuegu.com/course/detail-4868.html)
+
+完结 [博学谷【月度黄金会员】数据分析进阶](https://www.boxuegu.com/class/outline-3979.html)
+
+完结 [咕泡P6:Java互联网高级架构师（SSVIP协议班)](https://ke.gupaoedu.cn/course/vip/297)
+
+完结 [慕课网Vue3源码解析，打造自己的Vue3框架](https://coding.imooc.com/class/608.html)
+
+完结 [慕课网WebRTC源码级深度解析，进阶大厂高级音视频开发者](https://coding.imooc.com/class/532.html)
+
+完结 [慕课网全能软件测试工程师](https://class.imooc.com/sale/test2022)
+
+完结 [慕课网WebGL+Three.js 入门与实战，系统学习 Web3D 技术](https://coding.imooc.com/class/622.html?mc_marking=bb86c9071ed9b7cf12612a2a85203372&mc_channel=hk)
+
+更新 [慕课网Netty+SpringBoot 开发即时通讯系统](https://coding.imooc.com/class/626.html?mc_marking=bb86c9071ed9b7cf12612a2a85203372&mc_channel=hk)
+
+完结 [慕课网9大业务场景实战Hadoop+Flink，完成大数据能力进修](https://coding.imooc.com/class/601.html)
+
+完结 [慕课网轻松入门大数据：玩转Flink，打造湖仓一体架构](https://coding.imooc.com/class/597.html)
+
+完结 [高级前端进阶必修：自主打造高扩展的业务组件库](https://coding.imooc.com/class/600.html)
 
 完结 [慕课网WebRTC源码级深度解析，进阶大厂高级音视频开发者](https://coding.imooc.com/class/532.html)
 

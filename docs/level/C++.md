@@ -91,7 +91,7 @@
 完结 [慕课网C/C++气象数据中心实战，手把手教你做工业级项目](https://coding.imooc.com/class/chapter/546.html#Anchor)
 
 ::: tip
-联系方式：微信：L20230109520
+联系方式：微信：IT_Promise
 
 全网课程都有，欢迎私聊
 

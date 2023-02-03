@@ -30,23 +30,23 @@
 
 14完结[开课吧人工智能核心能力培养计划](https://www.kaikeba.com/course/vip/203)
 
-15完结[图灵零基础开发机器人应用项目](https://ke.qq.com/course/290200)
+15 完结[图灵零基础开发机器人应用项目](https://ke.qq.com/course/290200)
 
-16完结[【数据技术课堂】2021机器学习实战](https://appze9inzwc2314.pc.xiaoe-tech.com/detail/p_605b3edfe4b007b4183a6232/6)
+16 完结[【数据技术课堂】2021机器学习实战](https://appze9inzwc2314.pc.xiaoe-tech.com/detail/p_605b3edfe4b007b4183a6232/6)
 
-17完结[【八斗学院】AI人工智能 8 期](http://www.badouxueyuan.com/product1/showproduct.php?id=6)
+17 完结[【八斗学院】AI人工智能 8 期](http://www.badouxueyuan.com/product1/showproduct.php?id=6)
 
-18完结[深度之眼系统](https://ai.deepshare.net/detail/p_604b8e1de4b07f4194ff3e55/5)
+18 完结[深度之眼系统](https://ai.deepshare.net/detail/p_604b8e1de4b07f4194ff3e55/5)
 
-19完结[黑马博学谷Python+人工智能中级进修课](https://www.boxuegu.com/promote/outline-1492.html)
+19 完结[黑马博学谷Python+人工智能中级进修课](https://www.boxuegu.com/promote/outline-1492.html)
 
-20完结[百战程序员人工智能-算法工程师体系课2021](http://www.itbaizhan.cn/course/ai)
+20 完结[百战程序员人工智能-算法工程师体系课2021](http://www.itbaizhan.cn/course/ai)
 
-21完结[【九章算法】人工智能集训营2021](https://www.jiuzhang.com/course/20/)超推会员非免费
+21 完结[【九章算法】人工智能集训营2021](https://www.jiuzhang.com/course/20/)超推会员非免费
 
-22完结[完成你的第一个智能机器人](https://www.kaikeba.com/course/vip/145)
+22 完结[完成你的第一个智能机器人](https://www.kaikeba.com/course/vip/145)
 
-23完结开课吧自动驾驶算法工程师2021
+23 完结开课吧自动驾驶算法工程师2021
 
 24预约[完成你的第一个智能无人机](https://mkt.kaikeba.com/vipcourse/wrj)
 
@@ -58,19 +58,19 @@
 
 28 完结 [深度直言推荐系统1V多 项目小班](https://appuaaoe86p4947.h5.xiaoeknow.com/v1/goods/goods_detail/p_63147fb8e4b050af23b25d46?type=3)
 
-完结 [咕泡人工智能深度学习高薪就业班2022](https://ke.gupaoedu.cn/course/vip/294)
+29 完结 [咕泡人工智能深度学习高薪就业班2022](https://ke.gupaoedu.cn/course/vip/294)
 
-完结 [博学谷【年度钻石会员】 智能机器人软件开发](https://www.boxuegu.com/class/detail-3742.html)
+30 完结 [博学谷【年度钻石会员】 智能机器人软件开发](https://www.boxuegu.com/class/detail-3742.html)
 
-完结 [博学谷人工智能极速就业班](https://m.boxuegu.com/campaign/python-05.html?utm_source=sydh)
+31 完结 [博学谷人工智能极速就业班](https://m.boxuegu.com/campaign/python-05.html?utm_source=sydh)
 
-更新 [深兰交大AI算法班第五期2022](http://ai.aijdjy.com/index.html)
+32 更新 [深兰交大AI算法班第五期2022](http://ai.aijdjy.com/index.html)
 
-完结 [咕泡AIoT人工智能物联网精选课](https://ke.gupaoedu.cn/course/vip/1887)
+33 完结 [咕泡AIoT人工智能物联网精选课](https://ke.gupaoedu.cn/course/vip/1887)
 
 ## 更多推荐
 
-[**后厂理工**](./chlg.md) [**深度之眼**](./sdzy.md) [**数据技术课堂**](./sjjskt.md)
+[**后厂理工**](./hclg.md) [**深度之眼**](./sdzy.md) [**数据技术课堂**](./sjjskt.md)
 
 
 

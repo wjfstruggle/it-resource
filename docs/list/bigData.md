@@ -68,6 +68,8 @@
 
 34 完结 [咕泡P5:Python大数据分析（高阶技术课）](https://ke.gupaoedu.cn/course/vip/1298)
 
+35 完结 [慕课网轻松入门大数据：玩转Flink，打造湖仓一体架构](https://coding.imooc.com/class/597.html)
+
 ::: tip
 联系方式：微信：IT_Promise
 

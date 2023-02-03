@@ -161,7 +161,7 @@
 更新 [C/C++/MySQL/Redis/操作系统/八股文/Leetcode/剑指Offer面试攻略)](https://ke.qq.com/course/5478818)
 
 ::: tip
-联系方式：微信：L20230109520
+联系方式：微信：IT_Promise
 
 全网课程都有，欢迎私聊
 

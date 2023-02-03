@@ -69,7 +69,7 @@
 34 完结 [咕泡P5:Python大数据分析（高阶技术课）](https://ke.gupaoedu.cn/course/vip/1298)
 
 ::: tip
-联系方式：微信：L20230109520
+联系方式：微信：IT_Promise
 
 全网课程都有，欢迎私聊
 

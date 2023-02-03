@@ -22,7 +22,7 @@
 
 完结 [咕泡Elastic （ELK）Stack 实战之 Dubbo 全链路监控](https://ke.gupaoedu.cn/course/courses/1397)
 
- 
+ 完结  [测试高薪必学：探秘大厂全链路质量保障体系](https://coding.imooc.com/class/558.html)
 
 ::: tip
 联系方式：微信：IT_Promise

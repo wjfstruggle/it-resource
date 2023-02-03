@@ -22,7 +22,17 @@
 
 完结 [京峰教育安卓/IOS/二进制逆向安全系列课程](https://m.ke.qq.com/course/package/53487)
 
+### 微课
 
+[Android面试超级攻略，攻破技术疑难及面试痛点](https://coding.imooc.com/class/533.html)
+
+[手把手完成商业级社交App开发 进阶Android高级工程师](https://coding.imooc.com/class/390.html)
+
+[企业级Android应用架构设计与开发](https://coding.imooc.com/class/364.html)
+
+[剖析Framework面试 冲击Android高级职位](https://coding.imooc.com/class/340.html)
+
+ [国内Top团队大牛带你玩转Android性能分析与优化](https://coding.imooc.com/class/308.html)
 
 ::: tip
 联系方式：微信：IT_Promise

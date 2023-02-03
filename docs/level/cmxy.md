@@ -13,7 +13,7 @@
 05 完结[幂次学院数据结构与算法365天特训营](https://mici.jiqishidai.com/site/course_introduction?id=11)
 
 ::: tip
-联系方式：微信：L20230109520
+联系方式：微信：IT_Promise
 
 全网课程都有，欢迎私聊
 

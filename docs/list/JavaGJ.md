@@ -158,6 +158,8 @@
 
 83 更新 [极客高级java工程师体系课2.0升级版](https://u.geekbang.org/subject/java4th)
 
+84 预约 [Java 亿级项目架构设计与落地应用](https://class.imooc.com/sale/project)
+
 **更多Java**
 
 [**Java就业**](./JavaJY.md) [**数据库**](./bigData.md) [**Java大实战**](./javaDSZ.md) [**大厂学院**](./dcxy.md) [**沈剑的架构**](./sjjgs.md)

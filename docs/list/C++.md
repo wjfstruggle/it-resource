@@ -6,45 +6,45 @@
 
 ## **体系课**
 
-01完结[开课吧数字图像处理OpenCV/C++项目实战](https://www.kaikeba.com/course/vip/788)
+01 完结 [开课吧数字图像处理OpenCV/C++项目实战](https://www.kaikeba.com/course/vip/788)
 
-02更新[【网易云】【老八】C/C++、计算机体系](https://study.163.com/course/introduction.htm?courseId=1209597912)
+02 更新[【网易云】【老八】C/C++、计算机体系](https://study.163.com/course/introduction.htm?courseId=1209597912)
 
-03完结[C++百万并发网络通信引擎架构与实现（服务端、客户端、跨平台）](https://edu.51cto.com/course/11553.html)
+03 完结 [C++百万并发网络通信引擎架构与实现（服务端、客户端、跨平台）](https://edu.51cto.com/course/11553.html)
 
-04完结[开课吧C++名企研发工程师领航就业班](https://www.kaikeba.com/course/vip/658)
+04 完结 [开课吧C++名企研发工程师领航就业班](https://www.kaikeba.com/course/vip/658)
 
-05完结[C/C++Linux服务器开发/高级架构师【零声教育】系统学习2101班](https://ke.qq.com/course/420945#term_id=103261594)
+05 完结 [C/C++Linux服务器开发/高级架构师【零声教育】系统学习2101班](https://ke.qq.com/course/420945#term_id=103261594)
 
-06完结[易道云C语言/C++零基础到大神全栈(后台开发/QT/Linux/实战项目/游戏)](https://ke.qq.com/course/450953)
+06 完结 [易道云C语言/C++零基础到大神全栈(后台开发/QT/Linux/实战项目/游戏)](https://ke.qq.com/course/450953)
 
-07完结[C/C++企业级项目实战班(浏览器/即时通讯/网盘/安全卫士/播放器)](https://ke.qq.com/course/3025736)
+07 完结 [C/C++企业级项目实战班(浏览器/即时通讯/网盘/安全卫士/播放器)](https://ke.qq.com/course/3025736)
 
-08完结[C++Linux服务器开发架构师2109期)](https://m.ke.qq.com/course/420945)
+08 完结 [C++Linux服务器开发架构师2109期)](https://m.ke.qq.com/course/420945)
 
-09完结[FFmpeg/WebRTC/RTMP/RTSP/HLS/播放器-音视频流媒体高级开发)](https://ke.qq.com/course/468797)
+09 完结 [FFmpeg/WebRTC/RTMP/RTSP/HLS/播放器-音视频流媒体高级开发)](https://ke.qq.com/course/468797)
 
-10完结[Linux内核源码/内存调优/文件系统/进程管理/设备驱动/网络协议栈)](https://ke.qq.com/course/3294666)
+10 完结 [Linux内核源码/内存调优/文件系统/进程管理/设备驱动/网络协议栈)](https://ke.qq.com/course/3294666)
 
-11完结[dpdk/网络协议栈/vpp/OvS/DDos/SDN/NFV/虚拟化/高性能专家之路)](https://ke.qq.com/course/3941319)
+11 完结 [dpdk/网络协议栈/vpp/OvS/DDos/SDN/NFV/虚拟化/高性能专家之路)](https://ke.qq.com/course/3941319)
 
-12完结[golang/云原生/Docker/DevOps/K8S/持续集成/分布式/etcd/ipfs)](https://ke.qq.com/course/3384068)
+12 完结 [golang/云原生/Docker/DevOps/K8S/持续集成/分布式/etcd/ipfs)](https://ke.qq.com/course/3384068)
 
-13完结[C/C++/MySQL/Redis/操作系统/八股文/Leetcode/剑指Offer面试攻略)](https://ke.qq.com/course/5478818)
+13 完结 [C/C++/MySQL/Redis/操作系统/八股文/Leetcode/剑指Offer面试攻略)](https://ke.qq.com/course/5478818)
 
-14完结[大学生春招秋招 Linux C/C++开发就业课程)](https://ke.qq.com/course/443231)
+14 完结 [大学生春招秋招 Linux C/C++开发就业课程)](https://ke.qq.com/course/443231)
 
-15更新[C/C++/MySQL/Redis操作系统/八股文/Leetcode剑指Offer面试攻略](https://ke.qq.com/course/5478818)
+15 更新 [C/C++/MySQL/Redis操作系统/八股文/Leetcode剑指Offer面试攻略](https://ke.qq.com/course/5478818)
 
-16完结 [百战程序员C++特训班](https://www.itbaizhan.com/stages/id/39)
+16 完结 [百战程序员C++特训班](https://www.itbaizhan.com/stages/id/39)
 
-17新课[C/C++全栈软件工程师](https://ke.qq.com/course/3485885)
+17 新课[C/C++全栈软件工程师](https://ke.qq.com/course/3485885)
 
-18完结[黑马博学谷【年度钻石会员】C/C++](https://www.boxuegu.com/class/detail-1335.html)
+18 完结 [黑马博学谷【年度钻石会员】C/C++](https://www.boxuegu.com/class/detail-1335.html)
 
-19完结 [【零声学院】Qt开发必备技术栈（Qt5/C语言/c++/数据库/OpenCV/Quick/Qt实战））](https://www.0voice.com/uiwebsite/html/courses/qt/qt-v1.2.html)
+19 完结 [【零声学院】Qt开发必备技术栈（Qt5/C语言/c++/数据库/OpenCV/Quick/Qt实战））](https://www.0voice.com/uiwebsite/html/courses/qt/qt-v1.2.html)
 
-20完结 [顿开C++高级工程师](https://ke.qq.com/course/package/47576)
+20 完结 [顿开C++高级工程师](https://ke.qq.com/course/package/47576)
 
 
 

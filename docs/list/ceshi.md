@@ -98,6 +98,10 @@
 
 47 完结 [黑马博学谷软件测试在线就业班](https://www.boxuegu.com/class/outline-1114.html)
 
+48 完结 [慕课网全能软件测试工程师](https://class.imooc.com/sale/test2022)
+
+49 完结 [极客-测试开发进阶训练营](https://u.geekbang.org/subject/go2nd)
+
 ## 实战课
 
 01 完结[从零开始学测试 一步迈进互联网](https://coding.imooc.com/class/411.html)
@@ -126,9 +130,9 @@
 
 13 完结【无涯】[Python接口自动化测试实战](https://study.163.com/course/introduction/1006358022.htm)
 
-14 完结[知了传课DRF+Vue实现API自动化测试平台](https://study.163.com/course/introduction.htm?courseId=1210028051)
+14 完结 [知了传课DRF+Vue实现API自动化测试平台](https://study.163.com/course/introduction.htm?courseId=1210028051)
 
-
+15 完结 [测试高薪必学：探秘大厂全链路质量保障体系](https://coding.imooc.com/class/558.html)
 
 ::: tip
 联系方式：微信：IT_Promise

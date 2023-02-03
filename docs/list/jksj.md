@@ -86,6 +86,8 @@
 
 36 更新 [【0期升级】极客Go实战训练营-邓明主讲-全新升级第一期](https://u.geekbang.org/subject/go2nd)
 
+37 完结 [极客-测试开发进阶训练营](https://u.geekbang.org/subject/go2nd)
+
 ## 集训班（3 个）
 
 01 完结[陶辉的网络协议集训班](https://time.geekbang.org/course/intro/100070201)

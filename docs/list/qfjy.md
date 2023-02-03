@@ -10,6 +10,8 @@
 
 预定最优惠 [千锋全媒体短视频+直播+主播运营 精品实战课](https://appd8lwrtt98427.pc.xiaoe-tech.com/detail/p_6269ed66e4b0cedf38aad04b/6?product_id=p_6269ed66e4b0cedf38aad04b)
 
+更新 [千峰-java就业班2023年|价值19800元|重磅首发|无秘更新中](http://www.qfedu.com/java/)
+
 ::: tip
 联系方式：微信：IT_Promise
 
