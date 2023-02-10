@@ -28,13 +28,19 @@
 
 13 完结 [京程一灯中级前端工程师实战训练营](https://ke.qq.com/course/3064185)
 
-14 新课 [马士兵web前端架构师](https://www.mashibing.com/subject/22)
+14 更新 [马士兵web前端架构师](https://www.mashibing.com/subject/22)
 
 15 更新 [2022前端高薪提升就业课](https://study.163.com/course/introduction/1212199806.htm)
 
 16 更新 [2022大前端高薪全栈系统课程](https://study.163.com/course/introduction/1212061805.htm)
 
-17 更新 [大神coderwhy-web前端全栈高薪就业课](https://ke.qq.com/course/4903388)
+17 完结 [大神coderwhy-web前端全栈高薪就业课](https://ke.qq.com/course/4903388)
+
+18 完结 [博学谷前端开发就业课（尊享无忧）](https://www.boxuegu.com/class/detail-4438.html)
+
+19 完结 [黑马博学谷前端在线就业班2.0（SVIP)](https://www.boxuegu.com/class/outline-3791.html)
+
+20 完结 [黑马博学谷前端开发就业课（VIP）](https://www.boxuegu.com/class/outline-955.html)
 
 **更多Web**
 

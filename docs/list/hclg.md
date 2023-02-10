@@ -2,7 +2,14 @@
 
 #### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
-[01](https://www.keedu.cn/course/view?id=68872) 
+::: tip
+联系方式：微信：IT_Promise
+
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
+:::
 
 完结[【后场理工】滴滴认证资深大数据工程师](https://www.keedu.cn/course/view?id=68872)
 
@@ -18,14 +25,4 @@
 
 07 完结[【后厂理工】百度飞桨联合设计双证资深AI实战工程师（CV方向）](https://www.houchangtech.com/techCases/techCases.html)
 
-
-
-::: tip
-联系方式：微信：IT_Promise
-
-全网课程都有，欢迎私聊
-
-推荐好友下单返利，买的越多，返利越多
-
-:::
 

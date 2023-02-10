@@ -2,6 +2,15 @@
 
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
+::: tip
+联系方式：微信：IT_Promise
+
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
+:::
+
 开课吧终身会员，全新上线，感兴趣私聊客服……..
 
 01 完结 [Vue.js 精英训练营](http://pc-shop.xiaoe-tech.com/appAadIh2AF2521/columnist_detail?id=p_5cee554f70b50_fwsS3V1X)

@@ -1,6 +1,13 @@
 # 前端bubucuo
 
+::: tip
+联系方式：微信：IT_Promise
 
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
+:::
 
 #### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
@@ -12,12 +19,5 @@
 
 预约 [用js实现个操作系统](https://appuwwsm6cl6690.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/p_634bf074e4b0c94264a3af6a?product_id=p_634bf074e4b0c94264a3af6a)
 
-::: tip
-**联系方式**
 
-- 微信：IT_Promise
-- 全网课程都有，欢迎私聊。
-- 推荐好友下单返利，买的越多，返利越多
-
-:::
 ------

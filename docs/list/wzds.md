@@ -1,8 +1,6 @@
 # 玩转电商
 
-[**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
-
-
+#### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 01 完结 大雄淘宝蓝海无货源5.0
 
@@ -73,6 +71,8 @@
 33 完结 [黑马博学谷短视频掘金流量陪跑训练营](https://www.boxuegu.com/course/detail-4526.html)
 
 34 完结 [黑马博学谷短视频掘金流量训练营-VIP陪跑2022.01.17](https://www.boxuegu.com/)
+
+35 完结 [胡椒-爆款短视频剪辑变现特训营](https://m.youshu.cc/weixin/goods?from_ys_source=H5&goods_item_id=4412)
 
 ::: tip
 联系方式：微信：IT_Promise

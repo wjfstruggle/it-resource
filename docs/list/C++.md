@@ -2,7 +2,14 @@
 
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
+::: tip
+联系方式：微信：IT_Promise
 
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
+:::
 
 ## **体系课**
 
@@ -45,6 +52,8 @@
 19 完结 [【零声学院】Qt开发必备技术栈（Qt5/C语言/c++/数据库/OpenCV/Quick/Qt实战））](https://www.0voice.com/uiwebsite/html/courses/qt/qt-v1.2.html)
 
 20 完结 [顿开C++高级工程师](https://ke.qq.com/course/package/47576)
+
+21 更新 完结 [C++百万并发网络通信引擎架构与实现(服务端+客户端+跨平台)第2季（赠送第1季））](https://edu.51cto.com/course/11553.html)
 
 
 

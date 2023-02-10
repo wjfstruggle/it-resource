@@ -2,6 +2,15 @@
 
 #### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
+::: tip
+联系方式：微信：IT_Promise
+
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
+:::
+
 01 完结[大数据零基础入门求职路线](https://coding.imooc.com/learningpath/route?pathId=13)
 
 02 完结[八斗大数据十一期](http://www.badouxueyuan.com/)

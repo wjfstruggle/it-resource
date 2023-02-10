@@ -9,6 +9,16 @@
 
 ## 2023.2月上新
 
+更新 [图灵JAVA互联网架构师 6 期](https://vip.tulingxueyuan.cn/detail/p_63b51bd0e4b07b05582beaa4/8?product_id=p_63b51bd0e4b07b05582beaa4)
+
+更新 [【慕课网】java高级工程师](https://class.imooc.com/sale/javasenior)
+
+完结升级版 [慕课网前端框架及项目面试 聚焦Vue3/React/Webpack](https://coding.imooc.com/class/419.html)
+
+完结 [博学谷前端开发就业课（尊享无忧）](https://www.boxuegu.com/class/detail-4438.html)
+
+完结 [黑马博学谷【安卓】Android0基础到就业](https://www.boxuegu.com/course/detail-611.html)
+
 完结 [博学谷新媒体+短视频直播运营在线就业班](https://www.boxuegu.com/class/detail-3210.html)
 
 完结无密 [百战-Java互联网架构师](https://www.itbaizhan.com/user/javajiagou)

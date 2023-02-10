@@ -6,6 +6,8 @@
 
 完结 [京峰教育安卓/IOS/二进制逆向安全系列课程](https://m.ke.qq.com/course/package/53487)
 
+完结 [【路飞学城】爬虫开发+APP逆向超级大神班](https://www.luffycity.com/light-course)
+
 #### rysue逆向课程(打包优惠)
 
 完结 [零基础入门移动端爬虫培训班](https://m.weishi100.com/mweb/series/?id=1196327)
