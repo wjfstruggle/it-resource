@@ -1,6 +1,15 @@
 # coderwhy
 
-#### [**课程首页**](../index.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+
+::: tip
+联系方式：微信：IT_Promise
+
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
+:::
 
 01 完结 [深入Vue3+TypeScript技术栈-coderwhy大神新课](https://ke.qq.com/course/3453141)
 
@@ -62,13 +71,4 @@
 
 31 完结 [【coderwhy】Vue/React后端渲染SSR(Nuxt3+Next.js)](https://ke.qq.com/course/5597540)
 
-
-
-::: tip
-联系方式：微信：IT_Promise
-
-全网课程都有，欢迎私聊
-
-推荐好友下单返利，买的越多，返利越多
-
-:::
+32 完结 [TypeScript常见数据结构与算法-coderwhy大神新课](https://ke.qq.com/course/5909096?mmticket=#term_id=106127731)

@@ -1,6 +1,15 @@
 # 大数据
 
-#### [**课程首页**](../index.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+
+::: tip
+联系方式：微信：IT_Promise
+
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
+:::
 
 01 完结[大数据零基础入门求职路线](https://coding.imooc.com/learningpath/route?pathId=13)
 
@@ -67,6 +76,8 @@
 33 完结 [咕泡P4:大数据高薪项目实战（专项特训班）](https://ke.gupaoedu.cn/course/vip/1004)
 
 34 完结 [咕泡P5:Python大数据分析（高阶技术课）](https://ke.gupaoedu.cn/course/vip/1298)
+
+35 完结 [慕课网轻松入门大数据：玩转Flink，打造湖仓一体架构](https://coding.imooc.com/class/597.html)
 
 ::: tip
 联系方式：微信：IT_Promise

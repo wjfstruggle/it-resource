@@ -1,6 +1,15 @@
 # Java大实战
 
-#### [**课程首页**](../index.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+
+::: tip
+联系方式：微信：IT_Promise
+
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
+:::
 
 01 完结[小滴课堂21年工业级PaaS容器云平台+SpringCloud+JDK11综合大项目实战](https://xdclass.net/#/coursedetail?video_id=62)大佬超推
 
@@ -44,7 +53,7 @@
 
 26 更新 [小滴课堂全栈-商业级大型前端项目大课-小滴云在线教育平台](https://xdclass.net/videoDetailsPage?id=84)
 
-
+27 预约 [Java 亿级项目架构设计与落地应用](https://class.imooc.com/sale/project)
 
 ::: tip
 联系方式：微信：IT_Promise

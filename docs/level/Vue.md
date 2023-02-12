@@ -1,6 +1,6 @@
 # Vue
 
-#### [**课程首页**](../index.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ## Vue3
 
@@ -16,9 +16,9 @@
 
 完结 [Vue3专题课(架构)](http://www.javascriptpeixun.cn/goods/show/217?targetId=2377&preview=0)
 
-新课 [珠峰2021第一期Vue3架构课](http://www.javascriptpeixun.cn/goods/show/495)
+完结 [珠峰2021第一期Vue3架构课](http://www.javascriptpeixun.cn/goods/show/495)
 
-新课 [Vue3.0高阶实战：开发高质量音乐Web app](https://coding.imooc.com/class/503.html)
+完结 [Vue3.0高阶实战：开发高质量音乐Web app](https://coding.imooc.com/class/503.html)
 
 完结 [Vue3.0+TS打造企业级组件库 前端中高级开发者必修课](https://coding.imooc.com/class/466.html)
 
@@ -38,11 +38,19 @@
 
 完结 [【面向就业阶段】Vue3全家桶+Pinia+项目实战-coderwhy2022系统课](https://ke.qq.com/course/5348743)
 
-更新 [杨村长Vue3开源组件库实战（Vue3+Vite+VitePress+TSX+Tailwind）](https://appwhrkrsz84443.pc.xiaoe-tech.com/detail/p_62a44620e4b01c509abcbcda/6)
+完结 [杨村长Vue3开源组件库实战（Vue3+Vite+VitePress+TSX+Tailwind）](https://appwhrkrsz84443.pc.xiaoe-tech.com/detail/p_62a44620e4b01c509abcbcda/6)
 
 完结 [杨村长Vue源码全家桶剖析+手写（Vue2+Vue3+VueRouter+Vuex+Pinia)](https://appwhrkrsz84443.pc.xiaoe-tech.com/detail/p_62b4e11be4b0a51feef6bb4f/8)
 
-更新 [慕课网Vue3源码解析，打造自己的Vue3框架](https://coding.imooc.com/class/608.html)
+完结 [慕课网Vue3源码解析，打造自己的Vue3框架](https://coding.imooc.com/class/608.html)
+
+更新 [【慕课网】Vue3 + React18 + TS4入门到实战 系统学习3大热门技术](https://coding.m.imooc.com/classindex.html?cid=602)
+
+完结  [Vue3+TS打造SSR网站应用，0到1实现服务端渲染](https://coding.imooc.com/class/566.html)
+
+完结 [Vue3.0小兔鲜儿企业级电商项目开发实战](https://www.boxuegu.com/course/detail-4014.html)
+
+完结升级版 [慕课网前端框架及项目面试 聚焦Vue3/React/Webpack](https://coding.imooc.com/class/419.html)
 
 ## 好评首推
 
@@ -100,10 +108,13 @@
 
 新课 [慕课网SpringBoot2.X+Vue+UniAPP，全栈开发医疗小程序](https://coding.imooc.com/class/610.html)
 
+完结 [慕课网Vue3源码解析，打造自己的Vue3框架](https://coding.imooc.com/class/608.html)
 
+::: tip
+联系方式：微信：IT_Promise
 
-## **联系方式**
+全网课程都有，欢迎私聊
 
--  微信：IT_Promise
--  全网课程都有，欢迎私聊。
--  推荐好友下单返利，买的越多，返利越多
+推荐好友下单返利，买的越多，返利越多
+
+:::

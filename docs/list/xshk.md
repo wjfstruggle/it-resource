@@ -9,6 +9,48 @@
 
 ## 2023.2月上新
 
+更新 [珠峰架构师培养计划 16 期](https://www.javascriptpeixun.cn/goods/show/672)
+
+完结 [云原生CTO - k8s二次开发专题课](https://appc3qeyofl7606.h5.xiaoeknow.com/v1/goods/goods_detail/p_61837e09e4b0d721e3af2f0d)
+
+新课 [极客时间Java项目实战营 - 郑天民](https://u.geekbang.org/subject/java5th)
+
+完结 [爆款短视频剪辑变现特训营-胡椒](https://m.youshu.cc/weixin/goods?from_ys_source=H5&goods_item_id=4412)
+
+完结 [博学谷基于SaaS的餐掌柜项目实战](https://www.boxuegu.com/course/detail-2705.html)
+
+更新 [【小滴课堂】全栈-商业级大型前端云在线项目大课](https://xdclass.net/videoDetailsPage?id=84)
+
+完结 [陶辉的网络协议集训班](https://time.geekbang.org/course/intro/100070201)
+
+完结 [蒋德钧的 Redis 集训班](https://time.geekbang.org/course/intro/396)
+
+完结 [王宝令Java并发编程实战班](https://time.geekbang.org/column/intro/405)
+
+更新 [小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
+
+完结 [博学谷前端开发就业课（尊享无忧）](https://www.boxuegu.com/class/outline-4438.html)
+
+完结 [【图灵课堂】极速面试涨薪突击班](https://vip.tulingxueyuan.cn/detail/p_6103fb70e4b0bf642ffff2ea/8)
+
+完结 [大辰决胜网络协议](https://app7scxqsjh1141.h5.xiaoeknow.com/v1/goods/goods_detail/p_61dfc8ede4b0649b92118dbe)
+
+完结 [慕课Go开发工程师全新版2022【额外独家出售电子书】](https://class.imooc.com/sale/newgo)
+
+完结 [优点知识Go Web 开发进阶实战](https://youdianzhishi.com/web/course/1038)
+
+完结 [咕泡金三银四面试冲刺保过班](https://ke.gupaoedu.cn/course/vip/1934)
+
+完结 [拉勾21天Offer冲刺-Java](https://edu.lagou.com/kw/mocha/view/KYTVTXNG)
+
+完结 [小滴课堂全栈/后端高级工程师面试专题第一季](https://xdclass.net/#/coursedetail?video_id=49)
+
+完结 [图灵面试突击课](https://vip.tulingxueyuan.cn/all/4759890)
+
+完结 [图灵极速面试涨薪算法突击课](https://ke.qq.com/course/4457262#term_id=104623083)
+
+完结 [图灵剑指Offer-ACM大牛带你玩转数据结构与算法](https://ke.qq.com/course/429988#term_id=100513397)
+
 更新 [图灵JAVA互联网架构师 6 期](https://vip.tulingxueyuan.cn/detail/p_63b51bd0e4b07b05582beaa4/8?product_id=p_63b51bd0e4b07b05582beaa4)
 
 更新 [【慕课网】java高级工程师](https://class.imooc.com/sale/javasenior)

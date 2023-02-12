@@ -1,6 +1,6 @@
 # 数据结构算法
 
-#### [**课程首页**](../index.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 01 完结[小码哥恋上数据结构与算法①](https://ke.qq.com/course/385223)
 
@@ -34,7 +34,7 @@
 
 16 完结[【九章算法】面试高频题冲刺班2021](https://www.jiuzhang.com/course/80/)超推
 
-17完结[九章算法基础班 Python+Java 2021](https://www.jiuzhang.com/course/84)
+17完结 [九章算法基础班 Python+Java 2021](https://www.jiuzhang.com/course/84)
 
 18 完结 [极客时间算法训练营2021版](https://u.geekbang.org/subject/algorithm3rd)
 
@@ -56,25 +56,25 @@
 
 26 完结[【马士兵】数据结构与算法大师课（新课上新）](https://m.mashibing.com/subject/21)
 
-更新[【慕课】算法与数据结构高手养成-求职提升特训课](https://coding.imooc.com/class/ds/589)
+27 更新[【慕课】算法与数据结构高手养成-求职提升特训课](https://coding.imooc.com/class/ds/589)
 
-完结 [【课程 A】老汤 67 小时精讲：数据结构与算法](https://appvpmptkl94774.pc.xiaoe-tech.com/detail/p_62458be2e4b01a4851eba30c/8?product_id=p_62458be2e4b01a4851eba30c)
+28 完结 [【课程 A】老汤 67 小时精讲：数据结构与算法](https://appvpmptkl94774.pc.xiaoe-tech.com/detail/p_62458be2e4b01a4851eba30c/8?product_id=p_62458be2e4b01a4851eba30c)
 
-完结 [【课程 B】30天算法面试训练营](https://appvpmptkl94774.pc.xiaoe-tech.com/detail/p_62458c0ce4b09dda1254e1b4/8?product_id=p_62458c0ce4b09dda1254e1b4)
+29 完结 [【课程 B】30天算法面试训练营](https://appvpmptkl94774.pc.xiaoe-tech.com/detail/p_62458c0ce4b09dda1254e1b4/8?product_id=p_62458c0ce4b09dda1254e1b4)
 
-完结 [【课程 C】程序员基础内功系列课](https://appvpmptkl94774.pc.xiaoe-tech.com/detail/p_61ce7550e4b05006f9c406d9/8?product_id=p_61ce7550e4b05006f9c406d9)
+30 完结 [【课程 C】程序员基础内功系列课](https://appvpmptkl94774.pc.xiaoe-tech.com/detail/p_61ce7550e4b05006f9c406d9/8?product_id=p_61ce7550e4b05006f9c406d9)
 
 # 前端算法
 
-01 完结[智能社数据结构与算法](https://ke.qq.com/course/2203033)
+01 完结 [智能社数据结构与算法](https://ke.qq.com/course/2203033)
 
-02 完结[慕课JavaScript版数据结构与算法 轻松解决前端算法面试](https://coding.imooc.com/class/446.html)
+02 完结 [慕课JavaScript版数据结构与算法 轻松解决前端算法面试](https://coding.imooc.com/class/446.html)
 
-03 完结[开课吧门徒计划算法班-web方向](https://www.kaikeba.com/course/vip/699?channelCode=plat30ykxg011u)
+03 完结 [开课吧门徒计划算法班-web方向](https://www.kaikeba.com/course/vip/699?channelCode=plat30ykxg011u)
 
-04 完结[大圣前端啃算法 | Javascript实现](https://appx496fyc38425.h5.xiaoeknow.com/v1/goods/goods_detail/p_6206077ee4b066e96084552a?type=3)
+04 完结 [大圣前端啃算法 | Javascript实现](https://appx496fyc38425.h5.xiaoeknow.com/v1/goods/goods_detail/p_6206077ee4b066e96084552a?type=3)
 
-更新 [前端bubucuo前端算法实战](https://appuwwsm6cl6690.h5.xiaoeknow.com/v1/goods/goods_detail/p_63118a98e4b0c942648ff238?type=3)
+05 更新 [前端bubucuo前端算法实战](https://appuwwsm6cl6690.h5.xiaoeknow.com/v1/goods/goods_detail/p_63118a98e4b0c942648ff238?type=3)
 
 # 特别推荐
 

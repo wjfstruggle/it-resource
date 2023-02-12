@@ -89,7 +89,7 @@
 
 33 预定最优惠 [极客时间大数据项目实战营](https://time.geekbang.org/activity/promo?page_name=page_526)
 
-34 预定最优惠 [极客时间Java项目实战营](https://u.geekbang.org/subject/intro/1003093)
+34 更新 [极客时间Java项目实战营 - 郑天民](https://u.geekbang.org/subject/java5th)
 
 35 完结 [【极客时间】go零基础就业2022](https://u.geekbang.org/subject/basicgo)
 

@@ -1,6 +1,6 @@
 # 求职面试
 
-#### [**课程首页**](../index.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ## Java后端面试
 
@@ -138,7 +138,7 @@
 
 01 完结 [慕课网快速搞定前端初级JavaScript面试](https://coding.imooc.com/class/400.html)
 
-02 完结 [慕课网前端框架及项目面试 聚焦Vue/React/Webpack](https://coding.imooc.com/class/419.html)
+02 完结 [慕课网前端框架及项目面试 聚焦Vue3/React/Webpack](https://coding.imooc.com/class/419.html)
 
 03 完结 [前端跳槽面试必备技巧 面试官全流程指导](https://coding.imooc.com/class/129.html)
 
@@ -156,9 +156,161 @@
 
 10 更新 [慕课网前端面试全家桶：从求职准备到面试演练](https://coding.imooc.com/class/613.html)
 
+11 完结 [JavaScript版数据结构与算法 轻松解决前端算法面试](https://coding.imooc.com/class/446.html)
+
+12 完结 [前端校招直通车，实现Offer零距离](https://coding.imooc.com/class/536.html)
+
+### 面试推荐   
+
+01 完结 [拉勾21天Offer冲刺计划-Java](https://edu.lagou.com/kw/mocha/view/KYTVTXNG)
+
+02 完结 [小滴课堂全栈/后端高级工程师面试](https://xdclass.net/videoDetailsPage?id=49)
+
+03 完结 [小滴课堂简历编写-面试BAT高级工程师简历编写](https://xdclass.net/videoDetailsPage?id=54)
+
+04 完结 [九章算法面试高频题冲刺班](https://www.jiuzhang.com/course/80/)
+
+05 完结 [九章算法面试软技能指导 - 面试技巧/ BQ / Resume / Project](https://www.jiuzhang.com/course/69/)
+
+### 图灵面试突击   
+
+01 完结 [【图灵课堂】简历优化与面试突击指导](https://vip.tulingxueyuan.cn/detail/p_603a3a40e4b0b6e9418e54fd/6)
+
+02 完结 [【图灵课堂】极速面试涨薪突击班](https://vip.tulingxueyuan.cn/detail/p_6103fb70e4b0bf642ffff2ea/8)
+
+03 完结 [【图灵课堂】金三银四面试突击班](https://vip.tulingxueyuan.cn/detail/p_604b24d5e4b0e51d821d73b4/6)
+
+04 完结 [【图灵课堂】80道跳槽涨薪必备精选面试题](https://vip.tulingxueyuan.cn/detail/p_61055d2ce4b054ed7c4875eb/6)
+
+05 完结 [【图灵课堂】Leetcode算法突击训练营](https://vip.tulingxueyuan.cn/detail/p_607ed4dfe4b09134c98a1756/6)
+
+06 完结 [【图灵课堂】阿里、京东、蚂蚁等大厂面试真题解析](https://vip.tulingxueyuan.cn/detail/p_60fa64f2e4b0e6c3a313039e/6)
+
+07 完结 [【图灵课堂】Java高级架构师教程-剑指offer数据结构与算法](https://vip.tulingxueyuan.cn/detail/p_602e1fc9e4b0f176aed24995/6)
+
+08 完结 [【图灵课堂】计算机网络协议](https://vip.tulingxueyuan.cn/detail/p_602e1dd8e4b05a9e887343a7/6)
+
+09 完结 [【图灵课堂】TCP面试20问](https://vip.tulingxueyuan.cn/detail/p_61d7f9d4e4b07ecd8e214492/6)
+
+10 完结 [【图灵课堂】Redis面试突击第一季](https://vip.tulingxueyuan.cn/detail/p_62988b29e4b01a4852073c4e/6)
+
+11 完结 [【图灵课堂】金三银四面试一百题](https://vip.tulingxueyuan.cn/detail/p_63bbb7cae4b02685a434c0c0/6)
+
+12 完结 [【图灵课堂】JVM面试突击第一季](https://vip.tulingxueyuan.cn/detail/p_63bbb6e6e4b0fc5d12232abe/6)
+
+13 完结 [【图灵课堂】Java高级架构师教程-BATJ面试班](https://vip.tulingxueyuan.cn/detail/p_602e1f0be4b029faba1853ef/6)
+
+14 完结 [【图灵课堂】面试突击系列](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_6032545ae4b0f176aed326a5)
+
+### 马士兵面试突击
+
+01 完结 [不要小看一个redis_吊打面试官的硬核技能](https://ke.qq.com/course/480335)
+
+02 完结 [每周有营养的大厂算法面试题【马士兵教育】](https://ke.qq.com/course/4122671)
+
+03 完结 [金九银十面试突击班【马士兵教育】](https://ke.qq.com/course/3583073)
+
+04 完结 [面试突击班二期【马士兵教育】](https://ke.qq.com/course/3581450)
+
+05 完结 [金三银四Java互联网面试突击班【马士兵教育】](https://ke.qq.com/course/3295231)
+
+06 完结 [Java就业班面试指导](https://ke.qq.com/course/3385104)
+
+07 完结 [多线程与高并发_吊打面试官的硬核技能【马士兵教育】](https://ke.qq.com/course/3028260)
+
+08 完结 [金三银四涨薪必备常见面试题【马士兵教育】](https://ke.qq.com/course/3135227)
+
+09 完结 [Google面试真题【马士兵教育】](https://ke.qq.com/course/3135227)
+
+10 完结 [面试指导课【马士兵教育】](https://ke.qq.com/course/3135227)
+
+### 咕泡面试突击
+
+01 完结 [咕泡金三银四面试冲刺保过班](https://ke.gupaoedu.cn/course/vip/1934)
+
+02 完结 [咕泡Java应届生面试突击](https://ke.gupaoedu.cn/course/vip/1877)
+
+03 完结 [咕泡Redis面试集训班](https://ke.gupaoedu.cn/course/courses/1631)
+
+04 完结 [咕泡3天通关MySQL训练营金三银四面试不再难](https://ke.gupaoedu.cn/course/courses/1589)
+
+05 完结 [咕泡BATJ突击面试训练营](https://ke.gupaoedu.cn/course/courses/1570)
+
+06 完结 [咕泡2天掌握线程基础和线程池面试“圣经”](https://ke.gupaoedu.cn/course/courses/1534)
+
+07 完结 [咕泡2天通关大厂金三银四MySQL面试篇](https://ke.gupaoedu.cn/course/courses/1518)
+
+08 完结 [咕泡3天挑战MySQL从面试到实战训练营](https://ke.gupaoedu.cn/course/courses/1502)
+
+09 完结 [咕泡金三银四面试冲刺保过班](https://ke.gupaoedu.cn/course/vip/1934)
+
+10 完结 [咕泡Java应届生面试突击](https://ke.gupaoedu.cn/course/vip/1877)
+
+11 完结 [咕泡猎头手把手教你写简历 03 期](https://ke.gupaoedu.cn/course/courses/1595)
+
+### 博学谷面试突击
+
+01 完结 [黑马博学谷13小时撕碎Mybatis源码，吊打面试官](https://www.boxuegu.com/course/detail-5258.html)
+
+02 完结 [黑马博学谷UI/UE设计HR面试技巧](https://www.boxuegu.com/course/detail-1296.html)
+
+03 完结 [黑马博学谷软件测试HR面试技巧](https://www.boxuegu.com/course/detail-1297.html)
+
+04 完结 [黑马博学谷Go语言与区块链HR面试技巧](https://www.boxuegu.com/course/detail-1302.html)
+
+05 完结 [黑马博学谷Python+人工智能HR面试技巧](https://www.boxuegu.com/course/detail-1301.html)
+
+06 完结 [黑马博学谷JavaEE学科HR面试技巧](https://www.boxuegu.com/course/detail-1300.html)
+
+07 完结 [黑马博学谷前端与移动开发HR面试技巧](https://www.boxuegu.com/course/detail-1299.html)
+
+08 完结 [黑马博学谷就业面试精讲](https://www.boxuegu.com/course/detail-2000.html)
+
+09 完结 [黑马博学谷Golang工程师面试攻略](https://www.boxuegu.com/course/detail-2734.html)
+
+10 完结 [黑马博学谷BAT 大厂Java常见面试题](https://www.boxuegu.com/course/detail-3036.html)
+
+11 完结 [黑马博学谷解密BAT大厂高频核心面试题](https://www.boxuegu.com/course/detail-4292.html)
+
+12 完结 [黑马博学谷Java面试专题课(狂野架构师)](https://www.boxuegu.com/course/detail-4423.html)
+
+13 完结 [黑马博学谷Redis底层数据结构解析 互联网大厂面试技巧](https://www.boxuegu.com/course/detail-4518.html)
+
+### 极客面试突击
+
+01 完结 [算法面试通关40讲](https://time.geekbang.org/course/intro/100019701)
+
+02 完结 [技术面试官识人手册](https://time.geekbang.org/column/intro/100075401)
+
+03 完结 [动态规划面试宝典](https://time.geekbang.org/column/intro/100060501)
+
+04 完结 [后端技术面试 38 讲](https://time.geekbang.org/column/intro/100040201)
+
+05 完结 [面试现场](https://time.geekbang.org/column/intro/100023401)
+
+06 完结 [Java核心技术面试精讲](https://time.geekbang.org/column/intro/100006701)
+
+07 完结 [极客时间算法面试突击营2021](https://u.geekbang.org/subject/algorithm2nd/)
+
+### 拉勾面试突击 
+
+01 完结 [数据结构与算法面试宝典](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=685&sid=20-h5Url-0&buyFrom=2&pageId=1pz4#/sale)
+
+02 完结 [架构设计面试精讲](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=592&sid=20-h5Url-0&buyFrom=2&pageId=1pz4#/sale)
+
+03 完结 [32个Java面试必考点](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=1&sid=3-App_kaiwu_course-0&buyFrom=2&pageId=1pz4#/sale)
+
+04 完结 [如何高效准备简历和面试](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=4&sid=40-h5Url-0&buyFrom=2&pageId=1pz4#/sale)
+
+05 完结 [12步通关求职面试](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=18&sid=20-h5Url-0&buyFrom=2&pageId=1pz4#/sale)
+
 ## 其他
 
 更新 [C/C++/MySQL/Redis/操作系统/八股文/Leetcode/剑指Offer面试攻略)](https://ke.qq.com/course/5478818)
+
+完结 533 [慕课网Android面试超级攻略，攻破技术疑难及面试痛点](https://coding.imooc.com/class/533.html)
+
+
 
 ::: tip
 联系方式：微信：IT_Promise

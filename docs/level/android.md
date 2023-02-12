@@ -1,6 +1,15 @@
 # 安卓移动端
 
-#### [**课程首页**](../index.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+
+::: tip
+联系方式：微信：IT_Promise
+
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
+:::
 
 ### 体系课
 
@@ -22,7 +31,19 @@
 
 完结 [京峰教育安卓/IOS/二进制逆向安全系列课程](https://m.ke.qq.com/course/package/53487)
 
+完结 [黑马博学谷【安卓】Android0基础到就业](https://www.boxuegu.com/course/detail-611.html)
 
+### 微课
+
+[Android面试超级攻略，攻破技术疑难及面试痛点](https://coding.imooc.com/class/533.html)
+
+[手把手完成商业级社交App开发 进阶Android高级工程师](https://coding.imooc.com/class/390.html)
+
+[企业级Android应用架构设计与开发](https://coding.imooc.com/class/364.html)
+
+[剖析Framework面试 冲击Android高级职位](https://coding.imooc.com/class/340.html)
+
+ [国内Top团队大牛带你玩转Android性能分析与优化](https://coding.imooc.com/class/308.html)
 
 ::: tip
 联系方式：微信：IT_Promise

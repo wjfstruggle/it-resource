@@ -1,6 +1,15 @@
 # 大圣编程课堂
 
-#### [**课程首页**](../index.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+
+::: tip
+联系方式：微信：IT_Promise
+
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
+:::
 
 更新 [大圣前端源码漫游记|手写前端热门框架源码](https://appx496fyc38425.h5.xiaoeknow.com/v1/goods/goods_detail/p_629387e7e4b0cedf38b84f3)
 
@@ -13,12 +22,3 @@
 预约 [大圣老师的前端架构师私教课](https://appx496fyc38425.h5.xiaoeknow.com/v1/goods/goods_detail/p_625cd045e4b04e8d90314f0f?type=3)
 
 
-
-::: tip
-联系方式：微信：IT_Promise
-
-全网课程都有，欢迎私聊
-
-推荐好友下单返利，买的越多，返利越多
-
-:::

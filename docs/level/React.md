@@ -1,6 +1,6 @@
 # React
 
-#### [**课程首页**](../index.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 
 
@@ -43,6 +43,8 @@
 完结 [【bubucuo】React低代码项目](https://appuwwsm6cl6690.h5.xiaoeknow.com/v1/goods/goods_detail/p_62b2a825e4b06accb0709923?type=3)
 
 更新 [卡颂从0实现React18](https://appjiz2zqrn2142.h5.xiaoeknow.com/v1/goods/goods_detail/p_638035c1e4b07b05581d25db)
+
+更新 [【慕课网】Vue3 + React18 + TS4入门到实战 系统学习3大热门技术](https://coding.m.imooc.com/classindex.html?cid=602)
 
 ## **更多热门**
 
