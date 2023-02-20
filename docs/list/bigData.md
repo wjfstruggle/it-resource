@@ -63,7 +63,7 @@
 
 27 完结 [小滴课堂海量数据处理-商用短链平台项目大课](https://xdclass.net/#/coursedetail?video_id=71)超推荐大佬首推
 
-28 完结 [黑马博学谷狂野大数据四期](https://www.boxuegu.com/subject/data-03.html)会员非免费
+28 完结 [黑马博学谷狂野大数据1~7期](https://www.boxuegu.com/subject/data-03.html)会员非免费
 
 29 完结 [黑马狂野大数据（前置）](https://www.boxuegu.com/course/detail-3269.html)
 
@@ -78,6 +78,24 @@
 34 完结 [咕泡P5:Python大数据分析（高阶技术课）](https://ke.gupaoedu.cn/course/vip/1298)
 
 35 完结 [慕课网轻松入门大数据：玩转Flink，打造湖仓一体架构](https://coding.imooc.com/class/597.html)
+
+36 完结 [黑马博学谷【月度黄金会员】Python+大数据](https://www.boxuegu.com/class/outline-4656.html)
+
+37 完结 [黑马博学谷【季度铂金会员】Python+大数据](https://www.boxuegu.com/class/outline-4655.html)
+
+38 完结 [黑马博学谷【年度钻石会员】Python+大数据](https://www.boxuegu.com/class/outline-4654.html)
+
+39 完结 [黑马博学谷Python+大数据就业课（VIP）](https://www.boxuegu.com/class/outline-4300.html)
+
+40完结 [黑马博学谷【月度黄金会员】java零基础大数据](https://www.boxuegu.com/class/outline-4255.html)
+
+41完结 [黑马博学谷【季度铂金会员】java零基础大数据](https://www.boxuegu.com/class/outline-4254.html)
+
+42完结 [黑马博学谷【年度钻石会员】Java零基础大数据](https://www.boxuegu.com/class/outline-4253.html)
+
+43完结 [黑马博学谷黑马大数据课程视频（老学员专属）](https://www.boxuegu.com/course/detail-3999.html)
+
+44完结 [黑马博学谷零基础大数据在线就业班8.0](https://www.boxuegu.com/class/outline-3914.html)
 
 ::: tip
 联系方式：微信：IT_Promise

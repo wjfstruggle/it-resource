@@ -10,6 +10,8 @@ JAVA架构口碑连续3年NO1，比某马强很多
 
 已有：100+个课，已连续更新：4年
 
+联系方式：微信：IT_Promise
+
 :::
 
 ### 欢迎加入学习啦！
@@ -73,6 +75,8 @@ JAVA架构口碑连续3年NO1，比某马强很多
 12 完结 [【图灵课堂】Java高级开发工程师](https://vip.tulingxueyuan.cn/detail/p_607d27c6e4b09890f0e4d272/8)
 
 13 完结 [【图灵课堂】JAVA分布式12306售票系统分析与实战](https://vip.tulingxueyuan.cn/detail/p_62bc34dce4b00a4f371fef40/6)
+
+14 新课 [图灵Python全套实战项目班](https://appssry6rs71641.h5.xiaoeknow.com/v1/goods/goods_detail/p_628ef20ee4b0cedf38b6e660?product_id=p_628ef20ee4b0cedf38b6e660)
 
 # 面试突击课
 

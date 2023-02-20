@@ -34,3 +34,7 @@ https://pan.baidu.com/s/1hjeAOv8Yz2jEGsIr8nEhVw?pwd=dvfu
 7.体系课-轻松入门大数据玩转Flink，打造湖仓一体架构
 
 https://pan.baidu.com/share/init?surl=tjhkopvm4iDihF5e7kT_6g&pwd=bd99
+
+8.coderwhy系统课
+
+https://pan.baidu.com/s/1HO8cKPwTuuZWvZPPkEja-g?pwd=dsti#list/path=%2F

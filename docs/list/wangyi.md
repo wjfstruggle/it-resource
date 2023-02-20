@@ -2,6 +2,15 @@
 
 #### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
+::: tip
+联系方式：微信：IT_Promise
+
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
+:::
+
 1、[微专业从零起步，用Python进阶数据分析](https://mooc.study.163.com/smartSpec/detail/1202821601.htm)
 
 3、[微专业五个月精通python全栈技能](https://mooc.study.163.com/smartSpec/detail/1202847601.htm)

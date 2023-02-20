@@ -111,6 +111,8 @@
 
 49 完结 [极客-测试开发进阶训练营](https://u.geekbang.org/subject/go2nd)
 
+50 完结无密 [柠檬班-软件测试从小白到高手全程班92期|价值7980元|重磅首发](https://ke.qq.com/course/326208#term_id=103885835)
+
 ## 实战课
 
 01 完结[从零开始学测试 一步迈进互联网](https://coding.imooc.com/class/411.html)

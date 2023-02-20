@@ -211,6 +211,8 @@
 
 556 [SpringBoot 2.x 实战仿B站高性能后端项目](https://coding.imooc.com/class/556.html)
 
+553 [Taro3+Mysql+Express开发企业级出行全栈项目](https://coding.imooc.com/class/553.html)
+
 555 [基于 React + Redux/Mobx 搞定复杂项目状态管理](https://coding.imooc.com/class/555.html)
 
 550 [基于阿里云，从0构建云原生应用架构与开发实战](https://coding.imooc.com/class/550.html)
@@ -234,5 +236,13 @@
 533 [Android面试超级攻略，攻破技术疑难及面试痛点](https://coding.imooc.com/class/533.html)
 
 530 [SpringBoot+Vue3 项目实战，打造企业级在线办公系统](https://coding.imooc.com/class/530.html)
+
+529 [Dubbo 3 深度剖析 - 透过源码认识你](https://coding.imooc.com/class/529.html)
+
+519 [Python高级爬虫实战-系统掌握破解反爬技能 挑战高薪](https://coding.imooc.com/class/519.html)
+
+513 [Spark+ES+ClickHouse 构建DMP用户画像](https://coding.imooc.com/class/513.html)
+
+524 [0到1快速掌握Java全栈开发，玩转微信生态](https://coding.imooc.com/class/524.html)
 
 ...更多待录入ing

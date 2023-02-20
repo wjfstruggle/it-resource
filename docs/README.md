@@ -52,16 +52,18 @@
 
 [**求职面试**](./list/mianshi.md) [**人工智能**](./list/rgzn.md) [**圣思园**](./list/ssy.md) [**数据结构算法**](./list/sjjgsf.md) [**英语**](./list/english.md) 
 
-[**测试开发**](./list/ceshi.md) [**音视频开发**](./list/yinshipng.md) [**嵌入式**](./list/qianrushi.md) [**区块链**](./list/qukuailian.md) [**逆向课程**](./list/nixiang.md)
+[**测试开发**](./list/ceshi.md) [**音视频开发**](./list/yinshipng.md) [**嵌入式物联网**](./list/qianrushi.md) [**区块链**](./list/qukuailian.md) [**逆向课程**](./list/nixiang.md)
 
 [**新媒体**](./list/newMedia.md) [**全链路**](./list/qll.md)  [**玩转电商**](./list/wzds.md)  [**UI设计**](./list/UI.md) [**源码解析**](./list/code.md)
 
 ::: tip
 **联系方式**
 
-- 微信：IT_Promise
-- 全网课程都有，欢迎私聊。
-- 推荐好友下单返利，买的越多，返利越多
+微信：IT_Promise
+
+全网课程都有，欢迎私聊。
+
+推荐好友下单返利，买的越多，返利越多
 
 :::
 ------

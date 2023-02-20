@@ -2,6 +2,15 @@
 
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
+::: tip
+联系方式：微信：IT_Promise
+
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
+:::
+
 01 完结 [王校长从0到1:前端零基础就业班](https://m.lizhiweike.com/channel2/444543)
 
 02 完结 [开课吧web前端高级工程师20期](https://www.kaikeba.com/course/vip/294)
