@@ -67,6 +67,10 @@
 
 23 完结 [慕课网全能软件测试工程师](https://class.imooc.com/sale/test2022)
 
+24 预约 [【慕课网】物联网/嵌入式工程师](https://class.imooc.com/sale/embedded)
+
+25 预约 [【慕课网】计算机基础课](https://class.imooc.com/sale/computer)
+
 ## **大实战**
 
 01 完结[【体系课】数据可视化入门到精通打造前端差异化竞争力](https://coding.imooc.com/class/548.html)
@@ -79,15 +83,17 @@
 
 05 完结 [【微体系】多端全栈项目实战：商业级代驾全流程落地](https://coding.imooc.com/class/chapter/568.html#Anchor)
 
-06 更新[【慕课】算法与数据结构高手养成-求职提升特训课](https://coding.imooc.com/class/ds/589)
+06 完结[【慕课】算法与数据结构高手养成-求职提升特训课](https://coding.imooc.com/class/ds/589)
 
 07 完结 [慕课网轻松入门大数据：玩转Flink，打造湖仓一体架构](https://coding.imooc.com/class/597.html)
 
 08 更新 [产品经理电商系统实战，掌握前后端设计精髓](https://coding.imooc.com/class/552.html)
 
-09 预约 [手写操作系统 小班教学招生](https://class.imooc.com/sale/os)
+09 完结 [手写操作系统 小班教学招生1期](https://class.imooc.com/sale/os)
 
 10 预约 [Java 亿级项目架构设计与落地应用](https://class.imooc.com/sale/project)
+
+11 更新 [手写操作系统 小班教学招生2期](https://class.imooc.com/sale/os)
 
 ## **实战课**
 
@@ -95,13 +101,39 @@
 
 ::: tip
 
-慕课实战VIP
+慕课实战VIP，高清mp4网盘在线看
 
 终身免费学习，持续更新
 
 :::
 
+648 [Web3.0入门与实战 一站式掌握4大主流区块链开发](https://coding.imooc.com/class/6481.html)
+
+646 [React18+TS4+Next.js13，B端+C端完整业务+技术双闭环](https://coding.imooc.com/class/646.html)
+
+645 [前端必学 40个精选案例实战 一课吃透HTML5+CSS3+JS](https://coding.imooc.com/class/645.html)
+
+641 [Springboot3+微服务实战12306高性能售票系统](https://coding.imooc.com/class/641.html)
+
+640 [TS 从入门到深度掌握，晋级TypeScript高手](https://coding.imooc.com/class/640.html)
+
+639 [React18+TS+Vite 进阶实战 阅读类App](https://coding.imooc.com/class/639.html)
+
+638 [C++ 从0到1系统精讲 项目开发综合基础课](https://coding.imooc.com/class/638.html)
+
+635 [SpringCloudalibaba+Vue开发仿社交小程序](https://coding.imooc.com/class/635.html)
+
+633 [百度官方出品:代码的艺术 卓越工程师必修课](https://coding.imooc.com/class/633.html?mc_marking=bb86c9071ed9b7cf12612a2a85203372&mc_channel=hk)
+
+631 [系统集成项目管理工程师(软考中级)，一站式通关课](https://coding.imooc.com/class/631.html)
+
 630 [TensorFlow+CNN实战AI图像处理，入行计算机视觉](https://coding.imooc.com/class/630.html)
+
+629 [Python+Requests零基础系统掌握接口自动化测](https://coding.imooc.com/class/629.html)
+
+628 [RN从0到1系统精讲与小红书APP实战（2023版）](https://coding.imooc.com/class/628.html)
+
+627 [K8s+gRPC 云原生微服务开发与治理实战](https://coding.imooc.com/class/627.html)
 
 626 [慕课网Netty+SpringBoot 开发即时通讯系统](https://coding.imooc.com/class/626.html?mc_marking=bb86c9071ed9b7cf12612a2a85203372&mc_channel=hk)
 
@@ -114,6 +146,10 @@
 622 [慕课网WebGL+Three.js 入门与实战，系统学习 Web3D 技术](https://coding.imooc.com/class/622.html?mc_marking=bb86c9071ed9b7cf12612a2a85203372&mc_channel=hk)
 
 621 [系统解析JDK源码](https://coding.imooc.com/class/621.html)
+
+620 [Vue3+TS+Vite+Vant-UI 开发双端招聘APP](https://coding.imooc.com/class/620.html)
+
+619 [Web安全渗透测试](https://coding.imooc.com/class/619.html)
 
 618 [看动画，轻松学习23种C++设计模式](https://coding.imooc.com/class/618.html)
 

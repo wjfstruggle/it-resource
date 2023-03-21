@@ -7,7 +7,89 @@
 
 #### [**课程首页**](../../README.md) 💖[**更新记录**](./gxjl-2023.md) 💖[**热门推荐**](./rmtj.md) 💖[**会员中心**](./vip.md)
 
+## 2023.3月上新
+
+完结 [杨村长React全栈进阶实战](https://appwhrkrsz84443.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/p_6402a238e4b07b0558395e96)
+
+更新 [前端早早聊2023](https://www.zaozao.run/conf/2023)
+
+推荐 [前端早早聊天使票](https://www.zaozao.run/conf/angel)
+
+更新 [咕泡唐宇迪人工智能深度学习系统班7期（6期已完结）](https://ke.gupaoedu.cn/course/vip/1944)
+
+完结 [七米Go语言微服务与云原生](https://study.163.com/course/introduction.htm?courseId=1212937804)
+
+完结 [博学谷鸿蒙智能无人车](https://www.boxuegu.com/live/detail-4468.html)
+
+完结 [夏曹俊C++音视频实战-FFmpeg基础到工程-多路H265监控录放开发](https://edu.51cto.com/course/24960.html)
+
+更新 [零声C/C++Linux服务器开发/高级架构师2023](https://ke.qq.com/course/420945)
+
+推荐 [前端早早聊天使票](https://www.zaozao.run/conf/angel)
+
+完结 [咕泡Java互联网高级架构师6期](https://ke.gupaoedu.cn/course/vip/288)
+
+完结 [软考高级2023：信息系统项目管理师](https://e.51cto.com/training_1094.html)
+
+完结 [手写操作系统 小班教学招生1期](https://class.imooc.com/sale/os)
+
+更新 [手写操作系统 小班教学招生2期](https://class.imooc.com/sale/os)
+
+完结 [慕课Java高级工程师](https://class.imooc.com/sale/javasenior)
+
+完结 [博学谷短视频掘金流量陪跑训练营3.0](https://www.boxuegu.com/course/outline-5229.html)
+
+完结 [咕泡P5:Java互联网高阶技术（高薪就业班）](https://ke.gupaoedu.cn/course/vip/292)
+
+完结 [咕泡大数据从高开到架构系统提升班](https://ke.gupaoedu.cn/course/vip/293)
+
+完结 [咕泡AIoT人工智能物联网精选课](https://ke.gupaoedu.cn/course/vip/1887)
+
+完结 [咕泡计算机网络原理及应用](https://ke.gupaoedu.cn/course/vip/1720)
+
+完结 [咕泡人工智能机器学习系统班](https://ke.gupaoedu.cn/course/vip/1007)
+
+完结 [咕泡唐宇迪人工智能深度学习系统班6期](https://ke.gupaoedu.cn/course/vip/294)
+
 ## 2023.2月上新
+
+完结 [博学谷新媒体进阶提升课](https://www.boxuegu.com/course/detail-4976.html)
+
+完结 [马士兵嵌入式物联网/C++工程师](https://www.mashibing.com/subject/13)
+
+更新 [卡颂从0实现React18](https://appjiz2zqrn2142.h5.xiaoeknow.com/v1/goods/goods_detail/p_638035c1e4b07b05581d25db)
+
+完结 [卡颂自顶向下学 React 源码](https://ke.segmentfault.com/course/1650000023864436)
+
+更新 [极客时间前端进阶特训营winter、杨村长、然叔、高少云](https://u.geekbang.org/subject/fe4th)
+
+更新 [拉勾Java工程师21天Offer冲刺计划](https://kaiwu.lagou.com/xunlianying/index.html?courseId=175)
+
+完结 [博学谷JavaEE就业课2023](https://www.boxuegu.com/class/outline-5570.html)
+
+完结 [极客时间邓明Go实战训练营 1 期](https://u.geekbang.org/subject/go2nd) 全新升级
+
+完结 [博学谷电商运营设计在线就业班](https://www.boxuegu.com/class/outline-1354.html)
+
+完结 [博学谷新媒体+短视频直播运营](https://www.boxuegu.com/class/outline-3754.html)
+
+即将出货 [极客时间21天职场突围特训营](https://u.geekbang.org/subject/intro/1005257)
+
+完结 [易道云C语言/C++零基础到大神全栈(后台开发/QT/Linux/实战项目/游戏)](https://ke.qq.com/course/450953)
+
+完结 [博学谷电商运营2023](https://www.boxuegu.com/course/detail-4527.html)
+
+更新 [九章算法班 2023版](https://www.jiuzhang.com/course/71)
+
+完结 [dpdk/网络协议栈/vpp/OvS/DDos/SDN/NFV/虚拟化/高性能专家之路【零声教育】](https://ke.qq.com/course/3941319)
+
+完结 [涌泉私塾（2年卡）发掘投资，顶级高手，传授点金之术](https://ke.qq.com/course/3941319)
+
+更新 [【韦东山】90天RTOS双架构双系统项目实战班](https://m.tb.cn/h.UoNV28F?tk=pYwidS2IHBU)
+
+更新 [【韦东山】嵌入式Linux全新系列教程之驱动大全(基于STM32MP157开发板)](https://m.tb.cn/h.UoN5xxq?tk=SAObdS2uyex)
+
+更新 [【韦东山】嵌入式Linux全新系列教程之驱动大全(基于IMX6ULL开发板)](https://m.tb.cn/h.UoN5xxq?tk=SAObdS2uyex)
 
 更新 [珠峰架构师培养计划 16 期](https://www.javascriptpeixun.cn/goods/show/672)
 

@@ -141,9 +141,9 @@
 
 70 更新 [咕泡Java架构师 6 期](https://ke.qq.com/course/188630)
 
-71 更新[黑马博学谷狂野架构师第三期](https://www.boxuegu.com/subject/architect-01.html)会员非免费
+71 完结 [黑马博学谷狂野架构师第三期](https://www.boxuegu.com/subject/architect-01.html)会员非免费
 
-72 更新[黑马博学谷狂野架构师第四期](https://www.boxuegu.com/subject/architect-01.html)会员非免费
+72 更新 [黑马博学谷狂野架构师第四期](https://www.boxuegu.com/subject/architect-01.html)会员非免费
 
 73 更新 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
 

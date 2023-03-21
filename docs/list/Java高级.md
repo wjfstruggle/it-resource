@@ -141,13 +141,13 @@
 
 70 更新 [咕泡Java架构师 6 期](https://ke.qq.com/course/188630)
 
-71 更新[黑马博学谷狂野架构师第三期](https://www.boxuegu.com/subject/architect-01.html)会员非免费
+71 完结 [黑马博学谷狂野架构师第三期](https://www.boxuegu.com/subject/architect-01.html)会员非免费
 
-72 更新[黑马博学谷狂野架构师第四期](https://www.boxuegu.com/subject/architect-01.html)会员非免费
+72 更新 [黑马博学谷狂野架构师第四期](https://www.boxuegu.com/subject/architect-01.html)会员非免费
 
 73 更新 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
 
-74 更新 [小马哥 Java 训练营 第一期 Java 分布式架构 - 服务治理](https://mztp.yuque.com/docs/share/3b9d972e-8620-4209-83d6-d9186123f4ee)
+74 完结 [小马哥 Java 训练营 第一期 Java 分布式架构 - 服务治理](https://mztp.yuque.com/docs/share/3b9d972e-8620-4209-83d6-d9186123f4ee)
 
 75 完结 [黑马Java架构师实战训练营（升级版）【1-8期都有】](https://www.boxuegu.com/live/outline-3969.html)
 
@@ -170,8 +170,6 @@
 84 预约 [Java 亿级项目架构设计与落地应用](https://class.imooc.com/sale/project)
 
 85 更新 [图灵JAVA互联网架构师 6 期](https://vip.tulingxueyuan.cn/detail/p_63b51bd0e4b07b05582beaa4/8?product_id=p_63b51bd0e4b07b05582beaa4)
-
-86 新课 [极客时间Java项目实战营 - 郑天民](https://u.geekbang.org/subject/java5th)
 
 **更多Java**
 

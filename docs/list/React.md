@@ -46,6 +46,8 @@
 
 更新 [【慕课网】Vue3 + React18 + TS4入门到实战 系统学习3大热门技术](https://coding.m.imooc.com/classindex.html?cid=602)
 
+新课 [React全栈进阶实战](https://appwhrkrsz84443.h5.xiaoeknow.com/v1/goods/goods_detail/p_6402a238e4b07b0558395e96?type=3&share_type=5&share_user_id=u_6310ca19eaa50_DJcQkOwIwx&entry=2&entry_type=2002)
+
 ## **更多热门**
 
 完结 [ReactNative+TypeScript仿喜马拉雅开发App](https://coding.imooc.com/class/435.html)

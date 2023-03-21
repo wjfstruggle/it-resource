@@ -81,7 +81,7 @@
 
 29 更新 [极客时间前端进阶特训营winter、杨村长、然叔、高少云](https://u.geekbang.org/subject/fe4th)
 
-30 预定最优惠 [极客时间测试开发进阶训练营](https://u.geekbang.org/subject/test)
+30 完结 [极客时间测试开发进阶训练营](https://u.geekbang.org/subject/test)
 
 31 更新 [极客时间高级java工程师体系课](https://u.geekbang.org/subject/java4th)
 
@@ -93,9 +93,9 @@
 
 35 完结 [【极客时间】go零基础就业2022](https://u.geekbang.org/subject/basicgo)
 
-36 更新 [【0期升级】极客Go实战训练营-邓明主讲-全新升级第一期](https://u.geekbang.org/subject/go2nd)
+36 完结 [【0期升级】极客Go实战训练营-邓明主讲-全新升级第一期](https://u.geekbang.org/subject/go2nd)
 
-37 完结 [极客-测试开发进阶训练营](https://u.geekbang.org/subject/go2nd)
+37 完结 [极客时间测试开发进阶训练营](https://u.geekbang.org/subject/test)
 
 ## 集训班（3 个）
 

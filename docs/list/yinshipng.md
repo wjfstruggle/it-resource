@@ -21,7 +21,10 @@
 
 完结 [WebRTC音视频技术入门与提高【零声教育】](https://ke.qq.com/course/435382)
 
-完结 [FFmpeg/直播/WebRtc音视频会议/视频编辑/音视频【VIP课程】](FFmpeg/直播/WebRtc音视频会议/视频编辑/音视频【VIP课程】)
+完结 [FFmpeg/直播/WebRtc音视频会议/视频编辑/音视频【VIP课程】](https://m.ke.qq.com/course/2263825)
 
 完结 [慕课网WebRTC源码级深度解析，进阶大厂高级音视频开发者](https://coding.imooc.com/class/532.html)
 
+完结 [码牛-移动互联网高级开发正式课2期|2021年|价值6980元|完结无秘](https://ke.qq.com/course/2024962#term_id=102126187)
+
+ 

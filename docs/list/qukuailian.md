@@ -6,7 +6,7 @@
 
 02 完结 [图灵JAVA从零开始开发区块链](https://vip.tulingxueyuan.cn/detail/p_602e542ee4b0f176aed258eb/6)
 
-03 完结 [开课吧区块链工程师精英培养计划](http://leaaiv.cn/project-1/doc-82/)
+03 完结 [开课吧区块链工程师精英培养计划](https://wx.kaikeba.com/vipcourse/tye3hvurya/6o38qeuxe9)
 
 04 完结 [开课吧web3.0应用工程师培养计划](https://wx.kaikeba.com/vipcourse/tye3hvurya/6o38qeuxe9)
 

@@ -49,6 +49,20 @@
 
 19 更新 [千峰-java就业班2023年|价值19800元|重磅首发|无秘更新中](http://www.qfedu.com/java/)
 
+20 完结 [咕泡P5:Java互联网高阶技术（高薪就业班）](https://ke.gupaoedu.cn/course/vip/292)
+
+21 完结 [咕泡P4:Java互联网分布式技术（高薪就业班） 01 期](https://ke.gupaoedu.cn/course/vip/1048)
+
+22 完结 [咕泡P4:Java互联网分布式技术（高薪就业班） 02 期](https://ke.gupaoedu.cn/course/vip/1048)
+
+23 完结 [黑马博学谷JavaEE就业课(尊享无忧)](https://www.boxuegu.com/class/outline-5471.html)
+
+24 完结 [黑马博学谷JavaEE就业课（VIP）](https://www.boxuegu.com/class/outline-4547.html)
+
+25 完结 [黑马博学谷java架构师就业课](https://www.boxuegu.com/class/outline-4296.html)
+
+26 更新 韩顺平2022 java工程师，即将完结【需要大纲的请私聊我】
+
 ::: tip
 联系方式：微信：IT_Promise
 

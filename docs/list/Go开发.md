@@ -52,9 +52,9 @@
 
 22 完结 [【极客】go零基础就业2022](https://u.geekbang.org/subject/basicgo)
 
-22 更新 [【0期升级】极客Go实战训练营-邓明主讲-全新升级第一期](https://u.geekbang.org/subject/go2nd)
+22 完结 [【0期升级】极客Go实战训练营-邓明主讲-全新升级第一期](https://u.geekbang.org/subject/go2nd)
 
-完结 [【34周】慕课Go开发工程师全新版](https://class.imooc.com/sale/newgo)
+23 完结 [【34周】慕课Go开发工程师全新版](https://class.imooc.com/sale/newgo)
 
 ## **专题小实战**
 

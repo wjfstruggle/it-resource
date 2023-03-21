@@ -38,3 +38,19 @@ https://pan.baidu.com/share/init?surl=tjhkopvm4iDihF5e7kT_6g&pwd=bd99
 8.coderwhy系统课
 
 https://pan.baidu.com/s/1HO8cKPwTuuZWvZPPkEja-g?pwd=dsti#list/path=%2F
+
+黑马-Go语言与区块链在线就业班 【价值16980元】
+
+https://pan.baidu.com/s/1UZ0dL7H4JUe0LZSjWvwg-g#list/path=%2F&parentPath=%2F
+
+629 Python+Requests零基础系统掌握接口自动化测
+
+https://pan.baidu.com/s/1nQWXt5GC3JQJoXA41ZIzhQ?pwd=ju9t
+
+## Vue3+Pinia+Vite+TS 还原高性能外卖APP项目
+
+https://pan.baidu.com/s/1cf_herVyTcZ5aNnu0ZJmoA?pwd=f6rt
+
+## K8s+gRPC 云原生微服务开发与治理实战|无密第八章
+
+https://pan.baidu.com/share/init?surl=aJvjUuQIzcFyvQxPPx4XFw&pwd=dw9w

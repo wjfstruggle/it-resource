@@ -53,7 +53,7 @@
 
 20 完结 [顿开C++高级工程师](https://ke.qq.com/course/package/47576)
 
-21 更新 完结 [C++百万并发网络通信引擎架构与实现(服务端+客户端+跨平台)第2季（赠送第1季））](https://edu.51cto.com/course/11553.html)
+21 完结 [C++百万并发网络通信引擎架构与实现(服务端+客户端+跨平台)第2季（赠送第1季））](https://edu.51cto.com/course/11553.html)
 
 
 
@@ -95,9 +95,11 @@
 
 ## **微课**
 
-完结 [慕课网重学C++ ，重构你的C++知识体系](https://coding.imooc.com/class/414.html)
+完结  [414 慕课网重学C++ ，重构你的C++知识体系](https://coding.imooc.com/class/414.html)
 
-完结 [慕课网C/C++气象数据中心实战，手把手教你做工业级项目](https://coding.imooc.com/class/chapter/546.html#Anchor)
+完结  [546 慕课网C/C++气象数据中心实战，手把手教你做工业级项目](https://coding.imooc.com/class/chapter/546.html#Anchor)
+
+完结  [618 慕课网看动画，轻松学习23种C++设计模式](https://coding.imooc.com/class/618.html)
 
 ::: tip
 联系方式：微信：IT_Promise

@@ -68,6 +68,8 @@
 
 33 完结 [咕泡AIoT人工智能物联网精选课](https://ke.gupaoedu.cn/course/vip/1887)
 
+34 完结无密 [七月在线-深度学习集训营第三期|2022年|价值4999元|重磅首发|完结无密](http://www.julyedu.com/weekend/dl3)
+
 ## 更多推荐
 
 [**后厂理工**](./hclg.md) [**深度之眼**](./sdzy.md) [**数据技术课堂**](./sjjskt.md)
