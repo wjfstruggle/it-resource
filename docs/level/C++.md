@@ -53,7 +53,7 @@
 
 20 完结 [顿开C++高级工程师](https://ke.qq.com/course/package/47576)
 
-21 更新 完结 [C++百万并发网络通信引擎架构与实现(服务端+客户端+跨平台)第2季（赠送第1季））](https://edu.51cto.com/course/11553.html)
+21 完结 [C++百万并发网络通信引擎架构与实现(服务端+客户端+跨平台)第2季（赠送第1季））](https://edu.51cto.com/course/11553.html)
 
 
 
@@ -91,13 +91,43 @@
 
 更新 [【零声学院】C/C++Linux服务器开发/高级架构师2207期](https://ke.qq.com/course/420945)
 
+完结 [30小时快速精通C++和游戏辅助实战-大神MJ精选(1,2期)](https://ke.qq.com/course/336509#term_id=100476446)
 
+完结 [C++百万并发网络通信引擎架构与实现第2季](https://edu.51cto.com/course/11553.html)
+
+完结 [开课吧C++开发工程师新职课V4-2022](https://xiaoe.kaikeba.com/p/t_pc/goods_pc_detail/goods_detail/p_63732ed6e4b0edc794f53bad)
+
+完结 [侯捷C++开发工程师](https://study.163.com/topics/houjieC)
+
+完结  C++项目-手写移植Nginx和SGI STL内存池源码
+
+完结 手写数据库连接池-C++11代码实战经典-多线程和智能指针
+
+完结 七牛学院-C/C++从入门到精通-高级程序员之路第2期
+
+完结  C++开发工程师高级进阶课程-提升C++面试和开发能力
+
+完结 C++开发工程师基础进阶课程-夯实C++基础核心内容
+
+完结 【VIP】C语言/C++ 零基础入门精编版 (最新C++17标准/语法/逆向/技巧)
+
+完结 【高级】手写C++ Muduo网络库项目-掌握高性能网络库实现原理
+
+完结 【高级】C++项目-实现分布式网络通信框架-rpc通信原理
+
+完结 王健伟C++全套教程 C/C++这一套就够了
+
+完结  动脑教育-C/C++ Linux服务器开发/高级架构师课程
+
+完结 OpenGL超级全家桶套餐(22门合集)
 
 ## **微课**
 
-完结 [慕课网重学C++ ，重构你的C++知识体系](https://coding.imooc.com/class/414.html)
+完结  [414 慕课网重学C++ ，重构你的C++知识体系](https://coding.imooc.com/class/414.html)
 
-完结 [慕课网C/C++气象数据中心实战，手把手教你做工业级项目](https://coding.imooc.com/class/chapter/546.html#Anchor)
+完结  [546 慕课网C/C++气象数据中心实战，手把手教你做工业级项目](https://coding.imooc.com/class/chapter/546.html#Anchor)
+
+完结  [618 慕课网看动画，轻松学习23种C++设计模式](https://coding.imooc.com/class/618.html)
 
 ::: tip
 联系方式：微信：IT_Promise

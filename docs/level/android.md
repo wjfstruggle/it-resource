@@ -33,6 +33,14 @@
 
 完结 [黑马博学谷【安卓】Android0基础到就业](https://www.boxuegu.com/course/detail-611.html)
 
+完结 [码牛-移动互联网高级开发正式课2期|2021年|价值6980元|完结无秘](https://ke.qq.com/course/2024962#term_id=102126187)
+
+完结 [Android（安卓）移动互联网架构开发（VIP班）【享学课堂】1-4期](https://ke.qq.com/course/347420?mmticket=#term_id=105816715)
+
+完结 [移动互联网高级开发正式课【VIP课程】【码牛学院】](https://ke.qq.com/course/2024962/12470261452301826?course_id=2024962&mmticket=#term_id=104592243)
+
+完结 [网易工程师带你突破Android技术瓶颈](https://mooc.study.163.com/smartSpec/detail/1202810601.htm?utm_campaign=share&utm_medium=iphoneShare&utm_source=weixinMoment&utm_u=1389350319)
+
 ### 微课
 
 [Android面试超级攻略，攻破技术疑难及面试痛点](https://coding.imooc.com/class/533.html)

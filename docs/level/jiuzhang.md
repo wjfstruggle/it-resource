@@ -79,7 +79,7 @@
 
 33 [九章算法软件工程师旗舰课 2022](https://www.jiuzhang.com/premium-course/159/) 会员非免费
 
-
+34 [九章算法班 2023版，最新26期](https://www.jiuzhang.com/course/71)
 
 ## 来offer
 
@@ -90,5 +90,4 @@
 03完结[来offer人工智能与数据科学强化课程](https://www.laioffer.com/zh/course/ai-and-data-engineering/)
 
 04完结来offer算法旗舰班
-
 

@@ -2,6 +2,15 @@
 
 #### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
+::: tip
+联系方式：微信：IT_Promise
+
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
+:::
+
 01 完结[uni-app 快速入门 从零开始实现新闻资讯类跨端应用](https://coding.imooc.com/class/433.html)
 
 02 完结[uni-app实战仿微信app开发](https://study.163.com/course/introduction/1209487898.htm)

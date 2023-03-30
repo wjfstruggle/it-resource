@@ -28,6 +28,14 @@
 
 13 完结 [青灯Python爬虫开发从入门到实战](https://ke.qq.com/course/405353#term_id=106050282)
 
+## 实战课
+
+519 [Python高级爬虫实战-系统掌握破解反爬技能 挑战高薪](https://coding.imooc.com/class/519.html)
+
+325 [python爬虫工程师从入门到进阶](https://coding.imooc.com/class/325.html)
+
+283 [移动端Python爬虫实战 数据抓取+数据可视化](https://coding.imooc.com/class/283.html)
+
 ::: tip
 联系方式：微信：IT_Promise
 

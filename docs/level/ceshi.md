@@ -111,6 +111,12 @@
 
 49 完结 [极客-测试开发进阶训练营](https://u.geekbang.org/subject/go2nd)
 
+50 完结无密 [柠檬班-软件测试从小白到高手全程班92期|价值7980元|重磅首发](https://ke.qq.com/course/326208#term_id=103885835)
+
+51 更新 [软件测试Java+Python双语自动化+测开+性能测试高级系统涨薪课程](https://ke.qq.com/course/317690#term_id=104092845)
+
+52 完结 [霍格沃兹软件测试 / 名企定向培养测试开发Python进阶班 第22期（22年7月完结）](https://m.ke.qq.com/course/package/41249?_bid=167&_wv=1)
+
 ## 实战课
 
 01 完结[从零开始学测试 一步迈进互联网](https://coding.imooc.com/class/411.html)

@@ -51,6 +51,8 @@
 
 20 完结 [黑马博学谷前端开发就业课（VIP）](https://www.boxuegu.com/class/outline-955.html)
 
+21 完结 [博学谷HTML&JS+前端就业课2023](https://www.boxuegu.com/coursePage/?subject=web)
+
 **更多Web**
 
 [**前端高级**](./qianduanGJ.md) [**React**](./React.md) [**Vue**](./Vue.md) [**Node**](./Node.md) [**可视化**](./ksh.md) [**coderwhy**](./coderwhy.md)
@@ -58,12 +60,3 @@
 [**珠峰**](./zhufeng.md) [**智能社**](./zns.md) [**flutter**](./flutter.md) [**小码哥**](./xiaomage.md) [**uni-app**](./uni-app.md) [**开课吧**](./kaikeba.md)
 
 
-
-::: tip
-联系方式：微信：IT_Promise
-
-全网课程都有，欢迎私聊
-
-推荐好友下单返利，买的越多，返利越多
-
-:::

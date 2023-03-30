@@ -76,6 +76,10 @@
 
 05 更新 [前端bubucuo前端算法实战](https://appuwwsm6cl6690.h5.xiaoeknow.com/v1/goods/goods_detail/p_63118a98e4b0c942648ff238?type=3)
 
+06 完结 [TypeScript常见数据结构与算法-coderwhy大神新课](https://ke.qq.com/course/5909096?mmticket=#term_id=106127731)
+
+07 完结 [TypeScript高阶数据结构与算法-coderwhy大神新课](https://ke.qq.com/course/5909097#term_id=106127732)
+
 # 特别推荐
 
 [九章算法](http://leaaiv.cn/project-1/doc-42/)

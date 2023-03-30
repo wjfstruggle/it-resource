@@ -113,6 +113,8 @@
 
 645 [前端必学 40个精选案例实战 一课吃透HTML5+CSS3+JS](https://coding.imooc.com/class/645.html)
 
+642 [Kubernetes系统精讲 Go语言实战K8S集群可视化](https://coding.imooc.com/class/642.html)
+
 641 [Springboot3+微服务实战12306高性能售票系统](https://coding.imooc.com/class/641.html)
 
 640 [TS 从入门到深度掌握，晋级TypeScript高手](https://coding.imooc.com/class/640.html)
@@ -120,6 +122,8 @@
 639 [React18+TS+Vite 进阶实战 阅读类App](https://coding.imooc.com/class/639.html)
 
 638 [C++ 从0到1系统精讲 项目开发综合基础课](https://coding.imooc.com/class/638.html)
+
+636 [（最新版）Python 分布式爬虫与 JS 逆向进阶实战](https://coding.imooc.com/class/636.html)
 
 635 [SpringCloudalibaba+Vue开发仿社交小程序](https://coding.imooc.com/class/635.html)
 

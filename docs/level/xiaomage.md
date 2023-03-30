@@ -1,6 +1,15 @@
 # 小码哥
 #### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
+::: tip
+联系方式：微信：IT_Promise
+
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
+:::
+
 
 01 完结[小码哥恋上数据结构与算法（第一季）](https://ke.qq.com/course/385223)
 
@@ -28,10 +37,7 @@
 
 13 完结[小码哥套餐-Flutter零基础女装商城实战](https://ke.qq.com/course/package/18833)
 
+14 更新 [小马哥Java分布式架构-模式、设计与实现 2 期](https://apprnzlvz344455.h5.xiaoeknow.com/v1/goods/goods_detail/course_2JiKduWEsSYabs5nn21IcpIm2YQ)
 
+15 完结 [小马哥 Java 训练营 第一期 Java 分布式架构 - 服务治理](https://mztp.yuque.com/docs/share/3b9d972e-8620-4209-83d6-d9186123f4ee)
 
-## **联系方式**
-
--  微信：IT_Promise
--  全网课程都有，欢迎私聊。
--  推荐好友下单返利，买的越多，返利越多

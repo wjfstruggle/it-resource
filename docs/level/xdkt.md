@@ -2,7 +2,14 @@
 
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
+::: tip
+联系方式：微信：IT_Promise
 
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
+:::
 
 ## 大课
 
@@ -21,12 +28,14 @@
 ::: tip
 **小滴会员免费看，包更新**
 
-同步更新到2022.12.17号
+更新时间2023.3.27
 
 :::
 ------
 
 详情目录（全部都有）：[小滴官方网址](https://xdclass.net/#/courselist)
+
+[87.uniapp+vue3+vite多端零基础入门到项目实战](https://xdclass.net/videoDetailsPage?id=87)
 
 [86.零基础完整数据结构与算法-急速上手](https://xdclass.net/videoDetailsPage?id=86)
 
@@ -196,8 +205,3 @@
 
 [1. SpringBoot+Websocket打造实时聊天/股票行情系统](https://xdclass.net/#/coursedetail?video_id=1)
 
-## **联系方式**
-
--  微信：IT_Promise
--  全网课程都有，欢迎私聊。
--  推荐好友下单返利，买的越多，返利越多

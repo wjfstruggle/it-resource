@@ -13,31 +13,37 @@
 
 ## **体系课**
 
-01 完结 [优点知识 阳明 Kubernetes 开发课](https://youdianzhishi.com/web/course/1018)
+01 完结 [优点知识Kubernetes 开发课](https://youdianzhishi.com/web/course/1018)
 
-02 完结 [优点知识 阳明 Kubernetes 进阶训练营第1期](https://youdianzhishi.com/web/course/1012)
+02 完结 [优点知识Kubernetes 进阶训练营第1期](https://youdianzhishi.com/web/course/1012)
 
-03 完结 [优点知识 阳明 Kubernetes 进阶训练营第2期](https://youdianzhishi.com/web/course/1022)
+03 完结 [优点知识Kubernetes 进阶训练营第2期](https://youdianzhishi.com/web/course/1022)
 
-04 完结 [优点知识 阳明 Kubernetes 进阶训练营第3期](https://youdianzhishi.com/web/course/1030)
+04 完结 [优点知识Kubernetes 进阶训练营第3期](https://youdianzhishi.com/web/course/1030)
 
-05 更新 [优点知识 阳明 Kubernetes 进阶训练营第4期](https://youdianzhishi.com/web/course/1036)
+05 更新 [优点知识Kubernetes 进阶训练营第4期](https://youdianzhishi.com/web/course/1036)
 
-06 完结 [优点知识 阳明 Kubernetes 网络训练营第1期](https://youdianzhishi.com/web/course/1021)
+06 完结 [优点知识Kubernetes 网络训练营第1期](https://youdianzhishi.com/web/course/1021)
 
-07 完结 [优点知识 阳明 Kubernetes 网络训练营第2期](https://youdianzhishi.com/web/course/1029)
+07 完结 [优点知识Kubernetes 网络训练营第2期](https://youdianzhishi.com/web/course/1029)
 
-08 完结 [优点知识 阳明 Kubernetes 网络训练营第3期](https://youdianzhishi.com/web/course/1031)
+08 完结 [优点知识Kubernetes 网络训练营第3期](https://youdianzhishi.com/web/course/1031)
 
-09 完结 [优点知识 DevOps CI/CD 实践培训](https://youdianzhishi.com/web/course/1026)
+09 预定最优惠 [优点知识Kubernetes 网络训练营第4期](https://youdianzhishi.com/web/course/1041)
 
-10 完结 [优点知识 DevOps 训练营第4期](https://youdianzhishi.com/web/course/1032)
+10 完结 [优点知识DevOps CI/CD 实践培训](https://youdianzhishi.com/web/course/1026)
 
-11 完结 [优点知识 DevOps 训练营第5期](https://youdianzhishi.com/web/course/1034)
+11 完结 [优点知识DevOps 训练营第4期](https://youdianzhishi.com/web/course/1032)
 
-12 完结 [优点知识Go 运维开发训练营第一期](https://youdianzhishi.com/web/course/1035)
+12 完结 [优点知识DevOps 训练营第5期](https://youdianzhishi.com/web/course/1034)
 
-13 预定最优惠 [优点知识eBPF开发实践](https://youdianzhishi.com/web/course/1037)
+13 预定最优惠 [优点知识DevOps 训练营第6期](https://youdianzhishi.com/web/course/1040)
+
+14 完结 [优点知识Go 运维开发训练营第1期](https://youdianzhishi.com/web/course/1035)
+
+15 预定最优惠 [优点知识Go 运维开发训练营第2期](https://youdianzhishi.com/web/course/1039)
+
+16 预定最优惠 [优点知识eBPF开发实践](https://youdianzhishi.com/web/course/1037)
 
 ## **实战课**
 

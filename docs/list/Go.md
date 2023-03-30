@@ -67,6 +67,12 @@
 
 25 完结 [优点知识Go 运维开发训练营](https://youdianzhishi.com/web/course/1035)
 
+26 完结 [极客邓明Go实战训练营2期 - 全新升级](https://u.geekbang.org/subject/go2nd)
+
+27 更新 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发9期](https://ke.qq.com/course/406096)
+
+28 完结 [【朝夕教育】Go高端全栈架构师【升职加薪，只争朝夕】(Golang/微服务/区块链)](https://ke.qq.com/course/5027527)
+
 ## **专题小实战**
 
 完结 [网易-Golang从入门到精通](https://study.163.com/course/introduction/1004720008.htm)

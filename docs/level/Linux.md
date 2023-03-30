@@ -57,6 +57,8 @@
 
 完结 [黑马博学谷【PHP】Linux网络编程环境搭建](https://www.boxuegu.com/course/detail-554.html)
 
+更新 [创客学院Linux内核及驱动开发](http://www.makeru.com.cn/mobile/detail/7129.html)
+
 ### 实战课
 
 完结 386 [Linux核心技能与应用](https://coding.imooc.com/class/386.html)

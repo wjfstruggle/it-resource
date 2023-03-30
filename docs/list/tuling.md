@@ -246,6 +246,8 @@ JAVA架构口碑连续3年NO1，比某马强很多
 
 67 完结 [【图灵课堂】深入剖析Java9-18的新特性](https://vip.tulingxueyuan.cn/detail/p_637eff0fe4b083231ed38264/6)
 
+68 新课 [从零开始开发亿级流量小红书项目实战](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_641ae80be4b0f2aa7dd07402)
+
 ## **2023学习课程大纲**
 
 [**2023学习课程大纲**](https://www.processon.com/view/link/5eccea8fe0b34d5f263038f0)

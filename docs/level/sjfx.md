@@ -16,7 +16,7 @@
 
 07 完结 [京东商业化数据分析师培养计划](https://mp.weixin.qq.com/s/4N_iefQqsU_FbaZaRDAHxA)推荐
 
-08 更新 [网易微专业数据分析-全能班](https://mooc.study.163.com/smartSpec/detail/1202883605.htm)
+08 完结 [网易微专业数据分析-全能班](https://mooc.study.163.com/smartSpec/detail/1202883605.htm)
 
 09 完结[【数据技术】2021数据分析实战](https://appze9inzwc2314.pc.xiaoe-tech.com/detail/p_5feeedc5e4b01efc09155c2f/6)推荐
 
@@ -34,7 +34,7 @@
 
 16 完结 [深度之眼数据分析业务实战](https://ai.deepshare.net/detail/p_5fa3c9dbe4b0e81f36ccf482/5)
 
-17 更新 [拉勾商业分析高薪实战营](https://www.yuque.com/office/yuque/0/2022/pdf/2675213/1645583479916-f56a7453-4537-4f3b-84db-332ab5275e35.pdf?from=https%3A%2F%2Fwww.yuque.com%2Fxiedaimala%2Ffile%2Fpic%2Fedit)
+17 完结 [拉勾商业分析高薪实战营](https://www.yuque.com/office/yuque/0/2022/pdf/2675213/1645583479916-f56a7453-4537-4f3b-84db-332ab5275e35.pdf?from=https%3A%2F%2Fwww.yuque.com%2Fxiedaimala%2Ffile%2Fpic%2Fedit)
 
 18 完结 [拉勾数据分析实战训练营2022](https://kaiwu.lagou.com/data_analysis.html)
 
@@ -46,7 +46,7 @@
 
 22 更新 [【小象学院】互联网大厂数据分析项目实战](https://vip.xxketang.com/detail/p_6306e9ade4b050af23adfdf8/6?product_id=p_6306e9ade4b050af23adfdf8)
 
-23 完结 [【小象学院】数据分析项目实战](https://www.chinahadoop.cn/course/2001/landing/page)
+23 完结 [【小象学院】数据分析项目实战](https://vip.xxketang.com/p/t_pc/goods_pc_detail/goods_detail/p_630c5940e4b050af23af9d05)
 
 
 

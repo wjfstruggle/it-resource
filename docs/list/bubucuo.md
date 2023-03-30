@@ -19,5 +19,6 @@
 
 预约 [用js实现个操作系统](https://appuwwsm6cl6690.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/p_634bf074e4b0c94264a3af6a?product_id=p_634bf074e4b0c94264a3af6a)
 
+更新 [前端bubucuo React面试宝典](https://appuwwsm6cl6690.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/p_6418d282e4b0b2d1c3fb35d2?product_id=p_6418d282e4b0b2d1c3fb35d2)
 
-------
+更新 [前端架构师-大厂直通车](https://appwhrkrsz84443.h5.xiaoeknow.com/v1/goods/goods_detail/p_62b59eb6e4b0eca59c0de342)

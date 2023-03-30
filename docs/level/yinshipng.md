@@ -2,6 +2,15 @@
 
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
+::: tip
+联系方式：微信：IT_Promise
+
+全网课程都有，欢迎私聊
+
+推荐好友下单返利，买的越多，返利越多
+
+:::
+
 更新 [51cto ffmpeg第一季音视频开发](https://medu.51cto.com/special/index/view?id=4996)
 
 完结 [FFmpeg/WebRTC/RTMP/RTSP/HLS/播放器-音视频流媒体高级开发)](https://ke.qq.com/course/468797)
@@ -12,12 +21,10 @@
 
 完结 [WebRTC音视频技术入门与提高【零声教育】](https://ke.qq.com/course/435382)
 
-完结 [FFmpeg/直播/WebRtc音视频会议/视频编辑/音视频【VIP课程】](FFmpeg/直播/WebRtc音视频会议/视频编辑/音视频【VIP课程】)
+完结 [FFmpeg/直播/WebRtc音视频会议/视频编辑/音视频【VIP课程】](https://m.ke.qq.com/course/2263825)
 
 完结 [慕课网WebRTC源码级深度解析，进阶大厂高级音视频开发者](https://coding.imooc.com/class/532.html)
 
-**联系方式**
+完结 [码牛-移动互联网高级开发正式课2期|2021年|价值6980元|完结无秘](https://ke.qq.com/course/2024962#term_id=102126187)
 
--  微信：IT_Promise
--  全网课程都有，欢迎私聊。
--  推荐好友下单返利，买的越多，返利越多
+ 

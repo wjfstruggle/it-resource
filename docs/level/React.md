@@ -44,7 +44,15 @@
 
 更新 [卡颂从0实现React18](https://appjiz2zqrn2142.h5.xiaoeknow.com/v1/goods/goods_detail/p_638035c1e4b07b05581d25db)
 
-更新 [【慕课网】Vue3 + React18 + TS4入门到实战 系统学习3大热门技术](https://coding.m.imooc.com/classindex.html?cid=602)
+完结 [【慕课网】Vue3 + React18 + TS4入门到实战 系统学习3大热门技术](https://coding.m.imooc.com/classindex.html?cid=602)
+
+新课 [React全栈进阶实战](https://appwhrkrsz84443.h5.xiaoeknow.com/v1/goods/goods_detail/p_6402a238e4b07b0558395e96?type=3&share_type=5&share_user_id=u_6310ca19eaa50_DJcQkOwIwx&entry=2&entry_type=2002)
+
+更新 646 [React18+TS4+Next.js13，B端+C端完整业务+技术双闭环](https://coding.imooc.com/class/646.html)
+
+更新 639 [React18+TS+Vite 进阶实战 阅读类App](https://coding.imooc.com/class/639.html)
+
+更新 628 [RN从0到1系统精讲与小红书APP实战（2023版）](https://coding.imooc.com/class/628.html)
 
 ## **更多热门**
 

@@ -31,5 +31,5 @@
 
 11完结[网络安全大师班薪选课程【马士兵教育】](https://ke.qq.com/course/package/30646)
 
-
+12 更新 [web安全深度解析姿势](https://edu.51cto.com/course/23769.html)
 

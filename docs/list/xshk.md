@@ -9,6 +9,34 @@
 
 ## 2023.3月上新
 
+完结 [【朝夕教育】Go高端全栈架构师【升职加薪，只争朝夕】(Golang/微服务/区块链)](https://ke.qq.com/course/5027527)
+
+更新 [前端bubucuo React面试宝典](https://appuwwsm6cl6690.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/p_6418d282e4b0b2d1c3fb35d2?product_id=p_6418d282e4b0b2d1c3fb35d2)
+
+更新 [web安全深度解析姿势](https://edu.51cto.com/course/23769.html)
+
+完结 [抖码课程A，B，C，D](./douma.md)
+
+完结 [路飞Python全栈开发2023](https://www.luffycity.com/employment-course/1/detail)
+
+完结 [深度之眼推荐系统项目小班](https://leaaiv.cn/project-1/doc-73/)
+
+完结 [路飞Python全栈开发2023](https://www.luffycity.com/employment-course/1/detail)
+
+完结 [极客邓明Go实战训练营2期 - 全新升级](https://u.geekbang.org/subject/go2nd)
+
+更新 [卢菁人工智能NLP系统班2023](https://ke.gupaoedu.cn/course/vip/1973)
+
+完结 [源码阅读网JAVA学通卡](https://ke.coderead.cn/p/t_pc/goods_pc_detail/goods_detail/p_5f3d1a49e4b0dd4d9749ec71?product_id=p_5f3d1a49e4b0dd4d9749ec71)
+
+更新 [百战Python全栈工程师2023](https://www.itbaizhan.com/stages/id/17)
+
+完结 [千锋华为HCIA工程师, HCIP高级工程师认证](http://www.mobiletrain.org/hw)
+
+更新 [【催学社】前端的单元测试课](https://appewiejl9g3764.h5.xiaoeknow.com/v1/goods/goods_detail/p_63f3795ee4b06159f73e6452?type=3&product_id=p_63f3795ee4b06159f73e6452)
+
+完结 [黑马Java项目拓展课](https://www.boxuegu.com/course/outline-5203.html)
+
 完结 [杨村长React全栈进阶实战](https://appwhrkrsz84443.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/p_6402a238e4b07b0558395e96)
 
 更新 [前端早早聊2023](https://www.zaozao.run/conf/2023)

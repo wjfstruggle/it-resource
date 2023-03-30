@@ -61,6 +61,10 @@
 
 完结升级版 [慕课网前端框架及项目面试 聚焦Vue3/React/Webpack](https://coding.imooc.com/class/419.html)
 
+完结 625 [慕课网Vue3+Pinia+Vite+TS 还原高性能外卖APP项目](https://coding.imooc.com/class/625.html)
+
+更新 620 [Vue3+TS+Vite+Vant-UI 开发双端招聘APP](https://coding.imooc.com/class/620.html)
+
 ## 好评首推
 
 完结 [Vue与React高级框架开发](https://class.imooc.com/sc/?plan_id=59)

@@ -22,6 +22,8 @@
 
 10 完结 [黑马博学谷【月度黄金会员】Go语言与区块链](https://www.boxuegu.com/class/outline-1273.html)
 
+11 完结 [【朝夕教育】Go高端全栈架构师【升职加薪，只争朝夕】(Golang/微服务/区块链)](https://ke.qq.com/course/5027527)
+
 ## 小课
 
 01 完结 [极客时间深入浅出区块链](https://time.geekbang.org/column/intro/100005701)

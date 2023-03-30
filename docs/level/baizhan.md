@@ -17,39 +17,55 @@
 
 [**新上好课**](https://www.itbaizhan.com/recommend.html)
 
+# 体系课2023
 
+01 完结 [百战程序员Python全栈工程师2023](https://www.itbaizhan.com/stages/id/17)
 
-# 体系课2022
+02 完结 [百战程序员JavaEE就业班2023](https://www.itbaizhan.com/stages/id/4)
 
-01 完结 [百战程序员Python全栈工程师2022](https://www.itbaizhan.com/)
+03 完结 [百战程序员AI算法工程师就业班2023](https://www.itbaizhan.com/stages/id/31)
 
-02 完结 [百战程序员JavaEE高薪就业班2022](https://www.itbaizhan.com/stages/id/4)
+04 完结 [百战程序员大数据架构师进阶课程2023](https://www.itbaizhan.com/stages/id/10)
 
-03 完结 [百战程序员AI算法工程师就业班2022](https://www.itbaizhan.com/stages/id/31)
+05 完结 [百战程序员WEB大前端工程师2023](https://www.itbaizhan.com/stages/id/16)
 
-04 完结 [百战程序员大数据架构师进阶课程2022](https://www.itbaizhan.com/stages/id/10)
+06 完结 [百战程序员Java互联网架构师2023](https://www.itbaizhan.com/stages/id/29)
 
-05 完结 [百战程序员Web前端全栈工程师2022](https://www.itbaizhan.com/stages/id/16)
+07 完结 [百战程序员全栈软件测试课程程2023](https://www.itbaizhan.com/stages/id/20)
 
-06 完结 [百战程序员Java互联网架构师2022](https://www.itbaizhan.com/stages/id/29)
+08 完结 [百战程序员微服务架构实战](https://www.itbaizhan.com/stages/id/33)
 
-07 完结 [百战程序员微服务架构实战2022](https://www.itbaizhan.com/stages/id/33)
+09 完结 [百战程序员7U职场软实力](https://www.itbaizhan.com/stages/id/9)
 
-08 完结 [百战程序员全栈软件测试课程2022](https://www.itbaizhan.com/stages/id/20)
+10 完结 [百战程序员C++特训班](https://www.itbaizhan.com/stages/id/39)
 
-09 完结 [百战程序员7U职场软实力2022](https://www.itbaizhan.com/stages/id/9)
+# 实战课
 
-10 完结 [百战程序员C++特训班2022](https://www.itbaizhan.com/stages/id/39)
+陆续更新，几百个
 
-11 完结 [百战程序员WEB大前端工程师2022](https://www.itbaizhan.com/course/web)
+01 完结[毕设项目](http://www.itbaizhan.cn/course/ai)
 
+02 完结[大学生创新创业比赛](http://www.itbaizhan.cn/stages/id/34)
 
+03 完结[数学建模](http://www.itbaizhan.cn/stages/id/35)
 
-::: tip
-联系方式：微信：IT_Promise
+06 完结[Java架构智慧交通项目实战](http://www.itbaizhan.cn/course/ai)
 
-全网课程都有，欢迎私聊
+07 完结[Hadoop之分布式存储HDFS和离线计算MapReduce](http://www.itbaizhan.cn/course/ai)
 
-推荐好友下单返利，买的越多，返利越多
+08 完结[Vue.js基础入门实战开发](http://www.itbaizhan.cn/course/ai)
 
-:::
+09 完结[Spring Cloud微服务架构电商项目实链接战](https://www.itbaizhan.com/course/spring_cloud)
+
+10 完结[深度学习之图像识别项目实战](http://www.itbaizhan.cn/course/ai)
+
+11 完结[Java桌球游戏进阶版](https://www.itbaizhan.com/course/billiard)
+
+12 完结[Java飞机大战项目](https://www.itbaizhan.com/course/aircraft)
+
+13 完结[分布式医疗云平台](https://www.itbaizhan.com/course/medical)
+
+14 完结[数字货币交易所项目](https://www.itbaizhan.com/course/currency)
+
+15 完结[Spark-高效的分布式计算架构](https://www.itbaizhan.com/course/spark)
+

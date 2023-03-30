@@ -28,12 +28,14 @@
 ::: tip
 **小滴会员免费看，包更新**
 
-同步更新到2022.12.17号
+更新时间2023.3.27
 
 :::
 ------
 
 详情目录（全部都有）：[小滴官方网址](https://xdclass.net/#/courselist)
+
+[87.uniapp+vue3+vite多端零基础入门到项目实战](https://xdclass.net/videoDetailsPage?id=87)
 
 [86.零基础完整数据结构与算法-急速上手](https://xdclass.net/videoDetailsPage?id=86)
 

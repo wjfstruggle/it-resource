@@ -21,5 +21,6 @@
 
 完结 [杨村长NodeJS与服务器端](https://appwhrkrsz84443.pc.xiaoe-tech.com/detail/p_62b177bae4b09baaaaef38b9/8)
 
-新课 [React全栈进阶实战](https://appwhrkrsz84443.h5.xiaoeknow.com/v1/goods/goods_detail/p_6402a238e4b07b0558395e96?type=3&share_type=5&share_user_id=u_6310ca19eaa50_DJcQkOwIwx&entry=2&entry_type=2002)
+更新 [React全栈进阶实战](https://appwhrkrsz84443.h5.xiaoeknow.com/v1/goods/goods_detail/p_6402a238e4b07b0558395e96?type=3&share_type=5&share_user_id=u_6310ca19eaa50_DJcQkOwIwx&entry=2&entry_type=2002)
 
+更新 [前端架构师-大厂直通车](https://appwhrkrsz84443.h5.xiaoeknow.com/v1/goods/goods_detail/p_62b59eb6e4b0eca59c0de342)

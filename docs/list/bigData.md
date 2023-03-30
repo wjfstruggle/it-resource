@@ -97,6 +97,12 @@
 
 44完结 [黑马博学谷零基础大数据在线就业班8.0](https://www.boxuegu.com/class/outline-3914.html)
 
+45 完结 [咕泡大数据从高开到架构系统提升班 08 期](https://ke.gupaoedu.cn/course/vip/293)
+
+46 完结 [咕泡P4:大数据高薪项目实战（专项特训班）](https://ke.gupaoedu.cn/course/vip/1004)
+
+47 完结 [咕泡P5:Python大数据分析（高阶技术课）](https://ke.gupaoedu.cn/course/vip/1298)
+
 ::: tip
 联系方式：微信：IT_Promise
 
