@@ -17,7 +17,7 @@
 
 04完结[【老男孩】2020网络安全-大厂安服全流程实操精讲](https://edu.51cto.com/topic/3161.html)
 
-05完结[实战Web安全and内网安全and游戏漏洞挖掘逆向破解](https://edu.51cto.com/topic/3486.html)
+05完结 [实战Web安全and内网安全and游戏漏洞挖掘逆向破解](https://edu.51cto.com/topic/3486.html)
 
 06完结[【掌控安全学院】web安全工程师高薪正式班/渗透/白帽/零基础/网络安全/ctf/Linux](https://ke.qq.com/course/3615140)13期
 
@@ -29,7 +29,7 @@
 
 10完结[【老男孩】2021 网络安全工程师](https://www.oldboyedu.com/)
 
-11完结[网络安全大师班薪选课程【马士兵教育】](https://ke.qq.com/course/package/30646)
+11完结 [网络安全大师班薪选课程【马士兵教育】](https://ke.qq.com/course/package/30646)
 
 12 更新 [web安全深度解析姿势](https://edu.51cto.com/course/23769.html)
 

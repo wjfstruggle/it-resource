@@ -2,13 +2,13 @@
 
 #### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
-01完结[来offer软件工程师旗舰核心课程](https://www.laioffer.com/zh/course/software-development/)
+01 完结 [来offer软件工程师旗舰核心课程](https://www.laioffer.com/zh/course/software-development/)
 
-02完结[来offer全栈开发项目实践课程](https://www.laioffer.com/zh/course/full-stack-development/)
+02 完结 [来offer全栈开发项目实践课程](https://www.laioffer.com/zh/course/full-stack-development/)
 
-03完结[来offer人工智能与数据科学强化课程](https://www.laioffer.com/zh/course/ai-and-data-engineering/)
+03 完结 [来offer人工智能与数据科学强化课程](https://www.laioffer.com/zh/course/ai-and-data-engineering/)
 
-04完结来offer算法旗舰班
+04 完结 来offer算法旗舰班
 
 
 

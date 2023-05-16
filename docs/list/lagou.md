@@ -59,6 +59,8 @@
 
 26 更新 [拉勾大厂直通私教班 - 前端班](https://www.yuque.com/docs/share/9141058f-f30f-4c10-8232-39c1d745a951?#)
 
+27 完结 [拉勾数据分析私教班](https://docs.qq.com/pdf/DYmZnZ0lEdEpjeUZD)
+
 ## 专栏VIP
 
 详情目录（全部都有）：[https://kaiwu.lagou.com](https://kaiwu.lagou.com/)

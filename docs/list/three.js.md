@@ -29,4 +29,6 @@
 
 完结 [UE4智慧停车数字孪生可视化(全能大师版）](https://www.cctalk.com/m/group/90345576)
 
-预约 [老陈WEBGL底层Threejs实现高阶图形学](https://study.163.com/course/introduction/1213198802.htm)
+更新 [老陈WEBGL底层Threejs实现高阶图形学](https://study.163.com/course/introduction/1213198802.htm)
+
+更新 【猿创课堂】WEB3d 工程师 零基础启航

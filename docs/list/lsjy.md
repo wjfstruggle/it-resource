@@ -32,7 +32,7 @@
 
 16 完结 [Qt开发必备技术栈（Qt5/C语言/c++/数据库/OpenCV/Quick/Qt实战）](https://ke.qq.com/course/5820590#term_id=106031247)
 
-17 更新 [【零声学院】C/C++Linux服务器开发/高级架构师2207期](https://ke.qq.com/course/420945)
+17 完结 [【零声学院】C/C++Linux服务器开发/高级架构师2207期](https://ke.qq.com/course/420945)
 
 18 完结 [WebRTC音视频技术入门与提高【零声教育】](https://ke.qq.com/course/435382)
 

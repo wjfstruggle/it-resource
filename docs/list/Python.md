@@ -7,8 +7,6 @@
 
 全网课程都有，欢迎私聊
 
-推荐好友下单返利，买的越多，返利越多
-
 :::
 
 01 完结 [网易-微专业从零起步，用Python进阶数据分析](https://mooc.study.163.com/smartSpec/detail/1202821601.htm)
@@ -95,13 +93,11 @@
 
 46 完结 [青灯Python爬虫开发从入门到实战](https://ke.qq.com/course/405353)	
 
-
+47 更新 [慕课网【体系课】Python Web全栈工程师](https://class.imooc.com/sale/pythonweb)
 
 ::: tip
 联系方式：微信：IT_Promise
 
 全网课程都有，欢迎私聊
-
-推荐好友下单返利，买的越多，返利越多
 
 :::

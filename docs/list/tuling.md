@@ -20,6 +20,12 @@ JAVA架构口碑连续3年NO1，比某马强很多
 
 ![null](http://leaaiv.cn/media/202207//1656953259.2687356.png)
 
+# 最新课程
+
+01 更新 [图灵从零开始开发亿级流量小红书项目实战](https://www.processon.com/view/link/641a9cc8628eb275d8059736)
+
+02 更新 [图灵AI&ChatGPT实战训练营](https://appgpn9idwb6991.h5.xiaoeknow.com/v1/goods/goods_detail/p_6423fc52e4b0b0bc2bcf0677?fromH5=true)
+
 # 架构训练营
 
 01 完结 [享学Java互联网架构师1期](https://ke.qq.com/course/287404)

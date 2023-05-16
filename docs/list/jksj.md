@@ -79,7 +79,7 @@
 
 30 完结 [极客时间邓明Go实战训练营 2 期 ](https://u.geekbang.org/subject/go2nd)全新升级
 
-31 更新 [极客时间前端进阶特训营winter、杨村长、然叔、高少云](https://u.geekbang.org/subject/fe4th)
+31 完结 [极客时间前端进阶特训营winter、杨村长、然叔、高少云](https://u.geekbang.org/subject/fe4th)
 
 32 更新 [极客时间Java实战特训营 - 郑天民](https://u.geekbang.org/subject/java5th)
 

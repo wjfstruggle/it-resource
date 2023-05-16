@@ -306,6 +306,10 @@
 
 146 完结 [咕泡金三银四面试冲刺保过班](https://ke.gupaoedu.cn/course/vip/1934)
 
+147 更新 [咕泡人工智能深度学习系统班【第七期】](https://ke.gupaoedu.cn/course/vip/1944)
+
+148 更新 [咕泡人工智能NLP系统班](https://ke.gupaoedu.cn/course/vip/1973)
+
 ## 精品小课
 
 1. 完结 [咕泡手把手带你手写一个RPC框架](https://ke.gupaoedu.cn/course/detail/256)
@@ -1018,11 +1022,7 @@
 
 355. 完结 [咕泡咕泡内推专场](https://ke.gupaoedu.cn/course/detail/1880)
 
-356. 完结
-
-      
-
-     咕泡动手体验ES 8.4.x实时监控Java应用运行状态
+356. 完结 [咕泡动手体验ES 8.4.x实时监控Java应用运行状态](https://ke.gupaoedu.cn/course/detail/1882)
 
      ## 公开课
 
@@ -1234,11 +1234,7 @@
 
 460. 完结 [咕泡探索 Vue Composition API](https://ke.gupaoedu.cn/course/courses/1854)
 
-461. 完结
-
-      
-
-     咕泡码 · 聚是新“程” 咕泡科技2022长沙线下分享会 
+461. 完结 [咕泡码 · 聚是新“程” 咕泡科技2022长沙线下分享会](https://ke.gupaoedu.cn/course/courses/1879)
 
      ## 训练营
 

@@ -11,7 +11,7 @@
 
 :::
 
-完结[【后场理工】滴滴认证资深大数据工程师](https://www.keedu.cn/course/view?id=68872)
+01 完结[【后场理工】滴滴认证资深大数据工程师](https://www.keedu.cn/course/view?id=68872)
 
 02 完结[【后场理工】阿里云双证认证高级架构师](https://www.keedu.cn/course/view?id=68872)
 
@@ -24,5 +24,4 @@
 06 完结[【后厂理工】百度飞桨联合设计双证资深AI实战工程师（NLP方向）](https://www.keedu.cn/course/view?id=68872)
 
 07 完结[【后厂理工】百度飞桨联合设计双证资深AI实战工程师（CV方向）](https://www.houchangtech.com/techCases/techCases.html)
-
 

@@ -7,7 +7,139 @@
 
 #### [**课程首页**](../../README.md) 💖[**更新记录**](./gxjl-2023.md) 💖[**热门推荐**](./rmtj.md) 💖[**会员中心**](./vip.md)
 
+## 2023.5月上新
+
+更新 [唐宇迪人工智能深度学习系统班2023](https://ke.gupaoedu.cn/course/vip/1944)
+
+更新 [M1程序员职场进阶2023](https://ke.gupaoedu.cn/course/vip/1509)
+
+完结 [拉勾数据分析私教班](https://docs.qq.com/pdf/DYmZnZ0lEdEpjeUZD)
+
+完结 [咕泡P4大数据高薪项目实战](https://ke.gupaoedu.cn/course/vip/1004)
+
+完结 [咕泡大数据从高开到架构系统提升班2023](https://ke.gupaoedu.cn/course/vip/293)
+
+完结 [小马哥 Java 训练营 第一期 Java 分布式架构 - 服务治理](https://apprnzlvz344455.h5.xiaoeknow.com/v1/goods/goods_detail/term_63036ff2d3219_SUpJvZ)
+
+更新 [小马哥 Java 分布式架构训练营 第二期 Java 分布式架构 - 模式、设计与实现](https://apprnzlvz344455.h5.xiaoeknow.com/v1/goods/goods_detail/course_2JiKduWEsSYabs5nn21IcpIm2YQ)
+
+完结 [博学谷 - 狂野大数据6,7期（1-5期完结）](https://www.boxuegu.com/subject/data-03.html)
+
+更新 [优点k8s网络训练营第4期](https://youdianzhishi.com/web/course/1041)
+
+完结 [博学谷 - 狂野架构师4,5,6期（1-4期完结）](https://www.boxuegu.com/subject/architect-01.html)
+
+完结 [bubucuo的React面试宝典](https://appuwwsm6cl6690.pc.xiaoe-tech.com/p/t_pc/course_pc_detail/column/p_6418d282e4b0b2d1c3fb35d2)
+
+更新 [极客高级java工程师体系课2期](https://u.geekbang.org/subject/java4th)
+
+更新 [慕课Java高级工程师](https://class.imooc.com/sale/javasenior)
+
+完结 [金渡Web前端高级8期](https://ke.qq.com/course/461341)
+
+完结 [拉勾前端高薪NEXT计划 | 定制未来](https://edu.lagou.com/growth/sem/fe-next.html)
+
+完结 [前端bubucuo精通react大专栏](https://appuwwsm6cl6690.pc.xiaoe-tech.com/detail/p_62b2ce2ee4b0ba331dcb87c1/8)
+
+更新 [图灵Java架构6期](https://leaaiv.cn/tuling)
+
+完结 [咕泡从0到1开发微博架构实战](https://ke.gupaoedu.cn/course/vip/1971)
+
+更新 [卡颂从0实现React18](https://appjiz2zqrn2142.h5.xiaoeknow.com/v1/goods/goods_detail/p_638035c1e4b07b05581d25db)
+
+完结 [卡颂自顶向下学 React 源码](https://ke.segmentfault.com/course/1650000023864436)
+
+更新 [七米Go语言微服务与云原生](https://study.163.com/course/introduction.htm?courseId=1212937804)
+
+## 2023.4月上新
+
+更新 [ChatGPT全栈开发—帮你写代码、改bug、做测试、搞运维](https://mp.weixin.qq.com/s/3eN-EFjMB5dqOJp2S9ZdFg)
+
+完结 [珠峰Web前端架构 16 期](https://www.javascriptpeixun.cn/goods/show/672)
+
+完结 [博学谷Java面试突击2023](https://www.boxuegu.com/promote/detail-4423.html)
+
+更新 [从零开始开发亿级流量小红书项目实战](https://www.processon.com/view/link/641a9cc8628eb275d8059736)
+
+更新 [优点知识Go 运维开发训练营第2期](https://youdianzhishi.com/web/course/1039)
+
+完结 [【24考研】数学全程班](https://ke.gupaoedu.cn/course/vip/1967)
+
+完结 [PMP项目管理资格认证](https://ke.gupaoedu.cn/course/vip/1323)
+
+完结 [人工智能NLP系统班2023](https://ke.gupaoedu.cn/course/vip/1973)
+
+更新 [前端早早聊2023](https://www.zaozao.run/conf/2023)
+
+完结 [珠峰架构Vue3+TS开发专业级组件库](https://www.html5train.com/p/t_pc/goods_pc_detail/goods_detail/p_62d26c1ee4b050af239c8e72?fromH5=true)
+
+完结 [Vue3正式版+TS实战与源码](https://www.html5train.com/p/t_pc/goods_pc_detail/goods_detail/p_5f677254e4b0d59c87b71cd2?fromH5=true)
+
+完结 [珠峰React18全家桶系统课](https://www.html5train.com/p/t_pc/goods_pc_detail/goods_detail/p_637465b8e4b0276efeb1d061)
+
+完结 [马士兵大数据架构师](https://www.mashibing.com/subject/15)
+
+完结 [【小滴课堂】全栈-商业级大型前端云在线项目大课](https://xdclass.net/videoDetailsPage?id=84)
+
+更新 [小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
+
+完结 [【2023】云原生Kubernetes全栈架构师：基于世界500强的k8s实战课程](https://edu.51cto.com/course/23845.html)
+
+完结 [马士兵数据结构与算法大师课](https://www.mashibing.com/subject/21)
+
+完结 [尚硅谷大数据独角兽2023](http://www.atguigu.com/bigdata)
+
+完结 [咕泡P4:Java互联网分布式技术（高薪就业班)](https://ke.gupaoedu.cn/course/vip/1048)
+
+完结 [咕泡P5:Java互联网高阶技术（高薪就业班）](https://ke.gupaoedu.cn/course/vip/292)
+
+完结 [咕泡P6:Java互联网高级架构师（SVIP涨薪班）](https://ke.gupaoedu.cn/course/vip/288)
+
+完结 [咕泡P7:Java互联网百万年薪课（技术专家班）](https://ke.gupaoedu.cn/course/vip/1000)
+
+完结 [马士兵Golang全链路&云原生超级架构师2023](https://www.mashibing.com/subject/121)
+
+完结 [马士兵网络安全大师课2023](https://www.mashibing.com/subject/14)
+
+完结 [马士兵Java后端工程师2023](https://www.mashibing.com/subject/2)
+
+完结 [马士兵MCA高级架构师2023](https://www.mashibing.com/subject/1)
+
+完结 [马士兵Python全系列大师课2023](https://www.mashibing.com/subject/25)
+
+完结 [马士兵GoLang后端工程师2023](https://www.mashibing.com/subject/18)
+
+更新 [老陈WEBGL底层Threejs实现高阶图形学](https://study.163.com/course/introduction/1213198802.htm)
+
+更新 [图灵AI&ChatGPT实战训练营](https://appgpn9idwb6991.h5.xiaoeknow.com/v1/goods/goods_detail/p_6423fc52e4b0b0bc2bcf0677?fromH5=true)
+
+更新 [坐标资产第六期](https://www.zuobiaoworld.com/goods/show/96?targetId=116&preview=0)
+
+完结 [尚硅谷java就业班2022](http://www.atguigu.com/java/)
+
 ## 2023.3月上新
+
+完结 [马士兵MCA高级架构师2023](https://www.mashibing.com/subject/1)
+
+更新 641 [Springboot3+微服务实战12306高性能售票系统](https://coding.imooc.com/class/641.html)
+
+更新 [韦东山百问网在线课堂【第2期：90天RTOS双架构双系统项目实战班】](https://m.tb.cn/h.UrbqOpM?tk=AAARd9E5cwbCZ3457)
+
+完结 640 [TS 从入门到深度掌握，晋级TypeScript高手](https://coding.imooc.com/class/640.html)
+
+更新 [手写操作系统 小班教学招生2期](https://class.imooc.com/sale/os)
+
+更新 [百战JavaEE就业班2023](https://www.itbaizhan.com/stages/id/4)
+
+完结无密 628 [RN从0到1系统精讲与小红书APP实战（2023版）](https://coding.imooc.com/class/628.html)
+
+更新 646 [React18+TS4+Next.js13，B端+C端完整业务+技术双闭环](https://coding.imooc.com/class/646.html)
+
+完结 [PHP中文网第十九期|价值5897|2022年](https://www.php.cn/toutiao-488899.html)
+
+更新 616 [ES8搜索引擎从基础入门到深度原理，实现综合运用实战](https://coding.imooc.com/class/616.html)
+
+更新 [P2【商业级MMORPG大型网游】Unity全栈开发](https://m.ke.qq.com/course/329046/3437112003462486?course_id=329046#term_id=100390455)
 
 完结 [【朝夕教育】Go高端全栈架构师【升职加薪，只争朝夕】(Golang/微服务/区块链)](https://ke.qq.com/course/5027527)
 

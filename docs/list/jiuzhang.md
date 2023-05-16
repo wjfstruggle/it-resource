@@ -11,83 +11,127 @@
 
 :::
 
+## 九章算法 2023
+
+01 完结 [九章算法5天Twitter项目实战：评论系统设计 2023](https://www.jiuzhang.com/course/135)
+
+02 完结 [九章算法班 2023 版](https://www.jiuzhang.com/course/71) 会员非免费
+
+03 完结 [九章算法Twitter 后端系统 - Python 项目实战 2023](https://www.jiuzhang.com/course/89/) 会员非免费
+
+04 完结 [九章算法Twitter/微博前端 - React 项目实战 2023](https://www.jiuzhang.com/course/119) 会员非免费
+
+05 完结 [九章算法Full Stack 全栈旗舰课：Twitter前后端实战 2023](https://www.jiuzhang.com/course/126) 会员非免费
+
+06 完结 [九章算法人工智能集训营 2023](https://www.jiuzhang.com/course/20/) 会员非免费
+
+07 完结 [九章算法K8s & Docker 实战 2023](https://www.jiuzhang.com/course/117) 会员非免费
+
+08 完结 [九章算法数据分析就业班 2023](https://www.jiuzhang.com/course/104/) 会员非免费
+
+09 完结 [九章算法K8s & Docker 实战 2023](https://www.jiuzhang.com/course/117) 会员非免费
+
+10 完结 [九章算法自动驾驶 2023](https://www.jiuzhang.com/course/115) 会员非免费
+
+11 预定价格最低 [九章算法基础班 Python+Java 2023 版](https://www.jiuzhang.com/course/84)
+
+12 预定价格最低 [九章算法面试高频题冲刺班 2023 版](https://www.jiuzhang.com/course/80/)
+
+13 预定价格最低 [九章算法系统设计 System Design 2023 版](https://www.jiuzhang.com/course/77)
+
+14 预定价格最低 [九章算法面试软技巧强化班-BQ/Resume/Project/Design 2023 版](https://www.jiuzhang.com/course/69/)
+
 ## 九章算法
 
-01 [九章算法基础班 Python+Java 2022 版](https://www.jiuzhang.com/course/84)
 
-02 [九章算法班 2021 版](https://www.jiuzhang.com/course/71)
 
-03 [九章算法班 2022 版](https://www.jiuzhang.com/course/71)
+01 完结 [九章算法基础班 Python+Java 2022 版](https://www.jiuzhang.com/course/84)
 
-04 [九章算法面试高频题冲刺班 2021 版](https://www.jiuzhang.com/course/80/)
+02 完结 [九章算法班 2021 版](https://www.jiuzhang.com/course/71)
 
-05 [九章算法面试高频题冲刺班 2022 版](https://www.jiuzhang.com/course/80/)
+03 完结 [九章算法班 2022 版](https://www.jiuzhang.com/course/71)
 
-06 [九章算法系统设计 System Design 2021 版](https://www.jiuzhang.com/course/77)
+04 完结 [九章算法面试高频题冲刺班 2021 版](https://www.jiuzhang.com/course/80/)
 
-07 [九章算法系统设计 System Design 2022 版](https://www.jiuzhang.com/course/77)
+05 完结 [九章算法面试高频题冲刺班 2022 版](https://www.jiuzhang.com/course/80/)
 
-08 [九章算法电商秒杀系统 - Spring项目实战 2022 版](https://www.jiuzhang.com/course/86/)
+06 完结 [九章算法系统设计 System Design 2021 版](https://www.jiuzhang.com/course/77)
 
-09 [九章算法递归九讲 2022 版](https://www.jiuzhang.com/course/94)
+07 完结 [九章算法系统设计 System Design 2022 版](https://www.jiuzhang.com/course/77)
 
-10 [九章算法面向对象设计OOD 2021 版](https://www.jiuzhang.com/course/40/)
+08 完结 [九章算法面试软技能指导 - 面试技巧/ BQ / Resume / Project 2022 版](https://www.jiuzhang.com/course/69/)
 
-11 [九章算法面向对象设计OOD 2022 版](https://www.jiuzhang.com/course/120)
+09 完结 [九章算法面向对象设计OOD 2021 版](https://www.jiuzhang.com/course/40/)
 
-12 [九章算法面试软技能指导 - 面试技巧/ BQ / Resume / Project 2022 版](https://www.jiuzhang.com/course/69/)
+10 完结 [九章算法面向对象设计OOD 2022 版](https://www.jiuzhang.com/course/120)
 
-13 [九章算法动态规划专题班](https://www.jiuzhang.com/course/36/)
+11 完结 [九章算法电商秒杀系统 - Spring项目实战 2022 版](https://www.jiuzhang.com/course/86/)
 
-14 [九章算法北大算法班](https://www.jiuzhang.com/course/110/)
+12 完结 [九章算法递归九讲 2022 版](https://www.jiuzhang.com/course/94)
 
-15 [九章算法Spring Cloud微服务原理及实战项目解析](https://www.jiuzhang.com/course/82/)
+13 完结 [九章算法动态规划专题班](https://www.jiuzhang.com/course/36/)
 
-16 [九章算法大厂常考分布式RPC服务框架精讲](https://www.jiuzhang.com/course/83/)
+14 完结 [九章算法北大算法班](https://www.jiuzhang.com/course/110/)
 
-17 [九章算法大厂高频设计模式应用及分析](https://www.jiuzhang.com/course/78/)
+15 完结 [九章算法Spring Cloud微服务原理及实战项目解析](https://www.jiuzhang.com/course/82/)
 
-18 [九章算法海量数据处理算法与面试题全集](https://www.jiuzhang.com/course/56/)
+16 完结 [九章算法大厂常考分布式RPC服务框架精讲](https://www.jiuzhang.com/course/83/)
 
-19 [九章算法背包问题四讲](https://www.jiuzhang.com/course/32/)
+17 完结 [九章算法大厂高频设计模式应用及分析](https://www.jiuzhang.com/course/78/)
 
-20 [九章算法ACM金牌逐行带刷-高频题 2022](https://www.jiuzhang.com/course/111/)
+18 完结 [九章算法海量数据处理算法与面试题全集](https://www.jiuzhang.com/course/56/)
 
-21 [九章算法ACM金牌逐行带刷【月卡】](https://www.jiuzhang.com/course/128)
+19 完结 [九章算法背包问题四讲](https://www.jiuzhang.com/course/32/)
 
-22 [九章算法AI图像识别 - CNN进阶项目 2022](https://www.jiuzhang.com/course/88)
+20 完结 [九章算法ACM金牌逐行带刷-高频题 2022](https://www.jiuzhang.com/course/111/)
 
-23 [九章算法班旗舰课 2022](https://www.jiuzhang.com/premium-course/160/) 会员非免费
+21 完结 [九章算法ACM金牌逐行带刷【月卡】2022](https://www.jiuzhang.com/course/128)
 
-24 [九章算法Amazon直推旗舰课 2022](https://www.jiuzhang.com/premium-course/249) 会员非免费
+22 完结 [九章算法AI图像识别 - CNN进阶项目 2022](https://www.jiuzhang.com/course/88)
 
-25 [九章算法Twitter 后端系统 - Python 项目实战 2021](https://www.jiuzhang.com/course/89/) 会员非免费
+23 完结 [九章算法算法强化班1期](https://www.jiuzhang.com/course/127)
 
-26 [九章算法Twitter 后端系统 - Python 项目实战 2022](https://www.jiuzhang.com/course/89/) 会员非免费
+24 完结 [九章算法BATJ国内笔试面试](https://www.jiuzhang.com/course/127)
 
-27 [九章算法Twitter/微博前端 - React 项目实战 2022](https://www.jiuzhang.com/course/119) 会员非免费
+25 完结 [九章算法Android项目实战](https://www.jiuzhang.com/course/127)
 
-28 [九章算法全栈项目旗舰课：Twitter前后端实战 2022](https://www.jiuzhang.com/premium-course/250/) 会员非免费
+26 完结 [九章算法Big Data - Hadoop 项目实战](https://www.jiuzhang.com/course/127)
 
-29 [九章算法人工智能集训营 2022](https://www.jiuzhang.com/course/20/) 会员非免费
+27 完结 [九章算法班旗舰课 2021](https://www.jiuzhang.com/premium-course/160/) 会员非免费
 
-30 [九章算法数据分析就业班 2022](https://www.jiuzhang.com/course/104/) 会员非免费
+28 完结 [九章算法班旗舰课 2022](https://www.jiuzhang.com/premium-course/160/) 会员非免费
 
-31 [九章算法K8s & Docker 实战 2022](https://www.jiuzhang.com/course/117) 会员非免费
+29 完结 [九章算法Amazon直推旗舰课 2021](https://www.jiuzhang.com/premium-course/249) 会员非免费
 
-32 [九章算法自动驾驶 2022](https://www.jiuzhang.com/course/115) 会员非免费
+30 完结 [九章算法Amazon直推旗舰课 2022](https://www.jiuzhang.com/premium-course/249) 会员非免费
 
-33 [九章算法软件工程师旗舰课 2022](https://www.jiuzhang.com/premium-course/159/) 会员非免费
+31 完结 [九章算法Twitter 后端系统 - Python 项目实战 2021](https://www.jiuzhang.com/course/89/) 会员非免费
 
-34 [九章算法班 2023版，最新26期](https://www.jiuzhang.com/course/71)
+32 完结 [九章算法Twitter 后端系统 - Python 项目实战 2022](https://www.jiuzhang.com/course/89/) 会员非免费
+
+33 完结 [九章算法Twitter/微博前端 - React 项目实战 2022](https://www.jiuzhang.com/course/119) 会员非免费
+
+34 完结 [九章算法Full Stack 全栈旗舰课：Twitter前后端实战 2022](https://www.jiuzhang.com/course/126) 会员非免费
+
+35 完结 [九章算法人工智能集训营 2022](https://www.jiuzhang.com/course/20/) 会员非免费
+
+36 完结 [九章算法K8s & Docker 实战 2022](https://www.jiuzhang.com/course/117) 会员非免费
+
+37 完结 [九章算法数据分析就业班 2022](https://www.jiuzhang.com/course/104/) 会员非免费
+
+38 完结 [九章算法K8s & Docker 实战 2022](https://www.jiuzhang.com/course/117) 会员非免费
+
+39 完结 [九章算法自动驾驶 2022](https://www.jiuzhang.com/course/115) 会员非免费
+
+40 完结 [九章算法软件工程师旗舰课 2022](https://www.jiuzhang.com/premium-course/159/) **会员非免费**
 
 ## 来offer
 
-01完结[来offer软件工程师旗舰核心课程](https://www.laioffer.com/zh/course/software-development/)
+01 完结 [来offer软件工程师旗舰核心课程](https://www.laioffer.com/zh/course/software-development/)
 
-02完结[来offer全栈开发项目实践课程](https://www.laioffer.com/zh/course/full-stack-development/)
+02 完结 [来offer全栈开发项目实践课程](https://www.laioffer.com/zh/course/full-stack-development/)
 
-03完结[来offer人工智能与数据科学强化课程](https://www.laioffer.com/zh/course/ai-and-data-engineering/)
+03 完结 [来offer人工智能与数据科学强化课程](https://www.laioffer.com/zh/course/ai-and-data-engineering/)
 
-04完结来offer算法旗舰班
+04 完结 来offer算法旗舰班
 

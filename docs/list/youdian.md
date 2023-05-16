@@ -29,7 +29,7 @@
 
 08 完结 [优点知识Kubernetes 网络训练营第3期](https://youdianzhishi.com/web/course/1031)
 
-09 预定最优惠 [优点知识Kubernetes 网络训练营第4期](https://youdianzhishi.com/web/course/1041)
+09 更新 [优点知识Kubernetes 网络训练营第4期](https://youdianzhishi.com/web/course/1041)
 
 10 完结 [优点知识DevOps CI/CD 实践培训](https://youdianzhishi.com/web/course/1026)
 
@@ -37,15 +37,17 @@
 
 12 完结 [优点知识DevOps 训练营第5期](https://youdianzhishi.com/web/course/1034)
 
-13 预定最优惠 [优点知识DevOps 训练营第6期](https://youdianzhishi.com/web/course/1040)
+13 更新 [优点知识DevOps 训练营第6期](https://youdianzhishi.com/web/course/1040)
 
 14 完结 [优点知识Go 运维开发训练营第1期](https://youdianzhishi.com/web/course/1035)
 
-15 预定最优惠 [优点知识Go 运维开发训练营第2期](https://youdianzhishi.com/web/course/1039)
+15 更新 [优点知识Go 运维开发训练营第2期](https://youdianzhishi.com/web/course/1039)
 
 16 预定最优惠 [优点知识eBPF开发实践](https://youdianzhishi.com/web/course/1037)
 
 ## **实战课**
+
+18 完结 [优点知识ArgoCD实践课](https://youdianzhishi.com/web/course/1043)
 
 17 完结 [优点知识Go Web 开发进阶实战](https://youdianzhishi.com/web/course/1038)
 

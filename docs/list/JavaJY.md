@@ -61,7 +61,7 @@
 
 25 完结 [黑马博学谷java架构师就业课](https://www.boxuegu.com/class/outline-4296.html)
 
-26 更新 韩顺平2022 java工程师，即将完结【需要大纲的请私聊我】
+26 完结 韩顺平2022 java工程师【需要大纲的请私聊我】
 
 ::: tip
 联系方式：微信：IT_Promise

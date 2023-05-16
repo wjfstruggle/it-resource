@@ -103,6 +103,8 @@
 
 47 完结 [咕泡P5:Python大数据分析（高阶技术课）](https://ke.gupaoedu.cn/course/vip/1298)
 
+48 完结 [尚硅谷大数据独角兽2023](http://www.atguigu.com/bigdata)
+
 ::: tip
 联系方式：微信：IT_Promise
 

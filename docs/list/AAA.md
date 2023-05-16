@@ -54,3 +54,35 @@ https://pan.baidu.com/s/1cf_herVyTcZ5aNnu0ZJmoA?pwd=f6rt
 ## K8s+gRPC 云原生微服务开发与治理实战|无密第八章
 
 https://pan.baidu.com/share/init?surl=aJvjUuQIzcFyvQxPPx4XFw&pwd=dw9w
+
+## 最新React技术栈，实战复杂低代码项目-仿问卷星|无密更新中第九章
+
+https://pan.baidu.com/s/1PMT4kBbFpNppR3IYlDoiIQ?pwd=qzki#list/path=%2F
+
+## RN从0到1系统精讲与小红书APP实战（2023版）|完结无密27章
+
+https://pan.baidu.com/s/1yAI3bnG8hdV8fQHFQT0xJw?pwd=68db#list/path=%2F
+
+## TS 从入门到深度掌握，晋级TypeScript高手|完结无密14章
+
+https://pan.baidu.com/share/init?surl=-ZoUestPPC3-J74TYXbqFA&pwd=k384
+
+## 新版Springboot3.0打造能落地的高并发仿12306售票|无密更新中第八章
+
+https://pan.baidu.com/s/1_hX3KHbz1d8hVecqzRrmAQ?pwd=qz2i#list/path=%2F
+
+## ChatGPT 从零到一打造私人智能英语学习助手|无密更新中第三章
+
+https://pan.baidu.com/s/1CQpgby5s1gLFxu5tuv4Jgw?pwd=ym0p#list/path=%2F
+
+## React18+TS+NestJS+GraphQL 全栈开发在线教育平台|无密12章
+
+https://pan.baidu.com/s/1OQOt7w8Yy6e_i2ie_lorbw?pwd=19pt#list/path=%2F
+
+## SpringCloudalibaba+Vue开发仿社交小程序|完结无密19章
+
+https://pan.baidu.com/s/1Qfk230O3dxx3vSYXiP5WSA?pwd=012x#list/path=%2F
+
+## Kubernetes系统精讲 Go语言实战K8S集群可视化|无密12章
+
+https://pan.baidu.com/s/1Fatq6-oTMJJWIxKoQC6XqA?pwd=5plw#list/path=%2F

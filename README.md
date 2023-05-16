@@ -52,8 +52,6 @@
 
 [**测试开发**](https://www.itpromise.cloud/list/ceshi.html) [**音视频开发**](https://www.itpromise.cloud/list/yinshipng.html) [**嵌入式**](https://www.itpromise.cloud/list/qianrushi.html) [**区块链**](https://www.itpromise.cloud/list/qukuailian.html)
 
-
-
 ::: tip
 **联系方式**
 

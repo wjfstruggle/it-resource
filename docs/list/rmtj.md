@@ -9,11 +9,11 @@
 
 完结 [拉勾大前端高薪训练（P7）营](https://kaiwu.lagou.com/fe_enhancement.html)
 
-完结 [珠峰前端架构师培养计划16期](http://www.zhufengpeixun.cn/main/course/index.html)
+完结 [珠峰前端架构师培养计划14版](http://www.zhufengpeixun.cn/main/course/index.html)
 
-更新 [前端架构师-大厂直通车](https://appwhrkrsz84443.h5.xiaoeknow.com/v1/goods/goods_detail/p_62b59eb6e4b0eca59c0de342)
+完结 [珠峰前端架构师培养计划16版](http://www.zhufengpeixun.cn/main/course/index.html)
 
-完结 [宁皓 2022 独立开发者训练营（全栈）](https://mp.weixin.qq.com/s/ZobRzRrY-ITPqGiWDRNImQ)会员非免费
+完结 [宁皓 2022 独立开发者训练营（全栈）](https://mp.weixin.qq.com/s/ZobRzRrY-ITPqGiWDRNImQ)
 
 完结 [开课吧web3.0应用工程师培养计划](https://wx.kaikeba.com/vipcourse/tye3hvurya/6o38qeuxe9)
 
@@ -21,9 +21,19 @@
 
 完结 [金渡Web前端高级进阶VIP班对标腾讯T6](https://ke.qq.com/course/461341)
 
-完结 [WEB前端线上系统课（20k+标准）-大神coderwhy全程直播课](https://haohuo.jinritemai.com/views/product/detail?id=3538353127273142590)
+完结 [珠峰从零打造Web前端高级工程师 2022](https://ke.qq.com/course/package/23043)
 
-更新 [极客时间前端进阶训练营【重磅讲师团：winter、杨村长、然叔、高少云】](https://u.geekbang.org/subject/fe4th) 会员非免费
+完结 [极客时间杨文坚的前端实战训练营](https://u.geekbang.org/subject/fe3rd)
+
+完结 [【JS++】WEB前端高级工程师养成计划『全修精英特训』2022](https://ke.qq.com/course/334138)
+
+完结 [前端早早聊2020+2021+2022+2023](https://www.zaozao.run/course)
+
+完结 [【严选课程】web前端全栈高薪就业课-大神coderwhy出品](https://ke.qq.com/course/4903388#term_id=105074578)
+
+完结 [小滴全栈-商业级大型前端项目大课-小滴云在线教育平台](https://xdclass.net/videoDetailsPage?id=84)
+
+完结 [极客前端进阶特训营winter、杨村长、然叔、高少云](https://u.geekbang.org/subject/fe4th)
 
 ## Java
 
@@ -31,11 +41,15 @@
 
 完结 [拉勾java工程师高薪训练营11期](https://kaiwu.lagou.com/java_architect.html)
 
-完结 [黑马博学谷狂野架构师](https://www.boxuegu.com/subject/architect-01.html) 会员非免费
+完结 [黑马博学谷狂野架构师](https://www.boxuegu.com/subject/architect-01.html) 
 
 完结 [开课吧Java技术专家P7培养计划](https://www.kaikeba.com/course/vip/598)
 
 完结 [尼恩java硬核架构班](http://invalid.uri/)
+
+完结 [小滴工业级PaaS云平台+SpringCloudAlibaba 综合项目实战](https://xdclass.net/videoDetailsPage?id=62)
+
+完结 [小滴海量数据处理-商用短链平台项目大课](https://xdclass.net/videoDetailsPage?id=71)
 
 ## Go开发运维
 
@@ -59,7 +73,7 @@
 
 ## 大数据
 
-完结 [黑马博学谷狂野大数据](https://www.boxuegu.com/subject/data-03.html)会员非免费
+完结 [黑马博学谷狂野大数据](https://www.boxuegu.com/subject/data-03.html)
 
 完结 [【黑马博学谷】Python+大数据就业课（VIP）](https://www.boxuegu.com/class/detail-4300.html)
 

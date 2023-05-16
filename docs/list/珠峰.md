@@ -11,13 +11,15 @@
 
 已连续更新：6年
 
-### 欢迎加入学习啦！
+欢迎加入学习啦！
 
 :::
 
-# 珠峰前端架构
+## 珠峰前端架构
 
-更新 [珠峰前端架构师培养计划16版](https://www.javascriptpeixun.cn/goods/show/672) 2023.5月份结课
+更新 [珠峰前端架构师培养计划17版](https://www.javascriptpeixun.cn/goods/show/691) 2023.11月份结课
+
+完结 [珠峰前端架构师培养计划16版](https://www.javascriptpeixun.cn/goods/show/672) 2023.5月份结课
 
 完结 [珠峰前端架构师培养计划14版](http://www.zhufengpeixun.cn/main/course/index.html) 2022.10月份结课
 
@@ -32,6 +34,68 @@
 完结 [珠峰前端架构师培养计划3版](http://www.zhufengpeixun.cn/main/course/index.html) 2019.5月节课
 
 完结 [珠峰前端架构师培养计划1版](http://www.zhufengpeixun.cn/main/course/index.html) 2018.11月节课
+
+## 珠峰小鹅通新课   
+
+01 完结 [珠峰前端2020大厂前端面试题大汇总之Vue专题](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_5e81d8068cb2a_oQRdRVjm)
+
+02 完结 [珠峰前端珠峰架构Vue3高手通关计划](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_634f5ab1e4b0a51fef2ad55f)
+
+03 完结 [珠峰前端Vue3.0实战训练营](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_5f54f2c2e4b0c55103747aeb)
+
+04 完结 [珠峰前端Vue3正式版+TS实战与源码](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_5f677254e4b0d59c87b71cd2)
+
+05 完结 [珠峰前端Vue+Canvas实战图片裁切与上传](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_5f310d12e4b0810bd9f82d50)
+
+06 完结 [珠峰前端基于Vue+Vuex实战打造QQ音乐WebApp](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_5e81e3ce3d4a7_GLgrLLHv)
+
+07 完结 [珠峰前端Vue3实战打造今日头条客户端](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_608947f2e4b071a81eb66052)
+
+08 完结 [珠峰前端Vue实战Excel表格上传解析与导出](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_5fa60f6fe4b01f764d8948d6)
+
+09 完结 [珠峰前端Uni-app从入门到实战3天训练营](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_5f40e218e4b0dd4d974a951e)
+
+10 完结 [珠峰前端Vue3实战训练营-从零打造飞书App日报](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_60dc4956e4b057a4e7297164)
+
+11 完结 [珠峰前端前端实战3天训练营](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_5f212265e4b025ff2cf718ef)
+
+12 完结 [珠峰前端微前端-从实战到源码](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_64101a02e4b02685a4528923)
+
+13 完结 [珠峰前端从零实现VueRouter4.0](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_60d5a598e4b057a4e72819b5)
+
+14 完结 [珠峰前端从零手写实现React Hooks](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_5fa667e5e4b01f764d8958e2)
+
+15 完结 [珠峰前端从零手写实现Vue-cli脚手架](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_5fa90f6fe4b0b5004b4f2509)
+
+16 完结 [珠峰前端珠峰架构Vue3源码+TS的课程](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_6326bc62e4b0a51fef1c29fe)
+
+17 完结 [珠峰前端珠峰架构Vue3+TS开发专业级组件库](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_62d26c1ee4b050af239c8e72)
+
+18 完结 [珠峰前端前端架构课](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_616954d6e4b0d5ab40bc8c88)
+
+19 完结 [珠峰前端web3元宇宙专家课](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_636f1a94e4b0edc794f3cb80)
+
+20 完结 [珠峰前端web3元宇宙核心课](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_636f197ae4b01126eaa4471b)
+
+21 完结 [珠峰前端珠峰React18全家桶系统课](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_637465b8e4b0276efeb1d061)
+
+22 完结 [珠峰前端珠峰前端正式课缴费专用](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_5f573332e4b0b5edf0a0f214)
+
+23 完结 [珠峰前端web3+元宇宙体系课](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_636f1a54e4b0edc794f3cb61)
+
+24 完结 [珠峰前端2020最全最火Vue面试题训练营](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_5f4e1be3e4b06a37e0390b98)
+
+25 完结 [珠峰前端一线大厂前端面试题全年大汇总4天训练营](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_5e82ed62cc72d_KRMl6sLn)
+
+26 完结 [珠峰前端从零手写Vuex4](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_60c9b80ae4b0017651a5807d)
+
+27 完结 [珠峰前端基于Vue从零打造自己的UI组件库](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_5eaa529246a45_6kcMCfE1)
+
+28 完结 [珠峰前端大厂高频Vue面试题大合集源码级精讲](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_603eeeb8e4b087d11d4e47bc)
+
+29 完结 [珠峰前端2021大厂高频React面试题大汇总源码级精讲](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_60515f62e4b0e51d821eb97a)
+
+30 完结 [珠峰前端2020一线大厂前端面试题大汇总之Webpack专题](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_5f453153e4b0118787334b7c)
 
 # 珠峰前端高级
 

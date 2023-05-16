@@ -57,7 +57,7 @@
 
 28 更新 [小马哥Java分布式架构-模式、设计与实现 2 期](https://apprnzlvz344455.h5.xiaoeknow.com/v1/goods/goods_detail/course_2JiKduWEsSYabs5nn21IcpIm2YQ)
 
-29 完结 [小马哥 Java 训练营 第一期 Java 分布式架构 - 服务治理](https://mztp.yuque.com/docs/share/3b9d972e-8620-4209-83d6-d9186123f4ee)
+29 完结 [小马哥 Java 训练营 第一期 Java 分布式架构 - 服务治理](https://apprnzlvz344455.h5.xiaoeknow.com/v1/goods/goods_detail/term_63036ff2d3219_SUpJvZ?type=3)
 
 ::: tip
 联系方式：微信：IT_Promise
