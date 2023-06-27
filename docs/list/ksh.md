@@ -1,4 +1,5 @@
 # 可视化
+
 #### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ::: tip
@@ -6,7 +7,7 @@
 
 全网课程都有，欢迎私聊
 
-推荐好友下单返利，买的越多，返利越多
+ 
 
 :::
 
@@ -51,5 +52,3 @@
 完结 [UE4智慧停车数字孪生可视化(全能大师版）](https://www.cctalk.com/m/group/90345576)
 
 更新 [Unity高薪就业班-1v1服务 就业无忧](https://www.sikiedu.com/classroom/16/introduction)
-
-更新 [老陈WEBGL底层Threejs实现高阶图形学](https://study.163.com/course/introduction/1213198802.htm)

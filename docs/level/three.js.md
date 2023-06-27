@@ -7,7 +7,7 @@
 
 全网课程都有，欢迎私聊
 
-推荐好友下单返利，买的越多，返利越多
+ 
 
 :::
 
@@ -28,3 +28,7 @@
 完结 622 [慕课网WebGL+Three.js 入门与实战，系统学习 Web3D 技术](https://coding.imooc.com/class/622.html?mc_marking=bb86c9071ed9b7cf12612a2a85203372&mc_channel=hk)
 
 完结 [UE4智慧停车数字孪生可视化(全能大师版）](https://www.cctalk.com/m/group/90345576)
+
+更新 [老陈WEBGL底层Threejs实现高阶图形学](https://study.163.com/course/introduction/1213198802.htm)
+
+更新 【猿创课堂】WEB3d 工程师 零基础启航

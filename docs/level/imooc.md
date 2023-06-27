@@ -7,7 +7,7 @@
 
 全网课程都有，欢迎私聊
 
-推荐好友下单返利，买的越多，返利越多
+ 
 
 :::
 
@@ -73,9 +73,11 @@
 
 26 完结 [【体系课】手写操作系统 小班教学招生1期](https://class.imooc.com/sale/os)
 
-27 预约 [【体系课】Java 亿级项目架构设计与落地应用](https://class.imooc.com/sale/project)
+27 完结 [【体系课】Java 亿级项目架构设计与落地应用](https://class.imooc.com/sale/project)
 
 28 更新 [【体系课】手写操作系统 小班教学招生2期](https://class.imooc.com/sale/os)
+
+29 更新 [【体系课】Python Web全栈工程师](https://class.imooc.com/sale/pythonweb)
 
 ## **大实战**
 
@@ -109,13 +111,29 @@
 
 :::
 
+674 [鸿蒙系统实战短视频App 从0到1掌握HarmonyOS](https://coding.imooc.com/class/674.html)
+
+672 [ChatGPT + Flutter快速开发多端聊天机器人App](https://coding.imooc.com/class/672.html)
+
+663 [ChatGPT 从零到一打造私人智能英语学习助手](https://coding.imooc.com/class/663.html)
+
+662 [国家级认证 软件评测师（软考中级）一站式通关课](https://coding.imooc.com/class/662.html)
+
+661 [Web3.0热门领域NFT项目实战](https://coding.imooc.com/class/661.html)
+
 655 [Netty+Nacos+Disruptor自研企业级API网关](https://coding.imooc.com/class/655.html)
+
+653 [多层次构建企业级大数据平台， 成就全能型大数据开发](https://coding.imooc.com/class/653.html)
+
+652 [2023版全新高质量商业级小程序全栈项目实战](https://coding.imooc.com/class/652.html)
 
 648 [Web3.0入门与实战 一站式掌握4大主流区块链开发](https://coding.imooc.com/class/648.html)
 
 646 [React18+TS4+Next.js13，B端+C端完整业务+技术双闭环](https://coding.imooc.com/class/646.html)
 
 645 [前端必学 40个精选案例实战 一课吃透HTML5+CSS3+JS](https://coding.imooc.com/class/645.html)
+
+644 [React18+TS 通用后台管理系统解决方案落地实战](https://coding.imooc.com/class/644.html)
 
 643 [React18+TS+NestJS+GraphQL 全栈开发在线教育平台](https://coding.imooc.com/class/643.html)
 
@@ -134,6 +152,8 @@
 635 [SpringCloudalibaba+Vue开发仿社交小程序](https://coding.imooc.com/class/635.html)
 
 633 [百度官方出品:代码的艺术 卓越工程师必修课](https://coding.imooc.com/class/633.html?mc_marking=bb86c9071ed9b7cf12612a2a85203372&mc_channel=hk)
+
+632 [SpringBoot+Vue3+Element Plus 打造分布式存储系统](https://coding.imooc.com/class/632.html)
 
 631 [系统集成项目管理工程师(软考中级)，一站式通关课](https://coding.imooc.com/class/631.html)
 
@@ -347,12 +367,40 @@
 
 474 [Spring Boot+Vue3前后端分离，实战wiki知识库系统](https://coding.imooc.com/class/474.html)
 
+467 [高级Redis进阶课 解决Redis实际问题+掌握Redis6.x特性](https://coding.imooc.com/class/467.html)
+
+466 [Vue3.0+TS打造企业级组件库 前端中高级开发者必修课](https://coding.imooc.com/class/466.html)
+
 465 [Android 应用程序构建实战+原理精讲](https://coding.imooc.com/class/465.html)
 
 464 [Kubernetes 入门到进阶实战，系统性掌握K8s生产实践](https://coding.imooc.com/class/464.html)
 
 463 [C语言系统化精讲 重塑编程思想 打造坚实的开发基础](https://coding.imooc.com/class/463.html)
 
+461 [新RabbitMQ精讲，提升工程实践能力，培养架构思维](https://coding.imooc.com/class/461.html)
+
+460 [Java实操避坑指南 SpringBoot/MySQL/Redis错误详解](https://coding.imooc.com/class/460.html)
+
+459 [实战Spark3 实时处理，掌握两套企业级处理方案](https://coding.imooc.com/class/459.html)
+
+457 [Laravel重构企业级电商项目 从根源解决重构难题](https://coding.imooc.com/class/457.html)
+
+456 [Spring Cloud 进阶 Alibaba 微服务体系自媒体实战](https://coding.imooc.com/class/456.html)
+
+455 [Spring Security+OAuth2 精讲，打造企业级认证与授权](https://coding.imooc.com/class/455.html)
+
+454 [Activiti7工作流开发 打造通用型可视化UML工作流系统](https://coding.imooc.com/class/454.html)
+
+453 [Java分布式系统解决方案 掌握企业级分布式项目方案](https://coding.imooc.com/class/453.html)
+
+452 [React+React Hook+Egg造轮子 全栈开发旅游电商应用](https://coding.imooc.com/class/452.html)
+
+449 [【新升级】Vue3 + TS 仿知乎专栏企业级项目](https://coding.imooc.com/class/449.html)
+
 447 [Go微服务入门到容器化实践，落地可观测微服务项目](https://coding.imooc.com/class/447.html)
+
+439 [SpringCloud+Kubernetes 微服务容器化交付实战](https://coding.imooc.com/class/439.html)
+
+437 [Spring Cloud+Vertx+Disruptor 撮合交易系统实战](https://coding.imooc.com/class/437.html)
 
 ...更多待录入ing

@@ -7,7 +7,7 @@
 
 全网课程都有，欢迎私聊
 
-推荐好友下单返利，买的越多，返利越多
+ 
 
 :::
 
@@ -167,7 +167,7 @@
 
 83 更新 [极客高级java工程师体系课2.0升级版](https://u.geekbang.org/subject/java4th)
 
-84 预约 [Java 亿级项目架构设计与落地应用](https://class.imooc.com/sale/project)
+84 完结 [Java 亿级项目架构设计与落地应用](https://class.imooc.com/sale/project)
 
 85 更新 [图灵JAVA互联网架构师 6 期](https://vip.tulingxueyuan.cn/detail/p_63b51bd0e4b07b05582beaa4/8?product_id=p_63b51bd0e4b07b05582beaa4)
 
@@ -183,7 +183,5 @@
 联系方式：微信：IT_Promise
 
 全网课程都有，欢迎私聊
-
-推荐好友下单返利，买的越多，返利越多
 
 :::

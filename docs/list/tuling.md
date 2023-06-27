@@ -22,7 +22,7 @@ JAVA架构口碑连续3年NO1，比某马强很多
 
 # 最新课程
 
-01 更新 [图灵从零开始开发亿级流量小红书项目实战](https://www.processon.com/view/link/641a9cc8628eb275d8059736)
+01 完结 [从零开始开发亿级流量小红书项目实战](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_641ae80be4b0f2aa7dd07402)
 
 02 更新 [图灵AI&ChatGPT实战训练营](https://appgpn9idwb6991.h5.xiaoeknow.com/v1/goods/goods_detail/p_6423fc52e4b0b0bc2bcf0677?fromH5=true)
 
@@ -84,7 +84,7 @@ JAVA架构口碑连续3年NO1，比某马强很多
 
 13 完结 [【图灵课堂】JAVA分布式12306售票系统分析与实战](https://vip.tulingxueyuan.cn/detail/p_62bc34dce4b00a4f371fef40/6)
 
-14 新课 [图灵Python全套实战项目班](https://appssry6rs71641.h5.xiaoeknow.com/v1/goods/goods_detail/p_628ef20ee4b0cedf38b6e660?product_id=p_628ef20ee4b0cedf38b6e660)
+14 更新 [图灵Python全套实战项目班](https://appssry6rs71641.h5.xiaoeknow.com/v1/goods/goods_detail/p_628ef20ee4b0cedf38b6e660?product_id=p_628ef20ee4b0cedf38b6e660)
 
 # 面试突击课
 
@@ -252,7 +252,7 @@ JAVA架构口碑连续3年NO1，比某马强很多
 
 67 完结 [【图灵课堂】深入剖析Java9-18的新特性](https://vip.tulingxueyuan.cn/detail/p_637eff0fe4b083231ed38264/6)
 
-68 新课 [从零开始开发亿级流量小红书项目实战](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_641ae80be4b0f2aa7dd07402)
+68 完结 [从零开始开发亿级流量小红书项目实战](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_641ae80be4b0f2aa7dd07402)
 
 ## **2023学习课程大纲**
 
@@ -262,7 +262,5 @@ JAVA架构口碑连续3年NO1，比某马强很多
 联系方式：微信：IT_Promise
 
 全网课程都有，欢迎私聊
-
-推荐好友下单返利，买的越多，返利越多
 
 :::

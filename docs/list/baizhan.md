@@ -7,17 +7,9 @@
 
 全网课程都有，欢迎私聊
 
-推荐好友下单返利，买的越多，返利越多
-
 :::
 
-# 咱家独一无二的特色
-
-[**每月更新**](https://www.itbaizhan.com/course/update)
-
-[**新上好课**](https://www.itbaizhan.com/recommend.html)
-
-# 体系课2023
+# 体系课
 
 01 完结 [百战程序员Python全栈工程师2023](https://www.itbaizhan.com/stages/id/17)
 
@@ -38,6 +30,14 @@
 09 完结 [百战程序员7U职场软实力](https://www.itbaizhan.com/stages/id/9)
 
 10 完结 [百战程序员C++特训班](https://www.itbaizhan.com/stages/id/39)
+
+11 完结 [毕设项目](http://www.itbaizhan.cn/course/ai)
+
+12 完结 [百战程序员Python数据分析](https://www.itbaizhan.com/stages/id/17)
+
+13 完结 [百战程序员Python办公自动化](https://www.itbaizhan.com/course/list?id=11)
+
+14 完结 [百战程序员AIGC人工智能工具全能班](https://www.itbaizhan.com/stages/id/42)
 
 # 实战课
 

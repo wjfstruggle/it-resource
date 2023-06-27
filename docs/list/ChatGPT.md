@@ -5,7 +5,7 @@
 
 全网课程都有，欢迎私聊
 
-推荐好友下单返利，买的越多，返利越多
+ 
 
 :::
 
@@ -32,3 +32,7 @@
 更新 慕课网663 [ChatGPT 从零到一打造私人智能英语学习助手](https://coding.imooc.com/class/663.html)
 
 更新 慕课网672 [ChatGPT + Flutter快速开发多端聊天机器人App](https://coding.imooc.com/class/672.html)
+
+更新 [企业级项目实战课程-从0带你实现ChatGPT项目](https://ke.qq.com/course/6031074) 
+
+更新 [极客AI 大模型应用开发实战营](https://shimo.im/docs/zdkydGD2VjhKY1q6/read)

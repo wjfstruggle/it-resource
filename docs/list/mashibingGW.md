@@ -47,7 +47,7 @@
 
 14 完结 [马士兵HTML5前端+全栈](https://www.mashibing.com/subject/9)
 
-15 完结 [马士兵C++ 软件开发工程师](https://www.mashibing.com/subject/132)
+15 完结 [马士兵C++ 软件开发工程师](https://www.mashibing.com/subject/132?courseNo=141&courseVersionId=1159)
 
 16 完结 [马士兵高级软件测试开发工程师](https://www.mashibing.com/subject/102)
 

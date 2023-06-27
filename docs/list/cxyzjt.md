@@ -14,6 +14,10 @@
 
 ## [热更推荐](https://www.jtthink.com/course?c=99)
 
+[218. 程序员在囧途AI重塑k8s可视化管理系统(AIOps)实战](https://www.jtthink.com/course/218)
+
+[217. 程序员在囧途ChatGPT和k8s实战之:Embeddings篇](https://www.jtthink.com/course/217)
+
 [216. 程序员在囧途prompt工程师实战演练(业务开发篇)](https://www.jtthink.com/course/212)
 
 [215. 程序员在囧途实用级GPT探索性实战之自训练篇](https://www.jtthink.com/course/212)

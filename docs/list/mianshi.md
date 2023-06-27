@@ -152,9 +152,9 @@
 
 08 完结 [慕课网2周刷完100道前端优质面试真题](https://coding.imooc.com/class/562.html)
 
-09 更新 [慕课前端模拟面试：给你真实的求职体验和面试经验](https://coding.imooc.com/class/596.html)
+09 完结 [慕课前端模拟面试：给你真实的求职体验和面试经验](https://coding.imooc.com/class/596.html)
 
-10 更新 [慕课网前端面试全家桶：从求职准备到面试演练](https://coding.imooc.com/class/613.html)
+10 完结 [慕课网前端面试全家桶：从求职准备到面试演练](https://coding.imooc.com/class/613.html)
 
 11 完结 [JavaScript版数据结构与算法 轻松解决前端算法面试](https://coding.imooc.com/class/446.html)
 
@@ -317,6 +317,6 @@
 
 全网课程都有，欢迎私聊
 
-推荐好友下单返利，买的越多，返利越多
+ 
 
 :::

@@ -64,6 +64,8 @@
 
 30 完结 [【课程 C】程序员基础内功系列课](https://appvpmptkl94774.pc.xiaoe-tech.com/detail/p_61ce7550e4b05006f9c406d9/8?product_id=p_61ce7550e4b05006f9c406d9)
 
+31 完结 [博学谷玩转数据结构与算法](https://www.boxuegu.com/course/detail-5601.html)
+
 # 前端算法
 
 01 完结 [智能社数据结构与算法](https://ke.qq.com/course/2203033)
@@ -82,7 +84,8 @@
 
 # 特别推荐
 
-[九章算法](http://leaaiv.cn/project-1/doc-42/)
+[九章算法](./jiuzhang.md)
+
 [图灵面试突击](https://vip.tulingxueyuan.cn/all/4759890)
 
 ![null](http://leaaiv.cn/media/202207/2022-07-06_162945_968363.png)
@@ -90,4 +93,4 @@
 ## **联系方式**
 -  微信：IT_Promise
 -  全网课程都有，欢迎私聊。
--  推荐好友下单返利，买的越多，返利越多
+-   

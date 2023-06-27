@@ -24,11 +24,13 @@
 
 完结 [黑马博学谷基于Kudu 实现物联网数据存储与分析](https://www.boxuegu.com/course/detail-3128.html)
 
+更新 [【千峰教育】物联网+嵌入式](http://wap.mobiletrain.org/wlw.html)
+
 ::: tip
 联系方式：微信：IT_Promise
 
 全网课程都有，欢迎私聊
 
-推荐好友下单返利，买的越多，返利越多
+ 
 
 :::

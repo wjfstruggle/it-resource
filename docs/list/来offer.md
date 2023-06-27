@@ -2,19 +2,13 @@
 
 #### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
-01完结[来offer软件工程师旗舰核心课程](https://www.laioffer.com/zh/course/software-development/)
+01完结 [来offer软件工程师旗舰核心课程](https://www.laioffer.com/zh/course/software-development/)
 
-02完结[来offer全栈开发项目实践课程](https://www.laioffer.com/zh/course/full-stack-development/)
+02完结 [来offer全栈开发项目实践课程](https://www.laioffer.com/zh/course/full-stack-development/)
 
-03完结[来offer人工智能与数据科学强化课程](https://www.laioffer.com/zh/course/ai-and-data-engineering/)
+03完结 [来offer人工智能与数据科学强化课程](https://www.laioffer.com/zh/course/ai-and-data-engineering/)
 
-04完结来offer算法旗舰班
-
-##### 九章算法-全部课程免费看，请勿传播
-
-链接：https://pan.baidu.com/s/1Ba7ZmVPUQWh3-ZkeVO_NGA?pwd=6688
-
-提取码：6688
+04完结 来offer算法旗舰班
 
 ## 九章算法
 

@@ -7,7 +7,107 @@
 
 #### [**课程首页**](../../README.md) 💖[**更新记录**](./gxjl-2023.md) 💖[**热门推荐**](./rmtj.md) 💖[**会员中心**](./vip.md)
 
+## 2023.6月上新
+
+完结 [HCIP Datacom+Linux 云计算+网站架构](https://edu.51cto.com/course/30960.html)
+
+打包特惠 [程序员在囧途](./cxyzjt.md)
+
+完结 [李晓鹏全栈测试工程师](https://edu.51cto.com/course/31267.html)
+
+完结 [享学Kotlin从入门到进阶](https://edu.51cto.com/course/32703.html)
+
+完结 [City Engine数字城市三维建模](https://edu.51cto.com/course/31438.html)
+
+完结 [技术管理的成长进阶](https://edu.51cto.com/course/31748.html)
+
+完结 [量化大咖带你轻松玩转量化交易](https://edu.51cto.com/course/20260.html)
+
+更新 [【24考研】数学全程班](https://ke.gupaoedu.cn/course/vip/1967)
+
+更新 [卢菁人工智能NLP系统班2023](https://ke.gupaoedu.cn/course/vip/1973)
+
+完结 [【太阁闫辉】六IE讲师教您三个月学习CCIE+HCIE](https://edu.51cto.com/course/23359.html)
+
+完结 [红帽RHCE认证训练营](https://edu.51cto.com/course/32638.html)
+
+完结 [腾讯云TCP高级架构工程师训练营](https://edu.51cto.com/course/32857.html)
+
+更新 [唐宇迪人工智能深度学习系统班V7.1](https://ke.gupaoedu.cn/course/vip/1944)
+
+完结 [咕泡Java高薪offer定制班2023](https://ke.gupaoedu.cn/course/vip/1945)
+
+完结 [未来已来，教练可期](https://appsrq3aed94083.h5.xiaoeknow.com/v1/goods/goods_detail/p_6239ad56e4b09dda1250c98b)
+
+推荐 [千峰Java架构进阶实战营](https://appd8lwrtt98427.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/p_62945a1de4b09dda126efffb?product_id=p_62945a1de4b09dda126efffb)
+
+完结 [云之基石-VMware NSX-T Design软件定义网络高级架构设计](https://edu.51cto.com/course/28412.html)
+
+完结 [Citrix Virtual Apps and Desktops 2203CU1最新版本](https://edu.51cto.com/course/32057.html)
+
+完结 [从0到Go语言微服务架构师](https://edu.51cto.com/course/32246.html)
+
+更新 [九章算法ChatGPT项目实战课](https://www.jiuzhang.com/course/150)
+
+更新 珠峰会员免费 [珠峰前端架构17期2023版](https://www.javascriptpeixun.cn/goods/show/691)
+
+完结 [九章算法大厂高频算法真题详解+面试指导2023](https://www.jiuzhang.com/course/146)
+
+完结 [Chatgpt开发k8s管理平台](https://edu.51cto.com/course/33969.html)
+
+完结 [offerrealize机器学习面试辅导2023](https://www.offerrealize.com/plan#machinelearning)
+
+完结 [王争的算法训练营5期](https://www.xzgedu.com/p/t_pc/goods_pc_detail/goods_detail/term_61dccf68743d7_QE7grL)
+
+完结 [Premiere影视剪辑PR抖音短视频AE特效Vlog自媒体玩抖音After Effects影视包装](https://edu.51cto.com/course/33969.html)
+
+完结 [风哥数据库全家桶](https://edu.51cto.com/course/30640.html)
+
+更新 [马哥高端Go语言高薪班12期](https://ke.qq.com/course/406096)
+
+完结 [Chatgpt开发k8s管理平台](https://edu.51cto.com/course/33969.html)
+
+完结 [杜宽Go语言入门到脚手架项目实战](https://edu.51cto.com/course/33945.html)
+
+完结 [极客前端进阶特训营2023](https://u.geekbang.org/subject/fe4th)
+
+完结 [唐宇迪人工智能深度学习系统班2023](https://ke.gupaoedu.cn/course/vip/1944)
+
+完结 [Java互联网高级架构师2023版](https://ke.gupaoedu.cn/course/vip/1873)
+
+完结 [Java高薪Offer集训班9班](https://ke.gupaoedu.cn/course/vip/1893)
+
+完结 [极客Java实战特训营 - 郑天民](https://u.geekbang.org/subject/java5th)
+
+完结 [极客高级java工程师2023版](https://u.geekbang.org/subject/java4th)
+
+完结 [慕课Java高级工程师2023](https://class.imooc.com/sale/javasenior)
+
+完结 [软考高级2023：信息系统项目管理师4.0版](https://e.51cto.com/training_1094.html)
+
+完结 [ElasticStack高级开发与架构2023](https://ke.gupaoedu.cn/course/vip/1002)
+
+完结 [PMP项目管理资格认证2023](https://ke.gupaoedu.cn/course/vip/1323)
+
+完结 [Java高薪Offer集训班8班](https://ke.gupaoedu.cn/course/vip/1868)
+
+完结 [马哥Go高薪班2023-8期](https://ke.qq.com/course/406096)
+
+更新 [老陈Three.js可视化WEBGL企业实战2023](https://study.163.com/course/courseMain.htm?courseId=1212491801)
+
+更新 [老陈WEBGL底层Threejs实现高阶图形学2023](https://study.163.com/course/introduction/1213198802.htm)
+
+完结 [博学谷狂野架构师5,6期（1-4期完结）](https://www.boxuegu.com/coursePage/live/?cid=5563&pageType=1&nid=10014)
+
+完结 [博学谷 - 狂野大数据5,6,7期（1-4期完结）](https://www.boxuegu.com/coursePage/?subject=architect)
+
+完结 [ChatGPT全栈开发—帮你写代码、改bug、做测试、搞运维](https://mp.weixin.qq.com/s/3eN-EFjMB5dqOJp2S9ZdFg)
+
 ## 2023.5月上新
+
+更新 [拼客学院全栈移动安全攻防逆向班](https://www.pinginglab.net/goods/show/575)
+
+ 【预约特惠】[极客时间+马哥 网络安全训练营2023](https://u.geekbang.org/subject/intro/1005497)
 
 更新 [唐宇迪人工智能深度学习系统班2023](https://ke.gupaoedu.cn/course/vip/1944)
 

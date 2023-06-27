@@ -56,7 +56,7 @@
 
 [**新媒体**](./list/newMedia.md) [**全链路**](./list/qll.md)  [**玩转电商**](./list/wzds.md)  [**UI设计**](./list/UI.md) [**源码解析**](./list/code.md)
 
-[**区块链**](./list/qukuailian.md) [**ChatGPT**](./list/ChatGPT.md)
+[**区块链**](./list/qukuailian.md) [**ChatGPT**](./list/ChatGPT.md) [**3D视觉工坊**](./list/3D.md)  [**计算机软考**](./list/ruankao.md)
 
 ::: tip
 **联系方式**

@@ -28,19 +28,23 @@
 
 14 完结 [大学生春招秋招 Linux C/C++开发就业课程)](https://ke.qq.com/course/443231)
 
-15 更新 [C/C++/MySQL/Redis操作系统/八股文/Leetcode剑指Offer面试攻略](https://ke.qq.com/course/5478818)
+15 完结 [C/C++/MySQL/Redis操作系统/八股文/Leetcode剑指Offer面试攻略](https://ke.qq.com/course/5478818)
 
 16 完结 [Qt开发必备技术栈（Qt5/C语言/c++/数据库/OpenCV/Quick/Qt实战）](https://ke.qq.com/course/5820590#term_id=106031247)
 
-17 完结 [【零声学院】C/C++Linux服务器开发/高级架构师2207期](https://ke.qq.com/course/420945)
+17 完结 [【零声学院】C/C++Linux服务器开发/高级架构师2207期](https://ke.qq.com/course/420945)【23.4月份结课】
 
 18 完结 [WebRTC音视频技术入门与提高【零声教育】](https://ke.qq.com/course/435382)
+
+19 更新 [企业级项目实战课程-从0带你实现ChatGPT项目](https://ke.qq.com/course/6031074)
+
+20 更新 [【零声学院】C/C++Linux服务器开发/高级架构师2304期](https://ke.qq.com/course/420945) 【23.9月份结课】
 
 ::: tip
 联系方式：微信：IT_Promise
 
 全网课程都有，欢迎私聊
 
-推荐好友下单返利，买的越多，返利越多
+ 
 
 :::
