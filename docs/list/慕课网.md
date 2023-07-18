@@ -15,7 +15,7 @@
 
 [慕课官网](https://www.imooc.com/)
 
-**电子书、源码、课件、辅助材料都有**
+电子书、源码、课件、辅助材料都有
 
 ## **体系课**
 
@@ -79,6 +79,8 @@
 
 29 更新 [【体系课】Python Web全栈工程师](https://class.imooc.com/sale/pythonweb)
 
+30 预约 [慕课大前端高级工程师2023](https://class.imooc.com/sale/fesenior)
+
 ## **大实战**
 
 445 [【微体系】数据可视化入门到精通打造前端差异化竞争力](https://coding.imooc.com/class/445.html)
@@ -111,6 +113,16 @@
 
 :::
 
+690 [2023 React 18 系统入门 进阶实战《欢乐购》](https://coding.imooc.com/class/690.html)
+
+687 [前端共学会：学习|成长|工作|职业，综合服务社区](https://coding.imooc.com/class/687.html)
+
+685 [Django4+Vue3全新技术实战全栈项目](https://coding.imooc.com/class/685.html)
+
+684 [程序员的 AI 启蒙课: ChatGPT 让你 1 人顶 3 人](https://coding.imooc.com/class/684.html)
+
+681 [JVM七大核心系统精讲 从基础理论到高级应用](https://coding.imooc.com/class/681.html)
+
 678 [Python多领域场景实战课 快速成为多面手](https://coding.imooc.com/class/678.html)
 
 675 [SpirngBoot+Vue3+MySQL集群 开发健康体检双系统](https://coding.imooc.com/class/675.html)
@@ -120,6 +132,8 @@
 674 [鸿蒙系统实战短视频App 从0到1掌握HarmonyOS](https://coding.imooc.com/class/674.html)
 
 672 [ChatGPT + Flutter快速开发多端聊天机器人App](https://coding.imooc.com/class/672.html)
+
+670 [SpringCloudAlibaba高并发仿斗鱼直播平台实战](https://coding.imooc.com/class/670.html)
 
 667 [Vue3+NestJS 全栈开发企业级管理后台](https://coding.imooc.com/class/667.html)
 

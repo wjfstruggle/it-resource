@@ -163,6 +163,8 @@
 
 77 完结 渡一教育Web前端高薪工程师2023
 
+78 预约 [慕课大前端高级工程师2023](https://class.imooc.com/sale/fesenior)
+
 ### **更多Web**
 
 [**前端就业**](./qianduanGJ.md) [**React**](./React.md) [**Vue**](./Vue.md) [**Node**](./Node.md) [**可视化**](./ksh.md) [**coderwhy**](./coderwhy.md)

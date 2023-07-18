@@ -1807,6 +1807,8 @@
 
 895 完结 [黑马博学谷超级设计师软件基础加强篇](https://www.boxuegu.com/course/detail-1.html)
 
+896 完结 [博学谷玩转数据结构与算法](https://www.boxuegu.com/course/detail-5601.html)
+
 ### 黑马
 
 01 完结 [广州黑马Python+大数据开发就业12期（20221116面授）](https://www.boxuegu.com/)

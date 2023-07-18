@@ -17,7 +17,7 @@
 
 完结 [小滴课堂海量数据处理-商用短链平台项目大课](https://xdclass.net/#/coursedetail?video_id=71)
 
-更新 [小滴课堂全栈-商业级大型前端项目大课-小滴云在线教育平台](https://xdclass.net/videoDetailsPage?id=84)
+完结 [小滴课堂全栈-商业级大型前端项目大课-小滴云在线教育平台](https://xdclass.net/videoDetailsPage?id=84)
 
 更新 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
 

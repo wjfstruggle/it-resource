@@ -79,9 +79,9 @@
 
 30 完结 [极客时间邓明Go实战训练营 2 期 ](https://u.geekbang.org/subject/go2nd)全新升级
 
-31 更新 [极客时间前端进阶特训营winter、杨村长、然叔、高少云](https://u.geekbang.org/subject/fe4th)
+31 完结 [极客时间前端进阶特训营winter、杨村长、然叔、高少云](https://u.geekbang.org/subject/fe4th)
 
-32 更新 [极客时间Java实战特训营 - 郑天民](https://u.geekbang.org/subject/java5th)
+32 完结 [极客时间Java实战特训营 - 郑天民](https://u.geekbang.org/subject/java5th)
 
 33 完结 [极客时间高级java工程师体系课 - 刘亚雄](https://u.geekbang.org/subject/java4th)
 
@@ -92,6 +92,12 @@
 36 即将出货 [极客时间马哥运维训进阶训练营](https://u.geekbang.org/subject/intro/1001198)
 
 37 即将出货 [极客时间大数据项目实战营](https://time.geekbang.org/activity/promo?page_name=page_526)
+
+38  【预约特惠】[极客时间+马哥 网络安全训练营2023](https://u.geekbang.org/subject/intro/1005497)
+
+39 预约 [极客时间邓明初级go工程师训练营](https://u.geekbang.org/subject/go3rd)
+
+40 更新 [极客AI 大模型应用开发实战营](https://shimo.im/docs/zdkydGD2VjhKY1q6/read)
 
 ## 2、集训班
 

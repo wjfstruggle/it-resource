@@ -15,7 +15,7 @@
 
 [慕课官网](https://www.imooc.com/)
 
-**电子书、源码、课件、辅助材料都有**
+电子书、源码、课件、辅助材料都有
 
 ## **体系课**
 
@@ -75,9 +75,11 @@
 
 27 完结 [【体系课】Java 亿级项目架构设计与落地应用](https://class.imooc.com/sale/project)
 
-28 更新 [【体系课】手写操作系统 小班教学招生2期](https://class.imooc.com/sale/os)
+28 完结 [【体系课】手写操作系统 小班教学招生2期](https://class.imooc.com/sale/os)
 
 29 更新 [【体系课】Python Web全栈工程师](https://class.imooc.com/sale/pythonweb)
+
+30 预约 [慕课大前端高级工程师2023](https://class.imooc.com/sale/fesenior)
 
 ## **大实战**
 
@@ -111,9 +113,19 @@
 
 :::
 
+678 [Python多领域场景实战课 快速成为多面手](https://coding.imooc.com/class/678.html)
+
+675 [SpirngBoot+Vue3+MySQL集群 开发健康体检双系统](https://coding.imooc.com/class/675.html)
+
+673 [Java七大热门技术框架源码解析](https://coding.imooc.com/class/673.html)
+
 674 [鸿蒙系统实战短视频App 从0到1掌握HarmonyOS](https://coding.imooc.com/class/674.html)
 
 672 [ChatGPT + Flutter快速开发多端聊天机器人App](https://coding.imooc.com/class/672.html)
+
+667 [Vue3+NestJS 全栈开发企业级管理后台](https://coding.imooc.com/class/667.html)
+
+665 [全新版Jetpack进阶提升，系统性落地短视频App](https://coding.imooc.com/class/665.html)
 
 663 [ChatGPT 从零到一打造私人智能英语学习助手](https://coding.imooc.com/class/663.html)
 
@@ -121,13 +133,19 @@
 
 661 [Web3.0热门领域NFT项目实战](https://coding.imooc.com/class/661.html)
 
+656 [实习项目实战-SpringBoot开发双11商品服务系统](https://coding.imooc.com/class/656.html)
+
 655 [Netty+Nacos+Disruptor自研企业级API网关](https://coding.imooc.com/class/655.html)
 
 653 [多层次构建企业级大数据平台， 成就全能型大数据开发](https://coding.imooc.com/class/653.html)
 
 652 [2023版全新高质量商业级小程序全栈项目实战](https://coding.imooc.com/class/652.html)
 
+650 [React18内核探秘：手写React高质量源码迈向高阶开发](https://coding.imooc.com/class/650.html)
+
 648 [Web3.0入门与实战 一站式掌握4大主流区块链开发](https://coding.imooc.com/class/648.html)
+
+647 [全新版FRIDA与安卓 应用安全与逆向实战宝典](https://coding.imooc.com/class/647.html)
 
 646 [React18+TS4+Next.js13，B端+C端完整业务+技术双闭环](https://coding.imooc.com/class/646.html)
 

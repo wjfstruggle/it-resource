@@ -360,6 +360,8 @@
 
 173 完结 [咕泡数学答疑班](https://ke.gupaoedu.cn/course/vip/1997)
 
+174 更新 [咕泡人工智能深度学习高薪就业班 07 期](https://ke.gupaoedu.cn/course/vip/1944)
+
 ## 精品小课
 
 1. 完结 [咕泡手把手带你手写一个RPC框架](https://ke.gupaoedu.cn/course/detail/256)

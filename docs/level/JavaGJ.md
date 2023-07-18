@@ -167,9 +167,11 @@
 
 83 更新 [极客高级java工程师体系课2.0升级版](https://u.geekbang.org/subject/java4th)
 
-84 预约 [Java 亿级项目架构设计与落地应用](https://class.imooc.com/sale/project)
+84 完结 [Java 亿级项目架构设计与落地应用](https://class.imooc.com/sale/project)
 
 85 更新 [图灵JAVA互联网架构师 6 期](https://vip.tulingxueyuan.cn/detail/p_63b51bd0e4b07b05582beaa4/8?product_id=p_63b51bd0e4b07b05582beaa4)
+
+86 更新 [渡一教育Java高薪工程师培养计划2023](https://ke.qq.com/course/5595617)
 
 **更多Java**
 

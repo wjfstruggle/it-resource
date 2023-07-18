@@ -171,6 +171,8 @@
 
 85 更新 [图灵JAVA互联网架构师 6 期](https://vip.tulingxueyuan.cn/detail/p_63b51bd0e4b07b05582beaa4/8?product_id=p_63b51bd0e4b07b05582beaa4)
 
+86 更新 [渡一教育Java高薪工程师培养计划2023](https://ke.qq.com/course/5595617)
+
 **更多Java**
 
 [**Java就业**](./JavaJY.md) [**数据库**](./bigData.md) [**Java大实战**](./javaDSZ.md) [**大厂学院**](./dcxy.md) [**沈剑的架构**](./sjjgs.md)

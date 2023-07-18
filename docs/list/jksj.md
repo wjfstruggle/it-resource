@@ -95,7 +95,7 @@
 
 38  【预约特惠】[极客时间+马哥 网络安全训练营2023](https://u.geekbang.org/subject/intro/1005497)
 
-39 预约 [极客时间邓明初级go工程师训练营](https://u.geekbang.org/subject/go3rd)
+39 更新 [极客时间邓明初级go工程师训练营](https://u.geekbang.org/subject/go3rd)
 
 40 更新 [极客AI 大模型应用开发实战营](https://shimo.im/docs/zdkydGD2VjhKY1q6/read)
 

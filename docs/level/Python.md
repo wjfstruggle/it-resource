@@ -7,8 +7,6 @@
 
 全网课程都有，欢迎私聊
 
- 
-
 :::
 
 01 完结 [网易-微专业从零起步，用Python进阶数据分析](https://mooc.study.163.com/smartSpec/detail/1202821601.htm)
@@ -87,7 +85,7 @@
 
 42 完结 [路飞Python开发+AI人工智能](https://www.luffycity.com/employment-course/4/chapter)
 
-43 完结[Python爬虫高级开发工程师](https://ke.qq.com/course/3582874?course_id=3582874#term_id=105524190)
+43 完结 [Python爬虫高级开发工程师](https://ke.qq.com/course/3582874?course_id=3582874#term_id=105524190)
 
 44 完结 [【黑马博学谷】Python+大数据就业课（VIP）](https://www.boxuegu.com/class/detail-4300.html)
 
@@ -95,13 +93,13 @@
 
 46 完结 [青灯Python爬虫开发从入门到实战](https://ke.qq.com/course/405353)	
 
+47 更新 [慕课网【体系课】Python Web全栈工程师](https://class.imooc.com/sale/pythonweb)
 
+48 更新 [老男孩2023python全栈开发](https://www.oldboyedu.com/Public/lnh/kec/pyth/#toWhy5)
 
 ::: tip
 联系方式：微信：IT_Promise
 
 全网课程都有，欢迎私聊
-
- 
 
 :::

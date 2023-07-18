@@ -55,9 +55,13 @@
 
 27 完结 [Java 亿级项目架构设计与落地应用](https://class.imooc.com/sale/project)
 
-28 更新 [小马哥Java分布式架构-模式、设计与实现 2 期](https://apprnzlvz344455.h5.xiaoeknow.com/v1/goods/goods_detail/course_2JiKduWEsSYabs5nn21IcpIm2YQ)
-
 29 完结 [小马哥 Java 训练营 第一期 Java 分布式架构 - 服务治理](https://mztp.yuque.com/docs/share/3b9d972e-8620-4209-83d6-d9186123f4ee)
+
+30 完结 [小马哥 Java 训练营 第二期 Java 分布式架构 - 模式、设计与实现](https://apprnzlvz344455.h5.xiaoeknow.com/v1/goods/goods_detail/course_2JiKduWEsSYabs5nn21IcpIm2YQ)
+
+31 更新 [小马哥 Java 训练营 第三期 Java 分布式架构 - 高并发、高性能与高可用](https://apprnzlvz344455.h5.xiaoeknow.com/v1/goods/goods_detail/course_2PrHAyb8pZi0IPTxrGyS9VDc3yA)
+
+32 更新 [小马哥 Java 训练营 第四期 Java 分布式架构 - 异地多活架构](https://apprnzlvz344455.h5.xiaoeknow.com/v1/goods/goods_detail/course_2PuxTx4zA8b2q83VuAPYLPFqO5x)
 
 ::: tip
 联系方式：微信：IT_Promise

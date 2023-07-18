@@ -15,7 +15,7 @@
 
 01 完结 [开课吧数字图像处理OpenCV/C++项目实战](https://www.kaikeba.com/course/vip/788)
 
-02 更新[【网易云】【老八】C/C++、计算机体系](https://study.163.com/course/introduction.htm?courseId=1209597912)
+02 完结[【网易云】【老八】C/C++、计算机体系](https://study.163.com/course/introduction.htm?courseId=1209597912)
 
 03 完结 [C++百万并发网络通信引擎架构与实现（服务端、客户端、跨平台）](https://edu.51cto.com/course/11553.html)
 
@@ -41,11 +41,11 @@
 
 14 完结 [大学生春招秋招 Linux C/C++开发就业课程)](https://ke.qq.com/course/443231)
 
-15 更新 [C/C++/MySQL/Redis操作系统/八股文/Leetcode剑指Offer面试攻略](https://ke.qq.com/course/5478818)
+15 完结 [C/C++/MySQL/Redis操作系统/八股文/Leetcode剑指Offer面试攻略](https://ke.qq.com/course/5478818)
 
 16 完结 [百战程序员C++特训班](https://www.itbaizhan.com/stages/id/39)
 
-17 新课[C/C++全栈软件工程师](https://ke.qq.com/course/3485885)
+17 完结 [C/C++全栈软件工程师](https://ke.qq.com/course/3485885)
 
 18 完结 [黑马博学谷【年度钻石会员】C/C++](https://www.boxuegu.com/class/detail-1335.html)
 
@@ -54,6 +54,10 @@
 20 完结 [顿开C++高级工程师](https://ke.qq.com/course/package/47576)
 
 21 完结 [C++百万并发网络通信引擎架构与实现(服务端+客户端+跨平台)第2季（赠送第1季））](https://edu.51cto.com/course/11553.html)
+
+22 更新 [比特就业课106期C++](https://www.cctalk.com/m/group/90132828?spm=wolai.workspace.0.0.38e068b3XiR4V9)
+
+23 完结 [马士兵C++ 软件开发工程师](https://www.mashibing.com/subject/132?courseNo=141&courseVersionId=1159)
 
 
 

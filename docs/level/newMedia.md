@@ -38,6 +38,10 @@
 
 17 完结 [胡椒-爆款短视频剪辑变现特训营](https://m.youshu.cc/weixin/goods?from_ys_source=H5&goods_item_id=4412)
 
+18 完结 [新媒体+短视频直播运营2023](https://m.boxuegu.com/campaign/coursePage.html?subject=newMedia)
+
+19 完结 [短视频掘金流量陪跑训练营2023](https://m.boxuegu.com/campaign/coursePage.html?subject=media)
+
 ::: tip
 联系方式：微信：IT_Promise
 

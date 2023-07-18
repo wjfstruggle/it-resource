@@ -14,6 +14,18 @@
 
 ## [热更推荐](https://www.jtthink.com/course?c=99)
 
+[218. 程序员在囧途AI重塑k8s可视化管理系统(AIOps)实战](https://www.jtthink.com/course/218)
+
+[217. 程序员在囧途ChatGPT和k8s实战之:Embeddings篇](https://www.jtthink.com/course/217)
+
+[216. 程序员在囧途prompt工程师实战演练(业务开发篇)](https://www.jtthink.com/course/212)
+
+[215. 程序员在囧途实用级GPT探索性实战之自训练篇](https://www.jtthink.com/course/212)
+
+[214. 程序员在囧途k8s apiserver源码级学习和魔改](https://www.jtthink.com/course/212)
+
+[213. 程序员在囧途Severless实战入门之knative篇](https://www.jtthink.com/course/212)
+
 [212.ChatGPT和k8s运维开发探索性实战](https://www.jtthink.com/course/212)
 
 [211.rust web开发暴力入门：actix-web篇](https://www.jtthink.com/course/211)

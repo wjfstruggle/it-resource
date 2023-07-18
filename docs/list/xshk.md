@@ -7,6 +7,60 @@
 
 #### [**课程首页**](../../README.md) 💖[**更新记录**](./gxjl-2023.md) 💖[**热门推荐**](./rmtj.md) 💖[**会员中心**](./vip.md)
 
+## 2023.7月上新
+
+完结 [马士兵AI人工智能算法班](https://www.mashibing.com/subject/20)
+
+完结 [马哥Go语言高薪班12期](https://ke.qq.com/course/406096) 会员非免费
+
+完结 [渡一Java高薪工程师培养计划2023](https://ke.qq.com/course/5595617)
+
+完结 [ChatGPT全栈开发—帮你写代码、改bug、做测试、搞运维](https://mp.weixin.qq.com/s/3eN-EFjMB5dqOJp2S9ZdFg)
+
+完结 [前端早早聊大会](https://www.zaozao.run/conf/2023)
+
+完结 [Magento企业级开发实战](https://edu.51cto.com/course/31495.html)
+
+完结 [Pytest全栈自动化测试](https://edu.51cto.com/course/32569.html)
+
+完结 [风哥数据库全家桶](./fengge.md)
+
+完结 [35天！算法面试无忧训练营V3](https://ke.gupaoedu.cn/course/vip/1723)
+
+完结 [Java互联网高级架构师2023](https://ke.gupaoedu.cn/course/vip/1873)
+
+完结 [技术管理的成长进阶](https://edu.51cto.com/course/31748.html)
+
+完结 [PMP项目管理资格认证](https://ke.gupaoedu.cn/course/vip/1323)
+
+完结 [老蒋学风控系列](https://edu.51cto.com/lecturer/15387522.html)
+
+完结 [Solidity智能合约从入门到精通](https://edu.51cto.com/course/30507.html)
+
+完结 [友凡-大牛合集](./youfan.md)
+
+完结 [CTO训练营合集](./CTOtrain.md)
+
+完结 [博学谷HTML&JS + 前端高手2023](https://www.boxuegu.com/course/outline-5235.html)
+
+完结 [365天高级算法班](https://ke.gupaoedu.cn/course/vip/1559)
+
+完结 [马士兵Python全系列大师2023](https://www.mashibing.com/subject/25)
+
+完结 [薛大龙信息系统项目管理师2023](https://e.51cto.com/training_1094.html)
+
+完结 [系统架构设计师高级2023](https://ke.gupaoedu.cn/course/vip/1979)
+
+完结 [李振良Kubernetes/K8s企业运维实战](https://edu.51cto.com/course/12537.html)
+
+完结 [K8s CKA+CKS 认证实战班](https://ke.qq.com/course/package/37246)
+
+完结 [k8s istio argocd tekton 全系列](https://ke.qq.com/course/package/37246)
+
+完结 [k8s+DevOps云原生:基于世界1000强实战](https://edu.51cto.com/course/27936.html)
+
+完结 [马士兵云原生架构师2023](https://www.mashibing.com/subject/88)
+
 ## 2023.6月上新
 
 完结 [HCIP Datacom+Linux 云计算+网站架构](https://edu.51cto.com/course/30960.html)

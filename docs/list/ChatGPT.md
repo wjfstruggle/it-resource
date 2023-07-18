@@ -13,26 +13,34 @@
 
 
 
-完结 [博学谷爆火出圈的ChatGPT](https://www.boxuegu.com/live/detail-5593.html)
+01完结 [博学谷爆火出圈的ChatGPT](https://www.boxuegu.com/live/detail-5593.html)
 
-完结 [极客ChatGPT 从 0 到 1](https://time.geekbang.org/opencourse/videointro/100541101)
+02 完结 [极客ChatGPT 从 0 到 1](https://time.geekbang.org/opencourse/videointro/100541101)
 
-完结 [极客ChatGPT 和预训练模型实战课](https://time.geekbang.org/opencourse/videointro/100541201)
+03 完结 [极客ChatGPT 和预训练模型实战课](https://time.geekbang.org/opencourse/videointro/100541201)
 
-完结 [极客AI 大模型之美](https://time.geekbang.org/column/intro/100541001)
+04 完结 [极客AI 大模型之美](https://time.geekbang.org/column/intro/100541001)
 
-更新 [图灵AI&ChatGPT实战训练营](https://appgpn9idwb6991.h5.xiaoeknow.com/v1/goods/goods_detail/p_6423fc52e4b0b0bc2bcf0677?fromH5=true)
+05 更新 [图灵AI&ChatGPT实战训练营](https://appgpn9idwb6991.h5.xiaoeknow.com/v1/goods/goods_detail/p_6423fc52e4b0b0bc2bcf0677?fromH5=true)
 
-更新 [炼数成金ChatGpT技术实现特训营](http://www.dataguru.cn/bootcamp-41.html)
+06 更新 [炼数成金ChatGpT技术实现特训营](http://www.dataguru.cn/bootcamp-41.html)
 
-更新 [ChatGPT和k8s运维开发探索性实战](https://www.jtthink.com/course/212)
+07 更新 [ChatGPT和k8s运维开发探索性实战](https://www.jtthink.com/course/212)
 
-更新 [ChatGPT全栈开发—帮你写代码、改bug、做测试、搞运维](https://mp.weixin.qq.com/s/3eN-EFjMB5dqOJp2S9ZdFg)
+08 更新 [ChatGPT全栈开发—帮你写代码、改bug、做测试、搞运维](https://mp.weixin.qq.com/s/3eN-EFjMB5dqOJp2S9ZdFg)
 
-更新 慕课网663 [ChatGPT 从零到一打造私人智能英语学习助手](https://coding.imooc.com/class/663.html)
+09 更新 慕课网663 [ChatGPT 从零到一打造私人智能英语学习助手](https://coding.imooc.com/class/663.html)
 
-更新 慕课网672 [ChatGPT + Flutter快速开发多端聊天机器人App](https://coding.imooc.com/class/672.html)
+10 更新 慕课网672 [ChatGPT + Flutter快速开发多端聊天机器人App](https://coding.imooc.com/class/672.html)
 
-更新 [企业级项目实战课程-从0带你实现ChatGPT项目](https://ke.qq.com/course/6031074) 
+11 完结 [企业级项目实战课程-从0带你实现ChatGPT项目](https://ke.qq.com/course/6031074) 
 
-更新 [极客AI 大模型应用开发实战营](https://shimo.im/docs/zdkydGD2VjhKY1q6/read)
+12 更新 [极客AI 大模型应用开发实战营](https://shimo.im/docs/zdkydGD2VjhKY1q6/read)超推荐
+
+13 完结 [AIGC人工智能ChatGPT3.54.0PLUS语言模型AI绘图midjourney数字人直播](https://edu.51cto.com/course/34033.html)
+
+14 更新 [AIGC大实战](https://ke.gupaoedu.cn/course/vip/2101)
+
+15 完结 [百战AIGC人工智能工具全能班](https://www.itbaizhan.com/stages/id/42)
+
+16 完结 [Chatgpt开发k8s管理平台](https://edu.51cto.com/course/33969.html)

@@ -10,7 +10,6 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "@vuepress/theme-blog": "^2.3.3",
-    "vuepress": "^1.9.7"
+    "vuepress": "^1.9.9"
   }
 }

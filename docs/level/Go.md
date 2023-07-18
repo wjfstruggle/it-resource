@@ -43,7 +43,7 @@
 
 14 完结 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发6期](https://ke.qq.com/course/406096)
 
-14 更新 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发8期](https://ke.qq.com/course/406096)
+14 完结 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发8期](https://ke.qq.com/course/406096)
 
 15 完结 [极客Go进阶训练营第3期](https://u.geekbang.org/subject/go)
 
@@ -70,6 +70,12 @@
 26 完结 [极客邓明Go实战训练营2期 - 全新升级](https://u.geekbang.org/subject/go2nd)
 
 27 更新 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发9期](https://ke.qq.com/course/406096)
+
+28 完结 [【朝夕教育】Go高端全栈架构师【升职加薪，只争朝夕】(Golang/微服务/区块链)](https://ke.qq.com/course/5027527)
+
+29 预约 [极客时间邓明初级go工程师训练营](https://u.geekbang.org/subject/go3rd)
+
+30 更新 [从0到Go语言微服务架构师](https://edu.51cto.com/course/32246.html)
 
 ## **专题小实战**
 

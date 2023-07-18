@@ -64,7 +64,7 @@
 
 28 完结 [【朝夕教育】Go高端全栈架构师【升职加薪，只争朝夕】(Golang/微服务/区块链)](https://ke.qq.com/course/5027527)
 
-29 预约 [极客时间邓明初级go工程师训练营](https://u.geekbang.org/subject/go3rd)
+29 更新 [极客时间邓明初级go工程师训练营](https://u.geekbang.org/subject/go3rd)
 
 ## **专题小实战**
 
