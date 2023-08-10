@@ -81,6 +81,8 @@
 
 34 [九章算法班 2023版，最新26期](https://www.jiuzhang.com/course/71)
 
+35 [九章算法ChatGPT项目实战课](https://www.jiuzhang.com/course/150)
+
 ## 来offer
 
 01完结[来offer软件工程师旗舰核心课程](https://www.laioffer.com/zh/course/software-development/)

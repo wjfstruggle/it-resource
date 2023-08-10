@@ -29,7 +29,7 @@
 
 08 完结 [优点知识Kubernetes 网络训练营第3期](https://youdianzhishi.com/web/course/1031)
 
-09 更新 [优点知识Kubernetes 网络训练营第4期](https://youdianzhishi.com/web/course/1041)
+09 完结 [优点知识Kubernetes 网络训练营第4期](https://youdianzhishi.com/web/course/1041)
 
 10 完结 [优点知识DevOps CI/CD 实践培训](https://youdianzhishi.com/web/course/1026)
 

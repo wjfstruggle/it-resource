@@ -17,11 +17,11 @@
 
 更新 [【51CTO】linux云计算高级架构师](https://edu.51cto.com/mic-position/253.html)
 
-更新 [【零声学院】C/C++Linux服务器开发/高级架构师2207期](https://ke.qq.com/course/420945)
+完结 [【零声学院】C/C++Linux服务器开发/高级架构师2207期](https://ke.qq.com/course/420945)
 
 完结 [【零声学院】C/C++Linux服务器开发/高级架构师2109期](https://ke.qq.com/course/420945)
 
-更新 [新盟教育Linux云计算架构](https://ke.qq.com/course/2705707?course_id=2705707#term_id=105697217)
+完结 [新盟教育Linux云计算架构](https://ke.qq.com/course/2705707?course_id=2705707#term_id=105697217)
 
 完结 [2022全新升级_linux自动化运维进阶实战班](https://ke.qq.com/course/393257)
 
@@ -45,7 +45,7 @@
 
 完结 [老男孩八门合集-Python32期+Linux76期+Linux77期等|2022年|完结无秘](老男孩八门合集-Python32期+Linux76期+Linux77期等|2022年|完结无秘)
 
- 完结[【老男孩】linux云计算微服务架构师](https://edu.51cto.com/course/24320.html)
+完结[【老男孩】linux云计算微服务架构师](https://edu.51cto.com/course/24320.html)
 
 完结[【老男孩】Linux高级架构师：SpringCloud微服务及Kubernetes集群架构](https://ke.qq.com/course/2772849)
 
@@ -57,7 +57,11 @@
 
 完结 [黑马博学谷【PHP】Linux网络编程环境搭建](https://www.boxuegu.com/course/detail-554.html)
 
-更新 [创客学院Linux内核及驱动开发](http://www.makeru.com.cn/mobile/detail/7129.html)
+完结 [创客学院Linux内核及驱动开发](http://www.makeru.com.cn/mobile/detail/7129.html)
+
+完结 [2023 老男孩Linux 云计算SRE工程师85期](https://www.oldboyedu.com/Public/lnh/kec/Linuxsre/index.html#outline)
+
+更新 [C/C++Linux服务器开发/高级架构师【零声教育】2304期](https://ke.qq.com/course/420945)【23.9月份结课】
 
 ### 实战课
 

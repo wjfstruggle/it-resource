@@ -97,6 +97,8 @@
 
 30 完结 [珠峰前端2020一线大厂前端面试题大汇总之Webpack专题](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_5f453153e4b0118787334b7c)
 
+31 预约 [Web3D图形学之Three.js系统课](https://www.html5train.com/p/t_pc/goods_pc_detail/goods_detail/p_63d8df05e4b030cacb0e6387?product_id=p_63d8df05e4b030cacb0e6387)
+
 # 珠峰前端高级
 
 完结 [珠峰从零打造Web前端高级工程师 2022](https://ke.qq.com/course/package/23043) 2022.12月节课

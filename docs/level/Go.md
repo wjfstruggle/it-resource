@@ -7,8 +7,6 @@
 
 全网课程都有，欢迎私聊
 
- 
-
 :::
 
 ## **超推体系课**
@@ -73,9 +71,11 @@
 
 28 完结 [【朝夕教育】Go高端全栈架构师【升职加薪，只争朝夕】(Golang/微服务/区块链)](https://ke.qq.com/course/5027527)
 
-29 预约 [极客时间邓明初级go工程师训练营](https://u.geekbang.org/subject/go3rd)
+29 更新 [极客时间邓明初级go工程师训练营](https://u.geekbang.org/subject/go3rd)
 
-30 更新 [从0到Go语言微服务架构师](https://edu.51cto.com/course/32246.html)
+30 完结 [从0到Go语言微服务架构师](https://edu.51cto.com/course/32246.html)
+
+31 完结 [七米Go语言微服务与云原生](https://study.163.com/course/introduction.htm?courseId=1212937804)
 
 ## **专题小实战**
 

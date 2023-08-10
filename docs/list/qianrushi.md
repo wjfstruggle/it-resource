@@ -24,7 +24,11 @@
 
 完结 [黑马博学谷基于Kudu 实现物联网数据存储与分析](https://www.boxuegu.com/course/detail-3128.html)
 
-更新 [【千峰教育】物联网+嵌入式](http://wap.mobiletrain.org/wlw.html)
+完结 [【千峰教育】物联网+嵌入式](http://wap.mobiletrain.org/wlw.html)
+
+完结 [嵌入式+移动5G+智慧物联网全阶高薪(C/C++/Linux/IOT/蓝牙/wifi)](https://ke.qq.com/course/5859413#term_id=106073926)
+
+完结 [嵌入式+移动5G+智慧物联网编程基础(C/C++/Linux/sqlite3/Arm)](https://ke.qq.com/course/5859412#term_id=106073925)
 
 ::: tip
 联系方式：微信：IT_Promise

@@ -28,180 +28,188 @@
 ::: tip
 **小滴会员免费看，包更新**
 
-更新时间2023.3.27
+更新时间2023.7.27
 
 :::
 ------
 
-详情目录（全部都有）：[小滴官方网址](https://xdclass.net/#/courselist)
+1 完结 [小滴课堂SpringBoot+Websocket打造实时聊天/股票行情系统](https://xdclass.net/videoDetailsPage?id=1)
 
-[87.uniapp+vue3+vite多端零基础入门到项目实战](https://xdclass.net/videoDetailsPage?id=87)
+2 完结 [小滴课堂分布式系统ELK搭建日志采集系统](https://xdclass.net/videoDetailsPage?id=2)
 
-[86.零基础完整数据结构与算法-急速上手](https://xdclass.net/videoDetailsPage?id=86)
+3 完结 [小滴课堂JMeter4.x接口压力测试打造高性能服务](https://xdclass.net/videoDetailsPage?id=3)
 
-[83.高并发项目和海量数据项目大课组合【SVIP会员价】](https://xdclass.net/#/coursedetail?video_id=83)
+4 完结 [小滴课堂Spring Boot 2.x零基础入门到高级实战教程](https://xdclass.net/videoDetailsPage?id=4)
 
-[82.新版容器编排k8s最佳实践kubernetes+Rancher2.x||第一季](https://xdclass.net/#/coursedetail?video_id=82)
+5 完结 [小滴课堂SpringBoot2.x整合消息队列](https://xdclass.net/videoDetailsPage?id=5)
 
-[81.急速掌握-新版分布式调度XXL-Job+SpringBoot2.X项目实战](https://xdclass.net/#/coursedetail?video_id=81)
+6 完结 [小滴课堂SpringBoot2.x整合缓存Redis](https://xdclass.net/videoDetailsPage?id=6)
 
-[80.新版丨急速掌握分布式链路追踪Apache Skywalking最佳实践](https://xdclass.net/#/coursedetail?video_id=80)
+7 完结 [小滴课堂小滴课堂618分期活动专属链接2000](https://xdclass.net/videoDetailsPage?id=7)
 
-[79.22年新版Vue3+Node+Mysql项目教程/全栈高级/网站搭建](https://xdclass.net/#/coursedetail?video_id=79)
+8 完结 [小滴课堂小滴课堂活动专属链接](https://xdclass.net/videoDetailsPage?id=8)
 
-[78.新一代数据库丨海量数据存储ClickHouse专题视频](https://xdclass.net/#/coursedetail?video_id=78)
+9 完结 [小滴课堂SpringBoot2.x整合模板引擎](https://xdclass.net/videoDetailsPage?id=9)
 
-[77.22年新版【前端高级工程师】面试专题第一季](https://xdclass.net/#/coursedetail?video_id=77)
+10 完结 [小滴课堂SpringBoot2.x整合定时任务和异步任务处理](https://xdclass.net/videoDetailsPage?id=10)
 
-[76.新版Webpack5丨带你玩转时下最流行的构建工具](https://xdclass.net/#/coursedetail?video_id=76)
+11 完结 [小滴课堂Logback日志框架介绍和SpringBoot整合实战](https://xdclass.net/videoDetailsPage?id=11)
 
-[75. 22年新版-零基础玩转Vue3+开发仿美团外卖项目vue视频](https://xdclass.net/#/coursedetail?video_id=75)
+12 完结 [小滴课堂数据库操作之整合Mybatis和事务讲解](https://xdclass.net/videoDetailsPage?id=12)
 
-[74. 22年新版-玩转Git零基础到进阶实战 git视频急速入门](https://xdclass.net/#/coursedetail?video_id=74)
+13 完结 [小滴课堂SpringBoot 2.x微信支付在线教育网站项目实战](https://xdclass.net/videoDetailsPage?id=13)
 
-[73. 22年新版-玩转ECMAScript6零基础到进阶实战es6视频](https://xdclass.net/#/coursedetail?video_id=73)
+14 完结 [小滴课堂微服务SpringCloud+Docker入门到高级实战](https://xdclass.net/videoDetailsPage?id=14)
 
-[72. 22年新版-架构师系列-新版ShardingJDBC分库分表mysql数据库实战](https://xdclass.net/#/coursedetail?video_id=72)
+15 完结 [小滴课堂Jenkins持续集成 Git Gitlab Sonar视频教程](https://xdclass.net/videoDetailsPage?id=15)
 
-[71. 海量数据处理-商用短链平台项目大课【预售特价中】](https://xdclass.net/#/coursedetail?video_id=71)
+16 完结 [小滴课堂新版自动化测试Selenium3入门到高级实战教程](https://xdclass.net/videoDetailsPage?id=16)
 
-[70. 22年新-Javascript视频前端零基础到项目实战/js视频](https://xdclass.net/#/coursedetail?video_id=70)
+17 完结 [小滴课堂互联网架构多线程并发编程高级教程](https://xdclass.net/videoDetailsPage?id=17)
 
-[69. 22年新版-玩转HTML+CSS前端零基础到项目实战](https://xdclass.net/#/coursedetail?video_id=69)
+18 完结 [小滴课堂互联网架构之Netty4.X入门到进阶打造百万连接服务器](https://xdclass.net/videoDetailsPage?id=18)
 
-[68. 高级mysql第二季视频教程/高可用集群/springboot2.5分库分表](https://xdclass.net/#/coursedetail?video_id=68)
+19 完结 [小滴课堂玩转Shell脚本、AWK、SED从入门到高级实战](https://xdclass.net/videoDetailsPage?id=19)
 
-[67. 新一代流式计算框架 Flink视频教程java大数据](https://xdclass.net/#/coursedetail?video_id=67)
+20 完结 [小滴课堂全新vue2.5核心技术全方位讲解+实战精讲教程](https://xdclass.net/videoDetailsPage?id=20)
 
-[66. IT开发测试环境搭建大集合【热门技术+工具类】](https://xdclass.net/#/coursedetail?video_id=66)
+21 完结 [小滴课堂互联网架构之分布式缓存Redis从入门到高级实战](https://xdclass.net/videoDetailsPage?id=21)
 
-[65. 三天掌握 Kafka 消息队列 小白到专家之路-大数据教程](https://xdclass.net/#/coursedetail?video_id=65)
+22 完结 [小滴课堂新版全套webpack4教程模块化打包入门到进阶](https://xdclass.net/videoDetailsPage?id=22)
 
-[64. 小白到专家-分布式缓存Redis6.X+高可用集群](https://xdclass.net/#/coursedetail?video_id=64)
+23 完结 [小滴课堂全新vue2.5项目实战全家桶单页面仿京东电商](https://xdclass.net/videoDetailsPage?id=23)
 
-[63. 玩转TypeScript零基础到项目实战+VUE3新特性](https://xdclass.net/#/coursedetail?video_id=63)
+24 完结 [小滴课堂价值198元新版本RocketMQ4.X教程消息队列](https://xdclass.net/videoDetailsPage?id=24)
 
-[62. 工业级PaaS云平台+SpringCloudAlibaba 综合项目实战](https://xdclass.net/#/coursedetail?video_id=62)
+25 完结 [小滴课堂Zookeeper+Dubbo视频教程 微服务教程分布式](https://xdclass.net/videoDetailsPage?id=25)
 
-[61. 玩转新版高性能RabbitMQ容器化分布式集群实战](https://xdclass.net/#/coursedetail?video_id=61)
+26 完结 [小滴课堂Redis高并发高可用集群百万级秒杀实战](https://xdclass.net/videoDetailsPage?id=26)
 
-[60. 新版后端提效神器MybatisPlus+SwaggerUI3.X+Lombok](https://xdclass.net/#/coursedetail?video_id=60)
+27 完结 [小滴课堂Mysql零基础入门到实战 数据库教程](https://xdclass.net/videoDetailsPage?id=27)
 
-[59. 玩转Postman多场景接口自动化测试](https://xdclass.net/#/coursedetail?video_id=59)
+28 完结 [小滴课堂html教程css教程零基础前端教程](https://xdclass.net/videoDetailsPage?id=28)
 
-[58. 大话设计模式-架构师成长之路](https://xdclass.net/#/coursedetail?video_id=58)
+29 完结 [小滴课堂IDEA零基础入门带进阶教程(整合阿里巴巴编码规范)](https://xdclass.net/videoDetailsPage?id=29)
 
-[57. 新一代微服务全家桶AlibabaCloud+SpringCloud实战](https://xdclass.net/#/coursedetail?video_id=57)
+30 完结 [小滴课堂互联网架构之JAVA虚拟机JVM零基础到高级实战](https://xdclass.net/videoDetailsPage?id=30)
 
-[56. 玩转Nginx分布式架构实战教程 零基础到高级](https://xdclass.net/#/coursedetail?video_id=56)
+31 完结 [小滴课堂权限框架Shiro+SpringBoot2.x零基础到高级实战](https://xdclass.net/videoDetailsPage?id=31)
 
-[55. 玩转新版接口自动化测试教程 零基础到设计测试框架](https://xdclass.net/#/coursedetail?video_id=55)
+32 完结 [小滴课堂新版Maven3.5+Nexus私服搭建全套核心技术](https://xdclass.net/videoDetailsPage?id=32)
 
-[54. 简历编写-面试BAT高级工程师简历编写](https://xdclass.net/#/coursedetail?video_id=54)
+33 完结 [小滴课堂JavaScript核心基础到进阶之路](https://xdclass.net/videoDetailsPage?id=33)
 
-[53. 新版JavaWeb零基础到实战专题课程](https://xdclass.net/#/coursedetail?video_id=53)
+34 完结 [小滴课堂HTML5+CSS3前端开发教程flex布局项目实战](https://xdclass.net/videoDetailsPage?id=34)
 
-[52. ssm新版SpringBoot2.3/spring5/mybatis3](https://xdclass.net/#/coursedetail?video_id=52)
+35 完结 [小滴课堂HTML5+CSS3电商项目综合实战](https://xdclass.net/videoDetailsPage?id=35)
 
-[51. 全新Javascript零基础面试视频前端js教程](https://xdclass.net/#/coursedetail?video_id=51)
+36 完结 [小滴课堂js高手进阶之ES6至ES8入门到进阶实战](https://xdclass.net/videoDetailsPage?id=36)
 
-[50. 全新录制html+css前端网页制作教程](https://xdclass.net/#/coursedetail?video_id=50)
+37 完结 [小滴课堂微服务Dubbo+SpringBoot2.X优惠券项目实战](https://xdclass.net/videoDetailsPage?id=37)
 
-[49. 小滴课堂全栈/后端高级工程师面试专题第一季](https://xdclass.net/#/coursedetail?video_id=49)
+38 完结 [小滴课堂Linux/Centos7视频教程零基础入门到高实战](https://xdclass.net/videoDetailsPage?id=38)
 
-[48. C语言零基础入门到高级视频 自学编程](https://xdclass.net/#/coursedetail?video_id=48)
+39 完结 [小滴课堂全新React零基础到单页面项目实战](https://xdclass.net/videoDetailsPage?id=39)
 
-[47. Node.js教程零基础入门到项目实战前端视频教程](https://xdclass.net/#/coursedetail?video_id=47)
+40 完结 [小滴课堂全新微信小程序零基础到项目实战](https://xdclass.net/videoDetailsPage?id=40)
 
-[46. 新版javase零基础到高级教程小白自学编程](https://xdclass.net/#/coursedetail?video_id=46)
+41 完结 [小滴课堂玩转搜索框架ElasticSearch7.x实战](https://xdclass.net/videoDetailsPage?id=41)
 
-[45. Docker实战视频教程入门到高级dockerfile](https://xdclass.net/#/coursedetail?video_id=45)
+42 完结 [小滴课堂全新elementUI项目实战教程Vue整合Echarts后台权限](https://xdclass.net/videoDetailsPage?id=42)
 
-[44. 玩转全新JDK8~JDK13全套新特性教程](https://xdclass.net/#/coursedetail?video_id=44)
+43 完结 [小滴课堂新版Python3.7零基础入门到爬虫实战](https://xdclass.net/videoDetailsPage?id=43)
 
-[43. 新版Python3.7零基础入门到爬虫实战](https://xdclass.net/#/coursedetail?video_id=43)
+44 完结 [小滴课堂玩转全新JDK8~JDK13全套新特性教程](https://xdclass.net/videoDetailsPage?id=44)
 
-[42. 全新elementUI项目实战教程Vue整合Echarts后台权限](https://xdclass.net/#/coursedetail?video_id=42)
+45 完结 [小滴课堂Docker实战视频教程入门到高级dockerfile](https://xdclass.net/videoDetailsPage?id=45)
 
-[41. 玩转搜索框架ElasticSearch7.x实战](https://xdclass.net/#/coursedetail?video_id=41)
+46 完结 [小滴课堂新版javase零基础到高级教程小白自学编程](https://xdclass.net/videoDetailsPage?id=46)
 
-[40. 全新微信小程序零基础到项目实战](https://xdclass.net/#/coursedetail?video_id=40)
+47 完结 [小滴课堂Node.js教程零基础入门到项目实战前端视频教程](https://xdclass.net/videoDetailsPage?id=47)
 
-[39. 全新React零基础到单页面项目实战](https://xdclass.net/#/coursedetail?video_id=39)
+48 完结 [小滴课堂C语言零基础入门到高级视频 自学编程](https://xdclass.net/videoDetailsPage?id=48)
 
-[38. Linux/Centos7视频教程零基础入门到高实战](https://xdclass.net/#/coursedetail?video_id=38)
+49 完结 [小滴课堂小滴课堂全栈/后端高级工程师面试专题第一季](https://xdclass.net/videoDetailsPage?id=49)
 
-[37. 微服务Dubbo+SpringBoot2.X优惠券项目实战](https://xdclass.net/#/coursedetail?video_id=37)
+50 完结 [小滴课堂全新录制html+css前端网页制作教程](https://xdclass.net/videoDetailsPage?id=50)
 
-[36. js高手进阶之ES6至ES8入门到进阶实战](https://xdclass.net/#/coursedetail?video_id=36)
+51 完结 [小滴课堂全新Javascript零基础面试视频前端js教程](https://xdclass.net/videoDetailsPage?id=51)
 
-[35. HTML5+CSS3电商项目综合实战](https://xdclass.net/#/coursedetail?video_id=35)
+52 完结 [小滴课堂ssm新版SpringBoot2.3/spring5/mybatis3](https://xdclass.net/videoDetailsPage?id=52)
 
-[34. HTML5+CSS3前端开发教程flex布局项目实战](https://xdclass.net/#/coursedetail?video_id=34)
+53 完结 [小滴课堂新版JavaWeb零基础到实战专题课程](https://xdclass.net/videoDetailsPage?id=53)
 
-[33. JavaScript核心基础到进阶之路](https://xdclass.net/#/coursedetail?video_id=33)
+54 完结 [小滴课堂简历编写-面试BAT高级工程师简历编写](https://xdclass.net/videoDetailsPage?id=54)
 
-[32. 新版Maven3.5+Nexus私服搭建全套核心技术](https://xdclass.net/#/coursedetail?video_id=32)
+55 完结 [小滴课堂玩转新版接口自动化测试教程 零基础到设计测试框架](https://xdclass.net/videoDetailsPage?id=55)
 
-[31. 权限框架Shiro+SpringBoot2.x零基础到高级实战](https://xdclass.net/#/coursedetail?video_id=31)
+56 完结 [小滴课堂玩转Nginx分布式架构实战教程 零基础到高级](https://xdclass.net/videoDetailsPage?id=56)
 
-[30. 互联网架构之JAVA虚拟机JVM零基础到高级实战](https://xdclass.net/#/coursedetail?video_id=30)
+57 完结 [小滴课堂新一代微服务全家桶AlibabaCloud+SpringCloud实战](https://xdclass.net/videoDetailsPage?id=57)
 
-[29. IDEA零基础入门带进阶教程(整合阿里巴巴编码规范)](https://xdclass.net/#/coursedetail?video_id=29)
+58 完结 [小滴课堂大话设计模式-架构师成长之路](https://xdclass.net/videoDetailsPage?id=58)
 
-[28. html教程css教程零基础前端教程](https://xdclass.net/#/coursedetail?video_id=28)
+59 完结 [小滴课堂玩转Postman多场景接口自动化测试](https://xdclass.net/videoDetailsPage?id=59)
 
-[27. Mysql零基础入门到实战 数据库教程](https://xdclass.net/#/coursedetail?video_id=27)
+60 完结 [小滴课堂新版后端提效神器MybatisPlus+SwaggerUI3.X+Lombok](https://xdclass.net/videoDetailsPage?id=60)
 
-[26. Redis高并发高可用集群百万级秒杀实战](https://xdclass.net/#/coursedetail?video_id=26)
+61 完结 [小滴课堂玩转新版高性能RabbitMQ容器化分布式集群实战](https://xdclass.net/videoDetailsPage?id=61)
 
-[25. Zookeeper+Dubbo视频教程 微服务教程分布式](https://xdclass.net/#/coursedetail?video_id=25)
+62 完结 [小滴课堂工业级PaaS云平台+SpringCloudAlibaba 综合项目实战](https://xdclass.net/videoDetailsPage?id=62)
 
-[24. 价值198元新版本RocketMQ4.X教程消息队列](https://xdclass.net/#/coursedetail?video_id=24)
+63 完结 [小滴课堂玩转TypeScript零基础到项目实战+VUE3新特性](https://xdclass.net/videoDetailsPage?id=63)
 
-[23. 全新vue2.5项目实战全家桶单页面仿京东电商](https://xdclass.net/#/coursedetail?video_id=23)
+64 完结 [小滴课堂小白到专家-分布式缓存Redis6.X+高可用集群](https://xdclass.net/videoDetailsPage?id=64)
 
-[22. 新版全套webpack4教程模块化打包入门到进阶](https://xdclass.net/#/coursedetail?video_id=22)
+65 完结 [小滴课堂三天掌握 Kafka 消息队列 小白到专家之路-大数据教程](https://xdclass.net/videoDetailsPage?id=65)
 
-[21. 互联网架构之分布式缓存Redis从入门到高级实战](https://xdclass.net/#/coursedetail?video_id=21)
+66 完结 [小滴课堂IT开发测试环境安装视频【热门技术+工具类】](https://xdclass.net/videoDetailsPage?id=66)
 
-[20. 全新vue2.5核心技术全方位讲解+实战精讲教程](https://xdclass.net/#/coursedetail?video_id=20)
+67 完结 [小滴课堂新一代流式计算框架 Flink视频教程java大数据](https://xdclass.net/videoDetailsPage?id=67)
 
-[19. 玩转Shell脚本、AWK、SED从入门到高级实战](https://xdclass.net/#/coursedetail?video_id=19)
+68 完结 [小滴课堂高级mysql第二季视频教程/高可用集群/springboot2.5分库分表](https://xdclass.net/videoDetailsPage?id=68)
 
-[18. 互联网架构之Netty4.X入门到进阶打造百万连接服务器](https://xdclass.net/#/coursedetail?video_id=18)
+69 完结 [小滴课堂新版-玩转HTML+CSS前端零基础到项目实战](https://xdclass.net/videoDetailsPage?id=69)
 
-[17. 互联网架构多线程并发编程高级教程](https://xdclass.net/#/coursedetail?video_id=17)
+70 完结 [小滴课堂新版Javascript视频前端零基础到项目实战/js视频](https://xdclass.net/videoDetailsPage?id=70)
 
-[16. 新版自动化测试Selenium3入门到高级实战教程](https://xdclass.net/#/coursedetail?video_id=16)
+71 完结 [小滴课堂微服务架构-海量数据商用短链平台项目大课【完结】](https://xdclass.net/videoDetailsPage?id=71)
 
-[15. Jenkins持续集成 Git Gitlab Sonar视频教程](https://xdclass.net/#/coursedetail?video_id=15)
+72 完结 [小滴课堂新版架构师系列-ShardingJDBC分库分表mysql数据库实战](https://xdclass.net/videoDetailsPage?id=72)
 
-[14. 微服务SpringCloud+Docker入门到高级实战](https://xdclass.net/#/coursedetail?video_id=14)
+73 完结 [小滴课堂新版-玩转ECMAScript6零基础到进阶实战es6视频](https://xdclass.net/videoDetailsPage?id=73)
 
-[13. SpringBoot 2.x微信支付在线教育网站项目实战](https://xdclass.net/#/coursedetail?video_id=13)
+74 完结 [小滴课堂新版-玩转Git零基础到进阶实战 git视频急速入门](https://xdclass.net/videoDetailsPage?id=74)
 
-[12. 数据库操作之整合Mybatis和事务讲解](https://xdclass.net/#/coursedetail?video_id=12)
+75 完结 [小滴课堂新版-零基础玩转Vue3+开发仿美团外卖项目vue视频](https://xdclass.net/videoDetailsPage?id=75)
 
-[11. Logback日志框架介绍和SpringBoot整合实战](https://xdclass.net/#/coursedetail?video_id=11)
+76 完结 [小滴课堂新版Webpack5丨带你玩转时下最流行的构建工具](https://xdclass.net/videoDetailsPage?id=76)
 
-[10. SpringBoot2.x整合定时任务和异步任务处理](https://xdclass.net/#/coursedetail?video_id=10)
+77 完结 [小滴课堂新版【前端高级工程师】面试专题第一季](https://xdclass.net/videoDetailsPage?id=77)
 
-[9. SpringBoot2.x整合模板引擎](https://xdclass.net/#/coursedetail?video_id=9)
+78 完结 [小滴课堂新一代数据库丨海量数据存储ClickHouse列式存储](https://xdclass.net/videoDetailsPage?id=78)
 
-[8. SpringBoot2.x整合ElasticSearch搜索框架 es](https://xdclass.net/#/coursedetail?video_id=8)
+79 完结 [小滴课堂新版Vue3+Node+Mysql项目教程/全栈高级/网站搭建](https://xdclass.net/videoDetailsPage?id=79)
 
-[7. 阿里云Linux服务器JDK8安装](https://xdclass.net/#/coursedetail?video_id=7)
+80 完结 [小滴课堂新版丨急速掌握分布式链路追踪Apache Skywalking最佳实践](https://xdclass.net/videoDetailsPage?id=80)
 
-[6. SpringBoot2.x整合缓存Redis](https://xdclass.net/#/coursedetail?video_id=6)
+81 完结 [小滴课堂急速掌握-新版分布式调度XXL-Job+SpringBoot2.X项目实战](https://xdclass.net/videoDetailsPage?id=81)
 
-[5. SpringBoot2.x整合消息队列](https://xdclass.net/#/coursedetail?video_id=5)
+82 完结 [小滴课堂新版容器编排k8s最佳实践kubernetes+Rancher2.x||第一季](https://xdclass.net/videoDetailsPage?id=82)
 
-[4. Spring Boot 2.x零基础入门到高级实战教程](https://xdclass.net/#/coursedetail?video_id=4)
+83 完结 [小滴课堂性能测试Jmeter5.5+BeanShell二次开发实战压力测试](https://xdclass.net/videoDetailsPage?id=83)
 
-[3. JMeter接口压力测试打造高性能服务](https://xdclass.net/#/coursedetail?video_id=3)
+84 完结 [小滴课堂全栈-商业级大型前端项目大课-小滴云在线教育平台](https://xdclass.net/videoDetailsPage?id=84)
 
-[2. 分布式系统ELK搭建日志采集系统](https://xdclass.net/#/coursedetail?video_id=2)
+85 完结 [小滴课堂独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
 
-[1. SpringBoot+Websocket打造实时聊天/股票行情系统](https://xdclass.net/#/coursedetail?video_id=1)
+86 完结 [小滴课堂柳暗花明-数据结构和算法极速上手-java版](https://xdclass.net/videoDetailsPage?id=86)
+
+87 完结 [小滴课堂uniapp+vue3+vite多端零基础入门到项目实战](https://xdclass.net/videoDetailsPage?id=87)
+
+89 完结 [小滴课堂项目管理之道-互联网项目管理快速上手](https://xdclass.net/videoDetailsPage?id=89)
+
+90 完结 [小滴课堂从理论到实战-4小时上手koa2课程](https://xdclass.net/videoDetailsPage?id=90)
+
+91 完结 [小滴课堂新版React18教程ts+antd+vite开发视频项目实战](https://xdclass.net/videoDetailsPage?id=91)
 

@@ -66,6 +66,10 @@
 
 29 更新 [极客时间邓明初级go工程师训练营](https://u.geekbang.org/subject/go3rd)
 
+30 完结 [从0到Go语言微服务架构师](https://edu.51cto.com/course/32246.html)
+
+31 完结 [七米Go语言微服务与云原生](https://study.163.com/course/introduction.htm?courseId=1212937804)
+
 ## **专题小实战**
 
 01完结[网易-Golang从入门到精通](https://study.163.com/course/introduction/1004720008.htm)

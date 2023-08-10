@@ -5,19 +5,13 @@
 ::: tip
 联系方式：微信：IT_Promise
 
-极客终身VIP
-
-近500门课程免费，终身免费学习，持续更新
-
-更新时间：2022-3-21
-
 ### 大课
 
 训练营 37 个 、 集训班 3 个
 
 ### 小课
 
-专栏课程 218 、视频课程 45
+专栏课程 227 、视频课程 48
 
 大厂案列 107 、每日一课 113
 
@@ -93,11 +87,13 @@
 
 37 即将出货 [极客时间大数据项目实战营](https://time.geekbang.org/activity/promo?page_name=page_526)
 
-38  【预约特惠】[极客时间+马哥 网络安全训练营2023](https://u.geekbang.org/subject/intro/1005497)
+38 即将出货 [极客时间+马哥 网络安全训练营2023](https://u.geekbang.org/subject/intro/1005497)
 
 39 更新 [极客时间邓明初级go工程师训练营](https://u.geekbang.org/subject/go3rd)
 
 40 更新 [极客AI 大模型应用开发实战营](https://shimo.im/docs/zdkydGD2VjhKY1q6/read)
+
+41 预约 [极客时间云原生 DevOps 进阶实战营](https://u.geekbang.org/subject/cloudnative2nd/1005553?utm_source=time_web&utm_medium=menu&utm_term=timewebmenu)
 
 ## 2、集训班
 

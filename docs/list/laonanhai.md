@@ -7,8 +7,6 @@
 
 全网课程都有，欢迎私聊
 
- 
-
 :::
 
 01 完结 [【老男孩】Mysql DBA（SQL/体系结构/数据库架构设计/性能优化）](https://edu.51cto.com/course/24231.html)
@@ -33,6 +31,6 @@
 
 11 完结 [【老男孩】新媒体+短视频运营](https://www.oldboyedu.com/)
 
-12 更新 [老男孩2023python全栈开发](https://www.oldboyedu.com/Public/lnh/kec/pyth/#toWhy5)
+12 完结 [老男孩2023python全栈开发](https://www.oldboyedu.com/Public/lnh/kec/pyth/#toWhy5)
 
-13 更新 [2023 老男孩Linux 云计算SRE工程师85期](https://www.oldboyedu.com/Public/lnh/kec/Linuxsre/index.html#outline)
+13 完结 [2023 老男孩Linux 云计算SRE工程师85期](https://www.oldboyedu.com/Public/lnh/kec/Linuxsre/index.html#outline)

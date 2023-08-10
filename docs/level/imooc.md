@@ -77,7 +77,7 @@
 
 28 完结 [【体系课】手写操作系统 小班教学招生2期](https://class.imooc.com/sale/os)
 
-29 更新 [【体系课】Python Web全栈工程师](https://class.imooc.com/sale/pythonweb)
+29 完结 [【体系课】Python Web全栈工程师](https://class.imooc.com/sale/pythonweb)
 
 30 预约 [慕课大前端高级工程师2023](https://class.imooc.com/sale/fesenior)
 
@@ -113,45 +113,59 @@
 
 :::
 
-678 [Python多领域场景实战课 快速成为多面手](https://coding.imooc.com/class/678.html)
+预约 690 [2023 React 18 系统入门 进阶实战《欢乐购》](https://coding.imooc.com/class/690.html)
 
-675 [SpirngBoot+Vue3+MySQL集群 开发健康体检双系统](https://coding.imooc.com/class/675.html)
+预约 687 [前端共学会：学习|成长|工作|职业，综合服务社区](https://coding.imooc.com/class/687.html)
 
-673 [Java七大热门技术框架源码解析](https://coding.imooc.com/class/673.html)
+预约 685 [Django4+Vue3全新技术实战全栈项目](https://coding.imooc.com/class/685.html)
 
-674 [鸿蒙系统实战短视频App 从0到1掌握HarmonyOS](https://coding.imooc.com/class/674.html)
+预约 684 [程序员的 AI 启蒙课: ChatGPT 让你 1 人顶 3 人](https://coding.imooc.com/class/684.html)
 
-672 [ChatGPT + Flutter快速开发多端聊天机器人App](https://coding.imooc.com/class/672.html)
+预约 680 [SpringBoot+Vue3打造企业级一体化SaaS系统](https://coding.imooc.com/class/680.html?)
 
-667 [Vue3+NestJS 全栈开发企业级管理后台](https://coding.imooc.com/class/667.html)
+预约 681 [JVM七大核心系统精讲 从基础理论到高级应用](https://coding.imooc.com/class/681.html)
 
-665 [全新版Jetpack进阶提升，系统性落地短视频App](https://coding.imooc.com/class/665.html)
+预约 678 [Python多领域场景实战课 快速成为多面手](https://coding.imooc.com/class/678.html)
+
+预约 675 [SpirngBoot+Vue3+MySQL集群 开发健康体检双系统](https://coding.imooc.com/class/675.html)
+
+预约 673 [Java七大热门技术框架源码解析](https://coding.imooc.com/class/673.html)
+
+预约 674 [鸿蒙系统实战短视频App 从0到1掌握HarmonyOS](https://coding.imooc.com/class/674.html)
+
+预约 672 [ChatGPT + Flutter快速开发多端聊天机器人App](https://coding.imooc.com/class/672.html)
+
+预约 670 [SpringCloudAlibaba高并发仿斗鱼直播平台实战](https://coding.imooc.com/class/670.html)
+
+预约 667 [Vue3+NestJS 全栈开发企业级管理后台](https://coding.imooc.com/class/667.html)
+
+预约 665 [全新版Jetpack进阶提升，系统性落地短视频App](https://coding.imooc.com/class/665.html)
 
 663 [ChatGPT 从零到一打造私人智能英语学习助手](https://coding.imooc.com/class/663.html)
 
-662 [国家级认证 软件评测师（软考中级）一站式通关课](https://coding.imooc.com/class/662.html)
+预约 662 [国家级认证 软件评测师（软考中级）一站式通关课](https://coding.imooc.com/class/662.html)
 
-661 [Web3.0热门领域NFT项目实战](https://coding.imooc.com/class/661.html)
+预约 661 [Web3.0热门领域NFT项目实战](https://coding.imooc.com/class/661.html)
 
-656 [实习项目实战-SpringBoot开发双11商品服务系统](https://coding.imooc.com/class/656.html)
+预约 656 [实习项目实战-SpringBoot开发双11商品服务系统](https://coding.imooc.com/class/656.html)
 
-655 [Netty+Nacos+Disruptor自研企业级API网关](https://coding.imooc.com/class/655.html)
+预约 655 [Netty+Nacos+Disruptor自研企业级API网关](https://coding.imooc.com/class/655.html)
 
-653 [多层次构建企业级大数据平台， 成就全能型大数据开发](https://coding.imooc.com/class/653.html)
+预约 653 [多层次构建企业级大数据平台， 成就全能型大数据开发](https://coding.imooc.com/class/653.html)
 
-652 [2023版全新高质量商业级小程序全栈项目实战](https://coding.imooc.com/class/652.html)
+预约 652 [2023版全新高质量商业级小程序全栈项目实战](https://coding.imooc.com/class/652.html)
 
-650 [React18内核探秘：手写React高质量源码迈向高阶开发](https://coding.imooc.com/class/650.html)
+预约 650 [React18内核探秘：手写React高质量源码迈向高阶开发](https://coding.imooc.com/class/650.html)
 
-648 [Web3.0入门与实战 一站式掌握4大主流区块链开发](https://coding.imooc.com/class/648.html)
+预约 648 [Web3.0入门与实战 一站式掌握4大主流区块链开发](https://coding.imooc.com/class/648.html)
 
-647 [全新版FRIDA与安卓 应用安全与逆向实战宝典](https://coding.imooc.com/class/647.html)
+预约 647 [全新版FRIDA与安卓 应用安全与逆向实战宝典](https://coding.imooc.com/class/647.html)
 
 646 [React18+TS4+Next.js13，B端+C端完整业务+技术双闭环](https://coding.imooc.com/class/646.html)
 
-645 [前端必学 40个精选案例实战 一课吃透HTML5+CSS3+JS](https://coding.imooc.com/class/645.html)
+预约 645 [前端必学 40个精选案例实战 一课吃透HTML5+CSS3+JS](https://coding.imooc.com/class/645.html)
 
-644 [React18+TS 通用后台管理系统解决方案落地实战](https://coding.imooc.com/class/644.html)
+预约 644 [React18+TS 通用后台管理系统解决方案落地实战](https://coding.imooc.com/class/644.html)
 
 643 [React18+TS+NestJS+GraphQL 全栈开发在线教育平台](https://coding.imooc.com/class/643.html)
 
@@ -161,21 +175,21 @@
 
 640 [TS 从入门到深度掌握，晋级TypeScript高手](https://coding.imooc.com/class/640.html)
 
-639 [React18+TS+Vite 从0自定义组件库实战复杂项目](https://coding.imooc.com/class/639.html)
+预约 639 [React18+TS+Vite 从0自定义组件库实战复杂项目](https://coding.imooc.com/class/639.html)
 
 638 [C++ 从0到1系统精讲 项目开发综合基础课](https://coding.imooc.com/class/638.html)
 
-636 [（最新版）Python 分布式爬虫与 JS 逆向进阶实战](https://coding.imooc.com/class/636.html)
+预约 636 [（最新版）Python 分布式爬虫与 JS 逆向进阶实战](https://coding.imooc.com/class/636.html)
 
 635 [SpringCloudalibaba+Vue开发仿社交小程序](https://coding.imooc.com/class/635.html)
 
-633 [百度官方出品:代码的艺术 卓越工程师必修课](https://coding.imooc.com/class/633.html?mc_marking=bb86c9071ed9b7cf12612a2a85203372&mc_channel=hk)
+预约 633 [百度官方出品:代码的艺术 卓越工程师必修课](https://coding.imooc.com/class/633.html?mc_marking=bb86c9071ed9b7cf12612a2a85203372&mc_channel=hk)
 
-632 [SpringBoot+Vue3+Element Plus 打造分布式存储系统](https://coding.imooc.com/class/632.html)
+预约 632 [SpringBoot+Vue3+Element Plus 打造分布式存储系统](https://coding.imooc.com/class/632.html)
 
-631 [系统集成项目管理工程师(软考中级)，一站式通关课](https://coding.imooc.com/class/631.html)
+预约 631 [系统集成项目管理工程师(软考中级)，一站式通关课](https://coding.imooc.com/class/631.html)
 
-630 [TensorFlow+CNN实战AI图像处理，入行计算机视觉](https://coding.imooc.com/class/630.html)
+预约 630 [TensorFlow+CNN实战AI图像处理，入行计算机视觉](https://coding.imooc.com/class/630.html)
 
 629 [Python+Requests零基础系统掌握接口自动化测](https://coding.imooc.com/class/629.html)
 

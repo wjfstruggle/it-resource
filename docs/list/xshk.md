@@ -9,6 +9,122 @@
 
 ## 2023.7月上新
 
+01 [MVP亲授C#/.NET编程设计锦囊【升职加薪,只争朝夕】](https://ke.qq.com/course/3518361#term_id=105840577)
+
+02 [.NET跨平台专属Linux私房课【升职加薪，只争朝夕】](https://ke.qq.com/course/3853023#term_id=105839586)
+
+03 [Python大数据分析+人工智能高薪VIP班【升职加薪，只争朝夕】](https://ke.qq.com/course/4034651#term_id=105830221)
+
+04 [C#/.NET全栈实战高薪VIP班【升职加薪，只争朝夕】](https://ke.qq.com/course/464059#term_id=106201865)
+
+05 [WPF+上位机+工业互联高薪VIP班(PLC/S7/运动控制/机器视觉/物联网](https://ke.qq.com/course/2959515#term_id=106230582)
+
+06 [Web前端实战进阶VIP班【升职加薪，只争朝夕】](https://ke.qq.com/course/3455220#term_id=106264261)
+
+07 [C#/.NET高级进阶VIP班【升职加薪,只争朝夕】](https://ke.qq.com/course/453949#term_id=105694591)
+
+08 [【薪选T9】C#/.NET架构师蜕变营VIP班](https://ke.qq.com/course/456926#term_id=105843273)
+
+09 [C#+Winform+WPF上位机高薪就业VIP班(SqlServer/S7/Modbus/工控)](https://ke.qq.com/course/464930#term_id=106172531)
+
+10 [朝夕运动控制+机器视觉专项实战进阶【升职加薪，只争朝夕！】](https://ke.qq.com/course/5859414#term_id=106262733)
+
+11 [Web前端实战高薪班【升职加薪，只争朝夕】](https://ke.qq.com/course/5838219#term_id=106050739)
+
+12 [ABP.vNext框架精研VIP班【升职加薪，只争朝夕】](https://ke.qq.com/course/2962503#term_id=105840579)
+
+13 [Unity3D 全栈游戏开发【升职加薪只争朝夕】](https://ke.qq.com/course/3139748#term_id=103855656)
+
+14 [Xamarin+MAUI-C#移动开发专修班](https://ke.qq.com/course/5862325#term_id=106077094)
+
+15 [【最新】JAVA高级进阶架构VIP班【升职加薪，只争朝夕】](https://ke.qq.com/course/3453278#term_id=103854693)
+
+16 [金三银四面试锦囊【升职加薪，只争朝夕】](https://ke.qq.com/course/4455169#term_id=105297663)
+
+17 [DBA级SQLServer从入门到精通【升职加薪，只争朝夕！】](https://ke.qq.com/course/5603009#term_id=106115217)
+
+18 [Web前端蜕变架构VIP班【升职加薪，只争朝夕】](https://ke.qq.com/course/5838462#term_id=106051069)
+
+19 [高级项目管理VIP课，专为【程序员升级，年薪突破30w】定向打造](https://ke.qq.com/course/4158259#term_id=105105672)
+
+20 [Electron+Vue3+React跨平台客户端专项课【升职加薪，只争朝夕】](https://ke.qq.com/course/5862999#term_id=106077825)
+
+21 [Go高端全栈架构师【升职加薪，只争朝夕】(Golang/微服务/区块链)](https://ke.qq.com/course/5027527#term_id=106041393)
+
+22 [嵌入式+移动5G+智慧物联网全阶高薪(C/C++/Linux/IOT/蓝牙/wifi)](https://ke.qq.com/course/5859413#term_id=106073926)
+
+23 [嵌入式+移动5G+智慧物联网编程基础(C/C++/Linux/sqlite3/Arm)](https://ke.qq.com/course/5859412#term_id=106073925)
+
+完结 [企业级项目实战课程-从0带你实现ChatGPT项目](https://ke.qq.com/course/6031074)
+
+更新 [卢菁北大博士ChatGLM大模型实战训练营-从芯片基础到大模型构建](https://edu.51cto.com/course/34244.html)
+
+完结 641 [Springboot3+微服务实战12306高性能售票系统](https://coding.imooc.com/class/641.html)
+
+完结 [Vue+SpringBoot实现小区人脸识别门禁系统云平台](https://edu.51cto.com/course/30809.html)
+
+预约 [极客时间云原生 DevOps 进阶实战营](https://u.geekbang.org/subject/cloudnative2nd/1005553?utm_source=time_web&utm_medium=menu&utm_term=timewebmenu)
+
+更新 [极客时间AI 大模型应用开发实战营](https://u.geekbang.org/subject/llm)
+
+完结 [马士兵面试宝典--大厂面试标准和面试辅导班](https://www.mashibing.com/subject/43)
+
+完结 [2023年驱动保护Windows内核课程](https://www.wolai.com/oxygen/bQxuvdfyzuaVbYQrzZcRd1)
+
+预约 [宽哥GO+K8S全集](https://dukuan.ke.qq.com/?activeTab=head_course)
+
+无密 渡一教育Web前端高薪工程师2023
+
+完结 [黑马JavaEE薪升级2023](http://java.itheima.com/?javaeezly)
+
+完结 [渡一教育Java高薪工程师培养计划2023](https://ke.qq.com/course/5595617)
+
+完结 635 [SpringCloudalibaba+Vue开发仿社交小程序](https://coding.imooc.com/class/635.html)
+
+完结 [summer课堂2023年软考网络规划设计师精华套餐【精讲班+真题班】](https://ke.qq.com/course/package/36184)
+
+完结 [summer课堂企业级网络安全与等保2.0【行业剖析+产品方案+项目实战】](https://ke.qq.com/course/1582824#term_id=101681423)
+
+更新 [极客时间邓明初级go工程师训练营](https://u.geekbang.org/subject/go3rd)
+
+完结 [【2023购课送书】云原生K8s全栈架构师+CKA+CKS+Istio](https://ke.qq.com/course/package/41755)
+
+完结 [使用uniapp实现精准扶贫移动端（高职移动应用开发技能比赛）](https://edu.51cto.com/course/34271.html)
+
+完结 [九章算法ChatGPT项目实战课](https://www.jiuzhang.com/course/150)
+
+完结 [【华清远见】嵌入式开发工程师](http://www.makeru.com.cn/roadmap/emb)
+
+完结 [【华清远见】物联网开发工程师](http://www.makeru.com.cn/roadmap/iot)
+
+完结 [极客时间Java实战特训营 - 郑天民](https://u.geekbang.org/subject/java5th)
+
+新课 [马哥Devops运维开发高薪班](https://ke.qq.com/course/296707)
+
+更新 [极客时间邓明初级go工程师训练营](https://u.geekbang.org/subject/go3rd)
+
+完结 [博学谷新媒体+短视频直播运营](https://m.boxuegu.com/campaign/coursePage.html?subject=newMedia)
+
+更新 [小马哥Java分布式架构-模式、设计与实现 2 期](https://apprnzlvz344455.h5.xiaoeknow.com/v1/goods/goods_detail/course_2JiKduWEsSYabs5nn21IcpIm2YQ)
+
+更新 [极客时间AI 大模型应用开发实战营](https://u.geekbang.org/subject/llm)
+
+推荐 [深博高端运维+网络安全](https://www.itpromise.cloud/list/51CTO.html)
+
+完结 [【bubucuo】全栈低代码项目](https://appuwwsm6cl6690.h5.xiaoeknow.com/v1/goods/goods_detail/p_643817b1e4b0cf39e6bb50a6?type=3)
+
+完结 [React全栈进阶实战](https://appwhrkrsz84443.h5.xiaoeknow.com/v1/goods/goods_detail/p_6402a238e4b07b0558395e96?type=3&share_type=5&share_user_id=u_6310ca19eaa50_DJcQkOwIwx&entry=2&entry_type=2002)
+
+完结 [【催学社】前端的单元测试课](https://appewiejl9g3764.h5.xiaoeknow.com/v1/goods/goods_detail/p_63f3795ee4b06159f73e6452?type=3&product_id=p_63f3795ee4b06159f73e6452)
+
+完结 [咕泡云课堂初入职场互联网就业提升班](https://ke.gupaoedu.cn/course/vip/2148)
+
+更新 [优点Kubernetes 进阶训练营第4期](https://youdianzhishi.com/web/course/1036)
+
+完结 [黑马博学谷HTML&JS + 前端高手课](https://www.boxuegu.com/course/detail-5235.html)
+
+更新 [WEB前端高级工程师养成计划『全修精英特训』【JS++】2023](https://ke.qq.com/course/334138)
+
 完结 [马士兵AI人工智能算法班](https://www.mashibing.com/subject/20)
 
 完结 [马哥Go语言高薪班12期](https://ke.qq.com/course/406096) 会员非免费

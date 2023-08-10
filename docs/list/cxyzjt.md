@@ -6,13 +6,25 @@
 
 联系方式：微信：IT_Promise
 
-**囧途终身VIP**
-囧途所有课程，终身免费学习，包更新，更新频率（**1月/次**）
+专注于web领域实战开发提升相关课程。主打golang、k8s、微服务、运维级开发等方向。
+
+**囧途终身VIP，已连续更新44个月**
+
+**囧途所有课程，终身免费学习**
+
+7月19号更新：200+个课
+
+#### 欢迎加入学习啦！
+
 :::
 
-[更多课程-学习地址](http://www.jtthink.com/)
+[222. 程序员在囧途eBPF实战入门之网络篇、可观测](https://www.jtthink.com/course/222)
 
-## [热更推荐](https://www.jtthink.com/course?c=99)
+[221. 程序员在囧途手撸Operator开发框架(少量结合chatgpt)](https://www.jtthink.com/course/221)
+
+[220. 程序员在囧途AI实战开发之金融版](https://www.jtthink.com/course/220)
+
+[219. 程序员在囧途eBPF实战开发粗暴入门篇](https://www.jtthink.com/course/219)
 
 [218. 程序员在囧途AI重塑k8s可视化管理系统(AIOps)实战](https://www.jtthink.com/course/218)
 
