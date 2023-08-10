@@ -71,5 +71,3 @@
 
 :::
 ------
-
-<a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2022090061号-1</a>
