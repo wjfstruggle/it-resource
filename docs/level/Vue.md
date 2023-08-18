@@ -11,7 +11,7 @@
 
 :::
 
-## Vue3
+### Vue3
 
 完结 [Vue3.0进阶实战抖音app](https://ke.qq.com/course/2993768)
 
@@ -65,7 +65,7 @@
 
 更新 620 [Vue3+TS+Vite+Vant-UI 开发双端招聘APP](https://coding.imooc.com/class/620.html)
 
-## 好评首推
+### 好评首推
 
 完结 [Vue与React高级框架开发](https://class.imooc.com/sc/?plan_id=59)
 
@@ -85,7 +85,7 @@
 
 完结 [Vue全家桶(架构)](http://www.javascriptpeixun.cn/goods/show/60)
 
-## 更多热门
+### 更多热门
 
 完结 [Vue核心技术Vue+Vue-Router+Vuex+SSR实战精讲](https://coding.imooc.com/class/196.html)
 
