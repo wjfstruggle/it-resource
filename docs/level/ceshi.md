@@ -3,7 +3,7 @@
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：IT_Promise777
 
 全网课程都有，欢迎私聊
 
@@ -117,6 +117,8 @@
 
 52 完结 [霍格沃兹软件测试 / 名企定向培养测试开发Python进阶班 第22期（22年7月完结）](https://m.ke.qq.com/course/package/41249?_bid=167&_wv=1)
 
+53 完结 [【华测教育】高级测试平台开发实战课程](https://ke.qq.com/course/3615821)
+
 ## 实战课
 
 01 完结[从零开始学测试 一步迈进互联网](https://coding.imooc.com/class/411.html)
@@ -150,7 +152,7 @@
 15 完结 [测试高薪必学：探秘大厂全链路质量保障体系](https://coding.imooc.com/class/558.html)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：IT_Promise777
 
 全网课程都有，欢迎私聊
 

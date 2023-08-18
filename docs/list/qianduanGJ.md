@@ -3,7 +3,7 @@
 #### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：IT_Promise777
 
 全网课程都有，欢迎私聊
 
@@ -164,6 +164,8 @@
 77 完结 渡一教育Web前端高薪工程师2023
 
 78 预约 [慕课大前端高级工程师2023](https://class.imooc.com/sale/fesenior)
+
+79 更新 [印客大厂前端工程师训练营](http://encodestudio.cn/#/detail?type=1)
 
 ### **更多Web**
 

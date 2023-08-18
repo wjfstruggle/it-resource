@@ -22,7 +22,7 @@
 
 10 完结  [构建千万级高可用企业级Node.js应用](https://coding.imooc.com/class/569.html)
 
-# 珠峰
+## 珠峰
 
 [珠峰2020node-a阶段课程](http://www.javascriptpeixun.cn/course/2176)
 
@@ -37,7 +37,7 @@
 
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：IT_Promise777
 
 全网课程都有，欢迎私聊
 

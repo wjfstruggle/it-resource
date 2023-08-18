@@ -4,7 +4,7 @@
 
 ::: tip
 
-联系方式：微信：IT_Promise
+联系方式：微信：IT_Promise777
 
 黑马博学谷VIP
 
@@ -3504,7 +3504,7 @@
 841 完结 [武汉校区会议](https://www.boxuegu.com/)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：IT_Promise777
 
 全网课程都有，欢迎私聊
 

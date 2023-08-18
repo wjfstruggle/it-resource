@@ -4,7 +4,7 @@
 
 ::: tip
 
-联系方式：微信：IT_Promise
+联系方式：微信：IT_Promise777
 
 专注于web领域实战开发提升相关课程。主打golang、k8s、微服务、运维级开发等方向。
 

@@ -31,7 +31,7 @@
 完结 [嵌入式+移动5G+智慧物联网编程基础(C/C++/Linux/sqlite3/Arm)](https://ke.qq.com/course/5859412#term_id=106073925)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：IT_Promise777
 
 全网课程都有，欢迎私聊
 

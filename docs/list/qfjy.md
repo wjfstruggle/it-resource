@@ -13,7 +13,7 @@
 更新 [千峰-java就业班2023年|价值19800元|重磅首发|无秘更新中](http://www.qfedu.com/java/)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：IT_Promise777
 
 全网课程都有，欢迎私聊
 

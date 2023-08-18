@@ -3,7 +3,7 @@
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：IT_Promise777
 
 全网课程都有，欢迎私聊
 
@@ -56,6 +56,8 @@
 23 完结 [【路飞学城】爬虫开发+APP逆向超级大神班 6 期](https://www.luffycity.com/light-course)
 
 24 完结 [【路飞学城】爬虫开发+APP逆向超级大神班 7 期](https://www.luffycity.com/light-course)
+
+25 完结 [路飞学成Python爬虫js逆向副业大王班](https://www.luffycity.com/light-course)
 
 ## 实战
 

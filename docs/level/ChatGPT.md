@@ -1,7 +1,7 @@
 # ChatGPT
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：IT_Promise777
 
 全网课程都有，欢迎私聊
 
@@ -50,8 +50,10 @@
 18 更新 [【王卓然博士】AI 大模型全栈工程师培养计划](
 https://www.zhihu.com/xen/market/remix/training/1658062407640682496?utm_campaign=zhihumarket&utm_medium=social&utm_source=wechat&utm_content=messages_share) 超推荐
 
-19 更新  [卢菁北大博士ChatGLM大模型实战训练营-从芯片基础到大模型构建](https://edu.51cto.com/course/34244.html) 超推荐
+19 更新  [卢菁北大博士ChatGLM大模型实战训练营-从芯片基础到大模型构建](https://app4tvrkyjd6910.h5.xiaoeknow.com/v1/goods/goods_detail/p_649bb2b3e4b0cf39e6dd99f3?type=3) 超推荐
 
 20 完结 [ChatGPT开发AI智能助理APP项目](https://edu.51cto.com/course/33498.html)
 
 21更新 [AIGC大模型实战](https://www.boxuegu.com/course/outline-5647.html)
+
+22 完结 [硅谷NLP ChatGPT LLMs 大模型企业实战](https://appybiyrtzd9613.h5.xiaoeknow.com/v1/goods/goods_detail/p_62277327e4b066e9608d08ba)

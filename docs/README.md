@@ -42,7 +42,7 @@
 
 [**万门好课**](./list/wanmen.md) [**顿开C/C++**](./list/DKCC++.md)  [**抖码课堂**](./list/douma.md) [**饥人谷**](./list/jirengu.md)  [**朝夕教育**](./list/zhaoxi.md)
 
-[**千锋教育**](./list/qfjy.md)  [**小象学院**](./list/xxketang.md) [**51CTO**](./list/51CTO.md) [**谷粒学院**](http://www.gulixueyuan.com/) 
+[**千锋教育**](./list/qfjy.md)  [**小象学院**](./list/xxketang.md) [**51CTO**](./list/51CTO.md) [**七月在线**](./list/qiyue.md) [**谷粒学院**](http://www.gulixueyuan.com/) 
 
 ### **热门语言** <Badge type="warning" text="💯"/>
 
@@ -63,7 +63,7 @@
 ::: tip
 **联系方式**
 
-微信：IT_Promise
+微信：IT_Promise777
 
 全网课程都有，欢迎私聊。
 

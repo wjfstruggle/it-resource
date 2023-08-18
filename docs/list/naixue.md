@@ -97,7 +97,7 @@
 更新[AI资深开发工程师](https://e.naixuejiaoyu.com/detail/term_61716cfc2fdd2_71EnPF/25)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：IT_Promise777
 
 全网课程都有，欢迎私聊
 

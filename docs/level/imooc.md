@@ -3,7 +3,7 @@
 #### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：IT_Promise777
 
 全网课程都有，欢迎私聊
 
@@ -157,7 +157,7 @@
 
 预约 650 [React18内核探秘：手写React高质量源码迈向高阶开发](https://coding.imooc.com/class/650.html)
 
-预约 648 [Web3.0入门与实战 一站式掌握4大主流区块链开发](https://coding.imooc.com/class/648.html)
+648 [Web3.0入门与实战 一站式掌握4大主流区块链开发](https://coding.imooc.com/class/648.html)
 
 预约 647 [全新版FRIDA与安卓 应用安全与逆向实战宝典](https://coding.imooc.com/class/647.html)
 

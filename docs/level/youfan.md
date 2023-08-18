@@ -151,7 +151,7 @@ Java和大数据架构师精通Java大数据GoPython等语言和技术IT一线�
 68 完结 [百亿级数据10万字段属性的秒级检索解决方案以及实现](https://edu.51cto.com/course/19142.html)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：IT_Promise777
 
 全网课程都有，欢迎私聊
 

@@ -10,7 +10,7 @@ JAVA架构口碑连续3年NO1，比某马强很多
 
 已有：100+个课，已连续更新：4年
 
-联系方式：微信：IT_Promise
+联系方式：微信：IT_Promise777
 
 :::
 
@@ -20,13 +20,13 @@ JAVA架构口碑连续3年NO1，比某马强很多
 
 ![null](http://leaaiv.cn/media/202207//1656953259.2687356.png)
 
-# 最新课程
+## 最新课程
 
 01 完结 [从零开始开发亿级流量小红书项目实战](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_641ae80be4b0f2aa7dd07402)
 
 02 更新 [图灵AI&ChatGPT实战训练营](https://appgpn9idwb6991.h5.xiaoeknow.com/v1/goods/goods_detail/p_6423fc52e4b0b0bc2bcf0677?fromH5=true)
 
-# 架构训练营
+## 架构训练营
 
 01 完结 [享学Java互联网架构师1期](https://ke.qq.com/course/287404)
 
@@ -56,7 +56,7 @@ JAVA架构口碑连续3年NO1，比某马强很多
 
 14 更新 [【图灵课堂】Go编程挺进大厂实战营](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_62a6f065e4b0d4f489aa1325)
 
-# 体系课
+## 体系课
 
 01 完结 [【图灵课堂】互联网Java架构师(CTA)](https://vip.tulingxueyuan.cn/detail/p_61823e0ae4b0b7f0182e3315/8)
 
@@ -86,7 +86,7 @@ JAVA架构口碑连续3年NO1，比某马强很多
 
 14 更新 [图灵Python全套实战项目班](https://appssry6rs71641.h5.xiaoeknow.com/v1/goods/goods_detail/p_628ef20ee4b0cedf38b6e660?product_id=p_628ef20ee4b0cedf38b6e660)
 
-# 面试突击课
+## 面试突击课
 
 01 完结 [【图灵课堂】简历优化与面试突击指导](https://vip.tulingxueyuan.cn/detail/p_603a3a40e4b0b6e9418e54fd/6)
 
@@ -116,7 +116,7 @@ JAVA架构口碑连续3年NO1，比某马强很多
 
 14 完结 [【图灵课堂】面试突击系列](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_6032545ae4b0f176aed326a5)
 
-# vip 拓展系列
+## vip 拓展系列
 
 01 完结 [【图灵课堂】分布式任务调度解决方案Elastic-Job实战](https://vip.tulingxueyuan.cn/detail/p_63b62f94e4b02685a4329536/6)
 
@@ -254,12 +254,12 @@ JAVA架构口碑连续3年NO1，比某马强很多
 
 68 完结 [从零开始开发亿级流量小红书项目实战](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_641ae80be4b0f2aa7dd07402)
 
-## **2023学习课程大纲**
+## 2023学习课程大纲
 
 [**2023学习课程大纲**](https://www.processon.com/view/link/5eccea8fe0b34d5f263038f0)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：IT_Promise777
 
 全网课程都有，欢迎私聊
 

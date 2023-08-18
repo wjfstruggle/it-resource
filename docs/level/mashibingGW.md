@@ -3,13 +3,13 @@
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：IT_Promise777
 
 马士兵终身SVIP
 
 近500门课程免费，终身免费学习，持续更新
 
-体系课：24个课
+体系课：25个课
 
 实战课：400+个课
 
@@ -66,6 +66,8 @@
 23 完结 [马士兵超级运维大师课](https://www.mashibing.com/subject/17)
 
 24 完结 [马士兵面试宝典--大厂面试标准和面试辅导班](https://www.mashibing.com/subject/43)
+
+25 更新 [马士兵Linux云计算SRE工程师](https://www.mashibing.com/subject/17)
 
 ## 实战课
 

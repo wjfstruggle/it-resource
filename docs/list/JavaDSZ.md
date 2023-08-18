@@ -3,7 +3,7 @@
 #### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：IT_Promise777
 
 全网课程都有，欢迎私聊
 
@@ -64,7 +64,7 @@
 32 更新 [小马哥 Java 训练营 第四期 Java 分布式架构 - 异地多活架构](https://apprnzlvz344455.h5.xiaoeknow.com/v1/goods/goods_detail/course_2PuxTx4zA8b2q83VuAPYLPFqO5x)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：IT_Promise777
 
 全网课程都有，欢迎私聊
 
