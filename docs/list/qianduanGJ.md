@@ -7,8 +7,6 @@
 
 全网课程都有，欢迎私聊
 
- 
-
 :::
 
 01 完结 [网易-微专业高级前端开发工程师](https://mooc.study.163.com/smartSpec/detail/1202816603.htm)
@@ -77,11 +75,11 @@
 
 33 完结 [前端早早聊大会｜2021 全年联票](https://www.huodongxing.com/go/2021)
 
-34 完结 [珠峰零基础前端就业班](http://www.zhufengpeixun.cn/customize/js/index.html)超推荐Hot棒
+34 完结 [珠峰零基础前端就业班](http://www.zhufengpeixun.cn/customize/js/index.html) 超推荐Hot棒
 
 35 完结 [开课吧Web前端面试涨薪名企培养计划](https://wx.kaikeba.com/vipcourse/30a1geoc3o/uu0zwtbog7)
 
-36 完结[【JS++】WEB前端高级工程师养成计划『全修精英特训』](https://ke.qq.com/course/334138)2022
+36 完结[【JS++】WEB前端高级工程师养成计划『全修精英特训』](https://ke.qq.com/course/334138)2023
 
 37 完结 [慕课网大前端2022版](https://class.imooc.com/sale/webfullstack2021)
 
@@ -161,11 +159,13 @@
 
 76 更新 [前端架构师-大厂直通车](https://appwhrkrsz84443.h5.xiaoeknow.com/v1/goods/goods_detail/p_62b59eb6e4b0eca59c0de342)
 
-77 完结 渡一教育Web前端高薪工程师2023
+77 完结 渡一教育Web前端高薪工程师2023 【私信看大纲】
 
 78 预约 [慕课大前端高级工程师2023](https://class.imooc.com/sale/fesenior)
 
 79 更新 [印客大厂前端工程师训练营](http://encodestudio.cn/#/detail?type=1)
+
+80 更新 [爪哇教育web前端大厂工程师训练营2023](http://www.zhaowaedu.com/#/) 【私信看大纲】
 
 ### **更多Web**
 
