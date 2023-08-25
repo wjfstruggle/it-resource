@@ -91,7 +91,7 @@
 
 39 更新 [极客时间邓明初级go工程师训练营](https://u.geekbang.org/subject/go3rd)
 
-40 更新 [极客AI 大模型应用开发实战营](https://u.geekbang.org/subject/llm)
+40 更新 [极客时间AI 大模型应用开发实战营](https://u.geekbang.org/subject/llm)
 
 41 预约 [极客时间云原生 DevOps 进阶实战营](https://u.geekbang.org/subject/cloudnative2nd/1005553?utm_source=time_web&utm_medium=menu&utm_term=timewebmenu)
 
