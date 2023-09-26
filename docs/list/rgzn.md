@@ -107,6 +107,10 @@
 
 48 完结 [七月在线CV就业小班6期](https://www.julyedu.com/Employment/gjob6)
 
+49 更新 [卢菁人工智能NLP系统班](https://ke.gupaoedu.cn/course/vip/1973)
+
+50 更新 [唐宇迪人工智能深度学习8期](https://ke.gupaoedu.cn/course/vip/2149)
+
 ## 更多推荐
 
 [**后厂理工**](./hclg.md) [**深度之眼**](./sdzy.md) [**数据技术课堂**](./sjjskt.md) [**唐宇迪**](./tangyudi.md)

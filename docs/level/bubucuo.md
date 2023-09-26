@@ -5,8 +5,6 @@
 
 全网课程都有，欢迎私聊
 
- 
-
 :::
 
 #### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
@@ -24,3 +22,5 @@
 更新 [前端架构师-大厂直通车](https://appwhrkrsz84443.h5.xiaoeknow.com/v1/goods/goods_detail/p_62b59eb6e4b0eca59c0de342)
 
 完结 [前端bubucuo全栈低代码项目](https://appuwwsm6cl6690.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/p_643817b1e4b0cf39e6bb50a6)
+
+完结 [极客时间前端进阶特训营winter、杨村长、然叔、高少云](https://u.geekbang.org/subject/fe4th)

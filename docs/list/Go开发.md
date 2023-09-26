@@ -70,6 +70,8 @@
 
 31 完结 [七米Go语言微服务与云原生](https://study.163.com/course/introduction.htm?courseId=1212937804)
 
+32 完结 [【图灵课堂】Go编程挺进大厂实战营](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_62a6f065e4b0d4f489aa1325)
+
 ## **专题小实战**
 
 01完结[网易-Golang从入门到精通](https://study.163.com/course/introduction/1004720008.htm)

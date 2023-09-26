@@ -54,7 +54,7 @@ JAVA架构口碑连续3年NO1，比某马强很多
 
 13 完结 [图灵云原生与大厂项目架构课](https://ke.qq.com/course/3855334)
 
-14 更新 [【图灵课堂】Go编程挺进大厂实战营](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_62a6f065e4b0d4f489aa1325)
+14 完结 [【图灵课堂】Go编程挺进大厂实战营](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_62a6f065e4b0d4f489aa1325)
 
 ### 体系课
 
@@ -84,7 +84,7 @@ JAVA架构口碑连续3年NO1，比某马强很多
 
 13 完结 [【图灵课堂】JAVA分布式12306售票系统分析与实战](https://vip.tulingxueyuan.cn/detail/p_62bc34dce4b00a4f371fef40/6)
 
-14 更新 [图灵Python全套实战项目班](https://appssry6rs71641.h5.xiaoeknow.com/v1/goods/goods_detail/p_628ef20ee4b0cedf38b6e660?product_id=p_628ef20ee4b0cedf38b6e660)
+14 完结 [【图灵课堂】图灵Python全套实战项目班](https://appssry6rs71641.h5.xiaoeknow.com/v1/goods/goods_detail/p_628ef20ee4b0cedf38b6e660?product_id=p_628ef20ee4b0cedf38b6e660)
 
 ### 面试突击课
 

@@ -36,23 +36,27 @@
 
 完结 [前端bubucuo《精通React》大专栏](https://appuwwsm6cl6690.pc.xiaoe-tech.com/detail/p_62b2ce2ee4b0ba331dcb87c1/8)
 
+完结 [bubucuo的React面试宝典](https://appuwwsm6cl6690.pc.xiaoe-tech.com/p/t_pc/course_pc_detail/column/p_6418d282e4b0b2d1c3fb35d2)
+
 完结 [【就业阶段】React18全家桶+Hooks+项目实战-coderwhy2022系统课](https://ke.qq.com/course/5348785#term_id=105528541)
 
 完结 [大圣React +Typescript企业级项目实战](https://appx496fyc38425.h5.xiaoeknow.com/v1/goods/goods_detail/p_620608f0e4b066e9608455cf?type=3)
 
 完结 [【bubucuo】React低代码项目](https://appuwwsm6cl6690.h5.xiaoeknow.com/v1/goods/goods_detail/p_62b2a825e4b06accb0709923?type=3)
 
-更新 [卡颂从0实现React18](https://appjiz2zqrn2142.h5.xiaoeknow.com/v1/goods/goods_detail/p_638035c1e4b07b05581d25db)
+完结 [卡颂从0实现React18](https://appjiz2zqrn2142.h5.xiaoeknow.com/v1/goods/goods_detail/p_638035c1e4b07b05581d25db)
 
 完结 [【慕课网】Vue3 + React18 + TS4入门到实战 系统学习3大热门技术](https://coding.m.imooc.com/classindex.html?cid=602)
 
-新课 [React全栈进阶实战](https://appwhrkrsz84443.h5.xiaoeknow.com/v1/goods/goods_detail/p_6402a238e4b07b0558395e96?type=3&share_type=5&share_user_id=u_6310ca19eaa50_DJcQkOwIwx&entry=2&entry_type=2002)
+完结 [杨村长React全栈进阶实战](https://appwhrkrsz84443.h5.xiaoeknow.com/v1/goods/goods_detail/p_6402a238e4b07b0558395e96?type=3&share_type=5&share_user_id=u_6310ca19eaa50_DJcQkOwIwx&entry=2&entry_type=2002)
 
-更新 646 [React18+TS4+Next.js13，B端+C端完整业务+技术双闭环](https://coding.imooc.com/class/646.html)
+完结 646 [React18+TS4+Next.js13，B端+C端完整业务+技术双闭环](https://coding.imooc.com/class/646.html)
 
-更新 639 [React18+TS+Vite 进阶实战 阅读类App](https://coding.imooc.com/class/639.html)
+完结 639 [React18+TS+Vite 进阶实战 阅读类App](https://coding.imooc.com/class/639.html)
 
-更新 628 [RN从0到1系统精讲与小红书APP实战（2023版）](https://coding.imooc.com/class/628.html)
+完结 628 [RN从0到1系统精讲与小红书APP实战（2023版）](https://coding.imooc.com/class/628.html)
+
+完结 [珠峰前端珠峰React18全家桶系统课](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_637465b8e4b0276efeb1d061)
 
 ## **更多热门**
 

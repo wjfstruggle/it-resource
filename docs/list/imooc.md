@@ -61,13 +61,13 @@
 
 20 完结 [【体系课】慕课大数据2022版](https://class.imooc.com/sale/bigdata)
 
-21 更新 [【体系课】慕课网java高级工程师](https://class.imooc.com/sale/javasenior)
+21 完结 [【体系课】慕课网java高级工程师](https://class.imooc.com/sale/javasenior)
 
 22 完结 [【体系课】慕课Go开发工程师全新版](https://class.imooc.com/sale/newgo)
 
 23 完结 [【体系课】慕课网全能软件测试工程师](https://class.imooc.com/sale/test2022)
 
-24 预约 [【体系课】物联网/嵌入式工程师](https://class.imooc.com/sale/embedded)
+24 更新 [【体系课】物联网/嵌入式工程师](https://class.imooc.com/sale/embedded)
 
 25 预约 [【体系课】计算机基础课](https://class.imooc.com/sale/computer)
 
@@ -77,9 +77,13 @@
 
 28 完结 [【体系课】手写操作系统 小班教学招生2期](https://class.imooc.com/sale/os)
 
-29 完结 [【体系课】Python Web全栈工程师](https://class.imooc.com/sale/pythonweb)
+29 更新 [【体系课】手写操作系统 小班教学招生3期](https://class.imooc.com/sale/os)
 
-30 预约 [慕课大前端高级工程师2023](https://class.imooc.com/sale/fesenior)
+30 完结 [【体系课】Python Web全栈工程师](https://class.imooc.com/sale/pythonweb)
+
+31 预约 [慕课大前端高级工程师2023](https://class.imooc.com/sale/fesenior)
+
+32 更新 [慕课网DBA数据库工程师](https://class.imooc.com/sale/dba)
 
 ## **大实战**
 
@@ -119,7 +123,7 @@
 
 预约 685 [Django4+Vue3全新技术实战全栈项目](https://coding.imooc.com/class/685.html)
 
-预约 684 [程序员的 AI 启蒙课: ChatGPT 让你 1 人顶 3 人](https://coding.imooc.com/class/684.html)
+684 [程序员的 AI 启蒙课: ChatGPT 让你 1 人顶 3 人](https://coding.imooc.com/class/684.html)
 
 预约 680 [SpringBoot+Vue3打造企业级一体化SaaS系统](https://coding.imooc.com/class/680.html?)
 
@@ -239,11 +243,11 @@
 
 604 [慕课网SpringCloud整合Dubbo3实战高并发微服务架构设计](https://coding.imooc.com/class/chapter/604.html#Anchor)
 
-603 [信息系统项目管理师（软考高级）一站式通关课程](https://coding.imooc.com/class/603.html)
+预约  603 [信息系统项目管理师（软考高级）一站式通关课程](https://coding.imooc.com/class/603.html)
 
 602 [【慕课网】Vue3 + React18 + TS4入门到实战 系统学习3大热门技术](https://coding.m.imooc.com/classindex.html?cid=602)
 
-601 [慕课网9大业务场景实战Hadoop+Flink，完成大数据能力进修](https://coding.imooc.com/class/601.html)
+预约 601 [慕课网9大业务场景实战Hadoop+Flink，完成大数据能力进修](https://coding.imooc.com/class/601.html)
 
 600 [高级前端进阶必修：自主打造高扩展的业务组件库](https://coding.imooc.com/class/600.html)
 

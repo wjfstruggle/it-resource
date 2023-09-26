@@ -2485,3 +2485,216 @@
 18 完结 [艾文基于深度学习的TextCNN文本分类](https://edu.51cto.com/course/24593.html)
 
 19 完结 [艾文基于深度学习的电商多任务图像分类](https://edu.51cto.com/course/25431.html)
+
+## 猿来课堂
+
+01 完结 [猿来课堂 requsts模块与数据解析](https://edu.51cto.com/course/31678.html)
+
+02 完结 [猿来课堂 超哥带你精通docker虚拟化](https://edu.51cto.com/course/32416.html)
+
+03 完结 [猿来课堂 快速掌握Prometheus-云计算监控神器](https://edu.51cto.com/course/33900.html)
+
+04 完结 [猿来课堂 k8s集群实战](https://edu.51cto.com/course/33874.html)
+
+05 完结 [猿来课堂 企业服务器安全之JumpServer](https://edu.51cto.com/course/33852.html)
+
+06 完结 [猿来课堂 3小时Vue基础快速入门](https://edu.51cto.com/course/33835.html)
+
+07 完结 [猿来课堂 Python asyncio高性能异步编程](https://edu.51cto.com/course/33833.html)
+
+08 完结 [猿来课堂 14天搞定Flask Web框架开发实战](https://edu.51cto.com/course/33832.html)
+
+09 完结 [猿来课堂 小白学算法入门](https://edu.51cto.com/course/33829.html)
+
+10 完结 [猿来课堂 深度学习之-PyTorch框架项目实战](https://edu.51cto.com/course/33824.html)
+
+11 完结 [猿来课堂 网络编程&FTP服务开发实战](https://edu.51cto.com/course/33821.html)
+
+12 完结 [猿来课堂 微信公众号开发](https://edu.51cto.com/course/33820.html)
+
+13 完结 [猿来课堂 4小时计算机预科](https://edu.51cto.com/course/33819.html)
+
+14 完结 [猿来课堂 深度学习入门视频课程](https://edu.51cto.com/course/33816.html)
+
+15 完结 [猿来课堂 Django Web开发入门](https://edu.51cto.com/course/33815.html)
+
+16 完结 [猿来课堂 3天玩转CICD持续集成](https://edu.51cto.com/course/33814.html)
+
+17 完结 [猿来课堂 小米商城实战项目](https://edu.51cto.com/course/33813.html)
+
+18 完结 [猿来课堂 看故事学Git实战](https://edu.51cto.com/course/33812.html)
+
+19 完结 [猿来课堂 JavaSSM框架整合项目实战](https://edu.51cto.com/course/33733.html)
+
+20 完结 [猿来课堂 版本控制工具SVN和GIT](https://edu.51cto.com/course/33744.html)
+
+21 完结 [猿来课堂 java项目部署以及分布式教程](https://edu.51cto.com/course/33743.html)
+
+22 完结 [猿来课堂 深度学习springboot](https://edu.51cto.com/course/33706.html)
+
+23 完结 [猿来课堂 spring框架入门精讲](https://edu.51cto.com/course/33705.html)
+
+24 完结 [猿来课堂 流行的ORM框架mybatis](https://edu.51cto.com/course/33704.html)
+
+25 完结 [猿来课堂 javaweb零基础入门](https://edu.51cto.com/course/33701.html)
+
+26 完结 [猿来课堂 java数据库操作jdbc](https://edu.51cto.com/course/33699.html)
+
+27 完结 [猿来课堂 mysql零基础入门](https://edu.51cto.com/course/33694.html)
+
+28 完结 [猿来课堂 jquery零基础入门](https://edu.51cto.com/course/33682.html)
+
+29 完结 [猿来课堂 js零基础入门](https://edu.51cto.com/course/33663.html)
+
+30 完结 [猿来课堂 css零基础入门](https://edu.51cto.com/course/33652.html)
+
+31 完结 [猿来课堂 java内置api详解](https://edu.51cto.com/course/33641.html)
+
+32 完结 [猿来课堂 java面向对象](https://edu.51cto.com/course/33633.html)
+
+33 完结 [猿来课堂 java零基础入门](https://edu.51cto.com/course/33613.html)
+
+34 完结 [猿来课堂 自动化工具selenium](https://edu.51cto.com/course/33611.html)
+
+35 完结 [猿来课堂 持久化数据存储](https://edu.51cto.com/course/33580.html)
+
+36 完结 [猿来课堂 异步爬虫越用越爽](https://edu.51cto.com/course/33577.html)
+
+37 完结 [猿来课堂 高级反爬-js逆向](https://edu.51cto.com/course/33586.html)
+
+38 完结 [猿来课堂 DBA数据库运维](https://edu.51cto.com/course/33569.html)
+
+39 完结 [猿来课堂 高阶devops与精通cicd架构](https://edu.51cto.com/course/33554.html)
+
+40 完结 [猿来课堂 高并发缓存中间件](https://edu.51cto.com/course/33553.html)
+
+41 完结 [猿来课堂 超哥带你学云原生k8s](https://edu.51cto.com/course/33551.html)
+
+42 完结 [猿来课堂 精通zabbix高级监控方案](https://edu.51cto.com/course/33550.html)
+
+43 完结 [猿来课堂 精通自动化shell脚本开发](https://edu.51cto.com/course/33549.html)
+
+44 完结 [猿来课堂 网站黄金架构精通LNMP](https://edu.51cto.com/course/33546.html)
+
+45 完结 [猿来课堂 大型网站架构之cdn原理与实战部署](https://edu.51cto.com/course/33534.html)
+
+46 完结 [猿来课堂 大并发网站架构之精通负载均衡](https://edu.51cto.com/course/33531.html)
+
+47 完结 [猿来课堂 大型网站架构之dns原理与实战部署](https://edu.51cto.com/course/33533.html)
+
+48 完结 [猿来课堂 网络安全之堡垒机实战](https://edu.51cto.com/course/31950.html)
+
+49 完结 [猿来课堂 网络安全之https篇](https://edu.51cto.com/course/31932.html)
+
+50 完结 [猿来课堂 网站集群必会之nginx高级篇](https://edu.51cto.com/course/31923.html)
+
+51 完结 [猿来课堂 高级运维自动化之ansible](https://edu.51cto.com/course/31865.html)
+
+52 完结 [猿来课堂 运维必备网站集群架构之存储篇](https://edu.51cto.com/course/31864.html)
+
+53 完结 [猿来课堂 服务器网络安全之ssh原理解密](https://edu.51cto.com/course/31863.html)
+
+54 完结 [猿来课堂 彻底学会运维核心难点之正则与三剑客](https://edu.51cto.com/course/31856.html)
+
+55 完结 [猿来课堂 权限重点之文件权限与用户权限](https://edu.51cto.com/course/31824.html)
+
+56 完结 [猿来课堂 红帽认证重点之系统服务管理](https://edu.51cto.com/course/31823.html)
+
+57 完结 [猿来课堂 光速掌握如何基于阿里云安装LAMP架构](https://edu.51cto.com/course/31822.html)
+
+58 完结 [猿来课堂 红帽证书重点之linux磁盘管理原理](https://edu.51cto.com/course/31817.html)
+
+59 完结 [猿来课堂 异步爬虫](https://edu.51cto.com/course/31677.html)
+
+60 完结 [猿来课堂 Python爬虫高级开发第四章之异步爬虫](https://edu.51cto.com/course/30109.html)
+
+61 完结 [猿来课堂 Python基础教程](https://edu.51cto.com/course/29333.html)
+
+62 完结 [猿来课堂 2021年Python基础全套课程](https://edu.51cto.com/course/29206.html)
+
+## 李晓鹏-软件测试
+
+01 完结 [李晓鹏 《全栈测试工程师》VIP课程体系](https://edu.51cto.com/course/31267.html)
+
+02 完结 [李晓鹏 UI自动化测试：Selenium3](https://edu.51cto.com/course/26488.html)
+
+03 完结 [李晓鹏 大数据测试](https://edu.51cto.com/course/33627.html)
+
+04 完结 [李晓鹏 JVM性能调优](https://edu.51cto.com/course/30597.html)
+
+05 完结 [李晓鹏 UI自动化（Selenium3）测试框架设计与实现](https://edu.51cto.com/course/26483.html)
+
+06 完结 [李晓鹏 Appium移动自动化(App)测试](https://edu.51cto.com/course/21506.html)
+
+07 完结 [李晓鹏 Robot FrameWork自动化测试](https://edu.51cto.com/course/24195.html)
+
+08 完结 [李晓鹏 微服务架构下的测试之道](https://edu.51cto.com/course/28992.html)
+
+09 完结 [李晓鹏 单元测试UnitTest+Pytest](https://edu.51cto.com/course/26487.html)
+
+10 完结 [李晓鹏 UI自动化测试：Selenium3（不含框架）](https://edu.51cto.com/course/26489.html)
+
+11 完结 [李晓鹏 Selenium3分布式与虚拟化](https://edu.51cto.com/course/26479.html)
+
+12 完结 [李晓鹏 移动测试(App)新手必备](https://edu.51cto.com/course/21514.html)
+
+13 完结 [李晓鹏 移动(App)自动化测试框架](https://edu.51cto.com/course/20486.html)
+
+14 完结 [李晓鹏 【Python3】Selenium3自动化实践系列『1』Selenium新手必备视频](https://edu.51cto.com/course/11835.html)
+
+15 完结 [李晓鹏 Oracle 11g数据库课程【PL/Sql】](https://edu.51cto.com/course/1715.html)
+
+16 完结 [李晓鹏 【2016版】测试必备系统知识(Linux|Oracle)视频课程](https://edu.51cto.com/course/7588.html)
+
+17 完结 [李晓鹏 51CTO学堂-软件测试线上班-初级班视频课程](https://edu.51cto.com/course/3530.html)
+
+18 完结 [李晓鹏 Loadrunner11性能实践视频课程](https://edu.51cto.com/course/1746.html)
+
+19 完结 [李晓鹏 Linux(RedHat)精讲视频课程（基础篇）](https://edu.51cto.com/course/1661.html)
+
+20 完结 [李晓鹏 测试系列课程(3)Shell脚本编程精准剖析视频课程](https://edu.51cto.com/course/1120.html)
+
+21 完结 [李晓鹏 Oracle 10g在RedHat服务器上的部署视频课程](https://edu.51cto.com/course/998.html)
+
+22 完结 [李晓鹏 测试系列课程(3)测试综合技能知识（Linux|Oracle|Windows）](https://edu.51cto.com/course/701.html)
+
+23 完结 [李晓鹏 全栈测试工程师核心能力：全栈测试工程师技能路线](https://edu.51cto.com/course/23575.html)
+
+24 完结 [李晓鹏 全栈测试工程师核心能力：全栈测试工程师技能路线](https://edu.51cto.com/course/21935.html)
+
+25 完结 [李晓鹏 2018版软件测试基础-测试系列视频课程(1)【精讲】-带你叩开测试大门](https://edu.51cto.com/course/30.html)
+
+26 完结 [李晓鹏 Pytest单元测试【微职位】](https://edu.51cto.com/course/16745.html)
+
+27 完结 [李晓鹏 全栈测试工程师微职位：测试入门必备基础](https://edu.51cto.com/course/8699.html)
+
+28 完结 [李晓鹏 【Python3】Selenium自动化实践系列『2』之单元测试框架+PageObject模式视频](https://edu.51cto.com/course/11834.html)
+
+29 完结 [李晓鹏 从零学Python3.X开发语言–视频课程](https://edu.51cto.com/course/11847.html)
+
+30 完结 [李晓鹏 【Python3】Selenium自动化实践系列『3』之自动化框架设计与实现视频课程](https://edu.51cto.com/course/11945.html)
+
+31 完结 [李晓鹏 软件测试工程师入门必备之【测试基础视频】【精讲】](https://edu.51cto.com/course/7330.html)
+
+32 完结 [李晓鹏 自动化测试QuickTest视频课程-下部](https://edu.51cto.com/course/7572.html)
+
+33 完结 [李晓鹏 【2016版】自动化测试QuickTest视频课程-上部](https://edu.51cto.com/course/7565.html)
+
+34 完结 [李晓鹏 软件测试基础入门视频教程-带你叩开测试大门](https://edu.51cto.com/course/1924.html)
+
+35 完结 [李晓鹏 测试系列课程(2)软件测试实践详解](https://edu.51cto.com/course/1232.html)
+
+36 完结 [李晓鹏 测试系列课程(5)QuickTestPro由浅入深–高阶(2016年更新)](https://edu.51cto.com/course/1130.html)
+
+37 完结 [李晓鹏 测试系列课程之项目管理软件禅道–基于Scrum](https://edu.51cto.com/course/946.html)
+
+38 完结 [李晓鹏 测试系列课程之TestLink(测试过程管理系统)实战应用](https://edu.51cto.com/course/944.html)
+
+39 完结 [李晓鹏 项目管理平台Redmine的实战课程](https://edu.51cto.com/course/943.html)
+
+40 完结 [李晓鹏 测试系列课程(4)QuickTestPro由浅入深–初阶(作者授课)](https://edu.51cto.com/course/812.html)
+
+41 完结 [李晓鹏 测试系列课程(1)透过BugFree看缺陷管理流程的优秀展现](https://edu.51cto.com/course/447.html)
+
+
+

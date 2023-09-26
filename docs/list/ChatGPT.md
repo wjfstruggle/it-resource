@@ -1,4 +1,4 @@
-# ChatGPT AI
+# ChatGPT AI 大模型
 
 ::: tip
 联系方式：微信：IT_Promise777
@@ -15,7 +15,7 @@
 
 02 完结 [企业级项目实战课程-从0带你实现ChatGPT项目 零声教育)](https://ke.qq.com/course/6031074) 超推荐
 
-03 更新 [极客时间AI 大模型应用开发实战营](https://u.geekbang.org/subject/llm) 超推荐
+03 完结 [极客时间AI 大模型应用开发实战营](https://u.geekbang.org/subject/llm) 超推荐
 
 04 完结 [九章算法ChatGPT项目实战课](https://www.jiuzhang.com/course/150) 超推荐
 
@@ -59,3 +59,5 @@ https://www.zhihu.com/xen/market/remix/training/1658062407640682496?utm_campaign
 14 完结 [ChatGPT开发AI智能助理APP项目](https://edu.51cto.com/course/33498.html)
 
 15 更新 [AIGC大模型实战](https://www.boxuegu.com/course/outline-5647.html)
+
+16 完结 684 [程序员的 AI 启蒙课: ChatGPT 让你 1 人顶 3 人](https://coding.imooc.com/class/684.html)

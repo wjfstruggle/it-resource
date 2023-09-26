@@ -10,7 +10,7 @@
 
 完结 [【华清远见】物联网开发工程师](http://www.makeru.com.cn/roadmap/iot)
 
-预约 [【慕课网】物联网/嵌入式工程师](https://class.imooc.com/sale/embedded)
+更新 [【慕课网】物联网/嵌入式工程师](https://class.imooc.com/sale/embedded)
 
 更新 [【韦东山】90天RTOS双架构双系统项目实战班](https://m.tb.cn/h.UoNV28F?tk=pYwidS2IHBU)
 
@@ -29,6 +29,8 @@
 完结 [嵌入式+移动5G+智慧物联网全阶高薪(C/C++/Linux/IOT/蓝牙/wifi)](https://ke.qq.com/course/5859413#term_id=106073926)
 
 完结 [嵌入式+移动5G+智慧物联网编程基础(C/C++/Linux/sqlite3/Arm)](https://ke.qq.com/course/5859412#term_id=106073925)
+
+新课 [达内嵌入式物联网培训2023](https://www.tedu.cn/arm/)
 
 ::: tip
 联系方式：微信：IT_Promise777

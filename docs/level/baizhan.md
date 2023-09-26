@@ -9,7 +9,7 @@
 
 :::
 
-### 体系课
+# 体系课
 
 01 完结 [百战程序员Python全栈工程师2023](https://www.itbaizhan.com/stages/id/17)
 
@@ -39,7 +39,7 @@
 
 14 完结 [百战程序员AIGC人工智能工具全能班](https://www.itbaizhan.com/stages/id/42)
 
-### 实战课
+# 实战课
 
 陆续更新，几百个
 

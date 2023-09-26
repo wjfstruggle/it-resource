@@ -12,3 +12,5 @@
 完结 [软考高级2023：信息系统项目管理师4.0版](https://e.51cto.com/training_1094.html)
 
 完结 [软考高级2023：信息系统项目管理师](https://e.51cto.com/training_1094.html)
+
+更新 [咕泡云课堂系统架构设计师【高级】](https://ke.gupaoedu.cn/course/vip/1979)

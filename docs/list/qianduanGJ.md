@@ -33,8 +33,6 @@
 
 12 完结 [极客前端进阶训练营](https://u.geekbang.org/subject/fe/100044701)推
 
-13 完结 [渡一 Web前端高级工程师培养计划 13期](https://ke.qq.com/course/421612)
-
 14 完结 [千锋html5大前端](http://wap.mobiletrain.org/dg/h5.html)超推
 
 15 完结[李南江从零玩转-Web全栈大神班](https://www.it666.com/classroom/2/introduction)
@@ -166,6 +164,8 @@
 79 更新 [印客大厂前端工程师训练营](http://encodestudio.cn/#/detail?type=1)
 
 80 更新 [爪哇教育web前端大厂工程师训练营2023](http://www.zhaowaedu.com/#/) 【私信看大纲】
+
+81 新课 [九剑前端30k前端架构师训练营（9月优惠拉满冲30k!）](https://www.douyin.com/user/MS4wLjABAAAAuivNiAk3PrWZCpe5ddDjnqsNq14W8d7_AECONIiNVm0)
 
 ### **更多Web**
 

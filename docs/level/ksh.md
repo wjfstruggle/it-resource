@@ -52,3 +52,5 @@
 完结 [UE4智慧停车数字孪生可视化(全能大师版）](https://www.cctalk.com/m/group/90345576)
 
 更新 [Unity高薪就业班-1v1服务 就业无忧](https://www.sikiedu.com/classroom/16/introduction)
+
+完结 [【猿创课堂】WEB3d 工程师 零基础启航](https://appwmzcwmo57531.h5.xiaoeknow.com/v1/goods/goods_detail/course_2MB6FWIFkwDE829dx5HzxmLfBFE?type=2&share_type=5&share_user_id=u_6481233e3bd8a_Lm0IitQCmF&entry=2&entry_type=2002)

@@ -7,8 +7,6 @@
 
 全网课程都有，欢迎私聊
 
- 
-
 :::
 
 ## **体系课**
@@ -55,11 +53,9 @@
 
 21 完结 [C++百万并发网络通信引擎架构与实现(服务端+客户端+跨平台)第2季（赠送第1季））](https://edu.51cto.com/course/11553.html)
 
-22 更新 [比特就业课106期C++](https://www.cctalk.com/m/group/90132828?spm=wolai.workspace.0.0.38e068b3XiR4V9)
+22 完结 [马士兵C++ 软件开发工程师](https://www.mashibing.com/subject/132?courseNo=141&courseVersionId=1159)
 
-23 完结 [马士兵C++ 软件开发工程师](https://www.mashibing.com/subject/132?courseNo=141&courseVersionId=1159)
-
-24 更新 [王道C++长期班线下43期](http://www.cskaoyan.com/thread-664595-1-1.html)
+23 更新 [王道C++长期班线下43期](http://www.cskaoyan.com/thread-664595-1-1.html)
 
 
 

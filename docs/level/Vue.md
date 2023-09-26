@@ -7,8 +7,6 @@
 
 全网课程都有，欢迎私聊
 
- 
-
 :::
 
 ### Vue3
@@ -53,7 +51,7 @@
 
 完结 [慕课网Vue3源码解析，打造自己的Vue3框架](https://coding.imooc.com/class/608.html)
 
-更新 [【慕课网】Vue3 + React18 + TS4入门到实战 系统学习3大热门技术](https://coding.m.imooc.com/classindex.html?cid=602)
+完结 [【慕课网】Vue3 + React18 + TS4入门到实战 系统学习3大热门技术](https://coding.m.imooc.com/classindex.html?cid=602)
 
 完结  [Vue3+TS打造SSR网站应用，0到1实现服务端渲染](https://coding.imooc.com/class/566.html)
 
@@ -63,7 +61,19 @@
 
 完结 625 [慕课网Vue3+Pinia+Vite+TS 还原高性能外卖APP项目](https://coding.imooc.com/class/625.html)
 
-更新 620 [Vue3+TS+Vite+Vant-UI 开发双端招聘APP](https://coding.imooc.com/class/620.html)
+完结 620 [Vue3+TS+Vite+Vant-UI 开发双端招聘APP](https://coding.imooc.com/class/620.html)
+
+完结 [Electron+Vue3+React跨平台客户端专项课【升职加薪，只争朝夕】](https://ke.qq.com/course/5862999#term_id=106077825)
+
+完结 [vue3.2+setup语法糖+ts+elementPlus后台管理系统](https://edu.51cto.com/course/30579.html)
+
+完结 [基于SpringBoot3.x+Vue3.x整合手把手从0到1开发学生信息管理系统](https://edu.51cto.com/course/33303.html)
+
+完结 [珠峰架构Vue3+TS开发专业级组件库](https://www.html5train.com/p/t_pc/goods_pc_detail/goods_detail/p_62d26c1ee4b050af239c8e72?fromH5=true)
+
+完结 [珠峰前端珠峰架构Vue3高手通关计划](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_634f5ab1e4b0a51fef2ad55f)
+
+完结 [珠峰前端Vue3.0实战训练营](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_5f54f2c2e4b0c55103747aeb)
 
 ### 好评首推
 
@@ -123,11 +133,3 @@
 
 完结 [慕课网Vue3源码解析，打造自己的Vue3框架](https://coding.imooc.com/class/608.html)
 
-::: tip
-联系方式：微信：IT_Promise777
-
-全网课程都有，欢迎私聊
-
- 
-
-:::

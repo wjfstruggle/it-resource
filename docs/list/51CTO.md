@@ -2611,3 +2611,90 @@
 61 完结 [猿来课堂 Python基础教程](https://edu.51cto.com/course/29333.html)
 
 62 完结 [猿来课堂 2021年Python基础全套课程](https://edu.51cto.com/course/29206.html)
+
+## 李晓鹏-软件测试
+
+01 完结 [李晓鹏 《全栈测试工程师》VIP课程体系](https://edu.51cto.com/course/31267.html)
+
+02 完结 [李晓鹏 UI自动化测试：Selenium3](https://edu.51cto.com/course/26488.html)
+
+03 完结 [李晓鹏 大数据测试](https://edu.51cto.com/course/33627.html)
+
+04 完结 [李晓鹏 JVM性能调优](https://edu.51cto.com/course/30597.html)
+
+05 完结 [李晓鹏 UI自动化（Selenium3）测试框架设计与实现](https://edu.51cto.com/course/26483.html)
+
+06 完结 [李晓鹏 Appium移动自动化(App)测试](https://edu.51cto.com/course/21506.html)
+
+07 完结 [李晓鹏 Robot FrameWork自动化测试](https://edu.51cto.com/course/24195.html)
+
+08 完结 [李晓鹏 微服务架构下的测试之道](https://edu.51cto.com/course/28992.html)
+
+09 完结 [李晓鹏 单元测试UnitTest+Pytest](https://edu.51cto.com/course/26487.html)
+
+10 完结 [李晓鹏 UI自动化测试：Selenium3（不含框架）](https://edu.51cto.com/course/26489.html)
+
+11 完结 [李晓鹏 Selenium3分布式与虚拟化](https://edu.51cto.com/course/26479.html)
+
+12 完结 [李晓鹏 移动测试(App)新手必备](https://edu.51cto.com/course/21514.html)
+
+13 完结 [李晓鹏 移动(App)自动化测试框架](https://edu.51cto.com/course/20486.html)
+
+14 完结 [李晓鹏 【Python3】Selenium3自动化实践系列『1』Selenium新手必备视频](https://edu.51cto.com/course/11835.html)
+
+15 完结 [李晓鹏 Oracle 11g数据库课程【PL/Sql】](https://edu.51cto.com/course/1715.html)
+
+16 完结 [李晓鹏 【2016版】测试必备系统知识(Linux|Oracle)视频课程](https://edu.51cto.com/course/7588.html)
+
+17 完结 [李晓鹏 51CTO学堂-软件测试线上班-初级班视频课程](https://edu.51cto.com/course/3530.html)
+
+18 完结 [李晓鹏 Loadrunner11性能实践视频课程](https://edu.51cto.com/course/1746.html)
+
+19 完结 [李晓鹏 Linux(RedHat)精讲视频课程（基础篇）](https://edu.51cto.com/course/1661.html)
+
+20 完结 [李晓鹏 测试系列课程(3)Shell脚本编程精准剖析视频课程](https://edu.51cto.com/course/1120.html)
+
+21 完结 [李晓鹏 Oracle 10g在RedHat服务器上的部署视频课程](https://edu.51cto.com/course/998.html)
+
+22 完结 [李晓鹏 测试系列课程(3)测试综合技能知识（Linux|Oracle|Windows）](https://edu.51cto.com/course/701.html)
+
+23 完结 [李晓鹏 全栈测试工程师核心能力：全栈测试工程师技能路线](https://edu.51cto.com/course/23575.html)
+
+24 完结 [李晓鹏 全栈测试工程师核心能力：全栈测试工程师技能路线](https://edu.51cto.com/course/21935.html)
+
+25 完结 [李晓鹏 2018版软件测试基础-测试系列视频课程(1)【精讲】-带你叩开测试大门](https://edu.51cto.com/course/30.html)
+
+26 完结 [李晓鹏 Pytest单元测试【微职位】](https://edu.51cto.com/course/16745.html)
+
+27 完结 [李晓鹏 全栈测试工程师微职位：测试入门必备基础](https://edu.51cto.com/course/8699.html)
+
+28 完结 [李晓鹏 【Python3】Selenium自动化实践系列『2』之单元测试框架+PageObject模式视频](https://edu.51cto.com/course/11834.html)
+
+29 完结 [李晓鹏 从零学Python3.X开发语言–视频课程](https://edu.51cto.com/course/11847.html)
+
+30 完结 [李晓鹏 【Python3】Selenium自动化实践系列『3』之自动化框架设计与实现视频课程](https://edu.51cto.com/course/11945.html)
+
+31 完结 [李晓鹏 软件测试工程师入门必备之【测试基础视频】【精讲】](https://edu.51cto.com/course/7330.html)
+
+32 完结 [李晓鹏 自动化测试QuickTest视频课程-下部](https://edu.51cto.com/course/7572.html)
+
+33 完结 [李晓鹏 【2016版】自动化测试QuickTest视频课程-上部](https://edu.51cto.com/course/7565.html)
+
+34 完结 [李晓鹏 软件测试基础入门视频教程-带你叩开测试大门](https://edu.51cto.com/course/1924.html)
+
+35 完结 [李晓鹏 测试系列课程(2)软件测试实践详解](https://edu.51cto.com/course/1232.html)
+
+36 完结 [李晓鹏 测试系列课程(5)QuickTestPro由浅入深–高阶(2016年更新)](https://edu.51cto.com/course/1130.html)
+
+37 完结 [李晓鹏 测试系列课程之项目管理软件禅道–基于Scrum](https://edu.51cto.com/course/946.html)
+
+38 完结 [李晓鹏 测试系列课程之TestLink(测试过程管理系统)实战应用](https://edu.51cto.com/course/944.html)
+
+39 完结 [李晓鹏 项目管理平台Redmine的实战课程](https://edu.51cto.com/course/943.html)
+
+40 完结 [李晓鹏 测试系列课程(4)QuickTestPro由浅入深–初阶(作者授课)](https://edu.51cto.com/course/812.html)
+
+41 完结 [李晓鹏 测试系列课程(1)透过BugFree看缺陷管理流程的优秀展现](https://edu.51cto.com/course/447.html)
+
+
+

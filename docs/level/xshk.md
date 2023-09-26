@@ -9,11 +9,69 @@
 
 
 
+## 2023.9月上新
+
+完结 [九剑前端30k前端架构师训练营（9月优惠拉满冲30k!）](https://www.douyin.com/user/MS4wLjABAAAAuivNiAk3PrWZCpe5ddDjnqsNq14W8d7_AECONIiNVm0)
+
+完结 [【软考】软件评测师备考历年真题精品课](https://edu.51cto.com/course/6199.html)
+
+完结 [Vue3.x+Vite4从入门到实际工作](https://edu.51cto.com/course/34630.html)
+
+完结 [手动构建Snort系统](https://edu.51cto.com/course/23698.html)
+
+预定 [【极客时间】 - 高级Java工程师体系课2023第六期最新开班](https://u.geekbang.org/subject/java4th?utm_source=time_web&utm_medium=menu&utm_term=timewebmenu&utm_identify=geektime&utm_content=menu&utm_campaign=timewebmenu&gk_cus_user_wechat=university)
+
+更新 [极客时间云原生 DevOps 进阶实战营](https://u.geekbang.org/subject/cloudnative2nd/1005553?utm_source=time_web&utm_medium=menu&utm_term=timewebmenu)
+
+完结 [贪心科技高性能神经网络与AI芯片应用研修课程](https://www.greedyai.com/ai-courses/High_Performance_Neural_Networks_and_AI_Chips)
+
+完结 [贪心科技高性能神经网络与AI芯片应用研修课程](https://www.greedyai.com/ai-courses/High_Performance_Neural_Networks_and_AI_Chips)
+
+更新 [咕泡云课堂系统架构设计师【高级】](https://ke.gupaoedu.cn/course/vip/1979)
+
+预约 [慕课大前端高级工程师2023](https://class.imooc.com/sale/fesenior)
+
+完结 [基于JS鸿蒙开发](https://edu.51cto.com/course/34592.html)
+
+完结 [【图灵课堂】Go编程挺进大厂实战营](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_62a6f065e4b0d4f489aa1325)
+
+完结 [图灵课堂Python全套实战项目班](https://appssry6rs71641.h5.xiaoeknow.com/v1/goods/goods_detail/p_628ef20ee4b0cedf38b6e660?product_id=p_628ef20ee4b0cedf38b6e660)
+
 ## 2023.8月上新
+
+完结 [自动驾驶中心国内首个基于Transformer的分割检测+视觉大模型课程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2TfDGv45mQbTBKS5km4MoQ4Vu66)
+
+完结 [自动驾驶中心多模态融合3D目标检测](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2SYwAhLiNWCyKhwUhSDjFihH7tx)
+
+完结 [自动驾驶中心国内首个BEV感知全栈系列学习教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2MjRdDQO8jGkz1Sx4AoJ0sytlIU)
+
+完结 [自动驾驶中心多传感器融合：毫米波雷达和视觉融合感知全栈教程（深度学习+传统方式）](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2OpLfiVIGEGIt0vdHhqie7LqFbG)
+
+完结 [自动驾驶中心多传感器标定全栈系统学习教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2PHSMppQhtUsLZ2R18GWOMOK5GW)
+
+完结 [自动驾驶中心CUDA与TensorRT部署实战课程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2Qzh2CekDJZMNuZq1Gfp3HOgIqx)
+
+完结 [自动驾驶中心规划控制理论&实战课程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2R0KKH62Mo6UrSn6oxV6nL2LlH9)
+
+完结 [自动驾驶中心多传感器融合跟踪全栈教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2SHcc3nnl15j1f7EDGl0B22Vbg4)
+
+完结 [自动驾驶中心单目3D与单目BEV全栈教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2Uc2U3dSQMqMX3FhA498V2x78Nd)
+
+完结 [自动驾驶中心多传感器融合感知标定全栈课程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2PiRligVG0RyIohy6A3covkScbw)
+
+完结 [自动驾驶中心多传感器标定/融合感知/模型部署全栈课程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2R2ZQoo9TK4wuCbVsP2Pg0l0dZ8)
+
+完结 [自动驾驶中心感知算法与模型部署全栈教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2R2VoF87LmdBvw2RnGBSgj2l2zL)
+
+完结 [自动驾驶中心自动驾驶全栈算法工程师系列](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2RCJlwWnGdgbFJAnXa5vaOK7Nh2)
+
+完结 [自动驾驶中心多模态融合感知大专栏](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2TkVCn9jpK4b1nQfuil54Cb58hL)
+
+更新 [极客时间何辉Java业务架构实战营](https://u.geekbang.org/subject/arch3)
 
 更新 [顶会带读 - VIP会员-CV&NLP全方向](https://www.malaedu.com/p/t_pc/goods_pc_detail/goods_detail/p_63668caae4b068e9c3d35f1d?fromH5=true&type=3&share_type=5&share_user_id=u_64929c972e5eb_s4aIVU1sd0&entry=2&entry_type=2002)
 
-预约 [爪哇教育前端2023](http://www.zhaowaedu.com/#/)
+更新 [爪哇教育web前端大厂工程师训练营2023](http://www.zhaowaedu.com/#/)
 
 新课 [马士兵Linux云计算SRE工程师](https://www.mashibing.com/subject/17)
 

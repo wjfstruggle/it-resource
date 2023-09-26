@@ -418,3 +418,5 @@
 204 完结 [七月在线深度学习项目实战集训营](https://www.julyedu.com/course/getDetail/482)
 
 205 完结 [七月在线类ChatGPT微调实战 [定制中文垂直商用版,且提供GPU]](https://www.julyedu.com/course/getDetail/483)
+
+206 完结 [[LLM与langchain/知识图谱/数据库的实战 [解决问题、实用为王]](https://www.julyedu.com/course/getDetail/488)
