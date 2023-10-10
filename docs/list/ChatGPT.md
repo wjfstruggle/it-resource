@@ -11,24 +11,26 @@
 
 ### 体系课
 
-01 更新 [图灵AI&ChatGPT实战训练营](https://appgpn9idwb6991.h5.xiaoeknow.com/v1/goods/goods_detail/p_6423fc52e4b0b0bc2bcf0677?fromH5=true) 超推荐
+01 完结 [图灵AI&ChatGPT实战训练营](https://appgpn9idwb6991.h5.xiaoeknow.com/v1/goods/goods_detail/p_6423fc52e4b0b0bc2bcf0677?fromH5=true) 
 
-02 完结 [企业级项目实战课程-从0带你实现ChatGPT项目 零声教育)](https://ke.qq.com/course/6031074) 超推荐
+02 完结 [企业级项目实战课程-从0带你实现ChatGPT项目 零声教育)](https://ke.qq.com/course/6031074) 
 
-03 完结 [极客时间AI 大模型应用开发实战营](https://u.geekbang.org/subject/llm) 超推荐
+03 完结 [极客时间AI 大模型应用开发实战营](https://u.geekbang.org/subject/llm) 
 
-04 完结 [九章算法ChatGPT项目实战课](https://www.jiuzhang.com/course/150) 超推荐
+04 完结 [九章算法ChatGPT项目实战课](https://www.jiuzhang.com/course/150) 
 
-05 更新 [【王卓然博士】AI 大模型全栈工程师培养计划](
-https://www.zhihu.com/xen/market/remix/training/1658062407640682496?utm_campaign=zhihumarket&utm_medium=social&utm_source=wechat&utm_content=messages_share) 超推荐
+05 完结 [【王卓然博士】AI 大模型全栈工程师培养计划](
+https://www.zhihu.com/xen/market/remix/training/1658062407640682496?utm_campaign=zhihumarket&utm_medium=social&utm_source=wechat&utm_content=messages_share) 
 
-06 更新  [卢菁北大博士ChatGLM大模型实战训练营-从芯片基础到大模型构建](https://app4tvrkyjd6910.h5.xiaoeknow.com/v1/goods/goods_detail/p_649bb2b3e4b0cf39e6dd99f3?type=3) 超推荐
+06 更新  [卢菁北大博士ChatGLM大模型实战训练营-从芯片基础到大模型构建](https://app4tvrkyjd6910.h5.xiaoeknow.com/v1/goods/goods_detail/p_649bb2b3e4b0cf39e6dd99f3?type=3) 
 
 07 完结 [硅谷面向开发者及科研者的NLP&ChatGPT&LLMs技术、源码、案例实战219课](https://appybiyrtzd9613.h5.xiaoeknow.com/v1/goods/goods_detail/p_62277327e4b066e9608d08ba)
 
 08 更新 [咕泡云课堂AIGC大实战](https://ke.gupaoedu.cn/course/vip/2101)
 
-09 更新 [深兰交大·AI算法班第五期](http://ai.aijdjy.com/index.html) 超推荐
+09 更新 [深兰交大·AI算法班第五期](http://ai.aijdjy.com/index.html) 
+
+10 更新 [七月在线大模型项目开发线下营](https://www.julyedu.com/course/getDetail/490)
 
 ### 小课
 

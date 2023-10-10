@@ -91,13 +91,13 @@
 
 39 更新 [极客时间邓明初级go工程师训练营](https://u.geekbang.org/subject/go3rd)
 
-40 完结 [极客时间AI 大模型应用开发实战营](https://u.geekbang.org/subject/llm)
+40 完结 [极客时间AI 大模型应用开发实战营0期](https://u.geekbang.org/subject/llm)
 
 41 更新 [极客时间云原生 DevOps 进阶实战营](https://u.geekbang.org/subject/cloudnative2nd/1005553?utm_source=time_web&utm_medium=menu&utm_term=timewebmenu)
 
 42 预约 [极客时间何辉Java业务架构实战营](https://u.geekbang.org/subject/arch3)
 
-43 更新 [【极客时间】 - 高级Java工程师体系课2023第六期最新开班](https://u.geekbang.org/subject/java4th?utm_source=time_web&utm_medium=menu&utm_term=timewebmenu&utm_identify=geektime&utm_content=menu&utm_campaign=timewebmenu&gk_cus_user_wechat=university)
+43 预约 [【极客时间】 - 高级Java工程师体系课2023第六期最新开班](https://u.geekbang.org/subject/java4th?utm_source=time_web&utm_medium=menu&utm_term=timewebmenu&utm_identify=geektime&utm_content=menu&utm_campaign=timewebmenu&gk_cus_user_wechat=university)
 
 ## 2、集训班
 

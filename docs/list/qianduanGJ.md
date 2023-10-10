@@ -19,39 +19,39 @@
 
 05 完结 [京城一灯前端全栈工程师精英班23期](https://ke.qq.com/course/1647350)
 
-06 完结 [博学谷前端与移动开发在职加薪](https://www.boxuegu.com/course/detail-1132.html)推
+06 完结 [博学谷前端与移动开发在职加薪](https://www.boxuegu.com/course/detail-1132.html)
 
-07 完结 [大前端-前端全能进阶](https://class.imooc.com/sale/webfullstack)推
+07 完结 [大前端-前端全能进阶](https://class.imooc.com/sale/webfullstack)
 
-08 完结 [美团全栈开发实战-系统架构](https://ke.qq.com/course/443389)推
+08 完结 [美团全栈开发实战-系统架构](https://ke.qq.com/course/443389)
 
-09 完结 [精通vue.js](https://ke.qq.com/course/package/22471)推
+09 完结 [精通vue.js](https://ke.qq.com/course/package/22471)
 
-10 完结 [vue造轮子](https://xiedaimala.com/courses/6d63da67-6eea-4711-aeb4-0c3a949341dc/random/7c701b9ebc#/common)推
+10 完结 [vue造轮子](https://xiedaimala.com/courses/6d63da67-6eea-4711-aeb4-0c3a949341dc/random/7c701b9ebc#/common)
 
-11 完结 [原生JavaScript开发高级课程](https://ke.qq.com/course/431292)推
+11 完结 [原生JavaScript开发高级课程](https://ke.qq.com/course/431292)
 
-12 完结 [极客前端进阶训练营](https://u.geekbang.org/subject/fe/100044701)推
+12 完结 [极客前端进阶训练营](https://u.geekbang.org/subject/fe/100044701)
 
-14 完结 [千锋html5大前端](http://wap.mobiletrain.org/dg/h5.html)超推
+14 完结 [千锋html5大前端](http://wap.mobiletrain.org/dg/h5.html)
 
 15 完结[李南江从零玩转-Web全栈大神班](https://www.it666.com/classroom/2/introduction)
 
-16 完结 [尚硅谷大前端新时代](http://www.atguigu.com/web/)超推
+16 完结 [尚硅谷大前端新时代](http://www.atguigu.com/web/)
 
-17 完结 [慕课Web前端架构师](https://class.imooc.com/sale/fearchitect)超推
+17 完结 [慕课Web前端架构师](https://class.imooc.com/sale/fearchitect)
 
 18 完结 [网易微专业UI设计师–全链路实战班](https://study.163.com/course/introduction/1210803856.htm)
 
-19 完结 [拉勾大前端就业急训营](https://kaiwu.lagou.com/fe_essential.html)推
+19 完结 [拉勾大前端就业急训营](https://kaiwu.lagou.com/fe_essential.html)
 
-20 完结 [拉勾大前端高薪训练（P7）营](https://kaiwu.lagou.com/fe_enhancement.html)超推大佬
+20 完结 [拉勾大前端高薪训练（P7）营](https://kaiwu.lagou.com/fe_enhancement.html)
 
-21 完结 [百战程序员Web前端-前端与移动端体系课](http://www.itbaizhan.cn/course/web)推
+21 完结 [百战程序员Web前端-前端与移动端体系课](http://www.itbaizhan.cn/course/web)
 
 22 完结[【米斯特吴】Web大前端开发工程师精讲班(2021第一期)](https://ke.qq.com/course/3202425)
 
-23 完结 [爪哇Web全栈工程师班2021](http://www.zhaowaedu.com/#/page3_1)在职讲师
+23 完结 [爪哇Web全栈工程师班2021](http://www.zhaowaedu.com/#/page3_1)
 
 24 完结 [极客时间前端实战训练营](https://u.geekbang.org/subject/fe2nd)
 
@@ -73,7 +73,7 @@
 
 33 完结 [前端早早聊大会｜2021 全年联票](https://www.huodongxing.com/go/2021)
 
-34 完结 [珠峰零基础前端就业班](http://www.zhufengpeixun.cn/customize/js/index.html) 超推荐Hot棒
+34 完结 [珠峰零基础前端就业班](http://www.zhufengpeixun.cn/customize/js/index.html) 
 
 35 完结 [开课吧Web前端面试涨薪名企培养计划](https://wx.kaikeba.com/vipcourse/30a1geoc3o/uu0zwtbog7)
 
@@ -165,7 +165,7 @@
 
 80 更新 [爪哇教育web前端大厂工程师训练营2023](http://www.zhaowaedu.com/#/) 【私信看大纲】
 
-81 新课 [九剑前端30k前端架构师训练营（9月优惠拉满冲30k!）](https://www.douyin.com/user/MS4wLjABAAAAuivNiAk3PrWZCpe5ddDjnqsNq14W8d7_AECONIiNVm0)
+81 完结 [九剑前端30k前端架构师训练营（9月优惠拉满冲30k!）](https://www.douyin.com/user/MS4wLjABAAAAuivNiAk3PrWZCpe5ddDjnqsNq14W8d7_AECONIiNVm0)
 
 ### **更多Web**
 

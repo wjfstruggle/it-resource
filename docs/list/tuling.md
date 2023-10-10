@@ -24,7 +24,7 @@ JAVA架构口碑连续3年NO1，比某马强很多
 
 01 完结 [从零开始开发亿级流量小红书项目实战](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_641ae80be4b0f2aa7dd07402)
 
-02 更新 [图灵AI&ChatGPT实战训练营](https://appgpn9idwb6991.h5.xiaoeknow.com/v1/goods/goods_detail/p_6423fc52e4b0b0bc2bcf0677?fromH5=true)
+02 完结 [图灵AI&ChatGPT实战训练营](https://appgpn9idwb6991.h5.xiaoeknow.com/v1/goods/goods_detail/p_6423fc52e4b0b0bc2bcf0677?fromH5=true)
 
 ### 架构训练营
 
