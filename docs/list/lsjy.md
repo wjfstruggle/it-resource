@@ -43,7 +43,7 @@
 21 预约 [手把手实现tcp/ip用户态协议栈 （含posix API实现）【零声教育】](https://ke.qq.com/course/6032210#term_id=106261530)
 
 ::: tip
-联系方式：微信：IT_Promise777
+联系方式：微信：IT_Promise
 
 全网课程都有，欢迎私聊
 

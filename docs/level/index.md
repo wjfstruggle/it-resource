@@ -2,7 +2,7 @@
 
 #### [**新上好课**](./xshk.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
-### **Java方向** <Badge type="warning" text="💯"/>
+### **Java方向** <Badge type="warning" text="💖"/>
 
 [**Java高级**](./JavaGJ.md)  [**Java就业**](./JavaJY.md)  [**Java大实战**](./JavaDSZ.md)  [**大厂学院**](./dcxy.md)  [**数据库**](./mySql.md)
 
@@ -10,7 +10,7 @@
 
 [**马士兵-腾讯版本**](./mashibing.md)  [**马士兵-官网版本**](./mashibingGW.md)  [**秒杀专题**](./mszt.md)
 
-### **前端方向** <Badge type="warning" text="💯"/>
+### **前端方向** <Badge type="warning" text="💖"/>
 
 [**前端高级**](./qianduanGJ.md) [**前端就业**](./qianduanJY.md) [**React**](./React.md) [**Vue**](./Vue.md) [**Node**](./Node.md) [**可视化**](./ksh.md) 
 
@@ -20,7 +20,7 @@
 
 [**前端bubucuo**](./bubucuo.md)
 
-#### **go、运维、云开发、Linux、c++等** <Badge type="warning" text="💯"/>
+#### **go、运维、云开发、Linux、c++等** <Badge type="warning" text="💖"/>
 
 [**Go开发**](./Go.md) [**DockerK8s运维**](./DockerK8s.md) [**优点知识**](./youdian.md) [**马哥**](./mage.md) [**零声教育**](./lsjy.md) 
 
@@ -28,7 +28,7 @@
 
 [**老男孩**](./laonanhai.md) [**程序员在囧途**](./cxyzjt.md) [**阅码场**](https://shop.yomocode.com/)
 
-### **全品类网校** <Badge type="warning" text="💯"/>
+### **全品类网校** <Badge type="warning" text="💖"/>
 
 [**拉勾教育**](./lagou.md) [**极客时间**](./jksj.md) [**开课吧**](./kaikeba.md) [**慕课网**](./imooc.md) [**小滴课堂**](./xdkt.md) 
 
@@ -44,7 +44,7 @@
 
 [**千锋教育**](./qfjy.md)
 
-### **热门语言** <Badge type="warning" text="💯"/>
+### **热门语言** <Badge type="warning" text="💖"/>
 
 [**大数据**](./bigData.md) [**产品经理**](./canpin.md) [**Python**](./Python.md) [**爬虫**](./pacong.md) [**数据分析**](./sjfx.md) [**Android**](./android.md) 
 
@@ -61,7 +61,7 @@
 ::: tip
 **联系方式**
 
-微信：IT_Promise777
+微信：IT_Promise
 
 全网课程都有，欢迎私聊。
 

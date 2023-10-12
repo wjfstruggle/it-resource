@@ -21,6 +21,6 @@
 09 完结 [知了传课Vue+Django独立开发电商项目](https://study.163.com/course/introduction.htm?courseId=1209490803)
 
 ::: tip
-联系方式：微信：IT_Promise777
+联系方式：微信：IT_Promise
 
 :::

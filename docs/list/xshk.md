@@ -2,12 +2,18 @@
 
 
 ::: tip
-联系方式：微信：IT_Promise777
+联系方式：微信：IT_Promise
 :::
 
 #### [**课程首页**](../../README.md) 💖[**更新记录**](./gxjl-2023.md) 💖[**热门推荐**](./rmtj.md) 💖[**会员中心**](./vip.md)
 
 ## 2023.10月上新
+
+完结 尹成人工智能工程师训练营2023
+
+完结 尹成硅谷之路~千万年薪
+
+上新 [【小象学院】金融反欺诈项目实战课](https://appcyfohafx3352.h5.xiaoeknow.com/v1/goods/goods_detail/p_63f2e1eee4b02685a4463614?product_id=p_63f2e1eee4b02685a4463614)
 
 完结 [【爱编程的大丙】精通 C/C++ 编程，从入门到精通的全套学习课程](https://edu.subingwen.cn/)
 

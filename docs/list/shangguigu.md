@@ -17,7 +17,7 @@
 07 完结 [尚硅谷Java全栈工程师](http://www.atguigu.com/java/)
 
 ::: tip
-联系方式：微信：IT_Promise777
+联系方式：微信：IT_Promise
 
 全网课程都有，欢迎私聊
 
