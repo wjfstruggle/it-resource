@@ -37,7 +37,7 @@
 283 [移动端Python爬虫实战 数据抓取+数据可视化](https://coding.imooc.com/class/283.html)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：L20230109520
 
 全网课程都有，欢迎私聊
 

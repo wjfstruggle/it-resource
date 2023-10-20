@@ -3,7 +3,7 @@
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：L20230109520
 
 全网课程都有，欢迎私聊
 
@@ -37,7 +37,7 @@
 
 14 完结 [【路飞学城】大厂50万节点监控系统架构设计&PROMETHEUS底层源码级剖析](https://www.luffycity.com/light-course)
 
-15 预定最优惠 [【路飞学城】大前端-Web全栈高级进阶之路](https://www.luffycity.com/light-course)
+15 完结 [【路飞学城】大前端-Web全栈高级进阶之路](https://www.luffycity.com/light-course)
 
 16 完结 [【路飞学城】Linux云计算工程师](https://www.luffycity.com/light-course)
 

@@ -1,7 +1,7 @@
 # ChatGPT AI 大模型
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：L20230109520
 
 全网课程都有，欢迎私聊
 
@@ -31,6 +31,14 @@ https://www.zhihu.com/xen/market/remix/training/1658062407640682496?utm_campaign
 09 更新 [深兰交大·AI算法班第五期](http://ai.aijdjy.com/index.html) 
 
 10 更新 [七月在线大模型项目开发线下营](https://www.julyedu.com/course/getDetail/490)
+
+11 预约 [尚硅谷AI大模型实战训练营](http://www.atguigu.com/ai/)
+
+12 预约 [LLM大语言模型算法特训带你转型AI大语言模型算法工程师](https://class.imooc.com/sale/llm)
+
+13 更新 [【王卓然博士】AI 大模型全栈工程师培养计划（二期）](https://www.zhihu.com/education/training/course-detail/1666833802491203584)
+
+14 预约 [极客时间彭靖田AI 大模型微调训练营](https://u.geekbang.org/subject/finetuning)
 
 ### 小课
 

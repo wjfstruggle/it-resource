@@ -3,7 +3,7 @@
 #### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：L20230109520
 
 全网课程都有，欢迎私聊
 
@@ -166,6 +166,8 @@
 80 更新 [爪哇教育web前端大厂工程师训练营2023](http://www.zhaowaedu.com/#/) 【私信看大纲】
 
 81 完结 [九剑前端30k前端架构师训练营（9月优惠拉满冲30k!）](https://www.douyin.com/user/MS4wLjABAAAAuivNiAk3PrWZCpe5ddDjnqsNq14W8d7_AECONIiNVm0)
+
+82 完结 [宁皓 2023 独立开发者全栈训练营](https://ninghao.co)
 
 ### **更多Web**
 
