@@ -41,6 +41,8 @@
 
 完结 [网易工程师带你突破Android技术瓶颈](https://mooc.study.163.com/smartSpec/detail/1202810601.htm?utm_campaign=share&utm_medium=iphoneShare&utm_source=weixinMoment&utm_u=1389350319)
 
+更新 [[2023秋季班]《安卓高级研修班(网课)》月薪三万计划](https://www.kanxue.com/book-leaflet-84.htm?items=chapter)
+
 ### 微课
 
 [Android面试超级攻略，攻破技术疑难及面试痛点](https://coding.imooc.com/class/533.html)

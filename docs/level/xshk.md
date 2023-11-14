@@ -7,7 +7,83 @@
 
 #### [**课程首页**](../../README.md) 💖[**更新记录**](./gxjl-2023.md) 💖[**热门推荐**](./rmtj.md) 💖[**会员中心**](./vip.md)
 
+## 2023.10月上新
 
+完结 [2022Python程序化期货日内交易实战](https://www.uquant.org/goods/show/7)
+
+完结 [优量在线2022Python期货程序化交易](https://www.uquant.org/goods/show/69)
+
+完结 [2023 股票量化实战班（Sam老师）](https://www.uquant.org/goods/show/78)
+
+完结 [大佳老师量化交易股票CTA](https://www.uquant.org/goods/show/68)
+
+完结 [2020 优量在线量化交易2.0高阶班](https://www.uquant.org/goods/show/27)
+
+完结 [2021 期权程序化交易实战](https://www.uquant.org/goods/show/45)
+
+完结 [2021 Python股票程序化实战](https://www.uquant.org/goods/show/47)
+
+完结 [2022 Linux量化交易运维](https://www.uquant.org/goods/show/70)
+
+完结 [股票机器学习SVM择时与选股实战班](https://www.uquant.org/goods/show/79)
+
+完结无密 [Electron+Vue3+React跨平台客户端专项课【升职加薪，只争朝夕】](https://ke.qq.com/course/5862999#term_id=106077825)
+
+更新 [【王卓然博士】AI 大模型全栈工程师培养计划（二期）](https://www.zhihu.com/education/training/course-detail/1666833802491203584)
+
+更新 [小滴课堂全栈多端低代码平台项目大课-系统化掌握React生态体系](https://xdclass.net/videoDetailsPage?id=93)
+
+完结 [七月在线金融AI高级实训营](https://julyedu.com/Employment/finance4)
+
+完结 [系统架构设计师精品班6期](https://e.51cto.com/training_1108.html)
+
+更新 [[2023秋季班]《安卓高级研修班(网课)》月薪三万计划](https://www.kanxue.com/book-leaflet-84.htm?items=chapter)
+
+完结 [Web前端+Go全栈高级工程师养成班【JS++】](https://ke.qq.com/course/334138#term_id=100396581)
+
+完结 [大型游戏安全和保护实战](https://ke.qq.com/course/3133101#term_id=103256591)
+
+【新课】[狂野架构师V5全新版](https://www.boxuegu.com/coursePage/?subject=architect&pageType=0)
+
+完结 [乾弘教育Windows内核安全VIP](https://ke.qq.com/course/3582673#term_id=103725484)
+
+[【极客笔记在线课程】Android Camera2 API](https://app5d5waway1614.h5.xiaoeknow.com/v1/goods/goods_detail/p_623dd97ae4b01a4851e925da?type=3)
+
+[【极客笔记在线课程】Android Camera性能分析](https://app5d5waway1614.h5.xiaoeknow.com/v1/goods/goods_detail/p_6252b815e4b01a4851ef948a?type=3)
+
+[【极客笔记在线课程】Android Camera Native Framework](https://app5d5waway1614.h5.xiaoeknow.com/v1/goods/goods_detail/p_6327162ce4b0a51fef1c4cc3?type=3)
+
+[【极客笔记在线课程】Camera KMD ISP子系统](https://app5d5waway1614.h5.xiaoeknow.com/v1/goods/goods_detail/p_645b88ace4b0cf39e6c7e204?type=3)
+
+[【极客笔记在线课程】Camera Sensor Driver](https://app5d5waway1614.h5.xiaoeknow.com/v1/goods/goods_detail/p_64636825e4b0b2d1c416fbb3?type=3)
+
+[【韦东山】嵌入式Linux全新系列教程之驱动大全(基于STM32MP157开发板)](https://video.100ask.net/p/t_pc/goods_pc_detail/goods_detail/p_5ff4504ae4b09560543a333d?product_id=p_5ff4504ae4b09560543a333d)
+
+[【韦东山】嵌入式Linux全新系列教程之驱动大全(基于IMX6ULL开发板)](https://video.100ask.net/p/t_pc/goods_pc_detail/goods_detail/p_5ff2c46ce4b0c4f2bc4fa16d?product_id=p_5ff2c46ce4b0c4f2bc4fa16d​)
+
+[【韦东山-于忠军】蓝牙HOST【全集包含所有子专题】](https://www.100ask.net/video/detail/p_62de3349e4b00a4f372a9ce5)
+
+完结 [手把手实现tcp/ip用户态协议栈 （含posix API实现）【零声教育】](https://ke.qq.com/course/6032210#term_id=106261530)
+
+完结 尹成人工智能工程师训练营2023
+
+完结 尹成硅谷之路~千万年薪
+
+上新 [【小象学院】金融反欺诈项目实战课](https://appcyfohafx3352.h5.xiaoeknow.com/v1/goods/goods_detail/p_63f2e1eee4b02685a4463614?product_id=p_63f2e1eee4b02685a4463614)
+
+完结 [【爱编程的大丙】精通 C/C++ 编程，从入门到精通的全套学习课程](https://edu.subingwen.cn/)
+
+完结 [【爱编程的大丙】C语言基础教程 - 全面掌握C编程基础](https://edu.subingwen.cn/)
+
+完结 [【爱编程的大丙】C++11 新特性详解【已完结, 共106集】](https://edu.subingwen.cn/)
+
+完结 [【爱编程的大丙】欢乐斗地主游戏【项目】](https://edu.subingwen.cn/)
+
+完结 [【爱编程的大丙】项目小合集](https://edu.subingwen.cn/)
+
+完结 [【爱编程的大丙】高并发【Reactor】服务器 - C/C++ 版](https://edu.subingwen.cn/)
+
+完结 [【爱编程的大丙】高并发【Reactor】服务器 - C语言版](https://edu.subingwen.cn/)
 
 ## 2023.9月上新
 

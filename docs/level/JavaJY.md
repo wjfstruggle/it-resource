@@ -7,9 +7,9 @@
 
 全网课程都有，欢迎私聊
 
- 
-
 :::
+
+00 完结 [百战程序员JavaEE就业班2023](https://www.itbaizhan.com/stages/id/4)
 
 01 完结 [Java零基础后端工程师【马士兵教育】](https://ke.qq.com/course/423902)
 
@@ -30,12 +30,6 @@
 09 完结 [百战程序员 JavaEE-高薪就业班](http://www.itbaizhan.cn/course/java)
 
 10 完结 [尚硅谷Java高级工程师2021](http://www.atguigu.com/kecheng.shtml)
-
-11 完结 [动力节点Java夜校班2021](http://www.bjpowernode.com/javayexiao.html)（2021.2-2021.10）
-
-12 完结 [动力节点Java夜校班2022](http://www.bjpowernode.com/javayexiao.html)（2021.9-2022.4）
-
-13 完结 王道JavaEE训练营  私教课
 
 14 完结 [咕泡Java互联网高阶技术（高薪就业班）](https://ke.gupaoedu.cn/course/vip/292)（P5+）
 
@@ -59,15 +53,5 @@
 
 24 完结 [黑马博学谷JavaEE就业课（VIP）](https://www.boxuegu.com/class/outline-4547.html)
 
-25 完结 [黑马博学谷java架构师就业课](https://www.boxuegu.com/class/outline-4296.html)
-
 26 完结 韩顺平2022 java工程师【需要大纲的请私聊我】
 
-::: tip
-联系方式：微信：IT_Promise
-
-全网课程都有，欢迎私聊
-
- 
-
-:::

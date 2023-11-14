@@ -7,8 +7,6 @@
 
 全网课程都有，欢迎私聊
 
- 
-
 :::
 
 ## 体系大课
@@ -109,7 +107,7 @@
 
 49 更新 [卢菁人工智能NLP系统班](https://ke.gupaoedu.cn/course/vip/1973)
 
-50 更新 [唐宇迪人工智能深度学习8期](https://ke.gupaoedu.cn/course/vip/2149)
+50 更新 [唐宇迪人工智能深度学习系统班（第八期）](https://ke.gupaoedu.cn/course/vip/2149)
 
 ## 更多推荐
 

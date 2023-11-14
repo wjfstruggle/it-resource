@@ -95,7 +95,7 @@
 
 完结 [30小时快速精通C++和游戏辅助实战-大神MJ精选(1,2期)](https://ke.qq.com/course/336509#term_id=100476446)
 
-完结 [C++百万并发网络通信引擎架构与实现第2季](https://edu.51cto.com/course/11553.html)
+完结 [C++百万并发网络通信引擎架构与实现第2季](https://ke.qq.com/course/3098198#term_id=103219603)
 
 完结 [开课吧C++开发工程师新职课V4-2022](https://xiaoe.kaikeba.com/p/t_pc/goods_pc_detail/goods_detail/p_63732ed6e4b0edc794f53bad)
 

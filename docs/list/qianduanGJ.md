@@ -157,11 +157,9 @@
 
 76 更新 [前端架构师-大厂直通车](https://appwhrkrsz84443.h5.xiaoeknow.com/v1/goods/goods_detail/p_62b59eb6e4b0eca59c0de342)
 
-77 完结 渡一教育Web前端高薪工程师2023 【私信看大纲】
+78 更新 [慕课大前端高级工程师2023](https://class.imooc.com/sale/fesenior)
 
-78 预约 [慕课大前端高级工程师2023](https://class.imooc.com/sale/fesenior)
-
-79 更新 [印客大厂前端工程师训练营](http://encodestudio.cn/#/detail?type=1)
+79 更新 [印客学院大厂前端工程师训练营](http://encodestudio.cn/#/detail?type=1)
 
 80 更新 [爪哇教育web前端大厂工程师训练营2023](http://www.zhaowaedu.com/#/) 【私信看大纲】
 

@@ -37,7 +37,7 @@
 
 14 完结 [【路飞学城】大厂50万节点监控系统架构设计&PROMETHEUS底层源码级剖析](https://www.luffycity.com/light-course)
 
-15 预定最优惠 [【路飞学城】大前端-Web全栈高级进阶之路](https://www.luffycity.com/light-course)
+15 完结 [【路飞学城】大前端-Web全栈高级进阶之路](https://www.luffycity.com/light-course)
 
 16 完结 [【路飞学城】Linux云计算工程师](https://www.luffycity.com/light-course)
 

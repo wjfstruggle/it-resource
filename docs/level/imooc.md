@@ -85,6 +85,8 @@
 
 32 更新 [慕课网DBA数据库工程师](https://class.imooc.com/sale/dba)
 
+33 预约 [LLM大语言模型算法特训带你转型AI大语言模型算法工程师](https://class.imooc.com/sale/llm)
+
 ## **大实战**
 
 445 [【微体系】数据可视化入门到精通打造前端差异化竞争力](https://coding.imooc.com/class/445.html)
@@ -113,19 +115,25 @@
 
 终身免费学习，持续更新
 
-办理会员赠送**大实战**
+办理会员赠送**大实战和部分体系课**
 
 :::
+
+预约 711 [技术大牛成长课,从0到1带你手写一个数据库系统](https://coding.imooc.com/class/711.html)
+
+预约 709 [从0到1训练自己的大模型 揭密ChatGPT背后的技能与应用](https://coding.imooc.com/class/709.html)
 
 预约 690 [2023 React 18 系统入门 进阶实战《欢乐购》](https://coding.imooc.com/class/690.html)
 
 预约 687 [前端共学会：学习|成长|工作|职业，综合服务社区](https://coding.imooc.com/class/687.html)
 
+预约 686 [Java主流分布式解决方案多场景设计与实战](https://coding.imooc.com/class/686.html)
+
 预约 685 [Django4+Vue3全新技术实战全栈项目](https://coding.imooc.com/class/685.html)
 
 684 [程序员的 AI 启蒙课: ChatGPT 让你 1 人顶 3 人](https://coding.imooc.com/class/684.html)
 
-预约 680 [SpringBoot+Vue3打造企业级一体化SaaS系统](https://coding.imooc.com/class/680.html?)
+680 [SpringBoot+Vue3打造企业级一体化SaaS系统](https://coding.imooc.com/class/680.html?)
 
 预约 681 [JVM七大核心系统精讲 从基础理论到高级应用](https://coding.imooc.com/class/681.html)
 
@@ -435,8 +443,58 @@
 
 447 [Go微服务入门到容器化实践，落地可观测微服务项目](https://coding.imooc.com/class/447.html)
 
+444 [JavaScript ES(6-11)全版本语法 前端都需要的基础课](https://coding.imooc.com/class/444.html)
+
 439 [SpringCloud+Kubernetes 微服务容器化交付实战](https://coding.imooc.com/class/439.html)
 
 437 [Spring Cloud+Vertx+Disruptor 撮合交易系统实战](https://coding.imooc.com/class/437.html)
+
+436 [(打造简历金牌项目)Vue+Go 开发企业级微服务网关项目](https://coding.imooc.com/class/436.html)
+
+435 [跨平台应用ReactNative+TypeScript仿喜马拉雅开发App](https://coding.imooc.com/class/435.html)
+
+434 [Kafka多维度系统精讲，从入门到实战开发](https://coding.imooc.com/class/434.html)
+
+432 [大学计算机必修课新讲--编译原理+操作系统+图形学](https://coding.imooc.com/class/432.html)
+
+431 [Spark2.x+协同过滤算法，开发企业级个性化推荐系统](https://coding.imooc.com/class/431.html)
+
+428 [TS+ React18高仿AntD从零到一打造组件库](https://coding.imooc.com/class/428.html)
+
+427 [专为程序员设计的高数补习班 贴合开发讲解高数](https://coding.imooc.com/class/427.html)
+
+420 [剑指Java自研框架，决胜Spring源码](https://coding.imooc.com/class/420.html)
+
+419 [前端框架及项目面试－聚焦Vue3/React/Webpack](https://coding.imooc.com/class/419.html)
+
+418 [Python3入门人工智能，掌握机器学习+深度学习](https://coding.imooc.com/class/418.html)
+
+417 [玩转热门框架 用企业级思维 开发通用够硬的大数据平台](https://coding.imooc.com/class/417.html)
+
+416 [Spring Cloud+Vue前后端分离开发企业级在线视频系统](https://coding.imooc.com/class/416.html)
+
+415 [音视频小白系统入门课 音视频基础+ffmpeg原理](https://coding.imooc.com/class/415.html)
+
+414 [重学C++ ，重构你的C++知识体系](https://coding.imooc.com/class/414.html)
+
+413 [搞定Java大厂项目面试 轻松打动面试官](https://coding.imooc.com/class/413.html)
+
+412 [专为小白设计的TypeScript入门课](https://coding.imooc.com/class/412.html)
+
+411 [从0开始学测试 一步迈进互联网](https://coding.imooc.com/class/411.html)
+
+410 [Spark + ElasticSearch 构建电商用户标签系统](https://coding.imooc.com/class/410.html)
+
+408 [JavaScript玩转机器学习-Tensorflow.js项目实战](https://coding.imooc.com/class/408.html)
+
+407 [全流程开发 TP6.0实战高并发电商服务系统](https://coding.imooc.com/class/407.html)
+
+406 [还原大厂App重构过程 完成企业级项目重构](https://coding.imooc.com/class/406.html)
+
+404 [图解+仿写 易学好懂的SpringBoot源码课](https://coding.imooc.com/class/404.html)
+
+403 [性能优化+架构迭代升级，Go读书社区开发与架构优化](https://coding.imooc.com/class/403.html)
+
+397 [Vue全家桶实战 从零独立开发企业级电商系统](https://coding.imooc.com/class/397.html)
 
 ...更多待录入ing

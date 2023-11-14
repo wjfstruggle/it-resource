@@ -16,6 +16,8 @@
 
 07 完结 [尚硅谷Java全栈工程师](http://www.atguigu.com/java/)
 
+08 预约 [尚硅谷AI大模型实战训练营](http://www.atguigu.com/ai/)
+
 ::: tip
 联系方式：微信：IT_Promise
 

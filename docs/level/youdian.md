@@ -45,6 +45,8 @@
 
 16 预定最优惠 [优点知识eBPF开发实践](https://youdianzhishi.com/web/course/1037)
 
+17 更新 [【优点知识】Istio实战训练营](https://youdianzhishi.com/web/course/1047)
+
 ## **实战课**
 
 18 完结 [优点知识ArgoCD实践课](https://youdianzhishi.com/web/course/1043)

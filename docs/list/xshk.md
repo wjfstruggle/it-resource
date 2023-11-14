@@ -2,10 +2,60 @@
 
 
 ::: tip
-联系方式：微信：L20230109520
+联系方式：微信：IT_Promise
 :::
 
 #### [**课程首页**](../../README.md) 💖[**更新记录**](./gxjl-2023.md) 💖[**热门推荐**](./rmtj.md) 💖[**会员中心**](./vip.md)
+
+## 2023.11月上新
+
+更新 [【王卓然博士】AI 大模型全栈工程师培养计划（三期）](https://www.zhihu.com/education/training/course-detail/1686055867055710208)
+
+完结 [音视频QoS技术：WebRTC带宽估计/拥塞控制GCC技术深入剖析和实现
+实时音视频SDK：实战WebRTC音频采集/3A算法处理/Opus编码/推流
+实时音视频SDK：实战WebRTC视频采集/渲染/H264编码/RTC推流
+实时音视频SDK：实战WebRTC推拉流跨平台SDK之基础架构
+(推流)基于WebRTC的大型分布式实时音视频XRTC系统项目实战
+(核心架构)基于WebRTC的大型分布式实时音视频XRTC系统项目实战
+音视频QoS技术：WebRTC丢包重传(NACK)技术深入剖析和实现](https://edu.51cto.com/lecturer/16206493.html)
+
+完结 [老陈Three.js可视化企业实战WEBGL课](https://study.163.com/course/introduction/1212491801.htm)
+
+完结 [老陈WEBGL底层Threejs实现高阶图形学](https://study.163.com/course/introduction/1213198802.htm)
+
+完结 [老陈大前端高薪全栈系统课程](https://study.163.com/course/introduction/1212061805.htm)
+
+完结 [老陈-带你刷LeetCode](https://study.163.com/course/introduction/1210807827.htm)
+
+完结 [老陈前端秋招快速就业提高课程](https://study.163.com/course/introduction/1211866804.htm)
+
+完结 [老陈前端高薪提升就业课程](https://study.163.com/course/introduction/1212199806.htm)
+
+新课 [老陈前端就业-企业级项目实战课程](https://study.163.com/course/introduction/1210098848.htm)
+
+新课 [老陈React企业项目实战课程](https://study.163.com/course/introduction/1210199448.htm)
+
+新课 [老陈Electron跨平台桌面应用实战开发](https://study.163.com/course/introduction/1210657802.htm)
+
+新课 [老陈Vue3全新实战课程](https://study.163.com/course/introduction/1210797844.htm)
+
+新课 [老陈Node快速搭建企业级CMS_商城站点](https://study.163.com/course/introduction/1209972454.htm)
+
+完结 [黑马Java项目拓展课](https://www.boxuegu.com/course/outline-5203.html)
+
+更新 [极客时间云原生 DevOps 进阶实战营](https://u.geekbang.org/subject/cloudnative2nd/1005553?utm_source=time_web&utm_medium=menu&utm_term=timewebmenu)
+
+更新 [极客时间何辉Java业务架构实战营](https://u.geekbang.org/subject/arch3)
+
+更新 [小滴课堂全栈多端低代码平台项目大课-系统化掌握React生态体系](https://xdclass.net/videoDetailsPage?id=93)
+
+更新 [LLM大语言模型算法特训带你转型AI大语言模型算法工程师](https://class.imooc.com/sale/llm)
+
+完结 [马哥云原生-微服务治理大厂冲刺班56期](https://ke.qq.com/course/340397)
+
+完结 操作系统-网易云-从0手写自己的Linux x86操作系统
+
+预约 [中间件项目大课-自动化云测平台/Spingboot3.X/微服务/Kafka3.x](https://m.xdclass.net/#/videoDetails?id=96)
 
 ## 2023.10月上新
 

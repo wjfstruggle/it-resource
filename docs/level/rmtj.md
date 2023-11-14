@@ -35,6 +35,10 @@
 
 ## Java
 
+完结 [极客时间高级java工程师体系课 - 刘亚雄](https://u.geekbang.org/subject/java4th)
+
+完结 [极客时间Java实战特训营 - 郑天民](https://u.geekbang.org/subject/java5th)
+
 更新 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
 
 更新 [图灵JAVA互联网架构师 6 期](https://vip.tulingxueyuan.cn/detail/p_63b51bd0e4b07b05582beaa4/8?product_id=p_63b51bd0e4b07b05582beaa4)
@@ -42,8 +46,6 @@
 完结 [拉勾java工程师高薪训练营11期](https://kaiwu.lagou.com/java_architect.html)
 
 完结 [黑马博学谷狂野架构师](https://www.boxuegu.com/subject/architect-01.html) 
-
-完结 [开课吧Java技术专家P7培养计划](https://www.kaikeba.com/course/vip/598)
 
 完结 [尼恩java硬核架构班](http://invalid.uri/)
 
@@ -139,7 +141,7 @@
 
 完结 [C/C++Linux服务器开发/高级架构师【零声教育】](https://ke.qq.com/course/420945#term_id=103261594)
 
-### AI
+## AI
 
 完结 [极客时间AI 大模型应用开发实战营](https://u.geekbang.org/subject/llm) 超推荐
 
@@ -147,18 +149,18 @@
 
 完结 [九章算法ChatGPT项目实战课](https://www.jiuzhang.com/course/150)
 
-更新 [【王卓然博士】AI 大模型全栈工程师培养计划](https://www.zhihu.com/xen/market/remix/training/1658062407640682496?utm_campaign=zhihumarket&utm_medium=social&utm_source=wechat&utm_content=messages_share)
+完结 [【王卓然博士】AI 大模型全栈工程师培养计划](https://www.zhihu.com/xen/market/remix/training/1658062407640682496?utm_campaign=zhihumarket&utm_medium=social&utm_source=wechat&utm_content=messages_share)
 
 更新 [卢菁北大博士ChatGLM大模型实战训练营-从芯片基础到大模型构建](https://edu.51cto.com/course/34244.html)
 
-更新 [图灵AI&ChatGPT实战训练营](https://appgpn9idwb6991.h5.xiaoeknow.com/v1/goods/goods_detail/p_6423fc52e4b0b0bc2bcf0677?fromH5=true)
+完结 [图灵AI&ChatGPT实战训练营](https://appgpn9idwb6991.h5.xiaoeknow.com/v1/goods/goods_detail/p_6423fc52e4b0b0bc2bcf0677?fromH5=true)
 
-### 人工智能
+## 人工智能
 
 更新 [咕泡云课堂唐宇迪人工智能深度学习系统班（第八期）](https://ke.gupaoedu.cn/course/vip/2149)
 
 更新 [卢菁人工智能NLP系统班](https://ke.gupaoedu.cn/course/vip/1973)
 
-更新 [咕泡云课堂人工智能深度学习高薪就业班 07 期](https://ke.gupaoedu.cn/course/vip/1944)
+完结 [咕泡云课堂人工智能深度学习高薪就业班 07 期](https://ke.gupaoedu.cn/course/vip/1944)
 
 完结 [百战程序员AI算法工程师](https://www.itbaizhan.com/stages/id/31)

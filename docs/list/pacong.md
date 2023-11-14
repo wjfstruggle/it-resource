@@ -28,6 +28,24 @@
 
 13 完结 [青灯Python爬虫开发从入门到实战](https://ke.qq.com/course/405353#term_id=106050282)
 
+14 完结 Android-猿人学-爬虫逆向高阶课
+
+15 完结 Python-图灵-Python进阶首选：爬虫 JS WEB APP逆向+超强企业级案例合辑
+
+16 完结 大讲台-从零开始掌握Python爬虫项目
+
+17 完结 Python从零到就业全栈500课(编程+爬虫+数据+自动化+前后端+算法)
+
+18 完结 黑马-博学谷-爬虫特级实战 430集Python专家课程
+
+19 完结 网易云课堂-Python爬虫+Excel_VBA办公自动化
+
+20 完结 51cto 撩课学院-Python-爬虫系列-网络剖析
+
+21 完结 Python+AI-马哥-python全能工程师（全栈+爬虫+数据分析+AI）
+
+22 完结 图灵 Python全套实战项目班/爬虫/数据分析/web开发/AI人工智能
+
 ## 实战课
 
 519 [Python高级爬虫实战-系统掌握破解反爬技能 挑战高薪](https://coding.imooc.com/class/519.html)

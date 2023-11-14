@@ -3,7 +3,7 @@
 #### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ::: tip
-联系方式：微信：L20230109520
+联系方式：微信：IT_Promise
 
 全网课程都有，欢迎私聊
 
@@ -77,15 +77,15 @@
 
 28 完结 [【体系课】手写操作系统 小班教学招生2期](https://class.imooc.com/sale/os)
 
-29 更新 [【体系课】手写操作系统 小班教学招生3期](https://class.imooc.com/sale/os)
+29 完结 [【体系课】手写操作系统 小班教学招生3期](https://class.imooc.com/sale/os)
 
 30 完结 [【体系课】Python Web全栈工程师](https://class.imooc.com/sale/pythonweb)
 
-31 预约 [慕课大前端高级工程师2023](https://class.imooc.com/sale/fesenior)
+31 更新 [慕课大前端高级工程师2023](https://class.imooc.com/sale/fesenior)
 
 32 更新 [慕课网DBA数据库工程师](https://class.imooc.com/sale/dba)
 
-33 预约 [LLM大语言模型算法特训带你转型AI大语言模型算法工程师](https://class.imooc.com/sale/llm)
+33 更新 [LLM大语言模型算法特训带你转型AI大语言模型算法工程师](https://class.imooc.com/sale/llm)
 
 ## **大实战**
 
@@ -119,9 +119,15 @@
 
 :::
 
+预约 711 [技术大牛成长课,从0到1带你手写一个数据库系统](https://coding.imooc.com/class/711.html)
+
+预约 709 [从0到1训练自己的大模型 揭密ChatGPT背后的技能与应用](https://coding.imooc.com/class/709.html)
+
 预约 690 [2023 React 18 系统入门 进阶实战《欢乐购》](https://coding.imooc.com/class/690.html)
 
 预约 687 [前端共学会：学习|成长|工作|职业，综合服务社区](https://coding.imooc.com/class/687.html)
+
+预约 686 [Java主流分布式解决方案多场景设计与实战](https://coding.imooc.com/class/686.html)
 
 预约 685 [Django4+Vue3全新技术实战全栈项目](https://coding.imooc.com/class/685.html)
 
