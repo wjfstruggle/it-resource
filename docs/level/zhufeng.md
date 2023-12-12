@@ -3,7 +3,7 @@
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：L20230109520
 
 珠峰VIP，所有课程免费学
 
@@ -17,7 +17,7 @@
 
 ##### 珠峰前端架构
 
-更新 [珠峰前端架构师培养计划17版](https://www.javascriptpeixun.cn/goods/show/691) 2023.11月份结课
+完结 [珠峰前端架构师培养计划17版](https://www.javascriptpeixun.cn/goods/show/691) 2023.11月份结课
 
 完结 [珠峰前端架构师培养计划16版](https://www.javascriptpeixun.cn/goods/show/672) 2023.5月份结课
 

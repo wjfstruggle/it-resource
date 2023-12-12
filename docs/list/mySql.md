@@ -51,6 +51,8 @@
 
 25 完结 [数据库架构师-风哥门徒【数据库,大数据,分布式,国产,容器】](https://edu.51cto.com/topic/5638.html)
 
+26 更新 [慕课网DBA数据库工程师](https://class.imooc.com/sale/dba)
+
 ##### 云贝教育数据库全套start
 
 1. [云贝教育【数据库】MySQL企业级运维管理实战课程](https://www.yunbee.net/Home/Video/detail/video_id/125.html)

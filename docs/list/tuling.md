@@ -32,7 +32,7 @@ JAVA架构口碑连续3年NO1，比某马强很多
 
 02 完结 [享学Java互联网架构师2期](https://ke.qq.com/course/287404)
 
-03 更新 [享学Java互联网架构师3期](https://ke.qq.com/course/287404)
+03 完结 [享学Java互联网架构师3期](https://ke.qq.com/course/287404)
 
 04 完结 [鲁班Java架构师 1 期](https://ke.qq.com/course/323635)
 
@@ -50,7 +50,7 @@ JAVA架构口碑连续3年NO1，比某马强很多
 
 11 完结 [图灵JAVA互联网架构师 5 期](https://vip.tulingxueyuan.cn/detail/p_612b55ede4b0e1ddfcf25576/8)
 
-12 更新 [图灵JAVA互联网架构师 6 期](https://vip.tulingxueyuan.cn/detail/p_63b51bd0e4b07b05582beaa4/8?product_id=p_63b51bd0e4b07b05582beaa4)
+12 完结 [图灵JAVA互联网架构师 6 期](https://vip.tulingxueyuan.cn/detail/p_63b51bd0e4b07b05582beaa4/8?product_id=p_63b51bd0e4b07b05582beaa4)
 
 13 完结 [图灵云原生与大厂项目架构课](https://ke.qq.com/course/3855334)
 

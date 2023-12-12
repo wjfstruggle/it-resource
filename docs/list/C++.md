@@ -57,7 +57,11 @@
 
 23 更新 [王道C++长期班线下43期](http://www.cskaoyan.com/thread-664595-1-1.html)
 
+24 更新 [慕课网C++中高级工程师](https://class.imooc.com/sale/cprogramqtqt)
 
+25 新课 [C++游戏后端开发（魔兽世界/MMO/TrinityCore源码拆解)](https://it.0voice.com/p/t_pc/goods_pc_detail/goods_detail/course_2UW5u5kvVOqV8eIl3AZUImeuLds)
+
+26 预约 [【新】Linux C/C++高级全栈开发（后端/游戏/嵌入式/高性能网络/存储/基础架构）](https://it.0voice.com/p/t_pc/goods_pc_detail/goods_detail/course_2V186ret8a8toC8AeT6UWPDL7J8)
 
 ##### 【施全磊‬套】C➕➕工程必师‬备 -- start --
 

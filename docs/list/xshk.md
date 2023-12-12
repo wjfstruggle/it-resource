@@ -7,7 +7,57 @@
 
 #### [**课程首页**](../../README.md) 💖[**更新记录**](./gxjl-2023.md) 💖[**热门推荐**](./rmtj.md) 💖[**会员中心**](./vip.md)
 
+## 2023.12月上新
+
+[马士兵鸿蒙原生开发工程师](https://www.mashibing.com/subject/157?courseNo=2532&courseVersionId=3411)
+
+[HarmonyOS鸿蒙应用开发线上训练营](https://www.boxuegu.com/live/detail-10031.html)
+
+[【智能社】美团全栈开发实战-系统架构](https://ke.qq.com/course/443389)
+
+[【智能社】原生JavaScript开发高级课程](https://ke.qq.com/course/431292)
+
+[【智能社】精通vue.js开发-第二期](https://ke.qq.com/course/package/29872)
+
+[【新】Linux C/C++高级全栈开发（后端/游戏/嵌入式/高性能网络/存储/基础架构）](https://it.0voice.com/p/t_pc/goods_pc_detail/goods_detail/course_2V186ret8a8toC8AeT6UWPDL7J8)
+
+ [1V6直通论文指导小班（NLP方向）](https://ke.gupaoedu.cn/course/vip/2179)
+
+ [马哥教育2023SRE线上班全程班（202309全新改版）](https://www.magedu.com/kczx/linuxyw.html)
+
+[Java百万架构精英领航班](https://ke.gupaoedu.cn/course/vip/1508)
+
+ [知乎知学堂「小红书变现实战计划」-11.27期](https://zhihu.com/education/training/sku-detail/1702735718101770241)
+
+[咕泡ChatGPT实战](https://ke.gupaoedu.cn/course/vip/2098)
+
+[千峰Python人工智能+数据分析2023](https://mobiletrain.org/special/python.html)
+
+[希赛2023下半年信息系统项目管理师](https://wangxiao.xisaiwang.com/zhibo2/v280009605.html)
+
 ## 2023.11月上新
+
+完结 [Java百万架构精英领航班](https://ke.gupaoedu.cn/course/vip/1508)
+
+更新 [知乎知学堂「小红书变现实战计划」-11.27期](https://zhihu.com/education/training/sku-detail/1702735718101770241)
+
+更新 [Selenium4 WebDriver自动化测试Java版](https://edu.51cto.com/course/18916.html)
+
+完结 [千峰Python人工智能+数据分析2023](https://mobiletrain.org/special/python.html)
+
+完结 [咕泡ChatGPT实战](https://ke.gupaoedu.cn/course/vip/2098)
+
+完结 [优点知识DevOps 训练营第7期](https://youdianzhishi.com/web/course/1040)
+
+新课 [C++游戏后端开发（魔兽世界/MMO/TrinityCore源码拆解)](https://it.0voice.com/p/t_pc/goods_pc_detail/goods_detail/course_2UW5u5kvVOqV8eIl3AZUImeuLds)
+
+完结 [极客时间AI 大模型应用开发实战营1期](https://u.geekbang.org/subject/llm)
+
+更新 [1V6直通论文指导小班（目标检测方向）](https://ke.gupaoedu.cn/course/vip/2213)
+
+更新 [1V6直通论文指导小班（NLP方向）](https://ke.gupaoedu.cn/course/vip/2179)
+
+更新 [慕课网C++中高级工程师](https://class.imooc.com/sale/cprogramqtqt)
 
 更新 [【王卓然博士】AI 大模型全栈工程师培养计划（三期）](https://www.zhihu.com/education/training/course-detail/1686055867055710208)
 

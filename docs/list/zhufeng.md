@@ -17,7 +17,7 @@
 
 ##### 珠峰前端架构
 
-更新 [珠峰前端架构师培养计划17版](https://www.javascriptpeixun.cn/goods/show/691) 2023.11月份结课
+完结 [珠峰前端架构师培养计划17版](https://www.javascriptpeixun.cn/goods/show/691) 2023.11月份结课
 
 完结 [珠峰前端架构师培养计划16版](https://www.javascriptpeixun.cn/goods/show/672) 2023.5月份结课
 

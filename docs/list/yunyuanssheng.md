@@ -37,7 +37,7 @@
 
 13 完结 [马士兵Golang全链路&云原生超级架构师](https://www.mashibing.com/subject/121)
 
-14 更新 [极客时间云原生 DevOps 进阶实战营](https://u.geekbang.org/subject/cloudnative2nd/1005553?utm_source=time_web&utm_medium=menu&utm_term=timewebmenu)
+14 完结 [极客时间云原生 DevOps 进阶实战营](https://u.geekbang.org/subject/cloudnative2nd/1005553?utm_source=time_web&utm_medium=menu&utm_term=timewebmenu)
 
 15 完结 [2023 云原生Kubernetes全栈架构师：基于世界500强的k8s实战课程](https://ke.qq.com/course/2738602)
 

@@ -7,8 +7,6 @@
 
 全网课程都有，欢迎私聊
 
- 
-
 :::
 
 ## **慕课都有**
@@ -86,6 +84,8 @@
 32 更新 [慕课网DBA数据库工程师](https://class.imooc.com/sale/dba)
 
 33 更新 [LLM大语言模型算法特训带你转型AI大语言模型算法工程师](https://class.imooc.com/sale/llm)
+
+34 更新 [慕课网C++中高级工程师](https://class.imooc.com/sale/cprogramqtqt)
 
 ## **大实战**
 

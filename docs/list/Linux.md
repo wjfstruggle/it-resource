@@ -7,8 +7,6 @@
 
 全网课程都有，欢迎私聊
 
- 
-
 :::
 
 ### 体系课
@@ -61,9 +59,9 @@
 
 完结 [2023 老男孩Linux 云计算SRE工程师85期](https://www.oldboyedu.com/Public/lnh/kec/Linuxsre/index.html#outline)
 
-更新 [C/C++Linux服务器开发/高级架构师【零声教育】2304期](https://ke.qq.com/course/420945)【23.9月份结课】
+完结 [C/C++Linux服务器开发/高级架构师【零声教育】2304期](https://it.0voice.com/p/t_pc/goods_pc_detail/goods_detail/course_2V186ret8a8toC8AeT6UWPDL7J8) 【23.9月份结课】
 
-新课 [马士兵Linux云计算SRE工程师](https://www.mashibing.com/subject/17)
+完结 [马士兵Linux云计算SRE工程师](https://www.mashibing.com/subject/17)
 
 ### 实战课
 

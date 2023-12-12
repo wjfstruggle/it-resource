@@ -17,6 +17,8 @@
 
 03 完结 [极客时间AI 大模型应用开发实战营0期](https://u.geekbang.org/subject/llm) 
 
+03 完结 [极客时间AI 大模型应用开发实战营1期](https://u.geekbang.org/subject/llm)
+
 04 完结 [九章算法ChatGPT项目实战课](https://www.jiuzhang.com/course/150) 
 
 05 完结 [【王卓然博士】AI 大模型全栈工程师培养计划（一期）](
@@ -40,6 +42,12 @@ https://www.zhihu.com/xen/market/remix/training/1658062407640682496?utm_campaign
 
 14 更新 [LLM大语言模型算法特训带你转型AI大语言模型算法工程师](https://class.imooc.com/sale/llm)
 
-15 预约 [极客时间彭靖田AI 大模型微调训练营](https://u.geekbang.org/subject/finetuning)【11.28开课】
+15 更新 [极客时间彭靖田AI 大模型微调训练营](https://u.geekbang.org/subject/finetuning)
 
-16 预约 [七月在线 大模型项目开发线上营实战审稿GPT/知识库/AI模特等五大项目](https://www.julyedu.com/course/getDetail/498) 【11.22开课】
+16 更新 [七月在线 大模型项目开发线上营实战审稿GPT/知识库/AI模特等五大项目](https://www.julyedu.com/course/getDetail/498) 
+
+17 预约 [贪心科技大模型开发应用实战营](https://www.greedyai.com/ai-courses/LLM_developing)
+
+18 预约 [贪心科技大模型微调实战营](https://www.greedyai.com/ai-courses/LLM_finetuning)
+
+19 上新 [知乎《AI 大模型全栈工程师》课程表（第 04 期）](https://agiclass.feishu.cn/docx/VicOdQFFpoy0DRxFQHpc4D7mnYd) 

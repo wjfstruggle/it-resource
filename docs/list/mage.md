@@ -46,3 +46,5 @@
 17 完结 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发12期](https://ke.qq.com/course/406096)
 
 18 更新 [马哥全新Linux云计算就业+架构套餐班2023](https://ke.qq.com/course/package/29428)
+
+19 更新 [马哥教育2023SRE线上班全程班（202309全新改版）](https://www.magedu.com/kczx/linuxyw.html)

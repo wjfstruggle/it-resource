@@ -109,6 +109,10 @@
 
 50 更新 [唐宇迪人工智能深度学习系统班（第八期）](https://ke.gupaoedu.cn/course/vip/2149)
 
+51 更新 [1V6直通论文指导小班（NLP方向）](https://ke.gupaoedu.cn/course/vip/2179)
+
+52 更新 [1V6直通论文指导小班（目标检测方向）](https://ke.gupaoedu.cn/course/vip/2213)
+
 ## 更多推荐
 
 [**后厂理工**](./hclg.md) [**深度之眼**](./sdzy.md) [**数据技术课堂**](./sjjskt.md) [**唐宇迪**](./tangyudi.md)

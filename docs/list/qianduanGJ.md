@@ -137,9 +137,9 @@
 
 66 完结[【智能社】原生的力量——原生JavaScript开发高级课程](https://ke.qq.com/course/431292)
 
-67 更新 [2022前端高薪提升就业课](https://study.163.com/course/introduction/1212199806.htm)
+67 完结 [2022前端高薪提升就业课](https://study.163.com/course/introduction/1212199806.htm)
 
-68 更新 [2022大前端高薪全栈系统课程](https://study.163.com/course/introduction/1212061805.htm)
+68 完结 [2022大前端高薪全栈系统课程](https://study.163.com/course/introduction/1212061805.htm)
 
 69 完结 [小滴课堂全栈-商业级大型前端项目大课-小滴云在线教育平台](https://xdclass.net/videoDetailsPage?id=84)
 
@@ -166,6 +166,8 @@
 81 完结 [九剑前端30k前端架构师训练营（9月优惠拉满冲30k!）](https://www.douyin.com/user/MS4wLjABAAAAuivNiAk3PrWZCpe5ddDjnqsNq14W8d7_AECONIiNVm0)
 
 82 完结 [宁皓 2023 独立开发者全栈训练营](https://ninghao.co)
+
+83 更新 [小滴课堂全栈多端低代码平台项目大课-系统化掌握React生态体系](https://xdclass.net/videoDetailsPage?id=93)
 
 ### **更多Web**
 

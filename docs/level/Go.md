@@ -67,17 +67,19 @@
 
 26 完结 [极客邓明Go实战训练营2期 - 全新升级](https://u.geekbang.org/subject/go2nd)
 
-27 更新 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发9期](https://ke.qq.com/course/406096)
+27 完结 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发9期](https://ke.qq.com/course/406096)
 
 28 完结 [【朝夕教育】Go高端全栈架构师【升职加薪，只争朝夕】(Golang/微服务/区块链)](https://ke.qq.com/course/5027527)
 
-29 更新 [极客时间邓明初级go工程师训练营](https://u.geekbang.org/subject/go3rd)
+29 更新 [极客时间邓明初级go工程师训练营0期](https://u.geekbang.org/subject/go3rd)
 
 30 完结 [从0到Go语言微服务架构师](https://edu.51cto.com/course/32246.html)
 
 31 完结 [七米Go语言微服务与云原生](https://study.163.com/course/introduction.htm?courseId=1212937804)
 
 32 完结 [【图灵课堂】Go编程挺进大厂实战营](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_62a6f065e4b0d4f489aa1325)
+
+33 完结 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发12期](https://ke.qq.com/course/406096)
 
 ## **专题小实战**
 
@@ -132,7 +134,7 @@
 
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：L20230109520
 
 全网课程都有，欢迎私聊
 

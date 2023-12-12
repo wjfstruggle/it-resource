@@ -3,7 +3,7 @@
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：L20230109520
 
 全网课程都有，欢迎私聊
 
@@ -57,7 +57,7 @@
 
 23 更新 [王道C++长期班线下43期](http://www.cskaoyan.com/thread-664595-1-1.html)
 
-
+24 更新 [慕课网C++中高级工程师](https://class.imooc.com/sale/cprogramqtqt)
 
 ##### 【施全磊‬套】C➕➕工程必师‬备 -- start --
 
@@ -132,7 +132,7 @@
 完结  [618 慕课网看动画，轻松学习23种C++设计模式](https://coding.imooc.com/class/618.html)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：L20230109520
 
 全网课程都有，欢迎私聊
 

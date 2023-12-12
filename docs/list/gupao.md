@@ -1527,3 +1527,5 @@
 579. 完结 [咕泡3天一站式精通Redis](https://ke.gupaoedu.cn/course/courses/1876)
 
 580. 完结 [咕泡Java程序员初入职场 特训营](https://ke.gupaoedu.cn/course/courses/1881)
+
+581 完结 [Java百万架构精英领航班](https://ke.gupaoedu.cn/course/vip/1508)

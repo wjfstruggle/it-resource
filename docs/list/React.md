@@ -6,6 +6,8 @@
 
 ## **好评首推**
 
+更新 [小滴课堂全栈多端低代码平台项目大课-系统化掌握React生态体系](https://xdclass.net/videoDetailsPage?id=93)
+
 完结 [Vue与React高级框架开发](https://class.imooc.com/sc/?plan_id=59)
 
 完结 [智能社-美团全栈开发实战-系统架构](https://ke.qq.com/course/443389)
