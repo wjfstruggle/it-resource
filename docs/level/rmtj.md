@@ -4,7 +4,7 @@
 联系方式：微信：IT_Promise
 :::
 
-#### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**更新记录**](./gxjl-2024.md) 💖 [**会员中心**](./vip.md)
 ## Web
 
 完结 渡一教育Web前端高薪工程师2023
@@ -145,13 +145,15 @@
 
 完结 [极客时间AI 大模型应用开发实战营](https://u.geekbang.org/subject/llm) 超推荐
 
+更新 [极客时间彭靖田AI 大模型微调训练营](https://u.geekbang.org/subject/finetuning) 超推荐
+
 完结 [企业级项目实战课程-从0带你实现ChatGPT项目](https://ke.qq.com/course/6031074)
 
 完结 [九章算法ChatGPT项目实战课](https://www.jiuzhang.com/course/150)
 
 完结 [【王卓然博士】AI 大模型全栈工程师培养计划](https://www.zhihu.com/xen/market/remix/training/1658062407640682496?utm_campaign=zhihumarket&utm_medium=social&utm_source=wechat&utm_content=messages_share)
 
-更新 [卢菁北大博士ChatGLM大模型实战训练营-从芯片基础到大模型构建](https://edu.51cto.com/course/34244.html)
+完结 [卢菁北大博士ChatGLM大模型实战训练营-从芯片基础到大模型构建](https://edu.51cto.com/course/34244.html)
 
 完结 [图灵AI&ChatGPT实战训练营](https://appgpn9idwb6991.h5.xiaoeknow.com/v1/goods/goods_detail/p_6423fc52e4b0b0bc2bcf0677?fromH5=true)
 

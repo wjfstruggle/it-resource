@@ -47,4 +47,6 @@
 
 18 更新 [马哥全新Linux云计算就业+架构套餐班2023](https://ke.qq.com/course/package/29428)
 
-19 更新 [马哥教育2023SRE线上班全程班（202309全新改版）](https://www.magedu.com/kczx/linuxyw.html)
+19 完结 [马哥教育2023SRE线上班全程班（202309全新改版）](https://www.magedu.com/kczx/linuxyw.html)
+
+20 完结 [马哥云原生-微服务治理大厂冲刺班高阶实战6期](https://ke.qq.com/course/340397)

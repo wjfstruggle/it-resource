@@ -121,6 +121,8 @@
 
 55 完结  [码同学名企定向培养JavaEE测开班20220815班](http://www.mtongxue.com/ts/9)
 
+56 预约 [霍格沃兹测试开发学社人工智能测试开发训练营](https://video.vip.ceshiren.com/p/t_pc/goods_pc_detail/goods_detail/p_64c37968e4b0d1e42e87c44e?fromH5=true&l_program=xe_know_pc&type=3)
+
 ## 实战课
 
 01 完结[从零开始学测试 一步迈进互联网](https://coding.imooc.com/class/411.html)

@@ -64,3 +64,5 @@
 26 完结 [【2023 K8s CKS】杜宽云原生K8s安全专家认证](https://edu.51cto.com/course/29792.html)
 
 27 完结 627 [K8s+gRPC 云原生微服务开发与治理实战](https://coding.imooc.com/class/627.html)
+
+28 更新 [极客时间云原生容器工程师阿里云 ACP 认证](https://u.geekbang.org/subject/container/1006349?source=app_share)

@@ -5,9 +5,41 @@
 联系方式：微信：IT_Promise
 :::
 
-#### [**课程首页**](../../README.md) 💖[**更新记录**](./gxjl-2023.md) 💖[**热门推荐**](./rmtj.md) 💖[**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖[**更新记录**](./gxjl-2024.md) 💖[**热门推荐**](./rmtj.md) 💖[**会员中心**](./vip.md)
 
 ## 2023.12月上新
+
+完结 [霍格沃兹测试开发学社Python测试开发进阶线上班28期](https://video.vip.ceshiren.com/p/t_pc/goods_pc_detail/goods_detail/p_64f83b68e4b064a82f08f9b1?fromH5=true&type=3)
+
+更新 [中间件项目大课-自动化云测平台/Spingboot3.X/微服务/Kafka3.x](https://m.xdclass.net/#/videoDetails?id=96)
+
+更新[【学堂在线】预订驭风计划NLP方向-清华阵容](https://www.xuetangx.com/program/XT08092021063083?channel=i.area.home_course_ad)
+
+完结 [看雪物联网安全漏洞实战](https://www.kanxue.com/book-leaflet-69.htm)
+
+完结 [看雪物联网安全入门](https://www.kanxue.com/book-leaflet-79.htm)
+
+完结 693[慕课网 Vue3.3 + TS4 ，自主打造媲美 ElementPlus](https://coding.imooc.com/class/693.html)
+
+完结 鸿蒙HarmonyOS4.0应用开发从入门到实战
+
+完结 [飞象数据求职23秋数据分析师求职就业班（基础版）](https://appoibt8fuw5065.h5.xiaoeknow.com/v1/goods/goods_detail/p_64ae2bdae4b0d1e42e8194cc?type=3)
+
+完结 [七月在线机器学习集训营19期](https://www.julyedu.com/weekend/train19)
+
+完结 [九章算法班 2023版，最新27期](https://www.jiuzhang.com/course/71)
+
+完结 [九章算法基础班 Python+Java 2023 版27期](https://www.jiuzhang.com/course/84)
+
+完结 [九章算法人工智能集训营2023第26期](https://www.jiuzhang.com/course/20/)
+
+完结 [九章算法-面试实战冲刺班-BQ/Resume/Project/Design 第30期|2023版](https://www.jiuzhang.com/course/69)
+
+完结 [九章算法-数据分析就业班 第11期|2023版](https://www.jiuzhang.com/course/104)
+
+完结 [九章算法-Twitter/微博前端 – React 项目实战 第16期|2023版](https://www.jiuzhang.com/course/119)
+
+完结 [九章算法-Twitter 后端系统 – Python 项目实战 第13期|2023版](https://www.jiuzhang.com/course/89)
 
 [马士兵鸿蒙原生开发工程师](https://www.mashibing.com/subject/157?courseNo=2532&courseVersionId=3411)
 

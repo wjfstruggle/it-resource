@@ -69,6 +69,8 @@
 
 25 更新 [马士兵Linux云计算SRE工程师](https://www.mashibing.com/subject/17)
 
+26 更新 [马士兵鸿蒙原生开发工程师](https://www.mashibing.com/subject/157?courseNo=2532&courseVersionId=3411)
+
 ## 实战课
 
 01 完结 [算法和数据结构新手班](https://www.mashibing.com/course/337)

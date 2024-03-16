@@ -37,7 +37,7 @@
 
 13 完结 [马士兵Golang全链路&云原生超级架构师](https://www.mashibing.com/subject/121)
 
-14 更新 [极客时间云原生 DevOps 进阶实战营](https://u.geekbang.org/subject/cloudnative2nd/1005553?utm_source=time_web&utm_medium=menu&utm_term=timewebmenu)
+14 完结 [极客时间云原生 DevOps 进阶实战营](https://u.geekbang.org/subject/cloudnative2nd/1005553?utm_source=time_web&utm_medium=menu&utm_term=timewebmenu)
 
 15 完结 [2023 云原生Kubernetes全栈架构师：基于世界500强的k8s实战课程](https://ke.qq.com/course/2738602)
 
@@ -64,3 +64,5 @@
 26 完结 [【2023 K8s CKS】杜宽云原生K8s安全专家认证](https://edu.51cto.com/course/29792.html)
 
 27 完结 627 [K8s+gRPC 云原生微服务开发与治理实战](https://coding.imooc.com/class/627.html)
+
+28 更新 [极客时间云原生容器工程师阿里云 ACP 认证](https://u.geekbang.org/subject/container/1006349?source=app_share)

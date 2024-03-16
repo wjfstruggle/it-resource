@@ -7,7 +7,7 @@
 
 :::
 
-#### [**新上好课**](./list/xshk.md) 💖 [**更新记录**](./list/gxjl-2023.md) 💖 [**热门推荐**](./list/rmtj.md) 💖 [**会员中心**](./list/vip.md)
+#### [**新上好课**](./list/xshk.md) 💖 [**更新记录**](./list/gxjl-2024.md) 💖 [**热门推荐**](./list/rmtj.md) 💖 [**会员中心**](./list/vip.md)
 
 ### **Java方向** <Badge type="warning" text="💯"/>
 
@@ -51,6 +51,8 @@
 
 [**千锋教育**](./list/qfjy.md)  [**小象学院**](./list/xxketang.md) [**51CTO**](./list/51CTO.md) [**七月在线**](./list/qiyue.md) [**谷粒学院**](http://www.gulixueyuan.com/) 
 
+[**掘金小册**](./list/juejin.md)
+
 ### **热门语言** <Badge type="warning" text="💯"/>
 
 [**大数据**](./list/bigData.md) [**产品经理**](./list/canpin.md) [**Python**](./list/Python.md) [**爬虫**](./list/pacong.md) [**数据分析**](./list/sjfx.md) [**Android**](./list/android.md) 
@@ -63,8 +65,10 @@
 
 [**新媒体**](./list/newMedia.md) [**全链路**](./list/qll.md)  [**玩转电商**](./list/wzds.md)  [**UI设计**](./list/UI.md) [**源码解析**](./list/code.md)
 
-[**区块链**](./list/qukuailian.md) [**ChatGPT**](./list/ChatGPT.md) [**3D视觉工坊**](./list/3D.md)  [**计算机软考**](./list/ruankao.md)
+[**区块链**](./list/qukuailian.md) [**ChatGPT AI 大模型**](./list/ChatGPT.md) [**3D视觉工坊**](./list/3D.md)  [**计算机软考**](./list/ruankao.md)
 
 [**友凡**](./list/youfan.md) [**CTO训练营**](./list/CTOtrain.md) [**风哥数据库**](./list/fengge.md) [**夏曹俊老师**](./list/xiajuncao.md)
 
 ![](https://www.itpromise.cloud/cover.png)
+
+<a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2022090061号-1</a>

@@ -45,7 +45,7 @@
 
 16 预定最优惠 [优点知识eBPF开发实践](https://youdianzhishi.com/web/course/1037)
 
-17 更新 [【优点知识】Istio实战训练营](https://youdianzhishi.com/web/course/1047)
+17 完结 [【优点知识】Istio实战训练营](https://youdianzhishi.com/web/course/1047)
 
 18 即将出货 [优点知识MySQL实战训练营](https://youdianzhishi.com/web/course/1042)
 
@@ -54,6 +54,8 @@
 20 即将出货 [优点知识CKA实战培训(包过班)](https://youdianzhishi.com/web/course/1044)
 
 21 即将出货 [优点知识CKS实战培训(包过班)](https://youdianzhishi.com/web/course/1046)
+
+22 新课 [优点知识Kubernetes 进阶训练营第5期](https://youdianzhishi.com/web/course/1048)
 
 ## **实战课**
 

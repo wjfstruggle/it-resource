@@ -2698,3 +2698,208 @@
 
 
 
+### 陈鑫杰
+
+------
+
+01 完结 [陈鑫杰 网络安全神兵利器项目实战课-攻防演练红蓝对抗工具箱-第一季](https://edu.51cto.com/course/33587.html)
+
+02 完结 [陈鑫杰 网络安全攻防实战课（入门篇）](https://edu.51cto.com/course/11328.html)
+
+03 完结 [陈鑫杰 网络安全攻防实战课（入门篇）-复制](https://edu.51cto.com/course/28427.html)
+
+04 完结 [陈鑫杰 《BurpSuite漏洞扫描实战指南》陈鑫杰主讲【Web安全渗透系列视频课程】](https://edu.51cto.com/course/14725.html)
+
+05 完结 [陈鑫杰 网络安全架构与部署-CCN-复制](https://edu.51cto.com/course/28428.html)
+
+06 完结 [陈鑫杰 MPLS 虚拟网络视频课程【CCIE魔鬼训练营城域网专题】 陈鑫杰主讲](https://edu.51cto.com/course/3350.html)
+
+07 完结 [陈鑫杰 防火墙视频课程【CCIE魔鬼训练营安全技术专题】 陈鑫杰主讲](https://edu.51cto.com/course/3367.html)
+
+08 完结 [陈鑫杰 《Web安全渗透课之信息搜集》陈鑫杰主讲【Web安全渗透系列视频课程】](https://edu.51cto.com/course/10509.html)
+
+09 完结 [陈鑫杰 QoS视频课程【CCIE魔鬼训练营城域网专题】 陈鑫杰主讲](https://edu.51cto.com/course/3357.html)
+
+10 完结 [陈鑫杰 SQLmap注入实战指南视频教程](https://edu.51cto.com/course/14724.html)
+
+11 完结 [陈鑫杰 《Wireshark协议分析基础与提升》第二季 TCP/IP协议栈详解(上)](https://edu.51cto.com/course/3811.html)
+
+12 完结 [陈鑫杰 《Wireshark协议分析基础与提升》第三季 TCP/IP协议栈详解(下)](https://edu.51cto.com/course/3932.html)
+
+13 完结 [陈鑫杰 高级路由之路由策略专题视频课程【PingingLab CCIE魔鬼训练营】](https://edu.51cto.com/course/535.html)
+
+14 完结 [陈鑫杰 MPLS视频课程【CCIE魔鬼训练营城域网专题】 陈鑫杰主讲](https://edu.51cto.com/course/3348.html)
+
+15 完结 [陈鑫杰 ISIS【CCIE魔鬼训练营高级路由视频课程】](https://edu.51cto.com/course/3342.html)
+
+16 完结 [陈鑫杰 【CCIE魔鬼训练营高级交换防环专题视频课程】 陈鑫杰主讲](https://edu.51cto.com/course/3343.html)
+
+17 完结 [陈鑫杰 【CCIE魔鬼训练营高级交换通信专题视频课程】 陈鑫杰主讲](https://edu.51cto.com/course/3344.html)
+
+18 完结 [陈鑫杰 【CCIE魔鬼训练营高级交换冗余专题视频课程】 陈鑫杰主讲](https://edu.51cto.com/course/3346.html)
+
+19 完结 [陈鑫杰 【CCIE魔鬼训练营高级交换安全专题视频课程】 陈鑫杰主讲](https://edu.51cto.com/course/3347.html)
+
+20 完结 [陈鑫杰 OSPF视频课程【CCIE魔鬼训练营高级路由课程】](https://edu.51cto.com/course/3047.html)
+
+21 完结 [陈鑫杰 Web安全渗透之漏洞扫描](https://edu.51cto.com/course/10508.html)
+
+22 完结 [陈鑫杰 CCNA网络基础100集视频课程-PingingLab CCIE魔鬼训练营](https://edu.51cto.com/course/525.html)
+
+23 完结 [陈鑫杰 RIP【CCIE魔鬼训练营高级路由视频课程】](https://edu.51cto.com/course/3037.html)
+
+24 完结 [陈鑫杰 《HTTP协议原理与实践》陈鑫杰主讲【Web安全渗透系列视频课程】](https://edu.51cto.com/course/12688.html)
+
+25 完结 [陈鑫杰 《Django Web项目实战课》陈鑫杰老师主讲【Web安全渗透系列视频课程】](https://edu.51cto.com/course/10472.html)
+
+26 完结 [陈鑫杰 《Django Web入门课》陈鑫杰老师主讲视频课程【Web安全渗透系列课】](https://edu.51cto.com/course/10417.html)
+
+27 完结 [陈鑫杰 《Web安全渗透课之CSRF攻击与防御》陈鑫杰主讲【Web安全渗透系列视频课程】](https://edu.51cto.com/course/10502.html)
+
+28 完结 [陈鑫杰 《Web安全渗透课之SQL注入攻击与防御》陈鑫杰主讲【Web安全渗透系列视频课程】](https://edu.51cto.com/course/10507.html)
+
+29 完结 [陈鑫杰 《Web安全渗透课之文件包含攻击与防御》陈鑫杰主讲【Web安全渗透系列视频课程】](https://edu.51cto.com/course/10505.html)
+
+30 完结 [陈鑫杰 《Web安全渗透课之命令执行攻击与防御》陈鑫杰主讲【Web安全渗透系列视频课程】](https://edu.51cto.com/course/10504.html)
+
+31 完结 [陈鑫杰 《Python编程基础》陈鑫杰主讲 思维导图式编程课](https://edu.51cto.com/course/6405.html)
+
+32 完结 [陈鑫杰 EIGRP视频课程【CCIE魔鬼训练营高级路由课程】](https://edu.51cto.com/course/3046.html)
+
+33 完结 [陈鑫杰 《BGP》系列视频课程【PingingLab CCIE魔鬼训练营】](https://edu.51cto.com/course/548.html)
+
+34 完结 [陈鑫杰 《H3C官方模拟器HCL（H3C Cloud Lab）》视频课程](https://edu.51cto.com/course/2805.html)
+
+35 完结 [陈鑫杰 Multicast视频课程【CCIE魔鬼训练营城域网专题】 陈鑫杰主讲](https://edu.51cto.com/course/3362.html)
+
+36 完结 [陈鑫杰 蜜罐欺骗防御溯源反制系统实战-精品班](https://edu.51cto.com/course/31218.html)
+
+37 完结 [陈鑫杰 Web安全技术入门](https://edu.51cto.com/course/31272.html)
+
+38 完结 [陈鑫杰 红队渗透测试与ATT&CK框架入门 - 全栈网络安全进阶班（红队渗透测试）](https://edu.51cto.com/course/27898.html)
+
+39 完结 [陈鑫杰 CTF黑客比赛-红蓝对抗靶场实战演练-精品课](https://edu.51cto.com/course/31174.html)
+
+40 完结 [陈鑫杰 安全技能拓展](https://edu.51cto.com/course/32311.html)
+
+41 完结 [陈鑫杰 Web安全渗透漏洞实战](https://edu.51cto.com/course/32010.html)
+
+42 完结 [陈鑫杰 hvv攻防演练工作指南](https://edu.51cto.com/course/32008.html)
+
+43 完结 [陈鑫杰 攻fang演练-应急响应-溯源分析实战-精品班](https://edu.51cto.com/course/31220.html)
+
+44 完结 [陈鑫杰 CNVD国家信息安全漏洞原创证书挖掘实战-精品课](https://edu.51cto.com/course/31328.html)
+
+45 完结 [陈鑫杰 CTF黑客大赛攻防实战](https://edu.51cto.com/course/20758.html)
+
+46 完结 [陈鑫杰 内网安全渗透测试v2 - 全栈网络安全进阶班（红队渗透测试）](https://edu.51cto.com/course/31411.html)
+
+47 完结 [陈鑫杰 Web安全渗透攻防实战](https://edu.51cto.com/course/15738.html)
+
+48 完结 [陈鑫杰 入侵防御与安全审计](https://edu.51cto.com/course/15737.html)
+
+49 完结 [陈鑫杰 信息搜集原理与实战-Web应用安全-精品班](https://edu.51cto.com/course/31044.html)
+
+50 完结 [陈鑫杰 企业网入门实战-GNS3拓扑实战-IP地址划分-精品班](https://edu.51cto.com/course/31262.html)
+
+51 完结 [陈鑫杰 网络安全入门指南-精品班](https://edu.51cto.com/course/30950.html)
+
+52 完结 [陈鑫杰 防火墙原理与实践视频课程](https://edu.51cto.com/course/15698.html)
+
+53 完结 [陈鑫杰 网络安全协议抓包实战-精品班](https://edu.51cto.com/course/30949.html)
+
+54 完结 [陈鑫杰 网络安全架构-高级交换](https://edu.51cto.com/course/15700.html)
+
+55 完结 [陈鑫杰 文件上传漏洞原理利用防御-Web应用安全-精品班](https://edu.51cto.com/course/31095.html)
+
+56 完结 [陈鑫杰 WAF网站安全防火墙-精品班](https://edu.51cto.com/course/31187.html)
+
+57 完结 [陈鑫杰 防火墙原理与实战-精品班](https://edu.51cto.com/course/31173.html)
+
+58 完结 [陈鑫杰 网络安全协议攻防实战-精品班](https://edu.51cto.com/course/31256.html)
+
+59 完结 [陈鑫杰 网络安全架构与部署-高级路由](https://edu.51cto.com/course/15711.html)
+
+60 完结 [陈鑫杰 网络安全架构与部署-CCN](https://edu.51cto.com/course/15683.html)
+
+61 完结 [陈鑫杰 Kali Linux与Metasploit渗tou测试与漏d复现实践-精品班](https://edu.51cto.com/course/31255.html)
+
+62 完结 [陈鑫杰 VPen数据安全原理与实战–精品班](https://edu.51cto.com/course/31219.html)
+
+63 完结 [陈鑫杰 企业网安全策略与项目实战-精品班](https://edu.51cto.com/course/31221.html)
+
+64 完结 [陈鑫杰 堡垒机安全认证审计实战-精品班](https://edu.51cto.com/course/31217.html)
+
+65 完结 [陈鑫杰 网络安全政策法规-全栈网络安全工程师精品班v2版-复制](https://edu.51cto.com/course/31216.html)
+
+66 完结 [陈鑫杰 漏dong扫描原理与实战–精品班](https://edu.51cto.com/course/31188.html)
+
+67 完结 [陈鑫杰 入侵检测与防御原理与实战-精品班](https://edu.51cto.com/course/31186.html)
+
+68 完结 [陈鑫杰 Web应用安全进阶实战-精品班](https://edu.51cto.com/course/31172.html)
+
+69 完结 [陈鑫杰 XSS与CSRF漏DONG原理利用防御-Web应用安全-精品班](https://edu.51cto.com/course/31171.html)
+
+70 完结 [陈鑫杰 文件包含与命令执行原理利用防御-Web应用安全-精品班](https://edu.51cto.com/course/31170.html)
+
+71 完结 [陈鑫杰 SQL注入漏洞原理利用防御-Web应用安全-精品班](https://edu.51cto.com/course/31094.html)
+
+72 完结 [陈鑫杰 Web漏洞扫描与自动化评估-精品班](https://edu.51cto.com/course/31061.html)
+
+73 完结 [陈鑫杰 网络安全合规建设与等级保护2.0-精品班](https://edu.51cto.com/course/31045.html)
+
+74 完结 [陈鑫杰 Burpsuite渗透测试实战-Web应用安全-精品班](https://edu.51cto.com/course/31060.html)
+
+75 完结 [陈鑫杰 网络安全架构与实战-交换技术-精品班](https://edu.51cto.com/course/30990.html)
+
+76 完结 [陈鑫杰 网络安全架构与实战-路由技术-精品班](https://edu.51cto.com/course/31007.html)
+
+77 完结 [陈鑫杰 网络安全政策法规-精品班](https://edu.51cto.com/course/30916.html)
+
+78 完结 [陈鑫杰 网络安全入坑指南](https://edu.51cto.com/course/31024.html)
+
+79 完结 [陈鑫杰 网络安全攻防实战课（入门篇）-复制](https://edu.51cto.com/course/31021.html)
+
+80 完结 [陈鑫杰 内网安全渗透测试原理与实践 - 全栈网络安全进阶班（红队渗透测试）](https://edu.51cto.com/course/27654.html)
+
+81 完结 [陈鑫杰 代码审计安全原理与实践 - 全栈网络安全进阶班（红队渗透测试）](https://edu.51cto.com/course/28028.html)
+
+82 完结 [陈鑫杰 操作系统安全原理与实践 - 全栈网络安全进阶班（红队渗透测试）](https://edu.51cto.com/course/27901.html)
+
+83 完结 [陈鑫杰 信息安全等级保护项目](https://edu.51cto.com/course/15736.html)
+
+84 完结 [陈鑫杰 Web安全渗透测试 - 全栈网络安全进阶班（红队渗透测试）](https://edu.51cto.com/course/27896.html)
+
+85 完结 [陈鑫杰 APT项目攻防演练 - 全栈网络安全进阶班（红队渗透测试）](https://edu.51cto.com/course/27897.html)
+
+86 完结 [陈鑫杰 Python黑客编程原理与实战](https://edu.51cto.com/course/27946.html)
+
+87 完结 [陈鑫杰 应用服务安全原理与实践 - 全栈网络安全进阶班（红队渗透测试）](https://edu.51cto.com/course/27899.html)
+
+88 完结 [陈鑫杰 中间件安全渗透实战 - 全栈网络安全进阶班（红队渗透测试）](https://edu.51cto.com/course/27945.html)
+
+89 完结 [陈鑫杰 信息搜集原理与实践 - 全栈网络安全进阶班（红队渗透测试）](https://edu.51cto.com/course/27900.html)
+
+90 完结 [陈鑫杰 Web安全后端开发](https://edu.51cto.com/course/15739.html)
+
+91 完结 [陈鑫杰 Web安全后端开发](https://edu.51cto.com/course/31271.html)
+
+92 完结 [陈鑫杰 Kali Linux渗透测试](https://edu.51cto.com/course/15713.html)
+
+93 完结 [陈鑫杰 Web安全技术入门](https://edu.51cto.com/course/15714.html)
+
+94 完结 [陈鑫杰 高级网络安全专题](https://edu.51cto.com/course/24496.html)
+
+95 完结 [陈鑫杰 高级网络安全专题-复制](https://edu.51cto.com/course/31175.html)
+
+96 完结 [陈鑫杰 大数据安全-高级网络安全系列](https://edu.51cto.com/course/24393.html)
+
+97 完结 [陈鑫杰 IPv6安全-高级网络安全系列](https://edu.51cto.com/course/24310.html)
+
+98 完结 [陈鑫杰 WiFi无线安全攻防](https://edu.51cto.com/course/15735.html)
+
+99 完结 [陈鑫杰 Web安全前端开发](https://edu.51cto.com/course/15712.html)
+
+100 完结 [陈鑫杰 Web应用安全前端开发](https://edu.51cto.com/course/31270.html)
+
+101 完结 [陈鑫杰 VPN原理与实践视频课程](https://edu.51cto.com/course/15715.html)

@@ -1,6 +1,6 @@
 # Go开发
 
-#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2024.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ::: tip
 联系方式：微信：IT_Promise
@@ -71,7 +71,7 @@
 
 28 完结 [【朝夕教育】Go高端全栈架构师【升职加薪，只争朝夕】(Golang/微服务/区块链)](https://ke.qq.com/course/5027527)
 
-29 更新 [极客时间邓明初级go工程师训练营0期](https://u.geekbang.org/subject/go3rd)
+29 完结 [极客时间邓明初级go工程师训练营0期](https://u.geekbang.org/subject/go3rd)
 
 30 完结 [从0到Go语言微服务架构师](https://edu.51cto.com/course/32246.html)
 
@@ -80,6 +80,8 @@
 32 完结 [【图灵课堂】Go编程挺进大厂实战营](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_62a6f065e4b0d4f489aa1325)
 
 33 完结 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发12期](https://ke.qq.com/course/406096)
+
+34 更新 [极客时间邓明Go实战训练营3期 ](https://u.geekbang.org/subject/go2nd)全新升级
 
 ## **专题小实战**
 

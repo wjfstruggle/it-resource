@@ -7,8 +7,6 @@
 
 全网课程都有，欢迎私聊
 
- 
-
 :::
 
 ## 九章算法
@@ -82,6 +80,20 @@
 34 [九章算法班 2023版，最新26期](https://www.jiuzhang.com/course/71)
 
 35 [九章算法ChatGPT项目实战课](https://www.jiuzhang.com/course/150)
+
+36 完结 [九章算法班 2023版，最新27期](https://www.jiuzhang.com/course/71)
+
+37 完结 [九章算法基础班 Python+Java 2023 版27期](https://www.jiuzhang.com/course/84)
+
+38 完结 [九章算法人工智能集训营2023第26期](https://www.jiuzhang.com/course/20/)
+
+39 完结 [九章算法-面试实战冲刺班-BQ/Resume/Project/Design 第30期|2023版](https://www.jiuzhang.com/course/69)
+
+40 完结 [九章算法-数据分析就业班 第11期|2023版](https://www.jiuzhang.com/course/104)
+
+41 完结 [九章算法-Twitter/微博前端 – React 项目实战 第16期|2023版](https://www.jiuzhang.com/course/119)
+
+42 完结 [九章算法-Twitter 后端系统 – Python 项目实战 第13期|2023版](https://www.jiuzhang.com/course/89)
 
 ## 来offer
 

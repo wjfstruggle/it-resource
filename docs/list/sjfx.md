@@ -1,8 +1,15 @@
 # 数据分析
 
-#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2024.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
-01 完结 [拉勾数据分析实战训练营](https://edu.lagou.com/growth/sem/data_analysis.html)超推荐
+::: tip
+联系方式：微信：L20230109520
+
+全网课程都有，欢迎私聊
+
+:::
+
+01 完结 [拉勾数据分析实战训练营](https://edu.lagou.com/growth/sem/data_analysis.html) 超推荐
 
 02 完结 [马哥教育Python全栈+爬虫+数据分析+AI小白入门训练营](https://ke.qq.com/course/465147)
 
@@ -44,17 +51,9 @@
 
 21 完结[【路飞学城】Python数据分析师](https://www.luffycity.com/employment-course/23/detail)
 
-22 更新 [【小象学院】互联网大厂数据分析项目实战](https://vip.xxketang.com/detail/p_6306e9ade4b050af23adfdf8/6?product_id=p_6306e9ade4b050af23adfdf8)
+22 完结 [【小象学院】互联网大厂数据分析项目实战](https://vip.xxketang.com/detail/p_6306e9ade4b050af23adfdf8/6?product_id=p_6306e9ade4b050af23adfdf8)
 
 23 完结 [【小象学院】数据分析项目实战](https://vip.xxketang.com/p/t_pc/goods_pc_detail/goods_detail/p_630c5940e4b050af23af9d05)
 
+24 完结 [飞象数据求职23秋数据分析师求职就业班（基础版）](https://appoibt8fuw5065.h5.xiaoeknow.com/v1/goods/goods_detail/p_64ae2bdae4b0d1e42e8194cc?type=3)
 
-
-::: tip
-联系方式：微信：L20230109520
-
-全网课程都有，欢迎私聊
-
- 
-
-:::

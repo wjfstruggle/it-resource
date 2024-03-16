@@ -1,6 +1,6 @@
 # 慕课网
 
-#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2024.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ::: tip
 联系方式：微信：IT_Promise
@@ -83,9 +83,11 @@
 
 32 更新 [慕课网DBA数据库工程师](https://class.imooc.com/sale/dba)
 
-33 更新 [LLM大语言模型算法特训带你转型AI大语言模型算法工程师](https://class.imooc.com/sale/llm)
+33 完结 [LLM大语言模型算法特训带你转型AI大语言模型算法工程师](https://class.imooc.com/sale/llm)
 
 34 更新 [慕课网C++中高级工程师](https://class.imooc.com/sale/cprogramqtqt)
+
+35 更新 [慕课网AI人工智能算法工程师](https://class.imooc.com/sale/aialgorithm)
 
 ## **大实战**
 
@@ -123,6 +125,10 @@
 
 预约 709 [从0到1训练自己的大模型 揭密ChatGPT背后的技能与应用](https://coding.imooc.com/class/709.html)
 
+完结 706 [ 一站式通关CKA证书](https://coding.imooc.com/class/706.html)
+
+完结 693[Vue3.3 + TS4 ，自主打造媲美 ElementPlus](https://coding.imooc.com/class/693.html)
+
 预约 690 [2023 React 18 系统入门 进阶实战《欢乐购》](https://coding.imooc.com/class/690.html)
 
 预约 687 [前端共学会：学习|成长|工作|职业，综合服务社区](https://coding.imooc.com/class/687.html)
@@ -143,11 +149,11 @@
 
 预约 673 [Java七大热门技术框架源码解析](https://coding.imooc.com/class/673.html)
 
-预约 674 [鸿蒙系统实战短视频App 从0到1掌握HarmonyOS](https://coding.imooc.com/class/674.html)
+完结 674 [鸿蒙系统实战短视频App 从0到1掌握HarmonyOS](https://coding.imooc.com/class/674.html)
 
 预约 672 [ChatGPT + Flutter快速开发多端聊天机器人App](https://coding.imooc.com/class/672.html)
 
-预约 670 [SpringCloudAlibaba高并发仿斗鱼直播平台实战](https://coding.imooc.com/class/670.html)
+完结 670 [SpringCloudAlibaba高并发仿斗鱼直播平台实战](https://coding.imooc.com/class/670.html)
 
 预约 667 [Vue3+NestJS 全栈开发企业级管理后台](https://coding.imooc.com/class/667.html)
 
@@ -157,7 +163,7 @@
 
 预约 662 [国家级认证 软件评测师（软考中级）一站式通关课](https://coding.imooc.com/class/662.html)
 
-预约 661 [Web3.0热门领域NFT项目实战](https://coding.imooc.com/class/661.html)
+完结 661 [Web3.0热门领域NFT项目实战](https://coding.imooc.com/class/661.html)
 
 预约 656 [实习项目实战-SpringBoot开发双11商品服务系统](https://coding.imooc.com/class/656.html)
 

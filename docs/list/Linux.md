@@ -1,6 +1,6 @@
 # Linux
 
-#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2023.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
+#### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2024.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ::: tip
 联系方式：微信：L20230109520
@@ -62,6 +62,12 @@
 完结 [C/C++Linux服务器开发/高级架构师【零声教育】2304期](https://it.0voice.com/p/t_pc/goods_pc_detail/goods_detail/course_2V186ret8a8toC8AeT6UWPDL7J8) 【23.9月份结课】
 
 完结 [马士兵Linux云计算SRE工程师](https://www.mashibing.com/subject/17)
+
+完结 [【猿来教育】Linux云计算SRE工程师](
+https://www.apecome.com/wechat/course/details/series?goods_sn=XL100096&course_mode=1&uname=undefined
+)
+
+完结 [【猿来教育】网络安全渗透工程师大神班（渗透测试+攻防原理](https://www.apecome.com/wechat/course/details/series?goods_sn=XL100251&course_mode=1&uname=undefined)
 
 ### 实战课
 

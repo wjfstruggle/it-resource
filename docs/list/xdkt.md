@@ -21,7 +21,9 @@
 
 更新 [小滴课堂全栈多端低代码平台项目大课-系统化掌握React生态体系](https://xdclass.net/videoDetailsPage?id=93)
 
-预约 [中间件项目大课-自动化云测平台/Spingboot3.X/微服务/Kafka3.x](https://m.xdclass.net/#/videoDetails?id=96)
+更新 [中间件项目大课-自动化云测平台/Spingboot3.X/微服务/Kafka3.x](https://m.xdclass.net/#/videoDetails?id=96)
+
+更新 [小滴课堂手撕大厂算法-算法刷题大课训练营](https://xdclass.net/videoDetailsPage?id=97)
 
 ## 小课
 
