@@ -81,7 +81,7 @@
 
 33 完结 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发12期](https://ke.qq.com/course/406096)
 
-34 更新 [极客时间邓明Go实战训练营3期 ](https://u.geekbang.org/subject/go2nd)全新升级
+34 完结 [极客时间邓明Go实战训练营3期 ](https://u.geekbang.org/subject/go2nd)全新升级
 
 ## **专题小实战**
 

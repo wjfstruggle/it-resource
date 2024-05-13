@@ -97,7 +97,7 @@
 
 44 更新 [学堂在线机器学习训练营9期](https://www.xuetangx.com/training/ML080910036802/1048372)
 
-45 预定最优惠 [学堂在线取风计划](https://www.xuetangx.com/program/XT0809202106306)
+45 完结 [学堂在线取风计划](https://www.xuetangx.com/program/XT0809202106306)
 
 46 完结无密 [七月在线-深度学习集训营第三期|2022年|价值4999元|重磅首发|完结无密](http://www.julyedu.com/weekend/dl3)
 
@@ -113,7 +113,7 @@
 
 52 更新 [1V6直通论文指导小班（目标检测方向）](https://ke.gupaoedu.cn/course/vip/2213)
 
-53 更新[【学堂在线】预订驭风计划NLP方向-清华阵容](https://www.xuetangx.com/program/XT08092021063083?channel=i.area.home_course_ad)
+53 完结[【学堂在线】预订驭风计划NLP方向-清华阵容](https://www.xuetangx.com/program/XT08092021063083?channel=i.area.home_course_ad)
 
 54 更新 [咕泡唐宇迪人工智能深度学习系统班2023第九期V9.0](https://ke.gupaoedu.cn/course/vip/2508)
 

@@ -1,4 +1,11 @@
-# 数据结构算法
+# 数据结构算法、
+
+::: tip
+联系方式：微信：L20230109520
+
+全网课程都有，欢迎私聊
+
+:::
 
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
@@ -56,15 +63,17 @@
 
 26 完结[【马士兵】数据结构与算法大师课（新课上新）](https://m.mashibing.com/subject/21)
 
-27 更新[【慕课】算法与数据结构高手养成-求职提升特训课](https://coding.imooc.com/class/ds/589)
+27 完结[【慕课】算法与数据结构高手养成-求职提升特训课](https://coding.imooc.com/class/ds/589)
 
-28 完结 [【课程 A】老汤 67 小时精讲：数据结构与算法](https://appvpmptkl94774.pc.xiaoe-tech.com/detail/p_62458be2e4b01a4851eba30c/8?product_id=p_62458be2e4b01a4851eba30c)
+28 完结 [【课程 A】老汤 67 小时精讲：数据结构与算法](https://appvpmptkl94774.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/course_2K1YshFG5J3mIy2gaxP7BqQWNDJ)
 
-29 完结 [【课程 B】30天算法面试训练营](https://appvpmptkl94774.pc.xiaoe-tech.com/detail/p_62458c0ce4b09dda1254e1b4/8?product_id=p_62458c0ce4b09dda1254e1b4)
+29 完结 [【课程 B】30天算法面试训练营](https://appvpmptkl94774.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/course_2JzRlhBN0E34F13HO2Ap2fQGMc8)
 
-30 完结 [【课程 C】程序员基础内功系列课](https://appvpmptkl94774.pc.xiaoe-tech.com/detail/p_61ce7550e4b05006f9c406d9/8?product_id=p_61ce7550e4b05006f9c406d9)
+30 完结 [【课程 C】程序员基础内功系列课](https://appvpmptkl94774.pc.xiaoe-tech.com/page/3790237?navIndex=1)
 
 31 完结 [博学谷玩转数据结构与算法](https://www.boxuegu.com/course/detail-5601.html)
+
+32 更新 [小滴课堂手撕大厂算法-算法刷题大课训练营](https://xdclass.net/videoDetailsPage?id=97)
 
 # 前端算法
 
@@ -90,7 +99,3 @@
 
 ![null](http://leaaiv.cn/media/202207/2022-07-06_162945_968363.png)
 
-## **联系方式**
--  微信：L20230109520
--  全网课程都有，欢迎私聊。
--   

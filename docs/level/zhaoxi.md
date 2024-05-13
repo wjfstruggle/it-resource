@@ -53,3 +53,4 @@
 
 23 [嵌入式+移动5G+智慧物联网编程基础(C/C++/Linux/sqlite3/Arm)](https://ke.qq.com/course/5859412#term_id=106073925)
 
+24 [【朝夕教育】Unity3D全栈游戏开发VIP班](https://wechat.zhaoxiedu.net/#/courseList)

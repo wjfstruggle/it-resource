@@ -55,6 +55,8 @@
 
 21 即将出货 [优点知识CKS实战培训(包过班)](https://youdianzhishi.com/web/course/1046)
 
+22 新课 [优点知识Kubernetes 进阶训练营第5期](https://youdianzhishi.com/web/course/1048)
+
 ## **实战课**
 
 18 完结 [优点知识ArgoCD实践课](https://youdianzhishi.com/web/course/1043)

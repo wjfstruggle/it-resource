@@ -63,6 +63,8 @@
 
 26 更新 [【新】Linux C/C++高级全栈开发（后端/游戏/嵌入式/高性能网络/存储/基础架构）](https://it.0voice.com/p/t_pc/goods_pc_detail/goods_detail/course_2V186ret8a8toC8AeT6UWPDL7J8)
 
+27 更新 [王道C++训练营2024线下班](https://docs.qq.com/sheet/DRHdNRExWV1h1UnFj?tab=BB08J2)
+
 ##### 【施全磊‬套】C➕➕工程必师‬备 -- start --
 
 完结 [C++全套数结据‬构算法-进高阶‬级开发必备-大面厂‬试必备](https://ke.qq.com/course/485406)

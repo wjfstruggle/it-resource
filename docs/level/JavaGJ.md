@@ -145,7 +145,7 @@
 
 72 更新 [黑马博学谷狂野架构师第四期](https://www.boxuegu.com/subject/architect-01.html)会员非免费
 
-73 更新 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
+73 完结 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
 
 74 完结 [小马哥 Java 训练营 第一期 Java 分布式架构 - 服务治理](https://mztp.yuque.com/docs/share/3b9d972e-8620-4209-83d6-d9186123f4ee)
 
@@ -163,13 +163,13 @@
 
 81 完结 [咕泡Java架构师互联网集训班8班](https://ke.gupaoedu.cn/course/vip/1868)
 
-82 更新 [千锋Java架构进阶实战营](https://appd8lwrtt98427.pc.xiaoe-tech.com/detail/p_62945a1de4b09dda126efffb/8?product_id=p_62945a1de4b09dda126efffb)
+82 完结 [千锋Java架构进阶实战营](https://appd8lwrtt98427.pc.xiaoe-tech.com/detail/p_62945a1de4b09dda126efffb/8?product_id=p_62945a1de4b09dda126efffb)
 
-83 更新 [极客高级java工程师体系课2.0升级版](https://u.geekbang.org/subject/java4th)
+83 完结 [极客高级java工程师体系课2.0升级版](https://u.geekbang.org/subject/java4th)
 
 84 完结 [Java 亿级项目架构设计与落地应用](https://class.imooc.com/sale/project)
 
-85 更新 [图灵JAVA互联网架构师 6 期](https://vip.tulingxueyuan.cn/detail/p_63b51bd0e4b07b05582beaa4/8?product_id=p_63b51bd0e4b07b05582beaa4)
+85 完结 [图灵JAVA互联网架构师 6 期](https://vip.tulingxueyuan.cn/detail/p_63b51bd0e4b07b05582beaa4/8?product_id=p_63b51bd0e4b07b05582beaa4)
 
 86 预约 [渡一教育Java高薪工程师培养计划2023](https://ke.qq.com/course/5595617)
 

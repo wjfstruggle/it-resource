@@ -32,3 +32,9 @@
 更新 [老陈WEBGL底层Threejs实现高阶图形学](https://study.163.com/course/introduction/1213198802.htm)
 
 完结 [【猿创课堂】WEB3d 工程师 零基础启航](https://appwmzcwmo57531.h5.xiaoeknow.com/v1/goods/goods_detail/course_2MB6FWIFkwDE829dx5HzxmLfBFE?type=2&share_type=5&share_user_id=u_6481233e3bd8a_Lm0IitQCmF&entry=2&entry_type=2002)
+
+完结 [UE5-游戏买量视频特训营【蓝图|特效】](https://www.yiihuu.com/a_11130.html)
+
+完结 [Uniry次世代魔幻游戏特效训练营](https://www.yiihuu.com/a_10618.html)
+
+完结 [UE5建筑动画/交互/VR开发班（元宇宙向）](https://www.cctalk.com/m/group/90795187)

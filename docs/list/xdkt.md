@@ -19,7 +19,7 @@
 
 完结 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
 
-更新 [小滴课堂全栈多端低代码平台项目大课-系统化掌握React生态体系](https://xdclass.net/videoDetailsPage?id=93)
+完结 [小滴课堂全栈多端低代码平台项目大课-系统化掌握React生态体系](https://xdclass.net/videoDetailsPage?id=93)
 
 更新 [中间件项目大课-自动化云测平台/Spingboot3.X/微服务/Kafka3.x](https://m.xdclass.net/#/videoDetails?id=96)
 

@@ -89,7 +89,7 @@
 
 38 预约 [极客时间+马哥 网络安全训练营2023](https://u.geekbang.org/subject/intro/1005497)
 
-39 更新 [极客时间邓明初级go工程师训练营](https://u.geekbang.org/subject/go3rd)
+39 完结 [极客时间邓明初级go工程师训练营](https://u.geekbang.org/subject/go3rd)
 
 40 完结 [极客时间AI 大模型应用开发实战营0期](https://u.geekbang.org/subject/llm)
 
@@ -97,15 +97,21 @@
 
 41 完结 [极客时间云原生 DevOps 进阶实战营](https://u.geekbang.org/subject/cloudnative2nd/1005553?utm_source=time_web&utm_medium=menu&utm_term=timewebmenu)
 
-42 更新 [极客时间何辉Java业务架构实战营](https://u.geekbang.org/subject/arch3)
+42 完结 [极客时间何辉Java业务架构实战营](https://u.geekbang.org/subject/arch3)
 
 43 预约 [【极客时间】 - 高级Java工程师体系课2023第六期最新开班](https://u.geekbang.org/subject/java4th?utm_source=time_web&utm_medium=menu&utm_term=timewebmenu&utm_identify=geektime&utm_content=menu&utm_campaign=timewebmenu&gk_cus_user_wechat=university)
 
-44 更新 [极客时间彭靖田AI 大模型微调训练营0期](https://u.geekbang.org/subject/finetuning)
+44 完结 [极客时间彭靖田AI 大模型微调训练营0期](https://u.geekbang.org/subject/finetuning)
 
-45 更新 [极客时间云原生容器工程师阿里云 ACP 认证](https://u.geekbang.org/subject/container/1006349?source=app_share)
+45 完结 [极客时间云原生容器工程师阿里云 ACP 认证](https://u.geekbang.org/subject/container/1006349?source=app_share)
 
 46 完结 [极客时间大数据训练营3期](https://u.geekbang.org/subject/bigdata)
+
+47 预约 [极客时间陈天rust训练营](https://u.geekbang.org/subject/rust)
+
+48 更新 [极客王建平软考高级系统分析师 | 超清画质 | 资料齐全](https://u.geekbang.org/subject/software-exam-sa?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web)
+
+49 更新 [极客时间邓明Go实战训练营3期 ](https://u.geekbang.org/subject/go2nd)全新升级
 
 ## 2、集训班
 

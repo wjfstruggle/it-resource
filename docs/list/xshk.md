@@ -7,6 +7,180 @@
 
 #### [**课程首页**](../../README.md) 💖[**更新记录**](./gxjl-2024.md) 💖[**热门推荐**](./rmtj.md) 💖[**会员中心**](./vip.md)
 
+## 2024上新
+
+完结 [深度之眼【1v6】金融时间序列预测与AI量化交易的研究](https://ai.deepshare.net/p/t_pc/goods_pc_detail/goods_detail/p_65af9622e4b0bb112443ed8a?)
+
+完结 [深度之眼【1v6】通用AIGC（生成）及扩散模型多场景应用](https://ai.deepshare.net/p/t_pc/goods_pc_detail/goods_detail/p_65af94dee4b04c10a125f2c3?)
+
+完结 [深度之眼【1v6】Large Language is All You Need](https://ai.deepshare.net/p/t_pc/goods_pc_detail/goods_detail/p_65af9275e4b0bb112443ec02?)
+
+完结 [深度之眼【1v6】GAN&Diffusion AIGC大一统下的学术与应用](https://ai.deepshare.net/p/t_pc/goods_pc_detail/goods_detail/p_6436871fe4b09d72378cb7c6?)
+
+完结 [深度之眼【1v6】大型语言模型事实一致性的研究](https://ai.deepshare.net/p/t_pc/goods_pc_detail/goods_detail/p_65b0bb25e4b04c10a1265cfe?)
+
+完结 [深度之眼【1v6】大语言模型的RLHF](https://ai.deepshare.net/p/t_pc/goods_pc_detail/goods_detail/p_65b0bde7e4b064a83b8dcb28?)
+
+完结 [深度之眼【1v6】机器学习时间序列预测](https://ai.deepshare.net/p/t_pc/goods_pc_detail/goods_detail/p_65af9001e4b064a83b8d6e95?)
+
+完结 [深度之眼【1v6】生物序列理解——原理、前沿与应用](https://ai.deepshare.net/p/t_pc/goods_pc_detail/goods_detail/p_65b0d009e4b064a83b8ddc93?)
+
+更新 [王道C++训练营2024线下班](https://docs.qq.com/sheet/DRHdNRExWV1h1UnFj?tab=BB08J2)
+
+完结 [【云原生全栈开发】基于Go和Vue的K8s多集群管理自动化运维平台开发项目实战部分](https://edu.51cto.com/course/33943.html)
+
+完结 [QT5/QSS/QML/C++界面美化原理源码项目实战视频课程](https://m.ke.qq.com/course/package/32552?_wv=2147487745#from=courseList)
+
+完结 [恩培-Python计算机视觉0基础到进阶](https://enpeicv.com/forum.php?mod=forumdisplay&fid=47)
+
+更新 [极客时间鸿蒙Next应用开发训练营](https://u.geekbang.org/subject/harmonyos?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web&gk_cus_user_wechat=university)
+
+完结 712 [系统玩转OpenGL+AI，实现各种酷炫视频特效](https://coding.imooc.com/class/712.html)
+
+完结 [火星虚幻引擎交互开发工程师班](https://cg.hxsd.com/games/eduzt/hxyqkfjh202303?campaign=sgpinpai&sougoupz&pzyd&230314gw&qz_gdt=uzpamzqdaaakort5oeaa)
+
+完结 822 [AI Agent智能应用从0到1定制开发](https://coding.imooc.com/class/822.html)
+
+完结 [贪心科技--Transformer与联邦学习高阶研修班，完结，包含三大模块，Nlp，CV,联邦学习与隐私计算](https://www.greedyai.com/ai-courses/Transformer-And-Federal-Learning-Advanced-Seminar)
+
+完结 [红队蓝军 | PHP/JAVA/.NET 代码审计课](https://mp.weixin.qq.com/s/WDN6IFWLwKf2ztMuU4emgQ)
+
+更新 [图灵课堂VIP课程第七期](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_659ce45be4b064a87c2f9bd0?product_id=p_659ce45be4b064a87c2f9bd0)
+
+完结 [c/c++音视频实战-gb28181-pjsip-ffmpeg-h264安防流媒体服务器]( c/c++音视频实战-gb28181-pjsip-ffmpeg-h264安防流媒体服务器)
+
+完结 [【训练营6期】深度学习实战](https://appze9inzwc2314.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/p_63a5a369e4b030cacafeb21f?fromH5=true&type=3)
+
+更新 [霍格沃兹测试开发学社人工智能测试开发训练营](https://video.vip.ceshiren.com/p/t_pc/goods_pc_detail/goods_detail/p_64c37968e4b0d1e42e87c44e?fromH5=true&l_program=xe_know_pc&type=3)
+
+晚会 613 [前端面试全家桶，从求职准备到面试演练 2024升级TS](https://coding.m.imooc.com/classindex.html?cid=613)
+
+更新 [DeepBlue深兰教育 AI人工智能2024  37个大型项目 NLP CV 大模型](http://ai.aijdjy.com/ke-cheng-da-gang.html)
+
+完结 [黑马产品经理就业课。尊享无忧](https://www.boxuegu.com/coursePage/?subject=pm&pageType=0)
+
+完结 703 [Linux系统 从入门到进阶-全新版](https://coding.imooc.com/class/703.html)
+
+完结 667 [Vue3+NestJS 全栈开发企业级管理后台](https://coding.imooc.com/class/667.html)
+
+预定 [物联网/嵌入式底层工程师](https://class.imooc.com/sale/iotbottom)
+
+更新 [极客时间陈天rust训练营](https://u.geekbang.org/subject/rust) 4.18开课
+
+预定 [Java版数据结构和算法+AI算法和技能](https://class.imooc.com/sale/fullstackalgo)
+
+预定 [手写x64多核，实战Linux内核，吃透OS本质（二期）](https://class.imooc.com/sale/oslinux)
+
+完结 808 [C++从0实现百万并发Reactor服务器](https://coding.imooc.com/class/808.html)
+
+完结 [UE5-游戏买量视频特训营【蓝图|特效】](https://www.yiihuu.com/a_11130.html)
+
+完结 [Uniry次世代魔幻游戏特效训练营](https://www.yiihuu.com/a_10618.html)
+
+完结 [UE5建筑动画/交互/VR开发班（元宇宙向）](https://www.cctalk.com/m/group/90795187)
+
+完结 [跟我一起写DApp（转型区块链开发推荐课程](https://medu.51cto.com/course/index/view?id=26234)
+
+完结 [【超级账本Fabric联盟链】 区块链技术与应用实战视频教程](https://medu.51cto.com/course/index/view?id=30165)
+
+完结 [公链开发与智能合约开发](https://medu.51cto.com/course/index/view?id=26924)
+
+完结 [区块链应用架构师认证课程](https://medu.51cto.com/course/index/view?id=33752)
+
+完结 [红队免杀对抗攻防实战训练营](https://www.vultop.com/h5/index.html#/goods/107/show?targetId=158&type=course_list&hasCertificate=false)
+
+完结 695 [ChatGPT+AI项目实战，打造多端智能虚拟数字人](https://coding.imooc.com/class/695.html)
+
+完结 650 [React18内核探秘：手写React高质量源码迈向高阶开发](https://coding.imooc.com/class/650.html)
+
+完结 764 [2024全新版 操作系统入门与实践-参透技术本质](https://coding.imooc.com/class/764.html)
+
+完结无密特惠 [前端架构师-大厂直通车](https://appwhrkrsz84443.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/p_62b59eb6e4b0eca59c0de342)
+
+完结 737 [AI人人必修-提示词工程+大模型多场景实战](https://coding.imooc.com/class/737.html)
+
+完结 593 [人人都该懂密码学，通用密码学原理与应用实战](https://coding.imooc.com/class/593.html)
+
+完结 [OpenGL-自主高性能三维GIS平台架构与实现-第二季](https://edu.51cto.com/course/34847.html)
+
+完结 [51CTO-AIGC大模型应用实战精品班第2期](https://e.51cto.com/training_1349.html)
+
+完结 [软考中级：数据库系统工程师精品班6期](https://e.51cto.com/training_1195.html)
+
+完结 [软考高级：信息系统项目管理师精品班19期](https://e.51cto.com/training_1176.html)
+
+预定 [自下而上-存储全栈 （TiDB/RockDB/SPDK/fuse/ceph/NVMe）](https://it.0voice.com/p/t_pc/goods_pc_detail/goods_detail/course_2YlLpjTRMwwsnTWKBHUv9VMrNDB)
+
+预约 [极客时间鸿蒙Next应用开发训练营](https://u.geekbang.org/subject/harmonyos?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web&gk_cus_user_wechat=university)
+
+阿里曾老师产品经理 [升职加薪，职业管理，晋升管理](https://m.bilibili.com/cheese/play/ss2598?csource=common_searchlecture_lecturecard_morerecommend&spm_id_from=333.874.selfDef.search_big_card&search_query=晋升&search_id=)
+
+更新 [小滴课堂手撕大厂算法-算法刷题大课训练营](https://xdclass.net/videoDetailsPage?id=97)
+
+完结 [九章算法Twitter后端项目必修基础课2024版](https://www.jiuzhang.com/course/149)
+
+完结 [九章算法Twitter评论系统项目实战2024版](https://www.jiuzhang.com/course/135)
+
+完结 [极客王建平软考高级系统分析师 | 超清画质 | 资料齐全](https://u.geekbang.org/subject/software-exam-sa?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web)
+
+完结 [【那位科技】LLM大语言模型算法特训，带你转型AI大语言模型算法工程师](https://class.m.imooc.com/sale/llm)
+
+更新 [【一期完结，二期更新】HarmonyOS 鸿蒙应用开发线上训练营2期-鸿蒙星河版](https://www.boxuegu.com/live/detail-10049.html)
+
+预售特惠 [极客时间陈天Rust 训练营](https://u.geekbang.org/subject/rust)
+
+更新 [博学谷AI大模型训练营](https://www.boxuegu.com/live/detail-10046.html)
+
+更新 路飞2024版Python开发副业山顶会课程，官网在售版，课程时长2个多月，浓缩精华重点讲解python基础进阶语法和Fsatapi框架和Django框架～
+
+完结 [【套餐 ABC】程序员底层基础课](https://appvpmptkl94774.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/course_2K2i5Vp7TGzgrTUhtdoQu4Zt4OD?fromH5=true&channel_id=1105520&entry=2&entry_type=2002&scene=分享&share_type=5&share_user_id=u_61ceb9bb6556e_K2fZ9XBwJS)
+
+完结 [马哥教育云原生微服务治理大厂冲刺班名师亲授|完整超清无密MP4]
+
+完结 [小马哥小马哥 Java 训练营 第一期 Java 分布式架构 – 服务治理|完整超清MP4]
+
+完结 [小马哥小马哥 Java 训练营 第二期 Java 分布式架构 – 模式、设计与实现 | 超清无密MP4
+
+完结 [小马哥小马哥 Java 训练营 第三期 Java 分布式架构 – 高并发、高性能与高可用 | 超清无密MP4]
+
+完结 [黑马博学谷狂野架构师 2期3期4期5期6期|资料齐全|完整无密MP4]
+
+完结 [黑马博学谷狂野大数据 3期4期5期6期7期|资料齐全|完整无密MP4]
+
+完结 [王争的反卷联盟王争的算法训练营(第5期)|完整无密MP4|资料齐全]
+
+更新 [2024千峰大前端web全栈工程师](http://www.mobiletrain.org/special/web.html?pinzhuanbdtg=guanwang)
+
+更新 [贪心科技大模型开发应用实战营](https://www.greedyai.com/ai-courses/LLM_developing)
+
+更新 [贪心科技大模型微调实战营](https://www.greedyai.com/ai-courses/LLM_finetuning)
+
+更新 [2024千峰java](http://www.mobiletrain.org/special/web.html?pinzhuanbdtg=guanwang)
+
+更新 [印客web大厂前端工程师训练营2024](https://encodestudio.cn/#/detail?type=1)
+
+完结 [极客时间云原生容器工程师阿里云 ACP 认证](https://u.geekbang.org/subject/container/1006349?source=app_share)
+
+更新 [【朝夕教育】C++和QT跨平台客户端零基础到多实战](http://wechat.zhaoxiedu.net/#/video?courseId=462&courseImg=http%3A%2F%2Fqiniu.zhaoxiedu.net%2F20231205%2F78f163bbb7034635b9ed66bba2c368c8.jpg%3Fe%3D1705473120%26token%3DjNk1Y54oJ6yTQDNpTxP675bIMLjr39SDEevcW-fK%3Apx7WZ-ULUNQB_FXyCNAN5oXSijA%3D&title=C%2B%2B和QT跨平台客户端-VIP课程&subtitle)
+
+更新 【卢菁博士的人工智能课堂】多模态大模型LLM与AIGC前沿技术实战
+
+更新 [慕课AI人工智能算法工程师](https://class.imooc.com/sale/aialgorithm)
+
+完结 [极客时间邓明初级Go工程师训练营2024版1期|完结超清|资料齐全 ](https://u.geekbang.org/subject/go3rd)
+
+更新 [优点知识Kubernetes 进阶训练营第5期](https://youdianzhishi.com/web/course/1048)
+
+更新 [咕泡唐宇迪人工智能深度学习系统班2023第九期V9.0](https://ke.gupaoedu.cn/course/vip/2508)
+
+完结 [【朝夕教育】Unity3D全栈游戏开发VIP班](https://wechat.zhaoxiedu.net/#/courseList)
+
+完结 [软考中级：网络工程师精品班17期](https://edu.51cto.com/px/train/1302.html)
+
+完结 [PMP项目管理认证尊享班25期（2311）](https://edu.51cto.com/px/train/1229.html)
+
+完结 [软考高级：系统规划与管理师精品班8期](https://edu.51cto.com/px/train/1194.html)
+
 ## 2023.12月上新
 
 完结 [霍格沃兹测试开发学社Python测试开发进阶线上班28期](https://video.vip.ceshiren.com/p/t_pc/goods_pc_detail/goods_detail/p_64f83b68e4b064a82f08f9b1?fromH5=true&type=3)

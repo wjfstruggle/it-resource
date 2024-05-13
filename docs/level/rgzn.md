@@ -115,6 +115,8 @@
 
 53 更新[【学堂在线】预订驭风计划NLP方向-清华阵容](https://www.xuetangx.com/program/XT08092021063083?channel=i.area.home_course_ad)
 
+54 更新 [咕泡唐宇迪人工智能深度学习系统班2023第九期V9.0](https://ke.gupaoedu.cn/course/vip/2508)
+
 ## 更多推荐
 
 [**后厂理工**](./hclg.md) [**深度之眼**](./sdzy.md) [**数据技术课堂**](./sjjskt.md) [**唐宇迪**](./tangyudi.md)

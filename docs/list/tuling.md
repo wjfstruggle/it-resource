@@ -56,6 +56,8 @@ JAVA架构口碑连续3年NO1，比某马强很多
 
 14 完结 [【图灵课堂】Go编程挺进大厂实战营](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_62a6f065e4b0d4f489aa1325)
 
+15 更新 [图灵课堂VIP课程第七期](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_659ce45be4b064a87c2f9bd0?product_id=p_659ce45be4b064a87c2f9bd0)
+
 ### 体系课
 
 01 完结 [【图灵课堂】互联网Java架构师(CTA)](https://vip.tulingxueyuan.cn/detail/p_61823e0ae4b0b7f0182e3315/8)

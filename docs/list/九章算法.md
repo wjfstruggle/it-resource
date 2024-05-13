@@ -95,6 +95,10 @@
 
 42 完结 [九章算法-Twitter 后端系统 – Python 项目实战 第13期|2023版](https://www.jiuzhang.com/course/89)
 
+43 完结 [九章算法Twitter后端项目必修基础课2024版](https://www.jiuzhang.com/course/149)
+
+44 完结 [九章算法Twitter评论系统项目实战2024版](https://www.jiuzhang.com/course/135)
+
 ## 来offer
 
 01完结[来offer软件工程师旗舰核心课程](https://www.laioffer.com/zh/course/software-development/)

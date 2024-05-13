@@ -16,13 +16,13 @@
 
 07 完结 [尚硅谷Java全栈工程师](http://www.atguigu.com/java/)
 
-08 更新 [尚硅谷AI大模型实战训练营2期](http://www.atguigu.com/ai/)
+08 完结 [尚硅谷AI大模型实战训练营2期](http://www.atguigu.com/ai/)
+
+09 完结无密 [[入门精通\]](https://www.itjc8.com/forum.php?mod=forumdisplay&fid=43&filter=typeid&typeid=74) 尚硅谷2024年4月版本Java全端工程师线下就业班
 
 ::: tip
 联系方式：微信：L20230109520
 
 全网课程都有，欢迎私聊
-
- 
 
 :::

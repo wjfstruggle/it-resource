@@ -7,7 +7,7 @@
 
 ### 大课
 
-训练营 37 个 、 集训班 3 个
+训练营 52 个 、 集训班 3 个
 
 ### 小课
 
@@ -103,15 +103,23 @@
 
 44 完结 [极客时间彭靖田AI 大模型微调训练营0期](https://u.geekbang.org/subject/finetuning)
 
+44 完结 [极客时间彭靖田AI 大模型微调训练营1期](https://u.geekbang.org/subject/finetuning)
+
 45 完结 [极客时间云原生容器工程师阿里云 ACP 认证](https://u.geekbang.org/subject/container/1006349?source=app_share)
 
 46 完结 [极客时间大数据训练营3期](https://u.geekbang.org/subject/bigdata)
 
-47 预约 [极客时间陈天rust训练营](https://u.geekbang.org/subject/rust)
+47 更新 [极客时间陈天rust训练营](https://u.geekbang.org/subject/rust)
 
-48 更新 [极客王建平软考高级系统分析师 | 超清画质 | 资料齐全](https://u.geekbang.org/subject/software-exam-sa?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web)
+48 完结 [极客王建平软考高级系统分析师 | 超清画质 | 资料齐全](https://u.geekbang.org/subject/software-exam-sa?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web)
 
-49 更新 [极客时间邓明Go实战训练营3期 ](https://u.geekbang.org/subject/go2nd)全新升级
+49 完结 [极客时间邓明Go实战训练营3期 ](https://u.geekbang.org/subject/go2nd)全新升级
+
+50 更新 [极客时间鸿蒙Next应用开发训练营](https://u.geekbang.org/subject/harmonyos?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web&gk_cus_user_wechat=university)
+
+51 预定 [极客时间软考高级信息项目管理师](https://u.geekbang.org/subject/software-exam-high?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web)
+
+52 完结 [极客时间软考高级系统架构设计师](https://u.geekbang.org/subject/software-exam-arch?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web)
 
 ## 2、集训班
 

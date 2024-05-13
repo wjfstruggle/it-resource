@@ -147,7 +147,7 @@
 
 71 完结 [【严选课程】web前端全栈高薪就业课-大神coderwhy出品](https://ke.qq.com/course/4903388#term_id=105074578)
 
-72 更新  [大圣前端源码漫游记|手写前端热门框架源码](https://appx496fyc38425.h5.xiaoeknow.com/v1/goods/goods_detail/p_629387e7e4b0cedf38b84f3)
+72 完结  [大圣前端源码漫游记|手写前端热门框架源码](https://appx496fyc38425.h5.xiaoeknow.com/v1/goods/goods_detail/p_629387e7e4b0cedf38b84f3)
 
 73 完结 [百战程序员WEB大前端工程师2022](https://www.itbaizhan.com/course/web)
 
@@ -157,17 +157,17 @@
 
 76 更新 [前端架构师-大厂直通车](https://appwhrkrsz84443.h5.xiaoeknow.com/v1/goods/goods_detail/p_62b59eb6e4b0eca59c0de342)
 
-78 更新 [慕课大前端高级工程师2023](https://class.imooc.com/sale/fesenior)
+78 更新 [慕课大前端高级工程师2024](https://class.imooc.com/sale/fesenior)
 
-79 更新 [印客学院大厂前端工程师训练营](http://encodestudio.cn/#/detail?type=1)
+79 完结 [印客学院大厂前端工程师训练营](http://encodestudio.cn/#/detail?type=1)
 
-80 更新 [爪哇教育web前端大厂工程师训练营2023](http://www.zhaowaedu.com/#/) 【私信看大纲】
+80 完结 [爪哇教育web前端大厂工程师训练营2023](http://www.zhaowaedu.com/#/) 【私信看大纲】
 
 81 完结 [九剑前端30k前端架构师训练营（9月优惠拉满冲30k!）](https://www.douyin.com/user/MS4wLjABAAAAuivNiAk3PrWZCpe5ddDjnqsNq14W8d7_AECONIiNVm0)
 
 82 完结 [宁皓 2023 独立开发者全栈训练营](https://ninghao.co)
 
-83 更新 [小滴课堂全栈多端低代码平台项目大课-系统化掌握React生态体系](https://xdclass.net/videoDetailsPage?id=93)
+83 完结 [小滴课堂全栈多端低代码平台项目大课-系统化掌握React生态体系](https://xdclass.net/videoDetailsPage?id=93)
 
 ### **更多Web**
 

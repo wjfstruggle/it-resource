@@ -21,7 +21,9 @@
 
 完结 [Android 高级开发瓶颈突破系列课【扔物线 HenCoder Plus】](https://ke.qq.com/course/381952)
 
-完结 [【扔物线】Android 高级开发瓶颈突破系列课第九期最新一期](https://ke.qq.com/course/381952#term_id=100455260)
+完结 [【扔物线】Android 高级开发瓶颈突破系列课第九期最新一期](https://edu.rengwuxian.com/p/t_pc/goods_pc_detail/goods_detail/course_2IFQMWSw5RNYK9XqEobrPoSBzgE)
+
+完结 [【扔物线】Jetpack Compose：从上手到进阶再到高手](https://edu.rengwuxian.com/p/t_pc/goods_pc_detail/goods_detail/course_2Dpw6101YdL7bHFs5LFpYyzSUS6?fromH5=true&app_id=appuoykwnbg2526)
 
 完结 [移动互联网高级开发正式课【VIP课程】【码牛学院】](https://ke.qq.com/course/2024962?course_id=2024962#term_id=104592243)
 

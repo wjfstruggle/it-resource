@@ -65,7 +65,7 @@
 
 [**新媒体**](./list/newMedia.md) [**全链路**](./list/qll.md)  [**玩转电商**](./list/wzds.md)  [**UI设计**](./list/UI.md) [**源码解析**](./list/code.md)
 
-[**区块链**](./list/qukuailian.md) [**ChatGPT AI 大模型**](./list/ChatGPT.md) [**3D视觉工坊**](./list/3D.md)  [**计算机软考**](./list/ruankao.md)
+[**区块链**](./list/qukuailian.md) [**ChatGPT AI 大模型**](./list/ChatGPT.md) [**鸿蒙**](./list/HarmonyOS.md)  [**计算机软考**](./list/ruankao.md)
 
 [**友凡**](./list/youfan.md) [**CTO训练营**](./list/CTOtrain.md) [**风哥数据库**](./list/fengge.md) [**夏曹俊老师**](./list/xiajuncao.md)
 
