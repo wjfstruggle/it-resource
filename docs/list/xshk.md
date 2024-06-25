@@ -9,6 +9,46 @@
 
 ## 2024上新
 
+完结 [City Engine数字城市三维建模从入门到精通教程](https://edu.51cto.com/course/31438.html)
+
+完结无密 702 [ChatGPT入门实战课 做AI时代更具竞争力的开发者](https://coding.imooc.com/class/702.html)
+
+完结无密  Suns架构师之路分布式系列课程(SpringMybatisNettyRPC) 2024
+
+完结无密 817 [Go从入门到进阶，大厂案例全流程实践](https://coding.imooc.com/class/817.html)
+
+完结 [MySQL DBA项目实战系列【MySQL8.4最新版】](https://edu.51cto.com/topic/6274.html)
+
+完结无密 马士兵教育-阿里代码规约
+
+完结无密 2023kubernetes k8s+DevOps云原生全栈技术：基于世界1000强实战课
+
+完结无密 710 [从0到1落地微前端架构， MicroApp实战招聘网站](https://coding.imooc.com/class/710.html)
+
+完结 741 [慕课甄选-2024年Flutter零基础极速入门到进阶实战](https://coding.imooc.com/class/741.html)
+
+新课 [51ctoAGIC大语言模型精品班1/2期](https://e.51cto.com/training_1289.html)
+
+完结 [Linux下PHP多进程编程](https://edu.51cto.com/course/25614.html)
+
+完结 [物联网即时通信架构实现与实战](https://edu.51cto.com/course/26196.html)
+
+完结 [Linux C核心技术](https://edu.51cto.com/course/28903.html)
+
+完结无密 尚硅谷2024最新版FlinkCDC视频教程
+
+完结无密 761 [程序员职业跃迁技术与技巧,让你的个人利益最大化](https://coding.imooc.com/class/761.html)
+
+完结无密 818 [前端跳槽突围课：React18底层源码深入剖析](https://coding.imooc.com/class/818.html)
+
+更新 [贪心科技大模型微调实战营-算法篇](https://www.greedyai.com/ai-courses/LLM_finetuning_algorithm)
+
+更新 [【朝夕教育】鸿蒙原生应用开发从零基础到多实战](http://wechat.zhaoxiedu.net/#/video?courseId=464&courseNId&courseImg=http%3A%2F%2Fqiniu.zhaoxiedu.net%2F20231225%252Fb3ca2b45deff40018c5a26d848811316.jpg%3Fe%3D1714030560%26token%3DjNk1Y54oJ6yTQDNpTxP675bIMLjr39SDEevcW-fK%3A4UAswYQQu5VSIembpZtxbRlGcq8%3D&title=%E9%B8%BF%E8%92%99%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E4%BB%8E%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%88%B0%E5%A4%9A%E5%AE%9E%E6%88%98&subtitle&cycle=1&subscribe=13162&price=5999&originPrice)
+
+更新 [【卢菁博士的人工智能课堂】卢菁博士的人工智能体系课-基础部分](https://app4tvrkyjd6910.h5.xiaoeknow.com/v1/goods/goods_detail/p_63b59389e4b030cacb048503?type=3&product_id=p63b59389e4b030cacb048503&isLogin=false)
+
+更新 [【卢菁博士的人工智能课堂】卢菁博士的人工智能体系课-进阶部分](https://app4tvrkyjd6910.h5.xiaoeknow.com/v1/goods/goods_detail/p_63de58c9e4b07b055831fd4b?type=3&product_id=p_63de58c9e4b07b055831fd4b&isLogin=false)
+
 完结 [深度之眼【1v6】金融时间序列预测与AI量化交易的研究](https://ai.deepshare.net/p/t_pc/goods_pc_detail/goods_detail/p_65af9622e4b0bb112443ed8a?)
 
 完结 [深度之眼【1v6】通用AIGC（生成）及扩散模型多场景应用](https://ai.deepshare.net/p/t_pc/goods_pc_detail/goods_detail/p_65af94dee4b04c10a125f2c3?)

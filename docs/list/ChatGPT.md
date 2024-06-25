@@ -58,14 +58,14 @@ https://www.zhihu.com/xen/market/remix/training/1658062407640682496?utm_campaign
 
 16 完结无密 [贪心科技大模型开发应用实战营](https://www.greedyai.com/ai-courses/LLM_developing)
 
-17 更新 [贪心科技大模型微调实战营](https://www.greedyai.com/ai-courses/LLM_finetuning)
+17 完结 [贪心科技大模型微调实战营](https://www.greedyai.com/ai-courses/LLM_finetuning)
 
-18 完结 [博学谷AI大模型训练营](https://www.boxuegu.com/live/detail-10046.html)
+18 完结无密 [博学谷AI大模型训练营](https://www.boxuegu.com/live/detail-10046.html)
 
 19 完结 [数据技术讲堂大模型技术实战课](https://appze9inzwc2314.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/p_64467371e4b0cf39e6c0c026?product_id=p_64467371e4b0cf39e6c0c026)
 
-20 更新 [咕泡云课堂大模型入门+实战课程](https://ke.gupaoedu.cn/course/vip/2371)
+20 完结 [咕泡云课堂大模型入门+实战课程](https://ke.gupaoedu.cn/course/vip/2371)
 
 21 更新 [DeepBlue深兰教育 AI人工智能2024 37个大型项目 NLP CV 大模型](http://ai.aijdjy.com/ke-cheng-da-gang.html)
 
-22 预定 [贪心科技大模型微调实战营-算法篇](https://www.greedyai.com/ai-courses/LLM_finetuning_algorithm)
+22 更新 [贪心科技大模型微调实战营-算法篇](https://www.greedyai.com/ai-courses/LLM_finetuning_algorithm)

@@ -52,3 +52,5 @@
 20 完结 [马哥云原生-微服务治理大厂冲刺班高阶实战6期](https://ke.qq.com/course/340397)
 
 21 完结 [马哥云原生-微服务治理大厂冲刺班高阶实战56期](https://ke.qq.com/course/340397)
+
+22 完结 [2024马哥教育linux云计算SRE工程师就业+架构班](https://www.magedu.com/kczx/linuxyw.html)

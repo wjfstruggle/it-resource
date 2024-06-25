@@ -41,9 +41,9 @@
 
 16 完结[【九章算法】面试高频题冲刺班2021](https://www.jiuzhang.com/course/80/)超推
 
-17完结 [九章算法基础班 Python+Java 2021](https://www.jiuzhang.com/course/84)
+17 完结 [九章算法基础班 Python+Java 2021](https://www.jiuzhang.com/course/84)
 
-18 完结 [极客时间算法训练营2021版](https://u.geekbang.org/subject/algorithm3rd)
+18 完结无密 [极客时间算法训练营2021版](https://u.geekbang.org/subject/algorithm3rd)
 
 19 完结 [极客时间覃超的算法训练营第26期](https://u.geekbang.org/subject/algorithm)全新升级
 
@@ -61,19 +61,21 @@
 
 25 完结 [领新C++数据结构及进阶算法/CSPIP](https://study.163.com/course/introduction.htm?courseId=1211257801)
 
-26 完结[【马士兵】数据结构与算法大师课（新课上新）](https://m.mashibing.com/subject/21)
+26 完结无密[【马士兵】数据结构与算法大师课（新课上新）](https://m.mashibing.com/subject/21)
 
-27 完结[【慕课】算法与数据结构高手养成-求职提升特训课](https://coding.imooc.com/class/ds/589)
+27 完结无密[【慕课】算法与数据结构高手养成-求职提升特训课](https://coding.imooc.com/class/ds/589)
 
-28 完结 [【课程 A】老汤 67 小时精讲：数据结构与算法](https://appvpmptkl94774.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/course_2K1YshFG5J3mIy2gaxP7BqQWNDJ)
+28 完结无密 [【课程 A】老汤 67 小时精讲：数据结构与算法](https://appvpmptkl94774.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/course_2K1YshFG5J3mIy2gaxP7BqQWNDJ)
 
-29 完结 [【课程 B】30天算法面试训练营](https://appvpmptkl94774.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/course_2JzRlhBN0E34F13HO2Ap2fQGMc8)
+29 完结无密 [【课程 B】30天算法面试训练营](https://appvpmptkl94774.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/course_2JzRlhBN0E34F13HO2Ap2fQGMc8)
 
-30 完结 [【课程 C】程序员基础内功系列课](https://appvpmptkl94774.pc.xiaoe-tech.com/page/3790237?navIndex=1)
+30 完结无密 [【课程 C】程序员基础内功系列课](https://appvpmptkl94774.pc.xiaoe-tech.com/page/3790237?navIndex=1)
 
 31 完结 [博学谷玩转数据结构与算法](https://www.boxuegu.com/course/detail-5601.html)
 
-32 更新 [小滴课堂手撕大厂算法-算法刷题大课训练营](https://xdclass.net/videoDetailsPage?id=97)
+32 完结 [小滴课堂手撕大厂算法-算法刷题大课训练营](https://xdclass.net/videoDetailsPage?id=97)
+
+33 完结无密 [王争的算法训练营5期](https://www.xzgedu.com/p/t_pc/goods_pc_detail/goods_detail/term_61dccf68743d7_QE7grL)
 
 # 前端算法
 

@@ -83,7 +83,7 @@
 
 35 更新 [极客时间21天职场突围特训营](https://u.geekbang.org/subject/intro/1005257)
 
-36 预约 [极客时间马哥运维训进阶训练营](https://u.geekbang.org/subject/intro/1001198)
+36 完结 [极客时间马哥运维训进阶训练营](https://u.geekbang.org/subject/intro/1001198)
 
 37 预约 [极客时间大数据项目实战营](https://time.geekbang.org/activity/promo?page_name=page_526)
 

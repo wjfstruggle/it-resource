@@ -22,3 +22,5 @@
 06  完结 [套餐-Flutter零基础女装商城实战](https://ke.qq.com/course/package/18833)
 
 07 完结 [基于 Flutter 3.x 仿抖音跨平台混合开发](https://coding.imooc.com/class/583.html)
+
+完结 741 [慕课甄选-2024年Flutter零基础极速入门到进阶实战](https://coding.imooc.com/class/741.html)

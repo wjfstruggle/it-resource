@@ -69,6 +69,8 @@ https://www.apecome.com/wechat/course/details/series?goods_sn=XL100096&course_mo
 
 完结 [【猿来教育】网络安全渗透工程师大神班（渗透测试+攻防原理](https://www.apecome.com/wechat/course/details/series?goods_sn=XL100251&course_mode=1&uname=undefined)
 
+完结 [【新】Linux C/C++高级全栈开发（后端/游戏/嵌入式/高性能网络/存储/基础架构）](https://it.0voice.com/p/t_pc/goods_pc_detail/goods_detail/course_2V186ret8a8toC8AeT6UWPDL7J8)
+
 ### 实战课
 
 完结 386 [Linux核心技能与应用](https://coding.imooc.com/class/386.html)

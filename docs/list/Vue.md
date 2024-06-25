@@ -75,6 +75,12 @@
 
 完结 [珠峰前端Vue3.0实战训练营](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_5f54f2c2e4b0c55103747aeb)
 
+完结 [慕课SpringBoot3+Vue3 开发高并发秒杀抢购系统](https://coding.imooc.com/class/677.html)
+
+完结 667 [Vue3+NestJS 全栈开发企业级管理后台](https://coding.imooc.com/class/667.html)
+
+完结 677 [慕课SpringBoot3+Vue3 开发高并发秒杀抢购系统](https://coding.imooc.com/class/677.html)
+
 ### 好评首推
 
 完结 [Vue与React高级框架开发](https://class.imooc.com/sc/?plan_id=59)

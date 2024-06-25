@@ -47,11 +47,13 @@
 
 23 完结 [MySQL教程（第六月）：MySQL高可用复制与分布式集群](https://edu.51cto.com/topic/1622.html)
 
-24完结 [MySQL服务攻防实战](https://edu.51cto.com/course/24957.html)
+24 完结 [MySQL服务攻防实战](https://edu.51cto.com/course/24957.html)
 
 25 完结 [数据库架构师-风哥门徒【数据库,大数据,分布式,国产,容器】](https://edu.51cto.com/topic/5638.html)
 
 26 更新 [慕课网DBA数据库工程师](https://class.imooc.com/sale/dba)
+
+27 完结 [MySQL DBA项目实战系列【MySQL8.4最新版】](https://edu.51cto.com/topic/6274.html)
 
 ##### 云贝教育数据库全套start
 

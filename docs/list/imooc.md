@@ -91,7 +91,7 @@
 
 36 预定 [Java版数据结构和算法+AI算法和技能](https://class.imooc.com/sale/fullstackalgo)
 
-37 预定 [手写x64多核，实战Linux内核，吃透OS本质（二期）](https://class.imooc.com/sale/oslinux)
+37 更新 [手写x64多核，实战Linux内核，吃透OS本质（二期）](https://class.imooc.com/sale/oslinux)
 
 38 预定 [物联网/嵌入式底层工程师](https://class.imooc.com/sale/iotbottom)
 
@@ -129,15 +129,23 @@
 
 完结 822 [AI Agent智能应用从0到1定制开发](https://coding.imooc.com/class/822.html)
 
+完结 818 [前端跳槽突围课：React18底层源码深入剖析](https://coding.imooc.com/class/818.html)
+
 完结 808 [C++从0实现百万并发Reactor服务器](https://coding.imooc.com/class/808.html)
 
 完结 764 [2024全新版 操作系统入门与实践-参透技术本质](https://coding.imooc.com/class/764.html)
 
 完结 737 [AI人人必修-提示词工程+大模型多场景实战](https://coding.imooc.com/class/737.html)
 
+完结 761 [程序员职业跃迁技术与技巧,让你的个人利益最大化](https://coding.imooc.com/class/761.html)
+
+完结 741 [慕课甄选-2024年Flutter零基础极速入门到进阶实战](https://coding.imooc.com/class/741.html)
+
 完结 712 [系统玩转OpenGL+AI，实现各种酷炫视频特效](https://coding.imooc.com/class/712.html)
 
 完结 711 [技术大牛成长课,从0到1带你手写一个数据库系统](https://coding.imooc.com/class/711.html)
+
+完结 710 [从0到1落地微前端架构， MicroApp实战招聘网站](https://coding.imooc.com/class/710.html)
 
 完结 709 [从0到1训练自己的大模型 揭密ChatGPT背后的技能与应用](https://coding.imooc.com/class/709.html)
 
@@ -186,6 +194,8 @@
 完结 662 [国家级认证 软件评测师（软考中级）一站式通关课](https://coding.imooc.com/class/662.html)
 
 完结 661 [Web3.0热门领域NFT项目实战](https://coding.imooc.com/class/661.html)
+
+完结 659 [SpringBoot3.0 + RocketMq 构建企业级数据中台](https://coding.imooc.com/class/659.html)
 
 完结 656 [实习项目实战-SpringBoot开发双11商品服务系统](https://coding.imooc.com/class/656.html)
 

@@ -47,7 +47,7 @@
 
 [**知了传课**](./list/zhiliao.md) [**幂次学院**](./list/cmxy.md) [**深度之眼**](./list/sdzy.md) [**奈学教育**](./list/naixue.md) [**腾讯课堂**](./list/tengxun.md)
 
-[**万门好课**](./list/wanmen.md) [**顿开C/C++**](./list/DKCC++.md)  [**抖码课堂**](./list/douma.md) [**饥人谷**](./list/jirengu.md)  [**朝夕教育**](./list/zhaoxi.md)
+[**万门好课**](./list/wanmen.md) [**顿开C/C++**](./list/DKCC++.md)  [**抖码课堂**](./list/douma.md) [**饥人谷**](./list/jirengu.md) 
 
 [**千锋教育**](./list/qfjy.md)  [**小象学院**](./list/xxketang.md) [**51CTO**](./list/51CTO.md) [**七月在线**](./list/qiyue.md) [**谷粒学院**](http://www.gulixueyuan.com/) 
 
@@ -69,6 +69,6 @@
 
 [**友凡**](./list/youfan.md) [**CTO训练营**](./list/CTOtrain.md) [**风哥数据库**](./list/fengge.md) [**夏曹俊老师**](./list/xiajuncao.md)
 
-![](https://www.itpromise.cloud/cover.png)
+
 
 <a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2022090061号-1</a>

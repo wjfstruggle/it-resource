@@ -109,13 +109,17 @@
 
 50 完结 [唐宇迪人工智能深度学习系统班（第八期）](https://ke.gupaoedu.cn/course/vip/2149)
 
-51 更新 [1V6直通论文指导小班（NLP方向）](https://ke.gupaoedu.cn/course/vip/2179)
+51 完结 [1V6直通论文指导小班（NLP方向）](https://ke.gupaoedu.cn/course/vip/2179)
 
-52 更新 [1V6直通论文指导小班（目标检测方向）](https://ke.gupaoedu.cn/course/vip/2213)
+52 完结 [1V6直通论文指导小班（目标检测方向）](https://ke.gupaoedu.cn/course/vip/2213)
 
 53 完结[【学堂在线】预订驭风计划NLP方向-清华阵容](https://www.xuetangx.com/program/XT08092021063083?channel=i.area.home_course_ad)
 
 54 更新 [咕泡唐宇迪人工智能深度学习系统班2023第九期V9.0](https://ke.gupaoedu.cn/course/vip/2508)
+
+55 更新 [【卢菁博士的人工智能课堂】卢菁博士的人工智能体系课-基础部分](https://app4tvrkyjd6910.h5.xiaoeknow.com/v1/goods/goods_detail/p_63b59389e4b030cacb048503?type=3&product_id=p63b59389e4b030cacb048503&isLogin=false)
+
+56 更新 [【卢菁博士的人工智能课堂】卢菁博士的人工智能体系课-进阶部分](https://app4tvrkyjd6910.h5.xiaoeknow.com/v1/goods/goods_detail/p_63de58c9e4b07b055831fd4b?type=3&product_id=p_63de58c9e4b07b055831fd4b&isLogin=false)
 
 ## 更多推荐
 

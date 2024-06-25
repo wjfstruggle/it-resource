@@ -60,6 +60,18 @@
 
 完结 [珠峰前端珠峰React18全家桶系统课](https://appf96umjwe7950.h5.xiaoeknow.com/v1/goods/goods_detail/p_637465b8e4b0276efeb1d061)
 
+完结无密 643 [React18+TS+NestJS+GraphQL 全栈开发在线教育平台](https://coding.imooc.com/class/643.html)
+
+完结无密 644 [React18+TS 通用后台管理系统解决方案落地实战](https://coding.imooc.com/class/644.html)
+
+完结 650 [React18内核探秘：手写React高质量源码迈向高阶开发](https://coding.imooc.com/class/650.html)
+
+完结 690 [2023 React 18 系统入门 进阶实战《欢乐购》](https://coding.imooc.com/class/690.html)
+
+完结无密 818 [前端跳槽突围课：React18底层源码深入剖析](https://coding.imooc.com/class/818.html)
+
+完结 [小滴课堂全栈多端低代码平台项目大课-系统化掌握React生态体系](https://xdclass.net/videoDetailsPage?id=93)
+
 ## **更多热门**
 
 完结 [ReactNative+TypeScript仿喜马拉雅开发App](https://coding.imooc.com/class/435.html)
