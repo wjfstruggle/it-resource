@@ -1014,7 +1014,15 @@
 
 12 完结 [IPv6基础技术原理](https://edu.51cto.com/course/32282.html)
 
-13 更新 [卢菁北大博士ChatGLM大模型实战训练营-从芯片基础到大模型构建](https://edu.51cto.com/course/34244.html)
+13 完结 [卢菁北大博士ChatGLM大模型实战训练营-从芯片基础到大模型构建](https://edu.51cto.com/course/34244.html)
+
+14 完结 [【51CTO】基于WebRTC的大型分布式实时音视频XRTC系统项目实战-str2num讲师（上新）](https://edu.51cto.com/topic/5976.html)
+
+15 完结 [Linux C核心技术](https://medu.51cto.com/course/index/view?id=28903)
+
+16 完结 [物联网即时通信架构实现与实战](https://edu.51cto.com/course/26196.html)
+
+17 完结 [Linux下PHP多进程编程](https://edu.51cto.com/course/25614.html)
 
 ## 高俊峰
 

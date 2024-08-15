@@ -51,7 +51,7 @@
 
 25 完结 [数据库架构师-风哥门徒【数据库,大数据,分布式,国产,容器】](https://edu.51cto.com/topic/5638.html)
 
-26 更新 [慕课网DBA数据库工程师](https://class.imooc.com/sale/dba)
+26 完结 [慕课网DBA数据库工程师](https://class.imooc.com/sale/dba)
 
 27 完结 [MySQL DBA项目实战系列【MySQL8.4最新版】](https://edu.51cto.com/topic/6274.html)
 

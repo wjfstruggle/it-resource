@@ -1,11 +1,15 @@
 # 热门推荐
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：L20230109520
 :::
 
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**更新记录**](./gxjl-2024.md) 💖 [**会员中心**](./vip.md)
 ## Web
+
+更新 [印客学院web前端大厂工程师训练营2024最新](https://appaxba0jjt2374.h5.xiaoeknow.com/v1/goods/goods_detail/p_6533d864e4b064a83748221c?type=3&channel_id=)
+
+更新 [慕课大前端高级工程师2024](https://class.imooc.com/sale/fesenior)
 
 完结 渡一教育Web前端高薪工程师2023
 
@@ -13,25 +17,7 @@
 
 完结 [极客前端进阶特训营winter、杨村长、然叔、高少云](https://u.geekbang.org/subject/fe4th)
 
-完结 [拉勾大前端高薪训练（P7）营](https://kaiwu.lagou.com/fe_enhancement.html)
-
-完结 [珠峰前端架构师培养计划16版](http://www.zhufengpeixun.cn/main/course/index.html)
-
-完结 [宁皓独立开发者训练营2023版](https://ninghao.co/)
-
-完结 [开课吧web架构师实战特训远航班](https://www.kaikeba.com/course/vip/426)
-
-完结 [金渡Web前端高级进阶VIP班对标腾讯T6](https://ke.qq.com/course/461341)
-
-完结 [极客时间杨文坚的前端实战训练营](https://u.geekbang.org/subject/fe3rd)
-
-完结 [【JS++】WEB前端高级工程师养成计划『全修精英特训』2023](https://ke.qq.com/course/334138)
-
-完结 [前端早早聊2020+2021+2022+2023](https://www.zaozao.run/course)
-
-完结 [【严选课程】web前端全栈高薪就业课-大神coderwhy出品](https://ke.qq.com/course/4903388#term_id=105074578)
-
-
+完结 [小滴课堂全栈多端低代码平台项目大课-系统化掌握React生态体系](https://xdclass.net/videoDetailsPage?id=93)
 
 ## Java
 
@@ -39,15 +25,9 @@
 
 完结 [极客时间Java实战特训营 - 郑天民](https://u.geekbang.org/subject/java5th)
 
-更新 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
+完结 [小滴课堂全栈-小滴独孤求败-小滴云架构大课十八式](https://xdclass.net/videoDetailsPage?id=85)
 
-更新 [图灵JAVA互联网架构师 6 期](https://vip.tulingxueyuan.cn/detail/p_63b51bd0e4b07b05582beaa4/8?product_id=p_63b51bd0e4b07b05582beaa4)
-
-完结 [拉勾java工程师高薪训练营11期](https://kaiwu.lagou.com/java_architect.html)
-
-完结 [黑马博学谷狂野架构师](https://www.boxuegu.com/subject/architect-01.html) 
-
-完结 [尼恩java硬核架构班](http://invalid.uri/)
+完结 [图灵JAVA互联网架构师 6 期](https://vip.tulingxueyuan.cn/detail/p_63b51bd0e4b07b05582beaa4/8?product_id=p_63b51bd0e4b07b05582beaa4)
 
 完结 [小滴工业级PaaS云平台+SpringCloudAlibaba 综合项目实战](https://xdclass.net/videoDetailsPage?id=62)
 
@@ -55,13 +35,13 @@
 
 ## Go开发运维
 
-更新 [极客时间邓明初级go工程师训练营](https://u.geekbang.org/subject/go3rd)
+完结 [极客时间邓明初级go工程师训练营](https://u.geekbang.org/subject/go3rd)
 
 完结 [极客时间邓明Go实战训练营](https://u.geekbang.org/subject/go2nd)
 
 完结 [【34周】慕课Go开发工程师全新版](https://class.imooc.com/sale/newgo)
 
-完结 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发8期](https://ke.qq.com/course/406096)
+完结 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发12期](https://ke.qq.com/course/406096)
 
 完结 [马哥云原生-微服务治理大厂冲刺班高阶实战](https://ke.qq.com/course/340397)
 
@@ -113,6 +93,8 @@
 
 ## python
 
+完结 [【体系课】Python Web全栈工程师](https://class.imooc.com/sale/pythonweb)
+
 完结 [Python全能工程师2022版](https://class.imooc.com/sale/python2021)
 
 完结 [【百战程序员】Python全栈工程师](http://www.itbaizhan.cn/course/python)
@@ -123,6 +105,10 @@
 
 ## 测试
 
+完结 [霍格沃兹测试开发学社人工智能测试开发训练营](https://video.vip.ceshiren.com/p/t_pc/goods_pc_detail/goods_detail/p_64c37968e4b0d1e42e87c44e?fromH5=true&type=3&l_program=xe_know_pc)
+
+完结 [霍格沃兹测试开发学社Python测试开发进阶线上班28期](https://video.vip.ceshiren.com/p/t_pc/goods_pc_detail/goods_detail/p_64f83b68e4b064a82f08f9b1?fromH5=true&type=3)
+
 完结 [拉勾测试开发工程师名企直推营](https://kaiwu.lagou.com/test_engineer.html)
 
 完结 [软件测试之java全栈自动化测试【柠檬班】第26期](https://ke.qq.com/course/package/32180)
@@ -131,17 +117,19 @@
 
 ## C++
 
+完结 [慕课网C++中高级工程师](https://class.imooc.com/sale/cprogramqtqt)
+
 完结 [易道云C语言/C++零基础到大神全栈(后台开发/QT/Linux/实战项目/游戏)](https://ke.qq.com/course/450953)
 
 完结 [顿开C++高级工程师](https://ke.qq.com/course/package/47576)
 
 完结 [C/C++/MySQL/Redis/操作系统/八股文/Leetcode/剑指Offer面试攻略)](https://ke.qq.com/course/5478818)
 
-更新 [王道C++长期班线下43期](http://www.cskaoyan.com/thread-664595-1-1.html)
+完结 [王道C++长期班线下43期](http://www.cskaoyan.com/thread-664595-1-1.html)
 
 完结 [C/C++Linux服务器开发/高级架构师【零声教育】](https://ke.qq.com/course/420945#term_id=103261594)
 
-## AI
+## AI 大模型
 
 完结 [极客时间AI 大模型应用开发实战营](https://u.geekbang.org/subject/llm) 超推荐
 
@@ -155,14 +143,14 @@
 
 完结 [贪心科技大模型开发应用实战营](https://www.greedyai.com/ai-courses/LLM_developing)
 
-更新 [贪心科技大模型微调实战营](https://www.greedyai.com/ai-courses/LLM_finetuning)
+完结 [贪心科技大模型微调实战营](https://www.greedyai.com/ai-courses/LLM_finetuning)
 
 ## 人工智能
 
-更新 [咕泡云课堂唐宇迪人工智能深度学习系统班（第八期）](https://ke.gupaoedu.cn/course/vip/2149)
+完结 [咕泡云课堂唐宇迪人工智能深度学习系统班（第八期）](https://ke.gupaoedu.cn/course/vip/2149)
 
-更新 [卢菁人工智能NLP系统班](https://ke.gupaoedu.cn/course/vip/1973)
-
-完结 [咕泡云课堂人工智能深度学习高薪就业班 07 期](https://ke.gupaoedu.cn/course/vip/1944)
+完结 [卢菁人工智能NLP系统班](https://ke.gupaoedu.cn/course/vip/1973)
 
 完结 [百战程序员AI算法工程师](https://www.itbaizhan.com/stages/id/31)
+
+更新 [慕课网AI人工智能算法工程师](https://class.imooc.com/sale/aialgorithm)

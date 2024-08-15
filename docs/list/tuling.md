@@ -4,59 +4,23 @@
 
 ::: tip
 
-图灵VIP，所有课程免费学
-
-JAVA架构口碑连续3年NO1，比某马强很多
-
-已有：100+个课，已连续更新：4年
-
 联系方式：微信：L20230109520
 
 :::
 
 ### 欢迎加入学习啦！
 
-------
 
-![null](http://leaaiv.cn/media/202207//1656953259.2687356.png)
-
-### 最新课程
-
-01 完结 [从零开始开发亿级流量小红书项目实战](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_641ae80be4b0f2aa7dd07402)
-
-02 完结 [图灵AI&ChatGPT实战训练营](https://appgpn9idwb6991.h5.xiaoeknow.com/v1/goods/goods_detail/p_6423fc52e4b0b0bc2bcf0677?fromH5=true)
 
 ### 架构训练营
 
-01 完结 [享学Java互联网架构师1期](https://ke.qq.com/course/287404)
+01 完结 [图灵JAVA互联网架构师 6 期](https://vip.tulingxueyuan.cn/detail/p_63b51bd0e4b07b05582beaa4/8?product_id=p_63b51bd0e4b07b05582beaa4)
 
-02 完结 [享学Java互联网架构师2期](https://ke.qq.com/course/287404)
+02 完结 [图灵云原生与大厂项目架构课](https://ke.qq.com/course/3855334)
 
-03 完结 [享学Java互联网架构师3期](https://ke.qq.com/course/287404)
+03 完结 [【图灵课堂】Go编程挺进大厂实战营](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_62a6f065e4b0d4f489aa1325)
 
-04 完结 [鲁班Java架构师 1 期](https://ke.qq.com/course/323635)
-
-05 完结 [鲁班Java架构师 2 期](https://ke.qq.com/course/323635)
-
-06 完结 [鲁班Java架构师 3 期](https://ke.qq.com/course/323635)
-
-07 完结 [图灵JAVA互联网架构师 1 期](https://vip.tulingxueyuan.cn/detail/p_6006cc89e4b00ff4ed156351/8)
-
-08 完结 [图灵JAVA互联网架构师 2 期](https://vip.tulingxueyuan.cn/detail/p_6006cc89e4b00ff4ed156351/8)
-
-09 完结 [图灵JAVA互联网架构师 3 期](https://vip.tulingxueyuan.cn/detail/p_6006cc5ce4b0ab9a254a547b/8)
-
-10 完结 [图灵JAVA互联网架构师 4 期](https://vip.tulingxueyuan.cn/detail/p_6006cac4e4b00ff4ed156218/8)
-
-11 完结 [图灵JAVA互联网架构师 5 期](https://vip.tulingxueyuan.cn/detail/p_612b55ede4b0e1ddfcf25576/8)
-
-12 完结 [图灵JAVA互联网架构师 6 期](https://vip.tulingxueyuan.cn/detail/p_63b51bd0e4b07b05582beaa4/8?product_id=p_63b51bd0e4b07b05582beaa4)
-
-13 完结 [图灵云原生与大厂项目架构课](https://ke.qq.com/course/3855334)
-
-14 完结 [【图灵课堂】Go编程挺进大厂实战营](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_62a6f065e4b0d4f489aa1325)
-
-15 更新 [图灵课堂VIP课程第七期](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_659ce45be4b064a87c2f9bd0?product_id=p_659ce45be4b064a87c2f9bd0)
+04 更新 [图灵课堂VIP课程第七期](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_659ce45be4b064a87c2f9bd0?product_id=p_659ce45be4b064a87c2f9bd0)
 
 ### 体系课
 
@@ -87,6 +51,10 @@ JAVA架构口碑连续3年NO1，比某马强很多
 13 完结 [【图灵课堂】JAVA分布式12306售票系统分析与实战](https://vip.tulingxueyuan.cn/detail/p_62bc34dce4b00a4f371fef40/6)
 
 14 完结 [【图灵课堂】图灵Python全套实战项目班](https://appssry6rs71641.h5.xiaoeknow.com/v1/goods/goods_detail/p_628ef20ee4b0cedf38b6e660?product_id=p_628ef20ee4b0cedf38b6e660)
+
+15 完结 [从零开始开发亿级流量小红书项目实战](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_641ae80be4b0f2aa7dd07402)
+
+16 完结 [图灵AI&ChatGPT实战训练营](https://appgpn9idwb6991.h5.xiaoeknow.com/v1/goods/goods_detail/p_6423fc52e4b0b0bc2bcf0677?fromH5=true)
 
 ### 面试突击课
 

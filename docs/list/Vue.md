@@ -3,7 +3,7 @@
 #### [**课程首页**](../../README.md) 💖 [**新上好课**](./xshk.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：L20230109520
 
 全网课程都有，欢迎私聊
 
@@ -80,6 +80,10 @@
 完结 667 [Vue3+NestJS 全栈开发企业级管理后台](https://coding.imooc.com/class/667.html)
 
 完结 677 [慕课SpringBoot3+Vue3 开发高并发秒杀抢购系统](https://coding.imooc.com/class/677.html)
+
+完结 814 [Springboot3+Vue3实现副业（创业）智能语音项目开发](https://coding.imooc.com/class/814.html?mc_marking=bb86c9071ed9b7cf12612a2a85203372&mc_channel=hk)
+
+更新 【coderwhy】前端面试八股文第一阶段课程
 
 ### 好评首推
 

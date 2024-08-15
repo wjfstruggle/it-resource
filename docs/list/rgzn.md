@@ -49,49 +49,9 @@
 
 20 完结 [百战程序员人工智能-算法工程师体系课2021](http://www.itbaizhan.cn/course/ai)
 
-21 完结 [【九章算法】人工智能集训营2021](https://www.jiuzhang.com/course/20/)超推会员非免费
-
 22 完结 [完成你的第一个智能机器人](https://www.kaikeba.com/course/vip/145)
 
 23 完结 开课吧自动驾驶算法工程师2021
-
-24 完结 [完成你的第一个智能无人机](https://mkt.kaikeba.com/vipcourse/wrj)
-
-25 完结 [咕泡P5:人工智能CV+NLP技术（项目实战课）](https://ke.gupaoedu.cn/course/vip/294)
-
-26 完结 [唐宇迪人工智能经典项目实战(面试必备)](https://study.163.com/course/introduction.htm?courseId=1209598972)
-
-27 完结 [咕泡人工智能深度学习高薪就业班 06 期](https://ke.gupaoedu.cn/course/vip/294)
-
-28 完结 [咕泡人工智能机器学习（高薪就业班）](https://ke.gupaoedu.cn/course/vip/1007)
-
-29 完结 [咕泡人工智能内部培训课程](https://ke.gupaoedu.cn/course/vip/1128)
-
-30 完结 [咕泡 【人工智能专题课】MMLAB实战系列](https://ke.gupaoedu.cn/course/vip/1824)
-
-31完结 [咕泡【人工智能专题课】图像分割实战系列](https://ke.gupaoedu.cn/course/vip/1825)
-
-32 完结 [咕泡计算机视觉算法及其项目实战](https://ke.gupaoedu.cn/course/vip/1826)
-
-33 完结 [咕泡深度学习人工智能](https://ke.gupaoedu.cn/course/vip/1831)
-
-34 完结 [咕泡人工智能科研论文精研课](https://ke.gupaoedu.cn/course/vip/1839)
-
-35 完结 [咕泡人工智能经典实战项目实操课](https://ke.gupaoedu.cn/course/vip/1840)
-
-36 完结 [咕泡人工智能NLP实战优选课](https://ke.gupaoedu.cn/course/vip/1842)
-
-37 完结 [咕泡唐宇迪《自然语言处理项目实战特训班》NLP](https://ke.gupaoedu.cn/course/vip/1852)
-
-38 完结 [咕泡深度学习计算机视觉算法课（企业级））](https://ke.gupaoedu.cn/course/vip/1859)
-
-39完结 [咕泡⾛向AI论⽂实验与项⽬实战的捷径-MMLAB实战系列](https://ke.gupaoedu.cn/course/vip/1863)
-
-40 完结 [黑马博学谷【年度钻石会员】 智能机器人软件开发](https://www.boxuegu.com/class/detail-3742.html)
-
-41 完结 [黑马博学谷2540 【年度钻石会员】人工智能AI进阶](https://www.boxuegu.com/class/detail-2540.html)
-
-42 完结 [黑马博学谷人工智能就业课（尊享无忧）](https://www.boxuegu.com/class/outline-4520.html)
 
 43 完结 [学堂在线机器学习训练营8期](https://www.xuetangx.com/training/ML080910036802/1048372)
 
@@ -100,8 +60,6 @@
 45 完结 [学堂在线取风计划](https://www.xuetangx.com/program/XT0809202106306)
 
 46 完结无密 [七月在线-深度学习集训营第三期|2022年|价值4999元|重磅首发|完结无密](http://www.julyedu.com/weekend/dl3)
-
-47 完结 [唐宇迪人工智能深度学习系统班V7.1](https://ke.gupaoedu.cn/course/vip/1944)
 
 48 完结 [七月在线CV就业小班6期](https://www.julyedu.com/Employment/gjob6)
 
@@ -115,7 +73,7 @@
 
 53 完结[【学堂在线】预订驭风计划NLP方向-清华阵容](https://www.xuetangx.com/program/XT08092021063083?channel=i.area.home_course_ad)
 
-54 更新 [咕泡唐宇迪人工智能深度学习系统班2023第九期V9.0](https://ke.gupaoedu.cn/course/vip/2508)
+54 完结 [咕泡唐宇迪人工智能深度学习系统班2024第九期V9.0](https://ke.gupaoedu.cn/course/vip/2508)
 
 55 更新 [【卢菁博士的人工智能课堂】卢菁博士的人工智能体系课-基础部分](https://app4tvrkyjd6910.h5.xiaoeknow.com/v1/goods/goods_detail/p_63b59389e4b030cacb048503?type=3&product_id=p63b59389e4b030cacb048503&isLogin=false)
 

@@ -3,7 +3,7 @@
 #### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2024.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：L20230109520
 
 ### 大课
 
@@ -120,6 +120,12 @@
 51 预定 [极客时间软考高级信息项目管理师](https://u.geekbang.org/subject/software-exam-high?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web)
 
 52 完结 [极客时间软考高级系统架构设计师](https://u.geekbang.org/subject/software-exam-arch?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web)
+
+53 新课 [极客时间企业级Agents开发实战营](https://u.geekbang.org/subject/agents?utm_source=undefined&utm_medium=menu&utm_term=timewebmenu_h5&gk_cus_user_wechat=university)
+
+54 更新 [极客时间AIGC应用训练营](https://u.geekbang.org/subject/aigc)
+
+55 预定 [极客时间AIOps训练营](https://u.geekbang.org/subject/cloudnativeai?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web&gk_cus_user_wechat=university)
 
 ## 2、集训班
 

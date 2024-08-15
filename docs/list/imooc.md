@@ -3,7 +3,7 @@
 #### [**课程首页**](../../README.md) 💖 [**更新记录**](./gxjl-2024.md) 💖 [**热门推荐**](./rmtj.md) 💖 [**会员中心**](./vip.md)
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：L20230109520
 
 全网课程都有，欢迎私聊
 
@@ -81,7 +81,7 @@
 
 31 更新 [慕课大前端高级工程师2024](https://class.imooc.com/sale/fesenior)
 
-32 更新 [慕课网DBA数据库工程师](https://class.imooc.com/sale/dba)
+32 完结 [慕课网DBA数据库工程师](https://class.imooc.com/sale/dba)
 
 33 完结 [LLM大语言模型算法特训带你转型AI大语言模型算法工程师](https://class.imooc.com/sale/llm)
 

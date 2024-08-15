@@ -7,7 +7,7 @@
 
 :::
 
-#### [**新上好课**](./list/xshk.md) 💖 [**更新记录**](./list/gxjl-2024.md) 💖 [**热门推荐**](./list/rmtj.md) 💖 [**会员中心**](./list/vip.md)
+#### [**新上好课**](./list/xshk.md) 💖 [**更新记录**](./list/gxjl-2024.md) 💖 [**热门推荐**](./list/rmtj.md) 
 
 ### **Java方向** <Badge type="warning" text="💯"/>
 
@@ -15,7 +15,7 @@
 
 [**儒猿技术窝**](./list/ryjsw.md)  [**数据结构算法**](./list/sjjgsf.md)  [**图灵学院**](./list/tuling.md)  [**沈剑的架构**](./list/sjjgs.md)
 
-[**马士兵-腾讯版本**](./list/mashibing.md)  [**马士兵-官网版本**](./list/mashibingGW.md)  [**秒杀专题**](./list/mszt.md)
+ [**马士兵-官网版本**](./list/mashibingGW.md)  [**秒杀专题**](./list/mszt.md)
 
 ### **前端方向** <Badge type="warning" text="💯"/>
 
@@ -33,23 +33,23 @@
 
 [**云原生**](./list/yunyuanssheng.md) [**路飞学城**](./list/lufei.md) [**prometheus**](./list/prometheus.md) [**李振良**](./list/lizhenlaing.md) [**Linux**](./list/Linux.md)
 
-[**老男孩**](./list/laonanhai.md) [**程序员在囧途**](./list/cxyzjt.md) [**云原生CTO**](./list/yysCTO.md) [**阅码场**](https://shop.yomocode.com/) 
+[**老男孩**](./list/laonanhai.md) [**程序员在囧途**](./list/cxyzjt.md) [**云原生CTO**](./list/yysCTO.md) 
 
 ### **全品类网校** <Badge type="warning" text="💯"/>
 
 [**拉勾教育**](./list/lagou.md) [**极客时间**](./list/jksj.md) [**开课吧**](./list/kaikeba.md) [**慕课网**](./list/imooc.md) [**小滴课堂**](./list/xdkt.md) 
 
-[**黑马博学谷**](./list/hmbxg.md) [**九章算法**](./list/jiuzhang.md) [**来offer**](./list/Loffer.md) [**网易云课堂**](./list/wangyi.md) [**尚硅谷**](./list/shangguigu.md)
+[**黑马博学谷**](./list/hmbxg.md) [**九章算法**](./list/jiuzhang.md) [**网易云课堂**](./list/wangyi.md) [**尚硅谷**](./list/shangguigu.md)
 
-[**后厂理工**](./list/hclg.md) [**咕泡**](./list/gupao.md) [**数据技术课堂**](./list/sjjskt.md)  [**百战程序员**](./list/baizhan.md)
+[**后厂理工**](./list/hclg.md) [**数据技术课堂**](./list/sjjskt.md)  [**百战程序员**](./list/baizhan.md)
 
 [**马士兵-腾讯版本**](./list/mashibing.md)   [**马士兵-官网版本**](./list/mashibingGW.md) [**路飞学城**](./list/lufei.md) 
 
-[**知了传课**](./list/zhiliao.md) [**幂次学院**](./list/cmxy.md) [**深度之眼**](./list/sdzy.md) [**奈学教育**](./list/naixue.md) [**腾讯课堂**](./list/tengxun.md)
+[**幂次学院**](./list/cmxy.md) [**深度之眼**](./list/sdzy.md) [**七月在线**](./list/qiyue.md)
 
-[**万门好课**](./list/wanmen.md) [**顿开C/C++**](./list/DKCC++.md)  [**抖码课堂**](./list/douma.md) [**饥人谷**](./list/jirengu.md) 
+[**顿开C/C++**](./list/DKCC++.md)  [**抖码课堂**](./list/douma.md) [**饥人谷**](./list/jirengu.md) 
 
-[**千锋教育**](./list/qfjy.md)  [**小象学院**](./list/xxketang.md) [**51CTO**](./list/51CTO.md) [**七月在线**](./list/qiyue.md) [**谷粒学院**](http://www.gulixueyuan.com/) 
+[**千锋教育**](./list/qfjy.md)  [**小象学院**](./list/xxketang.md) [**51CTO**](./list/51CTO.md)  [**谷粒学院**](http://www.gulixueyuan.com/) 
 
 [**掘金小册**](./list/juejin.md)
 

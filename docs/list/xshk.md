@@ -2,12 +2,60 @@
 
 
 ::: tip
-联系方式：微信：IT_Promise
+联系方式：微信：L20230109520
 :::
 
 #### [**课程首页**](../../README.md) 💖[**更新记录**](./gxjl-2024.md) 💖[**热门推荐**](./rmtj.md) 💖[**会员中心**](./vip.md)
 
 ## 2024上新
+
+完结 [路飞学成爬虫开发+APP逆向超级大神班](https://www.luffycity.com/employment-course/29/chapter)
+
+更新 [印客学院web前端大厂工程师训练营2024最新](https://appaxba0jjt2374.h5.xiaoeknow.com/v1/goods/goods_detail/p_6533d864e4b064a83748221c?type=3&channel_id=)
+
+完结 [极客时间大数据训练营3期](https://u.geekbang.org/subject/bigdata)
+
+新课 [极客时间企业级Agents开发实战营](https://u.geekbang.org/subject/agents?utm_source=undefined&utm_medium=menu&utm_term=timewebmenu_h5&gk_cus_user_wechat=university) 8月6号开课
+
+更新 [慕课LLM应用开发平台特训营](https://class.imooc.com/sale/llmappdev)
+
+预定 [第二期 大模型项目开发线上营 比第1期多三大项目](https://www.julyedu.com/course/getDetail/510)8月28开班
+
+完结 深度之眼 v4 人工智能 数学基础训练营
+
+完结 827 [小白算法集训营-大幅提升刷题量快速逃离新手区2024](https://coding.imooc.com/class/827.html?mc_marking=bb86c9071ed9b7cf12612a2a85203372&mc_channel=hk)
+
+完结 853 [SpringCloud+Netty集群实战千万级 IM系统](https://coding.imooc.com/class/853.html?mc_marking=bb86c9071ed9b7cf12612a2a85203372&mc_channel=hk)
+
+完结 633 [百度官方出品:代码的艺术 卓越工程师必修课](https://coding.imooc.com/class/633.html?mc_marking=bb86c9071ed9b7cf12612a2a85203372&mc_channel=hk)
+
+完结 814 [Springboot3+Vue3实现副业（创业）智能语音项目开发](https://coding.imooc.com/class/814.html?mc_marking=bb86c9071ed9b7cf12612a2a85203372&mc_channel=hk)
+
+更新 【coderwhy】前端面试八股文第一阶段课程
+
+完结 677 [SpringBoot3+Vue3 开发高并发秒杀抢购系统](https://coding.imooc.com/class/677.html)
+
+完结 856 2024 [Java 高分面试宝典 一站式搞定技术面&项目面](https://coding.imooc.com/class/856.html)
+
+完结 713 [Python Flask 全流程全栈项目实战](https://coding.imooc.com/class/713.html)
+
+更新 [图灵课堂VIP课程第七期](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_659ce45be4b064a87c2f9bd0?product_id=p_659ce45be4b064a87c2f9bd0)
+
+完结 [极客王建平软考高级系统分析师](https://u.geekbang.org/subject/software-exam-sa?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web)
+
+完结 [极客时间软考高级系统架构设计师](https://u.geekbang.org/subject/software-exam-arch?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web)
+
+新课 [慕课LLM应用开发平台特训营](https://class.imooc.com/sale/llmappdev)
+
+更新 [极客时间AIGC应用训练营](https://u.geekbang.org/subject/aigc)
+
+完结 [GIS开发特训营2303期（第1集，主要讲解html、css、js）](https://edu.smaryun.com/web/course_detail/index/id/451)
+
+完结 [GIS开发特训营2303期（第2集，主要讲解node、Vue）](https://edu.smaryun.com/web/course_detail/index/id/459)
+
+完结 [GIS开发特训营2303期（第3集，主要讲解mapgis、mapbox、Openlayer、Cesium）](https://edu.smaryun.com/web/course_detail/index/id/467)
+
+新课 [极客时间企业级Agents开发实战营](https://u.geekbang.org/subject/agents?utm_source=undefined&utm_medium=menu&utm_term=timewebmenu_h5&gk_cus_user_wechat=university)
 
 完结 [City Engine数字城市三维建模从入门到精通教程](https://edu.51cto.com/course/31438.html)
 

@@ -50,7 +50,7 @@ https://www.zhihu.com/xen/market/remix/training/1658062407640682496?utm_campaign
 
 12 更新 [七月在线 北京站：大模型项目开发线下营 附赠大模型最新面试题](https://www.julyedu.com/course/getDetail/490)
 
-13 完结 [尚硅谷AI大模型实战训练营2期](http://www.atguigu.com/ai/) 会员非免费
+13 完结 [尚硅谷AI大模型实战训练营2期](http://www.atguigu.com/ai/) 
 
 14 完结无密 [LLM大语言模型算法特训带你转型AI大语言模型算法工程师](https://class.imooc.com/sale/llm)
 
@@ -69,3 +69,15 @@ https://www.zhihu.com/xen/market/remix/training/1658062407640682496?utm_campaign
 21 更新 [DeepBlue深兰教育 AI人工智能2024 37个大型项目 NLP CV 大模型](http://ai.aijdjy.com/ke-cheng-da-gang.html)
 
 22 更新 [贪心科技大模型微调实战营-算法篇](https://www.greedyai.com/ai-courses/LLM_finetuning_algorithm)
+
+23 更新 [极客时间企业级Agents开发实战营](https://u.geekbang.org/subject/agents?utm_source=undefined&utm_medium=menu&utm_term=timewebmenu_h5&gk_cus_user_wechat=university) 8月6号开课
+
+24 更新 [极客时间AIGC应用训练营](https://u.geekbang.org/subject/aigc)
+
+25 新课 [慕课LLM应用开发平台特训营](https://class.imooc.com/sale/llmappdev)
+
+26 预定 [第二期 大模型项目开发线上营 [比第1期多三大项目]](https://www.julyedu.com/course/getDetail/510) 8月28开班
+
+27 完结 [51CTO-AIGC大模型应用实战精品班](https://e.51cto.com/training_1349.html)
+
+28 预定 [【极客时间】AIOps训练营-9.5号开课（预定优惠）](https://u.geekbang.org/subject/cloudnativeai/1007820?utm_source=u_list_web&utm_medium=u_list_web&utm_term=u_list_web)
