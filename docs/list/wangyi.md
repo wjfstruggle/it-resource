@@ -83,29 +83,7 @@
 
 39完结【无涯】[Python接口自动化测试实战](https://study.163.com/course/introduction/1006358022.htm)
 
-40完结[知了传课Python全栈开发高薪特训班](https://study.163.com/course/introduction.htm?courseId=1004504016)
-
 41完结[300集AE特效+PR剪辑+ME转码全集](https://study.163.com/course/introduction.htm?courseId=1003686020)
-
-42完结[知了传课详细讲解Django打造大型企业官网](https://study.163.com/course/introduction.htm?courseId=1005084022)
-
-43完结[知了传课Python测试与开发高薪特训班](https://study.163.com/course/introduction.htm?courseId=1209351817)
-
-44完结[小布Python零基础上手Scrapy分布爬虫](https://study.163.com/course/introduction.htm?courseId=1003729016)
-
-45完结[【无涯】Selenium3自动化测试实战](https://study.163.com/course/introduction.htm?courseId=1006463015)
-
-46完结[知了传课Vue+Django独立开发电商项目](https://study.163.com/course/introduction.htm?courseId=1209490803)
-
-47完结[【无涯】Python接口自动化测试实战教程](https://study.163.com/course/friendly404.htm?courseId=1005281043&status=-5&_trace_c_p_k2_=e872a61979dc4a70b48ef8567969998e)
-
-48完结[杨亮讲英文·通俗英语语法课](https://ke.study.163.com/course/detail/100108039)
-
-49完结[杨亮讲单词方法与实战](https://ke.study.163.com/course/detail/100108038)
-
-50完结[杨亮英语学习必备5500词](https://ke.study.163.com/course/detail/100108041)
-
-51完结[杨亮讲英文·全民英语背诵营](https://ke.study.163.com/course/detail/100108596)
 
 52完结[网易云微专业大数据开发工程师](https://mooc.study.163.com/smartSpec/detail/1202857601.htm)
 
@@ -125,4 +103,3 @@
 
 -  微信：L20230109520
 -  全网课程都有，欢迎私聊。
--   

@@ -79,6 +79,8 @@
 
 56 更新 [【卢菁博士的人工智能课堂】卢菁博士的人工智能体系课-进阶部分](https://app4tvrkyjd6910.h5.xiaoeknow.com/v1/goods/goods_detail/p_63de58c9e4b07b055831fd4b?type=3&product_id=p_63de58c9e4b07b055831fd4b&isLogin=false)
 
+57 新课 [【网易云课堂】Python人工智能全栈AI应用开发课](https://study.163.com/course/introduction/1213610807.htm?courseId=1213610807&_trace_c_p_k2_=337a73eeb7f44aa5a2aeb6c15db7c538#/learn/live?lessonId=1285354982&courseId=1213610807)
+
 ## 更多推荐
 
 [**后厂理工**](./hclg.md) [**深度之眼**](./sdzy.md) [**数据技术课堂**](./sjjskt.md) [**唐宇迪**](./tangyudi.md)

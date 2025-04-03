@@ -63,12 +63,13 @@
 
 [**测试开发**](./list/ceshi.md) [**音视频开发**](./list/yinshipng.md) [**嵌入式物联网**](./list/qianrushi.md) [**逆向课程**](./list/nixiang.md)
 
-[**新媒体**](./list/newMedia.md) [**全链路**](./list/qll.md)  [**玩转电商**](./list/wzds.md)  [**UI设计**](./list/UI.md) [**源码解析**](./list/code.md)
+[**新媒体**](./list/newMedia.md) [**全链路**](./list/qll.md)  [**玩转电商**](./list/wzds.md)   [**源码解析**](./list/code.md)
 
 [**区块链**](./list/qukuailian.md) [**ChatGPT AI 大模型**](./list/ChatGPT.md) [**鸿蒙**](./list/HarmonyOS.md)  [**计算机软考**](./list/ruankao.md)
 
-[**友凡**](./list/youfan.md) [**CTO训练营**](./list/CTOtrain.md) [**风哥数据库**](./list/fengge.md) [**夏曹俊老师**](./list/xiajuncao.md)
+ [**风哥数据库**](./list/fengge.md) [**夏曹俊老师**](./list/xiajuncao.md)
 
 
 
-<a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2022090061号-1</a>
+<a href="https://beian.miit.gov.cn/ " target="_blank">粤ICP备2022090061号-1</a>
+

@@ -61,6 +61,8 @@
 
 26 完结 [路飞学成爬虫开发+APP逆向超级大神班](https://www.luffycity.com/employment-course/29/chapter)
 
+27 完结 [路飞学成Python全栈开发（中级）V3.0版](https://www.luffycity.com/employment-course/1/detail)
+
 ## 实战
 
 01 完结 [路飞学城金融量化分析入门](https://www.luffycity.com/actual-course/7/detail)

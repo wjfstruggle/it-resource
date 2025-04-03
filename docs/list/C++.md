@@ -57,13 +57,13 @@
 
 23 完结 [王道C++长期班线下43期](http://www.cskaoyan.com/thread-664595-1-1.html)
 
-24 更新 [慕课网C++中高级工程师](https://class.imooc.com/sale/cprogramqtqt)
+24 完结 [慕课网C++中高级工程师](https://class.imooc.com/sale/cprogramqtqt)
 
-25 新课 [C++游戏后端开发（魔兽世界/MMO/TrinityCore源码拆解)](https://it.0voice.com/p/t_pc/goods_pc_detail/goods_detail/course_2UW5u5kvVOqV8eIl3AZUImeuLds)
+25 完结 [C++游戏后端开发（魔兽世界/MMO/TrinityCore源码拆解)](https://it.0voice.com/p/t_pc/goods_pc_detail/goods_detail/course_2UW5u5kvVOqV8eIl3AZUImeuLds)
 
-26 更新 [【新】Linux C/C++高级全栈开发（后端/游戏/嵌入式/高性能网络/存储/基础架构）](https://it.0voice.com/p/t_pc/goods_pc_detail/goods_detail/course_2V186ret8a8toC8AeT6UWPDL7J8)
+26 完结 [【新】Linux C/C++高级全栈开发（后端/游戏/嵌入式/高性能网络/存储/基础架构）](https://it.0voice.com/p/t_pc/goods_pc_detail/goods_detail/course_2V186ret8a8toC8AeT6UWPDL7J8)
 
-27 更新 [王道C++训练营2024线下班](https://docs.qq.com/sheet/DRHdNRExWV1h1UnFj?tab=BB08J2)
+27 完结 [王道C++训练营2024线下班](https://docs.qq.com/sheet/DRHdNRExWV1h1UnFj?tab=BB08J2)
 
 ##### 【施全磊‬套】C➕➕工程必师‬备 -- start --
 

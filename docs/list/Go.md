@@ -71,17 +71,15 @@
 
 28 完结 [【朝夕教育】Go高端全栈架构师【升职加薪，只争朝夕】(Golang/微服务/区块链)](https://ke.qq.com/course/5027527)
 
-29 完结 [极客时间邓明初级go工程师训练营0期](https://u.geekbang.org/subject/go3rd)
-
-30 完结 [从0到Go语言微服务架构师](https://edu.51cto.com/course/32246.html)
-
-31 完结 [七米Go语言微服务与云原生](https://study.163.com/course/introduction.htm?courseId=1212937804)
+29 完结 [极客时间邓明初级go工程师训练营1期](https://u.geekbang.org/subject/go3rd)
 
 32 完结 [【图灵课堂】Go编程挺进大厂实战营](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_62a6f065e4b0d4f489aa1325)
 
 33 完结 [马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发12期](https://ke.qq.com/course/406096)
 
 34 完结 [极客时间邓明Go实战训练营3期 ](https://u.geekbang.org/subject/go2nd)全新升级
+
+35 预定  [【极客时间】GO技术专家实战营-邓明老师](https://u.geekbang.org/subject/go-expert?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web)
 
 ## **专题小实战**
 
@@ -121,11 +119,11 @@
 
 完结 [Go编程33天从入门到放弃系列](https://www.luffycity.com/actual-course/69/chapter)
 
-完结 [慕课 深入Go底层原理，重写Redis中间件实战](https://coding.m.imooc.com/classindex.html?cid=576)
+完结 576 [慕课 深入Go底层原理，重写Redis中间件实战](https://coding.m.imooc.com/classindex.html?cid=576)
 
-完结 [海量数据高并发场景，构建Go+ES8企业级搜索微服务](https://coding.imooc.com/class/chapter/579.html#Anchor)
+完结 579 [海量数据高并发场景，构建Go+ES8企业级搜索微服务](https://coding.imooc.com/class/chapter/579.html#Anchor)
 
-
+完结 666 [2024全新GO工程师面试总攻略，助力快速斩获offer](https://coding.imooc.com/class/666.html)
 
 ## **更多go开发运维**
 

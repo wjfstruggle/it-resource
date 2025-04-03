@@ -47,14 +47,6 @@
 
 完结[【老男孩】Linux高级架构师：SpringCloud微服务及Kubernetes集群架构](https://ke.qq.com/course/2772849)
 
-完结 [黑马博学谷【年度钻石会员】Linux云计算+运维](https://www.boxuegu.com/class/outline-1342.html)
-
-完结 [黑马博学谷【季度铂金会员】Linux云计算+运维](https://www.boxuegu.com/class/outline-1341.html)
-
-完结 [黑马博学谷【月度黄金会员】Linux云计算+运维](https://www.boxuegu.com/class/outline-1340.html)
-
-完结 [黑马博学谷【PHP】Linux网络编程环境搭建](https://www.boxuegu.com/course/detail-554.html)
-
 完结 [创客学院Linux内核及驱动开发](http://www.makeru.com.cn/mobile/detail/7129.html)
 
 完结 [2023 老男孩Linux 云计算SRE工程师85期](https://www.oldboyedu.com/Public/lnh/kec/Linuxsre/index.html#outline)

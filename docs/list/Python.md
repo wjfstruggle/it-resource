@@ -9,28 +9,6 @@
 
 :::
 
-01 完结 [网易-微专业从零起步，用Python进阶数据分析](https://mooc.study.163.com/smartSpec/detail/1202821601.htm)
-
-02 完结 [慕课网-Python攻城狮2019](https://class.imooc.com/sale/python)
-
-03 完结 [网易-微专业五个月精通python全栈技能](https://mooc.study.163.com/smartSpec/detail/1202847601.htm)众筹
-
-04 完结 [网易-微专业从零起步，用python进阶数据分析](https://mooc.study.163.com/smartSpec/detail/1202854602.htm)
-
-05 完结 [网易-微专业电商数据分析师](https://mooc.study.163.com/smartSpec/detail/1001477003.htm)
-
-06 完结 [网易微专业-Python爬虫工程师](https://mooc.study.163.com/smartSpec/detail/1202843604.htm)
-
-07 完结 [极客Python进阶训练营](https://u.geekbang.org/subject/python/100038901)推荐
-
-08 完结 [Python爬虫工程师养成计划](https://coding.imooc.com/learningpath/route?pathId=23)
-
-09 完结 [从零开始精通Python3语法](https://coding.imooc.com/learningpath/route?pathId=22)
-
-10 完结 [Python高薪工程师精进路线](https://coding.imooc.com/learningpath/route?pathId=33)
-
-11 完结  [慕课Python全栈工程师2020](https://class.imooc.com/sale/python2020)推荐
-
 12 完结 [百战程序员Python-全栈开发工程师2021版](http://www.itbaizhan.cn/course/python)超推
 
 13 完结 [Python零基础入门动画课【全集】](https://study.163.com/course/introduction/1209570828.htm?share=1&shareId=1017665390&utm_content=courseIntro&utm_u=1017665390&utm_source=weixin)
@@ -93,9 +71,13 @@
 
 46 完结 [青灯Python爬虫开发从入门到实战](https://ke.qq.com/course/405353)	
 
-47 更新 [慕课网【体系课】Python Web全栈工程师](https://class.imooc.com/sale/pythonweb)
+47 完结 [慕课网【体系课】Python Web全栈工程师](https://class.imooc.com/sale/pythonweb)
 
-48 更新 [老男孩2023python全栈开发](https://www.oldboyedu.com/Public/lnh/kec/pyth/#toWhy5)
+48 完结 [老男孩2023python全栈开发](https://www.oldboyedu.com/Public/lnh/kec/pyth/#toWhy5)
+
+49 完结 [路飞学成Python全栈开发（中级）V3.0版](https://www.luffycity.com/employment-course/1/detail)
+
+50 新课 [【网易云课堂】Python人工智能全栈AI应用开发课](https://study.163.com/course/introduction/1213610807.htm?courseId=1213610807&_trace_c_p_k2_=337a73eeb7f44aa5a2aeb6c15db7c538#/learn/live?lessonId=1285354982&courseId=1213610807)
 
 ::: tip
 联系方式：微信：L20230109520

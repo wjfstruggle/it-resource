@@ -25,3 +25,4 @@
 
 完结 [小滴课堂手撕大厂算法-算法刷题大课训练营](https://xdclass.net/videoDetailsPage?id=97)
 
+更新 [【小滴课堂】新一代AI智能化云盘(后端大项目+LLM大模型综合实战)](https://xdclass.net/videoDetailsPage?id=105) 1月5号开课

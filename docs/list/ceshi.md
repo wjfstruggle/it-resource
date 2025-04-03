@@ -41,77 +41,13 @@
 
 15 完结[品课APP自动化测试课程](https://ke.qq.com/course/251852)
 
-16 完结[知了传课Python测试与开发高薪特训班](https://study.163.com/course/introduction.htm?courseId=1209351817)
-
-17 完结[咕泡P4:软件测试零基础入门（就业班）](https://ke.gupaoedu.cn/course/vip/1008)1 期
-
-18 完结[咕泡P4:软件测试零基础入门（就业班）](https://ke.gupaoedu.cn/course/vip/1008)2 期
-
-19 完结[知了传课Python测试与开发高薪特训班](https://study.163.com/course/introduction.htm?courseId=1209351817)
-
-20 完结 [黑马博学谷数据结构+单元测试+shell脚本](https://www.boxuegu.com/course/detail-4668.html)
-
-21 完结 [黑马博学谷软件测试高手课](https://www.boxuegu.com/course/detail-4521.html)
-
-22 完结 [黑马博学谷软件测试就业课（VIP）](https://www.boxuegu.com/class/outline-4503.html)
-
-23 完结 [黑马博学谷软件测试就业课（尊享无忧）](https://www.boxuegu.com/class/outline-4241.html)
-
-24 完结 [黑马博学谷软件测试中级进修课](https://www.boxuegu.com/course/detail-4061.html)
-
-25 完结 [黑马博学谷【月度黄金会员】软件测试V4.0](https://www.boxuegu.com/class/outline-3351.html)
-
-26 完结 [黑马博学谷【季度铂金会员】软件测试V4.0](https://www.boxuegu.com/class/outline-3350.html)
-
-27 完结 [黑马博学谷【年度钻石会员】软件测试V4.0](https://www.boxuegu.com/class/outline-3349.html)
-
-28 完结 [黑马博学谷Python3+Pytest 接口自动化测试全方案设计与开发](https://www.boxuegu.com/course/detail-3137.html)
-
-29 完结 [黑马博学谷360°职业规划-软件测试](https://www.boxuegu.com/class/outline-3043.html)
-
-30 完结 [黑马博学谷测试工具开发 共享汽车模拟器项目实战](https://www.boxuegu.com/course/detail-2627.html)
-
-31 完结 [黑马博学谷测试开发-共享汽车模拟器](https://www.boxuegu.com/course/detail-2530.html)
-
-32 完结 [黑马博学谷微信小程序测试实战](https://www.boxuegu.com/course/detail-2528.html)
-
-33 完结 [黑马博学谷白盒测试设计方法](https://www.boxuegu.com/course/detail-2513.html)
-
-34 完结 [黑马博学谷Python实现接口自动化测试](https://www.boxuegu.com/course/detail-2509.html)
-
-35 完结 [黑马博学谷iOS真机自动化测试](https://www.boxuegu.com/course/detail-2496.html)
-
-36 完结 [黑马博学谷AirTest自动化测试](https://www.boxuegu.com/course/detail-2494.html)
-
-37 完结 [黑马博学谷JMeter接口测试从入门到实战](https://www.boxuegu.com/course/detail-2316.html)
-
-38 完结 [黑马博学谷前端测试222](https://www.boxuegu.com/course/detail-2035.html)
-
-39 完结 [黑马博学谷基于Selenium实战Web UI自动化测试及框架开发](https://www.boxuegu.com/course/detail-1599.html)
-
-40 完结 [黑马博学谷crm测试就业课（勿用）](https://www.boxuegu.com/class/outline-1537.html)
-
-41 完结 [黑马博学谷接口测试从基础到进阶](https://www.boxuegu.com/course/detail-1527.html)
-
-42 完结 [黑马博学谷Python3 Appium 移动端自动化测试与框架开发](https://www.boxuegu.com/course/detail-1517.html)
-
-43 完结 [黑马博学谷LoadRunner性能测试实战](https://www.boxuegu.com/course/detail-1505.html)
-
-44 完结 [黑马博学谷Python3+Pytest 接口自动化测试方案设计与开发](https://www.boxuegu.com/course/detail-1484.html)
-
-45 完结 [黑马博学谷软件测试入门-黑马头条项目实战](https://www.boxuegu.com/course/detail-1346.html)
-
-46 完结 [黑马博学谷【年度钻石会员】软件测试](https://www.boxuegu.com/class/outline-1261.html)
-
-47 完结 [黑马博学谷软件测试在线就业班](https://www.boxuegu.com/class/outline-1114.html)
-
 48 完结 [慕课网全能软件测试工程师](https://class.imooc.com/sale/test2022)
 
 49 完结 [极客-测试开发进阶训练营](https://u.geekbang.org/subject/go2nd)
 
 50 完结无密 [柠檬班-软件测试从小白到高手全程班92期|价值7980元|重磅首发](https://ke.qq.com/course/326208#term_id=103885835)
 
-51 更新 [软件测试Java+Python双语自动化+测开+性能测试高级系统涨薪课程](https://ke.qq.com/course/317690#term_id=104092845)
+51 完结 [软件测试Java+Python双语自动化+测开+性能测试高级系统涨薪课程](https://ke.qq.com/course/317690#term_id=104092845)
 
 52 完结 [霍格沃兹软件测试 / 名企定向培养测试开发Python进阶班 第22期（22年7月完结）](https://m.ke.qq.com/course/package/41249?_bid=167&_wv=1)
 
@@ -121,7 +57,9 @@
 
 55 完结  [码同学名企定向培养JavaEE测开班20220815班](http://www.mtongxue.com/ts/9)
 
-56 更新 [霍格沃兹测试开发学社人工智能测试开发训练营](https://video.vip.ceshiren.com/p/t_pc/goods_pc_detail/goods_detail/p_64c37968e4b0d1e42e87c44e?fromH5=true&l_program=xe_know_pc&type=3)
+56 完结 [霍格沃兹测试开发学社人工智能测试开发训练营](https://video.vip.ceshiren.com/p/t_pc/goods_pc_detail/goods_detail/p_64c37968e4b0d1e42e87c44e?fromH5=true&l_program=xe_know_pc&type=3)
+
+57 完结 [霍格沃兹测试开发学社测试管理线上班-4期](https://video.vip.ceshiren.com/p/t_pc/goods_pc_detail/goods_detail/p_64dc7f37e4b09d7237a7bc2f?fromH5=true&type=3&isLogin=false)
 
 ## 实战课
 

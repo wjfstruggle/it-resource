@@ -55,6 +55,8 @@
 
 27 完结 [MySQL DBA项目实战系列【MySQL8.4最新版】](https://edu.51cto.com/topic/6274.html)
 
+28 更新 [极客时间MySQL进价训练营](https://u.geekbang.org/subject/mysql/1008017?utm_source=undefined&utm_medium=menu&utm_term=timewebmenu_h5) 10月17号开课
+
 ##### 云贝教育数据库全套start
 
 1. [云贝教育【数据库】MySQL企业级运维管理实战课程](https://www.yunbee.net/Home/Video/detail/video_id/125.html)

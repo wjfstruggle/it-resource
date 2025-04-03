@@ -79,7 +79,7 @@
 
 30 完结 [【体系课】Python Web全栈工程师](https://class.imooc.com/sale/pythonweb)
 
-31 更新 [慕课大前端高级工程师2024](https://class.imooc.com/sale/fesenior)
+31 完结 [慕课大前端高级工程师2024](https://class.imooc.com/sale/fesenior)
 
 32 完结 [慕课网DBA数据库工程师](https://class.imooc.com/sale/dba)
 
@@ -87,7 +87,7 @@
 
 34 完结 [慕课网C++中高级工程师](https://class.imooc.com/sale/cprogramqtqt)
 
-35 更新 [慕课网AI人工智能算法工程师](https://class.imooc.com/sale/aialgorithm)
+35 完结 [慕课网AI人工智能算法工程师](https://class.imooc.com/sale/aialgorithm)
 
 36 预定 [Java版数据结构和算法+AI算法和技能](https://class.imooc.com/sale/fullstackalgo)
 
@@ -96,6 +96,8 @@
 38 预定 [物联网/嵌入式底层工程师](https://class.imooc.com/sale/iotbottom)
 
 39 预定 [慕课网前端职场私教 ，1v1 定制训练营](https://class.imooc.com/sale/fejob)
+
+40 完结 [慕课LLM应用开发平台特训营](https://class.imooc.com/sale/llmappdev)
 
 ## **大实战**
 
@@ -127,7 +129,19 @@
 
 :::
 
-完结 822 [AI Agent智能应用从0到1定制开发](https://coding.imooc.com/class/822.html)
+
+
+完结 924 [DeepSeek 应用开发与商业变现实战](https://coding.imooc.com/class/924.html)
+
+完结 922 [DeepSeek+SpringAI实战AI家庭医生应用](https://coding.imooc.com/class/922.html)
+
+完结 921 [Vue3.5+Electron+大模型 跨平台AI桌面聊天应用实战](https://coding.imooc.com/class/921.html)
+
+完结 899 [Springboot+ChatGLM+DeepSeek实战AI数字人面试官](https://coding.imooc.com/class/899.html?mc_marking=bb86c9071ed9b7cf12612a2a85203372&mc_channel=hk)
+
+完结 824 [真实高质量低代码商业项目，前端/后端/运维/管理系统](https://coding.imooc.com/class/824.html)
+
+完结 822 [AI Agent智能应用从0到1定制开发【升级】](https://coding.imooc.com/class/822.html)
 
 完结 818 [前端跳槽突围课：React18底层源码深入剖析](https://coding.imooc.com/class/818.html)
 

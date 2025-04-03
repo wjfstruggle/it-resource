@@ -18,3 +18,5 @@
 04 更新 [极客时间鸿蒙Next应用开发训练营](https://u.geekbang.org/subject/harmonyos?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web&gk_cus_user_wechat=university)
 
 05 更新 [【朝夕教育】鸿蒙原生应用开发从零基础到多实战](http://wechat.zhaoxiedu.net/#/video?courseId=464&courseNId&courseImg=http%3A%2F%2Fqiniu.zhaoxiedu.net%2F20231225%252Fb3ca2b45deff40018c5a26d848811316.jpg%3Fe%3D1714030560%26token%3DjNk1Y54oJ6yTQDNpTxP675bIMLjr39SDEevcW-fK%3A4UAswYQQu5VSIembpZtxbRlGcq8%3D&title=%E9%B8%BF%E8%92%99%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E4%BB%8E%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%88%B0%E5%A4%9A%E5%AE%9E%E6%88%98&subtitle&cycle=1&subscribe=13162&price=5999&originPrice)
+
+06 新课 [博学谷”纯血”鸿蒙线上急训营6期](https://www.boxuegu.com/live/outline-10131.html)

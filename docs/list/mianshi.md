@@ -312,13 +312,11 @@
 
 完结 533 [慕课网Android面试超级攻略，攻破技术疑难及面试痛点](https://coding.imooc.com/class/533.html)
 
-
+完结 666 [2024全新GO工程师面试总攻略，助力快速斩获offer](https://coding.imooc.com/class/666.html)
 
 ::: tip
 联系方式：微信：L20230109520
 
 全网课程都有，欢迎私聊
-
- 
 
 :::

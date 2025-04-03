@@ -101,6 +101,10 @@
 
 31 预约 [Web3D图形学之Three.js系统课](https://www.html5train.com/p/t_pc/goods_pc_detail/goods_detail/p_63d8df05e4b030cacb0e6387?product_id=p_63d8df05e4b030cacb0e6387)
 
+32 完结 [珠峰2024年Nest.js体系课](https://www.javascriptpeixun.cn/p/t_pc/goods_pc_detail/goods_detail/course_2hj6UFs1DYJremQ0FKRpOIz83SF)
+
+33 [Vue 3.5 企业级管理系统实战](https://www.javascriptpeixun.cn/p/t_pc/goods_pc_detail/goods_detail/course_2lvNKHmCzUFxv8x6fff0FnaauMU)
+
 ##### 珠峰前端高级
 
 完结 [珠峰从零打造Web前端高级工程师 2022](https://ke.qq.com/course/package/23043) 2022.12月节课

@@ -27,6 +27,8 @@
 
 09 完结 [软考高级：信息系统项目管理师精品班19期](https://e.51cto.com/training_1176.html)
 
-完结 [极客王建平软考高级系统分析师 ](https://u.geekbang.org/subject/software-exam-sa?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web)
+10 完结 [极客王建平软考高级系统分析师 ](https://u.geekbang.org/subject/software-exam-sa?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web)
 
-完结 [极客时间软考高级系统架构设计师](https://u.geekbang.org/subject/software-exam-arch?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web)
+11 完结 [极客时间软考高级系统架构设计师](https://u.geekbang.org/subject/software-exam-arch?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web)
+
+12 更新 [极客时间软考高级系统分析师2025年5月](https://u.geekbang.org/subject/software-exam-sa/1006372?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web&gk_cus_user_wechat=university)

@@ -7,7 +7,103 @@
 
 #### [**课程首页**](../../README.md) 💖[**更新记录**](./gxjl-2024.md) 💖[**热门推荐**](./rmtj.md) 💖[**会员中心**](./vip.md)
 
-## 2024上新
+## 2025上新
+
+ [【极客时间】GO技术专家实战营-邓明老师](https://u.geekbang.org/subject/go-expert?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web)
+
+ [RAG全栈技术从基础到精通 ，打造高精准AI应用](https://coding.imooc.com/class/920.html)
+
+ [【朝夕教育】运动控制+人机交互【新学期】-复制链接到微信打开](http://wechat.zhaoxiedu.net/?code=021nETll2AiUaf4mOGkl2GJqSe0nETl8&state=0#/video?courseId=472&courseImg=http%3A%2F%2Fqiniu.zhaoxiedu.net%2F20241120%252F465a98a472ff46928ef911b527eddd55.jpg%3Fe%3D1741597920%26token%3DjNk1Y54oJ6yTQDNpTxP675bIMLjr39SDEevcW-fK%3APi7yFK4pY2fOr93sVZI3Xk0To_c%3D&title=%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6%2B%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92VIP-%E6%96%B0%E5%AD%A6%E6%9C%9F&subtitle)
+
+[【猿来教育】网络安全渗透工程师大神班（渗透测试+攻防原理）](https://www.apecome.com/wechat/course/details/series?goods_sn=XL100251&course_mode=1&uname=undefined)
+
+[【猿来教育】Linux云计算SRE工程师](https://www.apecome.com/wechat/course/details/series?goods_sn=XL100096&course_mode=1&uname=undefined)
+
+[【涂老师】2024嵌入式音视频开发 视频流媒体＋AI开发](
+https://www.linglv123.com/series/XL100097xxxx?uname=a51bfc8ac9e6bb72ac76f12d9a6fcc6f)
+
+[【朝夕教育】WPF+上位机+工业互联高薪VIP班(PLCS7运动控制机器视觉物联网（第3期）](http://wechat.zhaoxiedu.net/?code=081TTg0w35FLh23oVN3w3DP2451TTg0t&state=0#/video)
+
+[【路飞学城】爬虫开发+APP逆向超级大神班1-13期](https://www.luffycity.com/employment-course/29/detail)
+
+[风哥大数据运维架构师实战训练营专题2.0](https://edu.51cto.com/topic/4539.html)
+
+[【OpenCV学堂】QT5 + OpenCV4.8从入门到实战](https://mp.weixin.qq.com/s/sy2YVFWOym7b_L_CIGOFKw)
+
+[【韦东山】嵌入式Linux全新系列教程之驱动大全(基于IMX6ULL开发板)](https://m.tb.cn/h.UoN5xxq?tk=SAObdS2uyex CZ0001)
+
+[【朝夕教育】C#.NET高级进阶VIP班（第17期）](http://wechat.zhaoxiedu.net/?code=031Cdm000SHTwS1q1v300Waqhp3Cdm0A&state=0#/video?courseId=465&courseImg=http%3A%2F%2Fqiniu.zhaoxiedu.net%2F20240110%252F00a32aec1e904ae189d23cabc513ea26.jpg%3Fe%3D1721978640%26token%3DjNk1Y54oJ6yTQDNpTxP675bIMLjr39SDEevcW-fK%3AfUNksF_FaRNFSMicN89yptN2WwE%3D&title=.NET%E9%AB%98%E7%BA%A7%E7%8F%AD%E7%AC%AC17%E6%9C%9F&subtitle&cycle=17&subscribe=234211)
+
+[【马士兵】AI大模型工程师](https://www.mashibing.com/subject/167?courseNo=2641)
+
+[【极客时间】架构实战营（第7期）](https://u.geekbang.org/subject/arch2nd)
+
+[【蚁景网安】SRC漏洞挖掘实战班-复制链接微信打开](
+https://appdolgv8fb2670.h5.xiaoeknow.com/v1/goods/goods_detail/course_2gxF1vHw3DJSeYKS2K1LvK6GEnX)
+
+更新 [极客时间微服务进阶训练营](https://u.geekbang.org/subject/microservices-java/1008433?utm_source=u_list_web&utm_medium=u_list_web&utm_term=u_list_web) 1.7号开课
+
+完结 [金融量化投资](https://edu.51cto.com/course/33012.html)
+
+完结 [知乎AI 大模型全栈工程师培养计划1~9期](https://www.zhihu.com/education/training/course-detail/1733804398294380544) 【打包特惠】
+
+更新 [第二期 大模型项目开发线上营 [比第1期多三大项目]](https://www.julyedu.com/course/getDetail/510) 
+
+新课 [知乎｜知学堂 AIGC实战应用训练营](https://www.zhihu.com/education/training/sku-detail/1837871998723813376?edu_introduce_member_hash=be052805be41619c8300e739172ce18b)
+
+新课 [知乎AI解决方案专家](https://www.zhihu.com/education/training/sku-detail/1839689272132775937?edu_sku_id=1839689272132775937&education_channel_code=&utm_campaign=zhihumarket&utm_medium=social&utm_source=wechat&utm_content=messages_share)
+
+完结 [来offer 人工智能与数据科学强化课程](https://www.laioffer.com/zh/course/ai-and-data-engineering/)
+
+完结 [【图灵课堂】图灵Python全套实战项目班](https://appssry6rs71641.h5.xiaoeknow.com/v1/goods/goods_detail/p_628ef20ee4b0cedf38b6e660?product_id=p_628ef20ee4b0cedf38b6e660)
+
+新上 [【BYCW】Creator VIP 架构师进阶](https://www.bycwedu.com/course/6/bd4d6204d7637a7a)
+
+新上 [【BYCW】Unity VIP 全栈架构师进阶](https://www.bycwedu.com/course/3/70beb5b13bb046f3)
+
+新上 [【BYCW】Laya VIP 全栈架构师进阶](https://www.bycwedu.com/course/4/dd52e4bbc79a466c002340aecb0091c3)
+
+新上 [【BYCW】服务端VIP架构师进阶](https://www.bycwedu.com/course/5/1bfc0990b26a0a0b7c1332c7265265d0)
+
+新上 [【BYCW】跨引擎Ta技美Shader进阶与实战](https://www.bycwedu.com/course/53/b204d379be85412851f3863bbca6eea6)
+
+更新 [极客时间MySQL进价训练营](https://u.geekbang.org/subject/mysql/1008017?utm_source=undefined&utm_medium=menu&utm_term=timewebmenu_h5) 10月17号开课
+
+新课 [人人都必须要学会的大模型全栈课](https://ke.gupaoedu.cn/course/vip/3187)
+
+新课 [【网易云课堂】Python人工智能全栈AI应用开发课](https://study.163.com/course/introduction/1213610807.htm?courseId=1213610807&_trace_c_p_k2_=337a73eeb7f44aa5a2aeb6c15db7c538#/learn/live?lessonId=1285354982&courseId=1213610807)
+
+新课 [PostgreSQL数据库高级工程师精品班](https://e.51cto.com/training_1355.html)
+
+新课 [博学谷”纯血”鸿蒙线上急训营6期](https://www.boxuegu.com/live/outline-10131.html)
+
+完结 [GIS开发特训营2303期（第1集，主要讲解html、css、js）](https://edu.smaryun.com/web/course_detail/index/id/451)
+
+完结 [GIS开发特训营2303期（第2集，主要讲解node、Vue）](https://edu.smaryun.com/web/course_detail/index/id/459)
+
+完结 [GIS开发特训营2303期（第3集，主要讲解mapgis、mapbox、Openlayer、Cesium）](https://edu.smaryun.com/web/course_detail/index/id/467)
+
+更新 [【朝夕教育】嵌入式+移动5G+智慧物联网高阶高薪班](http://wechat.zhaoxiedu.net/?code=011ovY0w32xo833Z4z3w3x9UAc0ovY0i&state=0#/video)
+
+完结 733 [C++数据开放平台实战，手把手教你做工业级项目](https://coding.imooc.com/class/733.html)
+
+更新 [霍格沃兹测试开发学社测试管理线上班-4期](https://video.vip.ceshiren.com/p/t_pc/goods_pc_detail/goods_detail/p_64dc7f37e4b09d7237a7bc2f?fromH5=true&type=3&isLogin=false)
+
+完结 769 [新考纲-系统架构设计师（软考高级） 一站式通关课程](https://coding.imooc.com/class/769.html)
+
+完结 554 [Shell 高阶开发实战，轻松应对集群化，分布式环境](https://coding.imooc.com/class/554.html)
+
+预定 [霍格沃兹测试开发学社Java测试开发高阶班8期](https://video.vip.ceshiren.com/p/t_pc/goods_pc_detail/goods_detail/p_63bbb3b8e4b06159f72c7591?fromH5=true&isLogin=false&type=3)
+
+更新 [【CppGuide】C++ 工程实践训练营-张小方（更新到最新）](https://mp.weixin.qq.com/s/x8EGs1YbPz0D71CW90SjGQ)
+
+更新 [朝夕教育C++和QT跨平台客户端 零基础到实战](https://wechat.zhaoxiedu.net/#/courseList)
+
+完结 [新中地教育-GIS开发特训营（共3集+价值20800）](http://www.x-zd.com/)
+
+完结 [音视频QoS合集：WebRTC拥塞控制+平滑发送+丢包重传](https://edu.51cto.com/topic/6021.html)
+
+完结 【猿代码】全家桶超算/高性能计算
 
 完结 [路飞学成爬虫开发+APP逆向超级大神班](https://www.luffycity.com/employment-course/29/chapter)
 

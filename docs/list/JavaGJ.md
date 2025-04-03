@@ -7,49 +7,7 @@
 
 全网课程都有，欢迎私聊
 
- 
-
 :::
-
-01 完结 [图灵二期-Java架构师VIP精品课程](https://ke.qq.com/course/231516)
-
-02 完结 [咕泡Java架构师](https://ke.qq.com/course/188630)3期
-
-03 完结 [网易-微专业Java高级开发工程师](https://mooc.study.163.com/smartSpec/detail/1001485004.htm)2020
-
-04 完结 [慕课-Java架构师成长直通车](https://class.imooc.com/sale/javaarchitect)推荐
-
-05 完结 [慕课-从Java后端到web全栈](https://class.imooc.com/sale/javafullstack)推荐
-
-06 完结 [开课吧-JavaEE企业级分布式高级架构师第十期](https://www.kaikeba.com/vipcourse/java)
-
-07 完结 [马士兵Java高级互联网架构师（P5/P6/P7/P8/P9）](https://ke.qq.com/course/398381)超推荐
-
-08 完结 [达内在线Java高手加薪课1968期-75班](http://www.tmooc.cn/course/300394.shtml)
-
-09 完结 [极客架构师训练营](https://u.geekbang.org/subject/arch/1000388)推荐
-
-10 完结 [拉勾java高级工程师高薪训练（P7）营](https://kaiwu.lagou.com/java_architect.html)超推荐
-
-11 完结 [图灵Java架构师第三期](https://ke.qq.com/course/231516)
-
-12 完结 [享学Java互联网架构师2期](https://ke.qq.com/course/287404)
-
-13 完结 [咕泡JAVA架构师第四期](https://ke.qq.com/course/188630)推荐
-
-14 完结 [鲁班2期Java架构师](https://ke.qq.com/course/323635#term_id=100499562)
-
-15 完结 [享学2期Java架构师](https://ke.qq.com/course/287404)
-
-16 完结 [图灵Java架构师第四期](https://ke.qq.com/course/231516)推荐
-
-17 更新 [享学Java互联网架构师3期](https://ke.qq.com/course/287404)推荐
-
-18 完结 [沈剑架构师训练营](https://www.jiagoushi.tech/detail/term_5ee4b1511ac29_g5N7NL/25)
-
-19 完结 [黑马Java架构师实战训练营](https://www.boxuegu.com/course/comment-3224.html)推荐
-
-20 完结 [开课吧-JavaEE企业级分布式高级架构师第17期](https://www.kaikeba.com/vipcourse/java)
 
 21 完结 [极客Java进阶训练](https://u.geekbang.org/subject/java/1000579)
 

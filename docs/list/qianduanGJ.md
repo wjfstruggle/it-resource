@@ -69,7 +69,7 @@
 
 76 完结 [前端架构师-大厂直通车](https://appwhrkrsz84443.h5.xiaoeknow.com/v1/goods/goods_detail/p_62b59eb6e4b0eca59c0de342)
 
-78 更新 [慕课大前端高级工程师2024](https://class.imooc.com/sale/fesenior)
+78 完结 [慕课大前端高级工程师2024](https://class.imooc.com/sale/fesenior)
 
 79 完结 [印客学院大厂前端工程师训练营](http://encodestudio.cn/#/detail?type=1)
 
@@ -81,7 +81,9 @@
 
 83 完结 [小滴课堂全栈多端低代码平台项目大课-系统化掌握React生态体系](https://xdclass.net/videoDetailsPage?id=93)
 
-84 更新 [印客学院web前端大厂工程师训练营2024最新](https://appaxba0jjt2374.h5.xiaoeknow.com/v1/goods/goods_detail/p_6533d864e4b064a83748221c?type=3&channel_id=)
+84 完结 [印客学院web前端大厂工程师训练营2024最新【新增AI人工智能项目】](https://appaxba0jjt2374.h5.xiaoeknow.com/v1/goods/goods_detail/p_6533d864e4b064a83748221c?type=3&channel_id=)
+
+85 完结 [妙码学院大前端架构师训练营](https://miaomaedu.com/)
 
 ### **更多Web**
 

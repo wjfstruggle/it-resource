@@ -20,7 +20,7 @@
 
 03 完结 [【图灵课堂】Go编程挺进大厂实战营](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_62a6f065e4b0d4f489aa1325)
 
-04 更新 [图灵课堂VIP课程第七期](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_659ce45be4b064a87c2f9bd0?product_id=p_659ce45be4b064a87c2f9bd0)
+04 完结 [图灵课堂VIP课程第七期](https://vip.tulingxueyuan.cn/p/t_pc/goods_pc_detail/goods_detail/p_659ce45be4b064a87c2f9bd0?product_id=p_659ce45be4b064a87c2f9bd0)
 
 ### 体系课
 

@@ -48,6 +48,8 @@
 
 23 完结 [【深度之眼】 CV项目小班](https://h5.deepshare.net/class/detail/118)
 
+24 完结 [深度之眼推荐系统就业班](https://ai.deepshare.net/p/t_pc/goods_pc_detail/goods_detail/p_604b8e1de4b07f4194ff3e55?fromH5=true&type=3)
+
 完结 [深度之眼【1v6】金融时间序列预测与AI量化交易的研究](https://ai.deepshare.net/p/t_pc/goods_pc_detail/goods_detail/p_65af9622e4b0bb112443ed8a?)
 
 完结 [深度之眼【1v6】通用AIGC（生成）及扩散模型多场景应用](https://ai.deepshare.net/p/t_pc/goods_pc_detail/goods_detail/p_65af94dee4b04c10a125f2c3?)

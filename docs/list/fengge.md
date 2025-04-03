@@ -19,6 +19,8 @@
 
 :::
 
+00 新课 [PostgreSQL数据库高级工程师精品班](https://e.51cto.com/training_1355.html)
+
 00 推荐 [风哥Oracle云数据库高级工程师](https://e.51cto.com/training_131.html)
 
 00 推荐 [风哥MySQL数据库高级工程师](https://e.51cto.com/training_303.html)

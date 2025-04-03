@@ -117,7 +117,7 @@
 
 55 完结 [产品经理-合班课程模块-北京17期深圳12期上海9期](https://www.boxuegu.com/)
 
-
+56 完结 [极客时间IAGC产品经理训练营](https://u.geekbang.org/subject/pmai/1007806?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web&gk_cus_user_wechat=university)
 
 ::: tip
 联系方式：微信：L20230109520
